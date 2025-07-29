@@ -1,0 +1,66 @@
+
+==========================================================================================
+JAVA_en							      |	JAVA_d
+==========================================================================================
+AddUsers						      |	_ponjave_2018
+							      >	02_avoid-utility-classes
+							      >	AddUsers_V2_d
+							      >	Arraylist_test_d
+							      >	array-test
+							      >	avoid_accessors_01
+BikeRepairShop						      <
+							      >	BRISI
+collections_tests					      <
+							      >	compare_map_keys
+							      >	compiling_project
+elektrika_en						      |	elektrika_V1_d
+							      >	external_jars_test
+functional						      |	funcs_in_jar
+get-resource-files					      <
+							      >	hvar_izracun_d_V2
+							      >	import_imports
+interfaces						      <
+izracun-povrsine-za-barvanje-cevi			      <
+JAR_test						      <
+jpms-01							      <
+jvfx_registration-form					      <
+loops_and_locale_tests					      <
+							      >	maptest
+NumsTests						      |	movie_stream_rate
+padec-2							      |	multiple_classes_with_methods
+							      >	Multiplication_table
+							      >	packages_test
+							      >	Padec3
+pdtk_en							      <
+							      >	pdtk_V2_d
+							      >	pdtk_V7
+ponjave_2018						      |	print_nums_tests
+PRINTOUTS						      <
+PrintStringArray					      <
+PROJECT							      <
+PROJECT_2						      <
+properties						      <
+							      >	regex_files
+shell_command						      <
+simpleTest						      <
+single-file-execution					      <
+softlinks						      <
+sorting-arraylist-of-objects-by-field			      <
+StopMe_d						      |	strings
+StopMe_en						      <
+StringBuilderTest					      <
+STRINGS_en						      <
+test_1							      |	utility-class
+test_2_funcs						      <
+test_3_arrays-objcts					      <
+test_4_funcs						      <
+test_5_formated-o					      <
+test_6_web						      <
+test_7_packages						      <
+test_8_Lists						      <
+test_packages						      <
+testing_unittests					      <
+tests2							      <
+text_from_geegs-to-geeks				      <
+TwoDecimals_simple					      <
+user-imput						      <

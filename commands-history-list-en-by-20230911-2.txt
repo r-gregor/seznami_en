@@ -1,0 +1,1147 @@
+./Example2 "$(cygpath ${PWD}/file1.txt)"
+./Example2 "$(cygpath -u ${PWD}/file1.txt)"
+./Example2 "$(cygpath -w ${PWD}/file1.txt)"
+./Example2 $(cygpath -w ${PWD}/file1.txt)
+./Example2 /c/Users/gregor.redelonghi/majstaf/majprogs/cygwin64/home/gregor.redelonghi/Desktop/c_prog/mmap/file1.txt 
+./Example2 file1.txt ./file1.txt 
+./Example2 file1.txt /c/Users/gregor.redelonghi/majstaf/majprogs/cygwin64/home/gregor.redelonghi/Desktop/c_prog/mmap/file1.txt 
+./Example2 file2.txt 
+./a.exe > output.txt
+./a.exe > output.txt 
+./a.exe | xclip
+./addch 
+./animation 
+./attributes.exe 
+./bin/
+./c_type_sizes.exe 
+./cicrcle.exe 
+./circle.c 
+./circle.exe
+./compile_and_run.sh decode_base64
+./compile_and_run.sh sort_vector
+./compile_and_run.sh sort_vector.rs 
+./cprog
+./cprogw 
+./decode64
+./demo 
+./dominoes 
+./dominoes.exe 
+./guessing_game
+./heap.exe 
+./menu 
+./movement.exe 
+./mrenamef.sh fname fajlname fname_09.txt 
+./ncursestest 
+./ncursestest.exe 
+./noecho 
+./pcyg.exe 
+./pwin.exe 
+./rust-test-01 
+./target/debug/my_fancy_program
+./target/debug/rectangles
+./target/debug/start_tests_v01
+./target/release/MyFancyProgram
+./target/release/my_fancy_program
+./target/release/starttests
+./test6.exe 
+./type_sizes.exe 
+./venv/Scripts/python -m pip list
+.\venv\Scripts\activate
+.bash Locations.sh 
+.cargo/bin/cargo
+/bin/bash -c /bin/fish
+/c/Users/gregor.redelonghi/majstaf/majprogs/.cargo/bin/cargo --version
+DDOT=~/majstaf/en_metsys_git/en_metsys_source/en_dotfiles
+OPNU "C:\Users\gregor.redelonghi\2023\_2023_1_PROJEKTI\P462_42438_PRPO_most-cez-Krko_PZI_DOP_07-2023\nacrt"
+OPNU "H:\2023\_2023_podloge"
+\history | cut -d' ' -f6- | less
+\history | cut -d' ' -f6- | sort -nr | uniq -c > cmds_20230113.txt
+\history | cut -d' ' -f6- | sort -nr | uniq -c | less
+\history | less
+b-find-lnx-executables ~/majstaf/coding/C_Cpp_en/c_en_testing/
+b-find-win-executables
+b-find-win-executables | grep ".exe"
+b-find-win-executables ~/majstaf/coding/C_Cpp_en/c_en_testing/
+bash 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+bash BUILD.txt 
+bash BUILD_ALL.txt 
+bash Locations.sh 
+bash progressbar.sh 
+bash test/location.sh 
+carego run
+cargo build --bin=MUNCH
+cargo build --bins
+cargo build --release --bin=MUNCH
+cargo build --release --target=MUNCH
+cargo cleN
+cargo doc--open
+cargo help
+cargo new --help
+cargo new --vcs=none TEST
+cargo new --wcs=none TEST
+cargo new macros_test
+cargo new rectangles
+cargo new starttests
+cargo new test_20230802
+cargo new variables
+cargo run test.rs 
+cargo tun
+cargon TEST2
+cat *.cpp | less
+cat -v _repaired.txt 
+cat -v c_optimizations_2_multyf_20230327.txt | less
+cat ./*.txt | less
+cat ./Build_and_Run.sh 
+cat ./build.sh 
+cat ./build_main.sh 
+cat /etc/passwd
+cat 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+cat << EOF > heredoc.txt
+cat > file1.txt
+cat BUILD.txt 
+cat CACHEDIR.TAG 
+cat INFO.txt 
+cat README.md 
+cat README.txt 
+cat RUN.txt 
+cat ToDo_20201214.txt 
+cat Users_20210630.txt 
+cat _parcele_DOBRUNJE_vrsta.txt 
+cat _parcele_SOSTRO.txt 
+cat _parcele_SOSTRO.txt | cut -d' ' -f1
+cat _parcele_SOSTRO.txt | cut -d' ' -f1 
+cat _parcele_SOSTRO.txt | cut -d'' -f1 
+cat _parcele_SOSTRO.txt | cut -d'\\t' -f1 
+cat _parcele_SOSTRO.txt | cut -d'\t' -f1 
+cat _parcele_SOSTRO.txt | sed 's/\t/;/g'
+cat _parcele_SOSTRO.txt | sed 's/\t/;/g' | cut -d ';' -f1
+cat _parcele_SOSTRO.txt | sed 's/\t/;/g' | cut -d ';' -f1 >> _SAMO_PARCELE_SOSTRO.txt
+cat client.c server.c
+cat client.c server.c | cless
+cat client.c server.c | cless -
+cat client.c server.c | less
+cat client.c server.c | xargs -I{} cless {}
+cat client.c server.c | xargs cless {}
+cat cn080_struct_size-padding_20221121/Makefile
+cat cn083_snakesay_20221125/Makefile
+cat ff-en_logins_20230623.csv 
+cat file1.txt 
+cat heredoc.txt 
+cat main.rs
+cat main.rs.txt 
+cat majstaf/en_metsys_git/en_metsys_source/en_dotfiles/.share/jupyter/runtime/nbserver-2932.json
+cat majstaf/seznami/history-en.dat_20221205-082949 
+cat output.txt 
+cat pdtk_20220418.txt 
+cat src/
+cat src/main.rs 
+cat tatus 
+cat test
+cat test.sh 
+cat up
+cat wget-log
+cat ~/_c_en_testing/cn_SCRIPTS/build_01.sh 
+cat ~/_c_en_testing/cn_SCRIPTS/build_02.sh 
+cat ~/_c_en_testing/cn_SCRIPTS/build_03.sh 
+cat ~/_c_en_testing/cn_SCRIPTS/build_04.sh 
+cat ~/_c_en_testing/cn_SCRIPTS/build_05.sh 
+ccat
+ccat client.c 
+chage -I gregor.redelonghi
+cheat tar
+chmos 644 Makefile *.C
+cim c_days_in_month_year.
+cim c_days_in_month_year.c 
+cless src/Solution_v2.java 
+cless src/Solution_v3.java 
+cless tcp_test_client.c 
+cless tcp_test_server.c 
+cmd /K Cygwin.bat
+cycheck -p search libncurses
+cygpath -w /c/Users/gregor.redelonghi/majstaf/majprogs/cygwin64/lib/
+cygpath -w /c/Users/gregor.redelonghi/majstaf/majprogs/cygwin64/lib/ncurses
+cygpath -w /c/Users/gregor.redelonghi/majstaf/majprogs/cygwin64/usr/include/
+cygstart $(/bin/bash -c /bin/fish)
+cygstart /bin/bash -c /bin/fish
+cygstart /c/Users/gregor.redelonghi/majstaf/majprogs/cygwin64/bin/fish
+cygstart /c/users/gregor.redelonghi/majstaf/majprogs/cygwin64/bin/mintty.exe -c /bin/fish -p 80,50 -s 200,50 
+cygstart /c/users/gregor.redelonghi/majstaf/majprogs/cygwin64/bin/mintty.exe -e /bin/fish
+cygstart /c/users/gregor.redelonghi/majstaf/majprogs/cygwin64/bin/mintty.exe -e /bin/fish -p 80,50 -s 200,50
+cygstart /c/users/gregor.redelonghi/majstaf/majprogs/cygwin64/bin/mintty.exe -e /bin/fish -p 80,50 -s 200,50 
+cygstart /c/users/gregor.redelonghi/majstaf/majprogs/cygwin64/bin/mintty.exe -e /bin/fish -p 80,50 -s 200,50 -
+cygstart /c/users/gregor.redelonghi/majstaf/majprogs/cygwin64/bin/mintty.exe -p 80,50 -s 200,50 -e /bin/fish
+cygwin -p search libncurses
+diff -q c_sockets-tutorial_20220926/ ~/_c_en_testing/cn_OSTALO/c_sockets-tutorial_20220926/
+diff -q ~/.config/ ~/majstaf/en_git/en_metsys_source/en_dotfiles/.config/
+diff -q ~/.config/ ~/majstaf/en_git/en_metsys_source/en_dotfiles/.config/ | grep Only
+diff -y struct_region_offset_v2.c struct_region_offset_v3.c 
+diff BrthReminder_v11.c ../BrthReminder.c 
+diff RUST RUST_d/
+diff rand_char_position_test_v4.c src/rand_char_position_test_v3.c 
+diff struct_in_func_test. struct_in_func_test_v4-d.c 
+diff struct_in_func_test.c struct_in_func_test_v4-d.c 
+diff sum_and_avg_columns_v3.c sum_and_avg_columns_v4.c 
+diff sum_and_avg_rows_v*
+dirlist /c/Users/gregor.redelonghi/Downloads/
+dirlist | head -n60 | clm
+dirlist_abs 
+dirlist_abs | clm
+dirlist_abs | head -n60 | clm
+dirlist_abs_sort ../
+dirlist_rv | clm
+dirlist_rv | clm | less
+dirlist_rv | head
+dirlist_rv_abs
+dirlist_rv_abs | head -n60 | clm
+dirlist_sort ..
+dos2unix.exe BRISI/get_ndiffs_20230308.sh
+dos2unix.exe repair_majbin.sh 
+du -sh --total ./*
+du -sh --total ./* | sort -hr | head -n 30 | clm /d/ext_WD_usbHDD_2TB/n_bekaps/Downloads_cugr_en/
+du -sh --total /d/ext_WD_usbHDD_2TB/n_bekaps/Downloads_cugr_en/* | sort -hr | head -n 30 | clm
+du -sh --total | sort -hr | head -n 30 | clm
+du -sh big_100MB_file.txt 
+duh _BRISI/ptn_folium_test_20230818
+duh _BRISI/ptn_folium_test_20230818/
+duh deps/
+duh deps/ | head
+duh dot_git/
+duh ~/.cargo
+echo "$(cygpath -u ${PWD}/file1.txt)"
+echo "141/31" | bc -l
+echo "1580/47" | bc -l
+echo "31/141" | bc -l
+echo "HY!" > dumyfile.txt 
+echo "SGVsbG8gV29ybGQK" | base64 -d
+echo "scale=2; s=5; c=7; a=atan(s/c); a*180/3.14159" | bc -l~
+echo $(cygpath -w "/c/Users/gregor.redelonghi/.cargo/bin")
+echo $(cygpath -w ${PWD}/file1.txt)
+echo $(realpath ../)
+echo $CURRYEAR
+echo $CURRYR
+echo $TMPSTMP
+echo -d "SGVsbG8gV29ybGQK"
+echo ndot_diffs_$(date +"%Y%m%d_%H%M%S").txt
+env | grep -i --color cargo
+env | grep -i cargo
+export TMPSTMP=$(date +"%Y%m%d_%H%M%S")
+fina -type f -iname "*balon*"
+find * -maxdepth 0 -type d -regex "cn..._"
+find * -maxdepth 0 -type d -regex "cn..._.*"
+find * -maxdepth 0 -type d -regex "cn..._.*" | sed 's/cn/cn_/'
+find * -maxdepth 0 -type d 0 -regex "cn..._"
+find * -maxdepth 3 -type d -name "*Pragersko*"
+find -iname "*.rs"
+find -iname "*33311*"
+find -iname "*Podpec*"
+find -iname "*\.exe"
+find -iname "*comb*"
+find -iname "*combinat*"
+find -iname "*dolg*most*"
+find -iname "*in*enir*"
+find -iname "*kombinat*"
+find -iname "*main*"
+find -iname "*nad*a"
+find -iname "*nad*a*"
+find -iname "*ncurs*"
+find -iname "*stb*"
+find -iname "tehni*zahtev*202[123]*"
+find -iname rust.rs
+find -maxdepth 0 -type d 0 -regex "cn..._"
+find -maxdepth 0 -type f
+find -maxdepth 2 -type d -iname "*circ*"
+find -maxdepth 3 -type d -iname "*circ*"
+find -maxdepth 3 -type d -iname "*krk*"
+find -name "*.h"
+find -name "Makefile*" | xargs -I{} grep -l "obj" {}
+find -name "Makefile*" | xargs -I{} grep -l obj" {}
+find -type d -iname "*33311*"
+find -type d -iname "*VN*azbet*"
+find -type d -iname "*VN*cng*"
+find -type d -iname "*azbe*"
+find -type d -iname "*dolg*most*"
+find -type d -iname "*iosevk*"
+find -type d -iname "*zavarov*"
+find -type d -maxdepth 0 -regex "cn..._"
+find -type d -name "*VN*cng*"
+find -type d -name "*dolgi*most*"
+find -type f 
+find -type f -iname "*.c"
+find -type f -iname "*arena*"
+find -type f -iname "*kap*"
+find -type f -iname "*kap*dwg"
+find -type f -iname "*pokr*"
+find -type f -iname "*pokrov*"
+find -type f -iname "*sort*"
+find -type f -iname ".*"
+find -type f -iname ".*" | wc -l
+find -type f -name "*NOVO*"
+find -type f -name "*[-_]NOVO*"
+find -type f -name "*ncurs*"
+find -type f | grep --color abs
+find -type f | wc -l
+find ./* -maxdepth 0 -type d 0 -regex "cn..._"
+find /c/Users/gregor.redelonghi/ -name "*repair*sh"
+find /c/Users/gregor.redelonghi/majstaf/majprogs/cygwin64 -iname "*curs*"
+find /c/Users/gregor.redelonghi/majstaf/majprogs/cygwin64 -iname "*curses*"
+find /home/gregor.redelonghi/C_en_testing/* -type f -iname "*.sh" | xargs -I{} grep --color 'set' {}
+find _TXT/* -iname "*tmux*"
+find name "*.h"
+find ~ -name "*repair*"
+find ~ -name "*repair*sh"
+fndb-lnx-executables 
+for DDD in $(find -type d -name "VN*"); do echo $DDD/podatki/* | grep KOPI; done | cut -d '/' -f2
+for DDD in $(find -type d -name "VN*"); do echo $DDD/podatki/; done
+for DDD in $(find -type d -name "VN*"); do echo grep "KOPI" $DDD/podatki/*; done
+for DDD in $(find -type d -name "VN*"); do grep "KOPI" $DDD/*; done
+for DDD in $(find -type d -name "VN*"); do grep "KOPI" $DDD/podatki/*; done
+for DDD in $(find -type d -name "VN*"); do grep "KOPI" $DDD; done
+for DDD in VN*; do find / type d -name ".cargo" -name "*KOPI*" $DDD; done
+for DDD in VN*; do find / type d -name ".cargo" -name "*KOPI*"; done
+for DDD in dir1 dir2; do echo $DDD; done
+for FFF in $(find * -maxdepth 0 -type d -regex "cn..._.*"); do echo $FFF | sed 's/cn/cn_/'; done
+for FFF in *.txt; do ./mrenamef.sh $FFF; done
+for FFF in *.txt; do ./mrenamef.sh fajlname KrNeki $FFF; done
+for FFF in *.txt; do ./mrenamef.sh fajlname fname $FFF; done
+for FFF in *.txt; do rename1-fname $FFF KrNeki fname; done
+for FFF in *.txt; do rename1-fname KrNeki fname $FFF; done
+for FFF in *.txt; do rename2-and-clean-fname "$FFF"; done
+for FFF in *.txt; do rename2-and-clean-fname $FFF; done
+for FFF in *; do echo $FFF; done
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+for N in $(seq 3 51); do echo $N; done
+for N in 1 2 3 4 5 6 7 8 9; do touch fname_0${N}.txt; done
+for N in 1 2 3; do time java -cp bin Solution_v${N}; done
+for N in seq 3 51; do echo $N; done
+for N in seq 3..51; do echo $N; done
+for N in seq(3 51); do echo $N; done
+git checkout 78156884344739d1676d9e84c758eb34a0faaa1e
+git clone "https://github.com/tsoding/olive.c.git"
+git clone https://github.com/maxkimlyk/ncurses-demo.git
+git clone https://github.com/r-gregor/d_metsys.git
+git clone https://github.com/r-gregor/d_metsys/
+git clone https://github.com/r-gregor/en_metsys.git~
+git clone https://github.com/tsoding/olive.c.git
+git clone https://github.com/tsoding/wang-tiles.git
+go --version
+go build BrthdReminder_1.1.0.go 
+go build BrthdReminder_1.1.0_colors.go 
+go version
+heredoc.txt << EOF
+hexdump fruits.bin 
+highlight -O ansi str_to_digit.c
+highlight -O svg printout.c 
+highlight -O svg printout.c > printout.svg
+highlight -O truecolor printout.c 
+highlight -k iosevka -K 12 -l  --canvas=0 printout.c > printout.html
+highlight -k iosevka -K 12 -l  --page-color ffffff printout.c > printout.html
+highlight -k iosevka -K 12 -l  --page-color printout.c > printout.html
+highlight -k iosevka -K 12 -l  --page-color=ffffff printout.c > printout.html
+highlight -k iosevka -K 12 -l  printout.c > printout.html
+highlight -k iosevka -K 14 -l printout.c > printout.html
+highlight -k iosevka printout.c > printout.html
+highlight printout.c 
+highlight printout.c > printout.html
+highlight str_to_digit.c 
+highlight str_to_digit2.c 
+highlight str_to_digit3.c 
+highlight str_to_digit4.c 
+highlight string_test2.c 
+highlight strings-test.c 
+history | cut -b -f22-
+history | cut -b22-
+history | cut -b26-
+history | cut -b28-
+history | cut -b28- | less
+history | cut -b28- | sort | uniq -c
+history | cut -b28- | sort | uniq -c | cut -b6-
+history | cut -b28- | sort | uniq -c | cut -b8-
+history | cut -b28- | sort | uniq -c | cut -b9-
+jarrun Elektrika_E2017.jar 
+jarrun Elektrika_E2018.jar 
+jarrun Elektrika_E2018.jar 1 2 5
+jarrun Elektrika_E2018.jar 5
+java -cp bin Solution_v1
+java -cp bin Solution_v2
+java -cp bin Solution_v3
+jq majstaf/en_metsys_git/en_metsys_source/en_dotfiles/.share/jupyter/runtime/nbserver-2932.json
+ldd cprog.
+ldd cprog.exe 
+ldd cprogw.exe 
+less -W client.c 
+let N=1; for DDD in $(find -type d); do touch $DDD/file_$N.txt; let N=N+1; done
+let N=1; for DDD in (find -type d); do touch $DDD/file_$N.txt; let N=N+1; done
+let N=1; for DDD in dir1 dir2; do touch $DDD/file_$N.txt; let N=N+1; done
+linxd "https://www.sbarjatiya.com/notes_wiki/index.php/Using_ncurses_library_with_C" c_sing_ncurses_library
+ln -s Test/location.sh Locations.sh
+ln -s ~/majstaf/coding/RUST_en/rust_en_projects ~/
+ln -s ~/majstaf/coding/RUST_en/rust_en_testing ~/
+ln -snf ~/majstaf/majbin/tmxks /usr/local/bin/tmxks
+ln -snf ~/majstaf/majbin/tmxns /usr/local/bin/tmxns
+mc cpp{,n001}_simple_tests_20220809/
+ndirlist_rv
+ndirlist_rv /c/Users/gregor.redelonghi/Downloads/
+ndirlist_rv_abs 
+ndirlist_rv_abs /c/Users/gregor.redelonghi/Downloads/
+ndirlist_rv_abs BRISI/
+neofetch
+nnn
+node --version
+node init
+node project.js 
+open_c-optimizing-files-in-ff/open_c-optimizing-files-in-ff_20230302.sh open_c-optimizing-files-in-ff/coding-optimization-files-list_20230302.txt 
+pddr 
+pddr && updte
+pddr updts
+pdr
+pdr && updts
+pip search jupiter
+ps aux
+qcc --version
+realpath "."
+realpath .
+realpath ../
+realpath(".")
+realpath(.)
+rename2-and-clean-fname Kva\ je\ zej\?\ ZA\ en\ SKUZEbuh_01.txt 
+rewrapp c_object-oriented-programming-deep-dive_20230320.txt
+rsort-by-tmstmp_c "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_C_and_Cpp"
+rsort-by-tmstmp_c "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_C_and_Cpp" | head
+rsort-by-tmstmp_c "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_JAVA/" | head
+rsort-by-tmstmp_c -n30
+rsort-by-tmstmp_c /c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_C_and_Cpp/ | head
+rsort-by-tmstmp_c /c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_JAVA/
+rsort-by-tmstmp_c /c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_JAVA/ | head
+rsort-by-tmstmp_c | head
+rsort-by-tmstmp_c | head -n30
+rustc --help
+rustc --help | less
+rustc rust-test-01.rs 
+rustup doc
+sboc
+sed 's/, /\n/g _parcele_DOBRUNJE_vrsta.txt 
+sed 's/, /\n/g' _parcele_DOBRUNJE_vrsta.txt 
+sed 's/, /\n/g' _parcele_DOBRUNJE_vrsta.txt > _parcele_DOBRUNJE_stolpec.txt 
+sed 's/, /\n/g' _parcele_SOSTRO_vrsta.txt > _parcele_SOSTRO_stolpec.txt 
+sed 's/\xc2\xa0/ /g' c_optimizations_2_multyf_20230327.txt > _repaired.txt
+showVNs_b 20230314
+start /c/Users/gregor.redelonghi/
+szpp 
+tail -n2 big_100MB_file.txt 
+time ./target/release/my_fancy_program
+time bin/speedtest.exe 
+time cargo run --release
+tmux -a -t 1
+tmux -a 1
+tmux attach -t 1
+tmux attach START
+tmux attach-session -t START
+tmux attach-session START
+tmuxk
+tmxks 
+tmxks && exit
+trap -l
+uname -a
+venv_s1_makevenv_en 
+wget "https://github.com/tsoding/jim/examples/fruits.h" &
+wget "https://raw.githubusercontent.com/nothings/stb/master/docs/stb_howto.txt"
+wget "https://raw.githubusercontent.com/nothings/stb/master/stb_image.h"
+wget "https://raw.githubusercontent.com/nothings/stb/master/stb_image_write.h"
+wget https://github.com/tsoding/jim/examples/fruits.h &
+wrapoff
+wrapon
+wrappoff
+xz --version
+zcat ip.7.gz 
+~/BRISI/open_c-optimizing-files-in-ff/open_c-optimizing-files-in-ff_20230302.sh 
+./Example2 ./file1.txt 
+./Example3 /home/gregor.redelonghi/Desktop/c_prog/mmap/file2.txt
+./brisi.exe 
+./build.sh
+./cargo.exe --version
+./compile_and_run.sh
+./demo.exe 
+./dirlist_abs
+./f_info.exe 
+./f_info.exe | head
+./f_info.exe | sort -nr -k 2
+./f_info.exe | sort -nr -k 2 | head
+./generate_100MB_random_txt_file.sh 
+./mrenamef.sh 
+./repair_majbin.sh 
+./sum_and_avg_column_v1.exe 
+./test.exe words_short.txt 
+./test.exe words_short.txt "2"
+./test.exe words_short.txt 1
+./test.exe words_short.txt 22
+./test.exe words_short.txt 5
+./test.sh | clm
+./zig.exe 
+/c/Users/gregor.redelonghi/majstaf/majprogs/FireFox_63.0.1/ $(cygpath -w "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt")
+/c/Users/gregor.redelonghi/majstaf/majprogs/FireFox_63.0.1/Firefox $(cygpath -w "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt")
+/c/Users/gregor.redelonghi/majstaf/majprogs/FireFox_63.0.1/FirefoxPortable.exe "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt"
+/c/Users/gregor.redelonghi/majstaf/majprogs/FireFox_63.0.1/FirefoxPortable.exe "File:///c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt"
+/c/Users/gregor.redelonghi/majstaf/majprogs/FireFox_63.0.1/FirefoxPortable.exe "File:///c:\Users\gregor.redelonghi\majstaf\drpbx-en\ODPRTO\C_and_Cpp\c_cpp-code-optimization_20230302.txt"
+/c/Users/gregor.redelonghi/majstaf/majprogs/FireFox_63.0.1/FirefoxPortable.exe $(cygpath -w "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt")
+/c/Users/gregor.redelonghi/majstaf/majprogs/zig-windows-x86_64-0.11.0-dev.1817+f6c934677/zig.exe --version
+/c/Users/gregor.redelonghi/majstaf/majprogs/zig-windows-x86_64-0.11.0-dev.1817+f6c934677/zig.exe version
+/usr/local/bin/szpp
+0a_povezave/BrthdReminder
+cargo build decode_base64.rs 
+cargo build help
+cargo doc --open
+cargo new decode64
+cargo run | clm
+cargo run | less
+cat .minttyrc
+cat << EOF > seznam_filmov_20230726.txt
+ccat client.c | less
+cless src/Solution_v1.java 
+cygpath -w "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt"
+cygpath -w $(echo "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_C_and_Cpp/c_cpp-code-optimization_20230302.txt"
+cygpath -w $(echo "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_C_and_Cpp/c_cpp-code-optimization_20230302.txt")
+dbog
+dirlist | less
+dirlist/
+dirlist/dirlist
+dirlist/dirlist_rv
+dirlist/dirlist_rv_abs.exe 
+dirlist/ndirlist.exe 
+dirlist/ndirlist_rv
+dirlist/ndirlist_rv_abs.exe 
+dirlist_abs_sort 
+dirlist_rv | less
+dirlist_rv_abs | head
+dirs-by-size 
+dos2unix.exe words_short.txt 
+echo "V2VsY29tZSB0byBsaW51eGNvbmZpZy5vcmcK" |base64 -d
+echo "Welcome to linuxconfig.org" | base64
+echo "scale=2; s=5; c=7; a=atan(s/c); a*180/3.14159" | bc -l
+echo $(cygpath -u "C:\Program Files\SL-King\Sewer+")
+echo $(cygpath -u "C:\Program Files\SL-King\Sewer+\")
+echo $(cygpath -w "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt")
+export NDOT=/home/gregor.redelonghi/majstaf/en_git/en_metsys_source/en_dotfiles
+ffs "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt"
+ffs $(cygpath -w "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt")
+ffs $(echo $(cygpath -w "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt"))
+ffs /c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/C_and_Cpp/c_cpp-code-optimization_20230302.txt
+ffs howto_speed-your-code-using-cpu-caches_20230302.txt 
+find * -type f -name "*.txt"
+find * -type f -name "*.txt" | xargs -I{} grep --color chroot {}
+find * -type f -name "*.txt" | xargs -I{} grep -H --color chroot {}
+find * -type f -name "*.txt" | xargs -I{} grep chroot {}
+find -iname "*json"
+find -iname "*tmux*"
+find -iname "test.rs"
+find -iname test.rs
+find -maxdepth 2 -type d -iname "*krko*"
+find -maxdepth 3 -type d -iname "*krko*"
+find -maxdepth 3 -type d -iname "*vrta*"
+find -maxdepth 3 -type d -iname "jur*kov*"
+find -maxdepth 4 -type d -iname "*jur*kov*"
+find -maxdepth 4 -type d -iname "*vrta*"
+find -maxdepth 4 -type d -iname "jur*kov*"
+find -name "Makefile*" | xargs -I{} grep ".h" {}
+find -name "Makefile*" | xargs -I{} grep -l ".h" {}
+find -printf "%A%H%H%M%M\n"
+find -printf "%A@"
+find -printf "%A@\n"
+find -printf "%AF -- %AH:%AM:%AS\n"
+find -printf "%AF+%AH:%AM:%AS %Ab\n"
+find -printf "%AF+%AH:%AM:%AS %Ah\n"
+find -printf "%AF+%AH:%AM:%AS %b\n"
+find -printf "%AF+%AH:%AM:%AS %h\n"
+find -printf "%AF+%AH:%AM:%AS -- %P %l %m\n"
+find -printf "%AF+%AH:%AM:%AS -- %b\n"
+find -printf "%AF+%AH:%AM:%AS -- %d/%f\n"
+find -printf "%AF+%AH:%AM:%AS -- %f %l %m\n"
+find -printf "%AF+%AH:%AM:%AS -- %h/%f\n"
+find -printf "%AF+%AH:%AM:%AS\n"
+find -printf "%AF; %AH:%AM:%AS -- %P %l %m\n"
+find -printf "%AF\t%AH:%AM:%AS -- %P %l %m\n"
+find -printf "%AF_%AH:%AM:%AS -- %m %P\n"
+find -printf "%AF|%AH:%AM:%AS\n"
+find -printf "%AH%AM\n"
+find -printf "%AH:%AM%AS\n"
+find -printf "%AH:%AM%As\n"
+find -printf "%AH:%AM:%-2A2s\n"
+find -printf "%AH:%AM:%-2As\n"
+find -printf "%AH:%AM:%2AS\n"
+find -printf "%AH:%AM:%2As\n"
+find -printf "%AH:%AM:%A-2s\n"
+find -printf "%AH:%AM:%AS %AF\n"
+find -printf "%AH:%AM:%AS\n" "%AF"
+find -printf "%AH:%AM:%AS\n" "%F"
+find -printf "%AH:%AM\n"
+find -printf "%AHHMM\n"
+find -printf "%AH\n"
+find -printf "%AM%:%AH:%AS\n"
+find -printf "%AM%:AH:%AS\n"
+find -printf "%AM:%AH:%AS\n"
+find -printf "%AX\n"
+find -printf "%Aa, %AH:%AM:%2As\n"
+find -printf "+%AM%AH%AS\n"
+find -printf "+%M%H%S\n"
+find -printf "[%AH:%AM:%2As]\n"
+find -printf "[%Aa, %Ab -- %AH:%AM:%2As]\n"
+find -printf "[+"%M%H%S"\n"
+find -printf "[+Date "%M%H%S"\n"
+find -type d -iname "*krko*"
+find -type d -iname "*pragersk*"
+find -type d -iname "*vn*pragersk*"
+find -type d -iname "*vn*pragersko*"
+find -type d -iname "vn*dolgi*"
+find -type d -maxdepth 2 -iname "*krko*"
+find -type f -iname "*.h"
+find -type f -iname "*balon*"
+find -type f -iname "*izjava*"
+find -type f -iname "*kap[ae]*"
+find -type f -name "*.txt"
+find -type f -name "*_VN_*podatki*txt"
+find / type d -name ".cargo"
+for DDD in $(find -type d -name "VN*"); do echo $DDD/podatki/ | grep KOPI; done
+for DDD in $(find -type d -name "VN*"); do echo $DDD/podatki/* | grep KOPI; done
+for DDD in $(find -type d -name "VN*"); do echo $DDD/podatki/*; done
+for FFF in $( ~/BRISI/coding-optimization-files-list_20230302.txt); do ff $(cygpath -w "$FFF"); done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do echo $(cygpath -w $FFF); done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do echo ff $(echo "$(cygpath -w $FFF)"); done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do echo ff $FFF; done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do echo ffs "$(echo $(cygpath -w $FFF))"; done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do echo ffs $(echo $(cygpath -w $FFF)); done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do echo ffs \"$(echo $(cygpath -w $FFF))\"; done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do ff "$FFF"; done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do ff $(echo "$(cygpath -w $FFF)"); done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do ffs $(echo "$(cygpath -w $FFF)"); done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do ffs $(echo $(cygpath -w $FFF)); done 
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do ffs \"$(echo $(cygpath -w $FFF))\"; done 
+fsort_files 
+git clone "https://github.com/nature-of-code/noc-book-2023.git"
+git clone https://github.com/r-gregor/en_metsys.git
+history | cut -d' ' -f6- | less
+jarxrun Gui3
+jarxrun jars/GetFmemInfoGUI3.jar 
+java GetFmemInfo3 
+java GetFmemInfo3 gregor
+java GetFmemInfo3 gregor mark
+java MethodsChainTesting 
+javac MethodsChainTesting.java 
+ln -s /c/Users/gregor.redelonghi/majstaf/drpbx-en/SKUPNI ~/_SKUPNI_drpbx
+ln -s majstaf/coding/JAVA_en/JAVA_en_testing/ _java_en_testing
+ln -s majstaf/coding/PYTHON_en/PYTHON_en_testing/ _python_en_testing
+ln -s ~/majstaf/coding/ZIG_en/ZIG_en_testing .
+make -f ../Makefile m *exe*
+ndirlist ../../
+ndirlist_abs ../../
+ndirlist_rv_abs
+ndirlist_rv_abs ../../
+node
+rust build
+rustup default stable
+rustup.exe --version
+softlink1-fname-to-ulb narocilo_KOPILAB 
+source Locations.sh 
+src/bin/BrthReminder_v13
+tests/bin/realpath_test.exe tests/
+tree -d -L 1 majstaf/coding/PYTHON_en/
+tree -d -L 2 majstaf/coding/PYTHON_en/
+tree -d -L 2majstaf/coding/PYTHON_en/
+tree -d _PYTHON/
+tree -d majstaf/coding/PYTHON_en/
+ydl -f22 "https://www.youtube.com/watch?v=Uo0YYUEdwZA"
+ydlF "https://www.youtube.com/watch?v=Uo0YYUEdwZA"
+yq
+yt-dlp -f 22 "https://www.youtube.com/watch?v=Uo0YYUEdwZA"
+zig help
+zig version
+cargo check
+cargo new --bin csvtutor
+cat * | grep lftp
+cat *.txt  w less
+cat *.txt | grep -i add
+cat *.txt | grep remote
+cat *.txt | lesscat
+cat -v c_optimizations_2_multyf_20230327.txt 
+cat .wget-hsts 
+cat big_100MB_file.txt 
+cat generate_100MB_random_txt_file.sh 
+cat history-en.dat_20230609-0* > ~/majstaf/metsys_en/rust_setup_20230609.txt
+cat ndot_diffs_20230213.txt 
+cat ~/BRISI/coding-optimization-files-list_20230302.txt 
+checkout master
+dirlist_rv_abs 
+du -sh en_metsys en_nvol/ --total
+duh .cargo
+duh | head -n 20
+echo "https://github.com/jmschp/mosh-ultimate-git-course.git"
+echo $(abspath "./.cargo")
+echo $(cygpath -w "./.cargo")
+echo $(cygpath -w $(abspath "./.cargo"))
+echo $(cygpath -w $(realpath "./.cargo"))
+echo $(ralpath "./.cargo")
+echo $(realpath "./.cargo")
+ffs $(cygpath -w $(echo "/c/Users/gregor.redelonghi/majstaf/drpbx-en/ODPRTO/_C_and_Cpp/c_cpp-code-optimization_20230302.txt"))
+ffs _C_and_Cpp/c_cpp-code-optimization_20230302.txt
+find -printf "%AF_%AH:%AM:%AS -- %P %l %m\n"
+find -type "*vn*pot*na*"
+find -type -d -iname "*vn*pot*na*"
+find -type d -iname "*dravlj*"
+find -type d -iname "*vn*pot*na*"
+find /c/Users/gregor.redelonghi/ -name "*youtube-dl*"
+find /c/Users/gregor.redelonghi/ name "*youtube-dl*"
+find /home/gregor.redelonghi/majstaf/en_git/en_metsys_source/en_majbin/ -empty
+find /home/gregor.redelonghi/majstaf/en_git/en_metsys_source/en_majbin/ -iname ''
+find-type d -iname "*dravlj*"
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do ffs $FFF; done
+for FFF in *.txt; do ./mrenamef.sh fname "Kva je zej? ZA en SKUZEbuh" $FFF; done
+for FFF in *.txt; do ./mrenamef.sh fname fajlname $FFF; done
+for N in $(seq 3 51); do echo bin/test_is-prime.exe $N; done
+getenv
+git --local -l
+git --version
+git add additional/ accessories/
+git branch -d new_l1
+git checkout 11c03a72154e3cf02a5a3e6a0130528cfe27e1ce
+git checkout new_L1
+git clone https://github.com/jmschp/mosh-ultimate-git-course.git
+git commit -a -m "adding folders"
+git commit -a -m "changed main.c"
+git commit -m "added folders"
+git commit -m "deleted ac1"
+git commit -m "initial commit"
+git commit -m "new acc2"
+git config
+git config --global -l
+git help restore
+git init
+git init --bare
+git log --tree --oneline
+git log -a
+git merge new_L1
+git switch -c new_L1
+git-restore help
+jarrun jars/RsortByEnddate.jar 
+jarrun jars/RsortByEnddate.jar  FAJLS/
+java Main j
+make -f Makefile_w 
+nlct ~
+rewrapp ptn_decorators-concepts-and-examples_20230411.txt
+rustc -V
+rustc sort_vector.rs 
+rustdoc --version
+showVNs_b 20230301
+tail -n 30 big_100MB_file.txt 
+tail big_100MB_file.txt 
+wget https://raw.githubusercontent.com/tsoding/nobuild/master/nobuild.h
+ydl -f22 "https://youtu.be/bpCJf67e1lI"
+ydlF
+ydlF "https://youtu.be/bpCJf67e1lI"
+yt-dlp --help
+yt-dlp -F --verbose "https://www.youtube.com/watch?v=Uo0YYUEdwZA"
+cargo test
+cat Cargo.lock 
+cless server.c 
+curl https://ipinfo.io/json
+curl ifconfig.co
+find -iname "*config*" |grep send
+find -iname "*menj*"
+find -iname "*send_config*"
+find -maxdepth 0 -type d
+find -maxdepth 1 -type d
+find -printf "%AF+%AH:%AM:%AS -- %f\n"
+find -type -l -name "*PYTHON*"
+find -type d -iname "*-3016_"
+find -type f -name "*_VN_*podatki*txt" | xargs cat
+find -type f -name "*_VN_*podatki*txt" | xargs cat | less
+find -type l -name "*PYTHON*"
+for DDD in ./_*; do echo $DDD; done
+for FFF in $(cat ~/BRISI/coding-optimization-files-list_20230302.txt); do echo ff "$FFF"; done 
+for N in $(seq 3 51); do bin/test_is-prime.exe $N; done
+geoiplookup 195.230.121.21
+ld
+ndirlist_rv_abs ../
+zig run main.zig 
+cargo help build
+cat fromgeegsforgeeks/BUILD.txt 
+cat history-en.dat_202* | grep KOPI
+cat ndot_diffs_20230213.txt
+cat ndot_diffs_20230213.txt | cut -d' ' -f2
+cat ndot_diffs_20230213.txt | cut -d' ' -f2 | cut -d'/' -f7
+cat ndot_diffs_20230213.txt | cut -d' ' -f2 | cut -d'/' -f8
+cless client.c 
+echo -e "1,Gregor,Redelonghi\n2,Tadeja,Mali Redelonghi" > file.txt
+echo -e "Gregor,Redelonghi\nTadeja,Mali Redelonghi"
+find -type f
+find -type f -iname "*guard*txt"
+find -type f -iname "*guard*txt" | xargs cat | less
+for DDD in VN*; do echo $DDD; done
+for FFF in $(cat ndot_diffs_20230213.txt | cut -d' ' -f2 | cut -d'/' -f8); do echo $FFF; done
+for FFF in $(find $NDOT/ -type f); do echo $FFF; done
+for FFF in multiple_return_v*; do echo "sed 's/return_multiple/multiple_return/g' $FFF"; done
+for FFF in multiple_return_v*; do echo "sed -i 's/return_multiple/multiple_return/g' $FFF"; done
+for FFF in multiple_return_v*; do sed -i 's/return_multiple/multiple_return/g' $FFF; done
+highlight -O ansi Makefile 
+jq
+lower-to-upper "Obnova plinovoda N-25160 po Cesti Ceneta Štuparja - odsek Ulica v Kokovšek - Pot v Smrečje"
+nkdb
+nlc
+open_c-optimizing-files-in-ff/open_c-optimizing-files-in-ff_20230302.sh 
+rustc decode_base64.rs 
+rustup
+rustup default stable-x86_64-pc-windows-gnu
+rustup test.rs 
+rustup toolchain
+rustup toolchain list
+rustup toolchain | less
+LC_TIME="sl_SI.utf8"; bin/time_timedate 
+RsortByEnddate_run2 | clmn
+RsortByEnddate_run2 | column -C 1200
+RsortByEnddate_run2 | column -c 1200
+RsortByEnddate_run2 | column -c 300
+RsortByEnddate_run2 | column -c 800
+RsortByEnddate_run2 | less
+diff -q . ~/majstaf/en_git/en_metsys_source/en_majbin/dirlist/
+diff -q ../ ~/majstaf/en_git/en_metsys_source/en_majbin/ | grep -v Common
+dirlist_sort | clm
+drpbx-rclone-sync-SKUPNI2-R-L 
+duh OLIVEC_ep-02/
+duh OLIVEC_ep-02/ ~/_c_en_testing
+duh OLIVEC_ep-02/ ~/_c_en_testing/OSTALO_cn/
+duh ~/_c_en_testing/OSTALO_cn
+duh ~/_c_en_testing/OSTALO_cn | head
+echo $LC_ALL
+echo $TZ
+export LC_ALL="sl_SI.utf8"
+export LC_TIME="sl_SI.utf-8"; bin/time_timedate 
+export LC_TIME="sl_SI.utf8"
+export LC_TIME="sl_SI.utf8"; bin/time_timedate 
+find -iname "*.exe"
+find -printf "%AH:%AM:%As\n"
+find -type f -iname "*narocilo*"
+fndb-win-executables | \grep bin
+fndb-win-executables | grep bin
+for FFF in $(find $NDOT/ -type f); do diff -q $FFF $(echo $FFF | cut -d'/' -f8-); done
+for FFF in return_multiple_v*c; do echo "$FFF -> ${FFF//return_multiple/multiple_return}"; done
+for FFF in return_multiple_v*c; do echo $FFF -> ${FFF//return_multiple/multiple_return}; done
+for FFF in return_multiple_v*c; do echo $FFF; done
+for FFF in return_multiple_v*c; do ecj
+gdb bin/main.exe 
+git checkout baa878dcc30a256d0dac5a419788483d17089a4b
+git log --graph --oneline
+locate youtube-dl.exe
+w3m -dump "https://jelkom.org/hr/auto-kamp-nudist"
+w3m -dump "https://jelkom.org/hr/auto-kamp-nudist" >> ~/_BRISI/HVAR_2023/AC-Nudist_cenik_2023.txt 
+w3m -dump "https://jelkom.org/hr/auto-kamp-nudist" | less
+b-find-win-executables | grep "exe"
+cargo run --release
+cn087_BrthReminder-02_20221220/bin/BrthReminder.exe 
+cygpath -w "/c/Users/gregor.redelonghi/2023/_2023_1_PROJEKTI/VN_S-5012_01-2023_PO_Inustrijska-c-Grosuplje/nacrt"
+dirlist_sort 
+duh nn.h/
+export NBRC=/home/gregor.redelonghi/majstaf/en_git/en_metsys_source/en_majrcs;
+export PATH=$PATH:/c/Users/gregor.redelonghi/.cargo/bin
+export PATH=/home/gregor.redelonghi/majstaf/majbin/BrthReminder:$PATH
+find * -maxdepth 0 -type f
+find -type d -iname "cn999*"
+find -type f -iname "*header*"
+find -type f -iname "*stb*"
+for FFF in $(find -name "Makefile"); do echo $FFF; done
+for FFF in $(find -name "Makefile"); do grep --color '\-c' $FFF; done
+for FFF in $(find -name "Makefile"); do grep --color -ln '\-c' $FFF; done
+for FFF in $(find -name "Makefile"); do grep --color -n '\-c' $FFF; done
+for FFF in $(find -name "Makefile"); do grep --color -nL '\-c' $FFF; done
+for FFF in $(find -name "Makefile"); do grep --color -nlh '\-c' $FFF; done
+git clone https://github.com/tsoding/nn.h.git
+tmux -a -t 084756
+tmux -s
+tmux attach -t 084753
+tmux attach -t 3
+urxvt
+urxvt --help | \grep font
+urxvt --help | grep font
+urxvt -DISPLAY:0
+urxvt -DISPLAY:1
+urxvt -i 
+y
+DT=$(date +"%H%M%S"); tmux new-session -s "${DT}" \; split-window -v \; neww -n 'ALL'
+DT=$(date +"%HH%MM%SS"); tmux new-session -s "${DT}" \; split-window -v
+DT=$(date +"%Y%m%d"); tmux new-session -s "${DT}" \; split-window -v
+DT=$(date +"%Y%m%d_%H%M%S"); tmux new-session -s "${DT}" \; split-window -v
+DT=$(date +"%Y%m%d_%HH%MM%SS"); tmux new-session -s "${DT}" \; split-window -v
+cargo --version
+cat *conf*
+cat *config*
+cat ./*
+cat TEST.txt 
+cat ___in_20230519.txt >> bash_dates-getting-tomorrows-yesterdays_20230519.txt 
+cat bindsyms_only.txt 
+cat requirements
+cat sha256sum.txt
+cat words_short.txt 
+cat ~/majstaf/majbin/send_mail/*cnfig*
+cat ~/majstaf/majbin/send_mail/*conf >> .SCRTS 
+cat ~/majstaf/majbin/send_mail/*config*
+cat ~/majstaf/majbin/send_mail/*config*py
+cat ~/majstaf/majbin/send_mail/*config*py >> .SCRTS 
+curl https://ipinfo.io
+dirlist | clm
+dirlist_abs
+dmts status
+find -printf "%AH:%AM:%AS\n"
+find -type d -iname "*pcl*" -o -iname "*emoni*"
+find -type d -iname "*podklin*"
+find -type d -iname "*podkljin*"
+find -type f -iname "*.jpg" -o -iname "*.png"
+find -type f -iname "*.jpg" -o -iname "*.png" | xargs -I{} echo {}
+find -type f -iname "*.jpg"- -o -iname "*.png"
+find -type f -iname "*.jpg"- o -iname "*.png"
+find -type f -name .gitignore
+for FJL in _OBRNJENO/*; do A="${FJL}" cat A1west output $(basename $FJL); done
+for FJL in _OBRNJENO/*; do A="${FJL}" cat A1west output $(basename $FJL)_ornjrno; done
+for FJL in _OBRNJENO/*; do A=${FJL} cat A1west output $(basename $FJL); done
+for FJL in _OBRNJENO/*; do echo $(basename $FJL); done
+for FJL in _OBRNJENO/*; do echo $FJL; done
+for FJL in _OBRNJENO/*; do echo A="${FJL}" cat A1west output $(basename $FJL)_ornjrno; done
+ldd
+ldd --help
+ldd -V
+neofetch 
+rustc --version
+sha256sum.exe debian-live-11.6.0-amd64-xfce+nonfree.iso && cat SHA256SUMS.txt 
+sha256sum.exe debian-live-11.6.0-amd64-xfce+nonfree.iso && cat SHA256SUMS.txt | grep 'xfce+nonfree.iso'
+sha256sum.exe lmde-5-cinnamon-64bit.iso && cat sha256sum.txt | grep 'lmde-5-cinnamon'
+sha256sum.exe lmde-5-cinnamon-64bit.iso && cat sha256sum.txt | grep -E 'lmde-5-cinnamon.*64'
+tmux attach -tBACKUP
+tmux new -s "EN" neww splitv
+tmux new -s BACKUP
+tmux new -s LOCO1
+tmux new-session -d 'EN' \; split-window
+tmux new-session -d 'EN' \; split-window -v
+tmux new-session -s 'EN' \; split-window -v
+tmux new-session \; split-window -v
+tmux neww -s "EN" splitv
+~/majstaf/BRISI/narocilo_KOPILAB.sh 
+$BASH_SOURCE[0]
+${BASH_SOURCE[0]}
+DIF=$(($(cat $tcount) + 1))
+DIF=$(($(cat tcount) + 1))
+chown 'gregor.redelonghi':'Doamin Users' /c/Users/gregor.redelonghi
+chown 'gregor.redelonghi':'Domain Users' /c/Users/gregor.redelonghi
+diff -q majstaf/majbin/ majstaf/en_metsys_git/en_metsys_source/en_majbin/
+diff majstaf/majbin/ majstaf/en_metsys_git/en_metsys_source/en_majbin/
+diff majstaf/majbin/BrthReminder/ majstaf/en_metsys_git/en_metsys_source/en_majbin/BrthReminder/
+diff progbar_v2.c progbar_v2_D.c 
+dirlist_rv
+du -sh .git
+duh venv/
+duh venv/lib
+duh venv/lib/site-packages
+duh venv/lib/site-packages | head
+duh | head -n20
+echo $(dirname ${BASH_SOURCE[0]})
+echo $(dirname ${BASH_SOURCE[0]}) 
+echo $BASH_SOURCE
+find "*cng*stan*"
+find -"*cng*stan*"
+find -iname "*cng*stan*"
+find -iname "*cng*stane*"
+find -iname "*stane*"
+find -name "*WM*"
+find -name "*WM*" | grep -i only
+find -type d -iname "*i3*"
+find -type f -iname "*mov*.txt"
+find -type f -iname "*movie*.txt"
+find -type f -iname "*sps*"
+find -type f -iname "*sps*txt"
+find -type f -iname "202305*txt"
+for FFF in send-*; do echo $FFF; done
+for FFF in send-*; do softlink1-fname-to-ulb $FFF; done
+ftp-access-en 
+git branch
+git checkout 2359b31
+git clone https://github.com/tsoding/ml-notes.git
+git clone https://github.com/tsoding/perceptron.git
+git help log
+git log --one-line
+git log --oneline | cat
+git log --single
+groups
+ldd curl
+ldd curl4
+ldd libcurl
+ldd libcurl-dev
+ldd libcurl-devel
+let TOTT=$((${TOTT}+12))
+let TOTT=$((TOTT+12))
+let TOTT=$((TOTT+2))
+nim
+nim --help
+set | grep TOTT
+showVNs_b 20230127
+tmux -a 20230124
+tmux a -t 20230124
+tmux a 20230124
+touch /c/Users/gregor.redelonghi/majstaf/en_staf/brisime
+tree -d usr/
+tree build
+tree twice.c 
+tree ~/majstaf/en_metsys_git/en_metsys_source/en_majbin/BrthReminder/
+./RsortByEnddate_run 
+./RsortByEnddate_run.sh 
+./RsortByEnddate_run2.sh 
+./RsortByEnddate_run2.sh  /home/gregor.redelonghi/majstaf/
+./RsortByEnddate_run2.sh  /home/gregor.redelonghi/majstaf/coding/
+./RsortByEnddate_run2.sh  /home/gregor.redelonghi/majstaf/majbin/
+./RsortByEnddate_run2.sh  FAJLS/
+./RsortByEnddate_run2.sh  ~/DRPBX_ODPRT/_C_and_Cpp/
+./RsortByEnddate_run2.sh  ~/DRPBX_ODPRT/_C_and_Cpp/ | head
+./RsortByEnddate_run2.sh  ~/DRPBX_ODPRT/_C_and_Cpp/ |clm
+./fRUN_f_backup.sh -c
+./sort_vector 
+./venv/Scripts/python multiple_buttons_v2.py 
+./venv/Scripts/python multiple_buttons_v2.py 2> output1
+./venv/Scripts/python multiple_buttons_v2.py > output1
+/d/ext_WD_usbHDD_2TB/RUN_backup.sh -c
+/e/ext_SANDISK_USB_128G/RUN_backup.sh -c
+/usr/local/bin/rsort-by-tmstmp_c 
+/usr/local/bin/rsort-by-tmstmp_c ~/DRPBX_ODPRT/_C_and_Cpp/
+/usr/local/bin/rsort-by-tmstmp_c ~/DRPBX_ODPRT/_C_and_Cpp/ | clm
+/usr/local/bin/rsort-by-tmstmp_c ~/DRPBX_ODPRT/_C_and_Cpp/ | less
+NDOT=/home/gregor.redelonghi/majstaf/en_metsys_git/en_metsys_source/en_majbin
+OPNU "C:\Users\gregor.redelonghi\2023\_2023_1_PROJEKTI"
+cat /majstaf/en_metsys_git/en_metsys/COMMIT_EDITMSG
+cat BRISI/i3.cinfig 
+cat BRISI/i3.cinfig | grep "^#\|^bindsym"
+cat BRISI/i3.cinfig | grep "^#\|^bindsym" | sed 's/^bindsym \(.*\) /\1\t/
+cat BRISI/i3.cinfig | grep "^#\|^bindsym" | sed 's/^bindsym \(.*\) /\1\t/'
+cat BRISI/i3.cinfig | grep "^#\|^bindsym" | sed 's/^bindsym \(.*\) /\1\t/' | less
+cat BRISI/i3.cinfig | grep "^#\|^bindsym" | sed 's/^bindsym \(.*\) /\1\t\t\t/' | less
+cat BRISI/i3.cinfig | grep "^#\|^bindsym\|^$" | sed 's/^bindsym //'
+cat BRISI/i3.cinfig | grep "^#\|^bindsym\|^$" | sed 's/^bindsym \(.*\) /\1\t\t\t/' | less
+cat BRISI/i3.cinfig | grep "^#\|^bindsym\|^$" | sed 's/^bindsym \(.*\) \(.*\)/\1\t\t\2/'
+cat BRISI/i3.cinfig | grep "^#\|^bindsym\|^$" | sed 's/^bindsym \(.*\) \(.*\)/\1\t\t\2/' | less
+cat BRISI/i3.cinfig | grep "^#\|^bindsym\|^$" | sed 's/^bindsym \([^ ]*\) \(.*\)/\1\t\t\2/' | less
+cat BRISI/i3.cinfig | grep "^#\|^bindsym\|^$" | sed 's/^bindsym \([^ ]*\) \(.*\)/\1\t\t\2/' | less > ajtri.konf.txt
+cat BRISI/i3.cinfig | grep "^#\|^bindsym\|^$" | sed 's/^bindsym \(\S\) \(.*\)/\1\t\t\2/' | less
+cat ORIGINALI_20180907/
+cat _TXT/tmux-cheat-sheet_20220617.txt
+cat config 
+cat file.csv | ./bin/readstdin.exe 
+cat majstaf/en_metsys_git/en_metsys/
+cat majstaf/en_metsys_git/en_metsys/COMMIT_EDITMSG
+cat output1 
+cat ~/DRPBX_ODPRT/_TXT/tmux-cheat-sheet_20220617.txt
+diff 02-rbckp-cgr-en-2022.sh 02-rbckp-cgr-en-2023.sh 
+diff output1 output2
+echo $(basename $PWD)
+echo $(cygpath -w $PATH_TO_FX)
+find -iname "*config*"
+find -maxdepth 1 -type d 
+find -maxdepth 1 -type d | sort
+find -maxdepth 1 -typed d 
+find -name "*tmux*txt"
+find -name "mintty-color*"
+find -type f -name "R*"
+find -type f -name "RS*"
+find -type f -name "^R*"
+find -type f -name "isprime.h"
+find -type f -name "isprimt.h"
+majstaf/majbin/rsort-by-enddate_c.exe ~/DRPBX_ODPRT/_C_and_Cpp/
+majstaf/majbin/rsort-by-enddate_g.exe ~/DRPBX_ODPRT/_C_and_Cpp/
+majstaf/majbin/rsort-by-tmstmp_c.exe ~/DRPBX_ODPRT/_C_and_Cpp/
+ranger --help
+rustc test.rs 
+tmux info
+tmux list-keys
+\history
+\history | cut -d' ' -f4-
+\history | cut -d' ' -f5-
+\history | cut -d' ' -f6- | uniq -c
+dirs "@"
+echo $EDITOR
+echo $NDOT
+find -maxdepth 0 -type f -name ".*"
+find -maxdepth 1 -type f -name ".*"
+find -maxdepth 1 -type f -name ".*"; do echo $FFF; done
+find -type f -name ".*"
+find / -type f -name "*completion*"
+find / -type f name "*completion*"
+for FFF $(find -type f -name "\.*"); do echo $FFF; done
+for FFF in $(find * -maxdepth 1 -type f -name ".*"); do echo $(basename $FFF); done
+for FFF in $(find * -maxdepth 1 -type f -name ".*"); do echo $FFF; done
+for FFF in $(find -maxdepth 1 -type f -name ".*"); do diff $FFF ~/majstaf/en_metsys_git/en_metsys_source/en_dotfiles/$(basename $FFF); done
+for FFF in $(find -maxdepth 1 -type f -name ".*"); do echo $(basename $FFF); done
+for FFF in $(find -maxdepth 1 -type f -name ".*"); do echo $FFF; done
+for FFF in $(find -maxdepth 1 -type f -name ".*"); do echo diff $FFF ~/majstaf/en_metsys_git/en_metsys_source/en_dotfiles/$(basename $FFF); done
+for FFF in ./.*; do echo $FFF; done
+for FFF in ~./.*; do echo $FFF; done
+fzf --reverse --height 23
+history | cut -d' ' -f5-
+history | cut -d' ' -f6- | sort
+history | cut -d' ' -f6- | sort | uniq -c
+history | cut -d' ' -f6- | uniq -c
+history | uniq -c
+history | uniq -c | sort -nr
+sleep & echo "Done!"
+sleep 5 & echo "Done!"
+sleep 5 && echo "Done!"
+\history | cut -d' ' -f6-
+echo $PATH_TO_FX
+for FFF in $(find -maxdepth 1 -type d -name ".*"); do diff -q $FFF ~/majstaf/en_metsys_git/en_metsys_source/en_dotfiles/$(basename $FFF); done
+for FFF in $(find -maxdepth 1 -type d -name ".*"); do diff -q $FFF ~/majstaf/en_metsys_git/en_metsys_source/en_dotfiles/$(basename $FFF); done | grep 'No such'
+history | cut -d' ' -f6-
+history | grep --color fzf
+history | grp --color fzf
+locale
+make -f ../Makefile clean
+time brthdReminder 
+time ~/0a_povezave/BrthReminder 
+top
+\history | cut -d' ' -f6- | sort -nr | uniq -c
+cargo build --release
+du -sh --total ./* | sort -hr | head -n 30 | clm
+find -iname "*sh*p*txt"
+find -iname "*shp*txt"
+fndb-win-executables 
+for FFF in $(find -name "Makefile"); do grep --color '-c' $FFF; done
+make -f ../Makefile clean 
+urxvt --help
+urxvt --help | less
+cat file.csv | ./bin/readstdin_v2.exe 
+diff -q ~/majstaf/majbin/ ~/majstaf/en_git/en_metsys_source/en_majbin/ | grep -v Common
+echo -e "1,Gregor,Redelonghi\n2,Tadeja,Mali Redelonghi" | ./bin/readstdin.exe 
+./compile_and_run.sh test.rs 
+./nobuild.exe 
+DT=$(date +"%H%M%S"); tmux new-session -s "${DT}" \; split-window -v
+for FJL in _OBRNJENO/*; do echo A="${FJL}" cat A1west output $(basename $FJL); done
+for FJL in _OBRNJENO/*; do echo A=${FJL} cat A1west output $(basename $FJL); done
+make && bin/recursion_V1.exe 
+git log --oneline
+updatedb
+./venv/Scripts/python multiple_buttons.py
+/c/Users/gregor.redelonghi/2023/_2023_1_PROJEKTI/showVNs.sh 
+echo ${BASH_SOURCE[0]}
+rustc read_csv.rs 
+tmux -2 -f ~/.tmux_7_conf attach
+/e/ext_SANDISK_USB_128G/RUN_backup.sh 
+./narocilo_KOPILAB.sh 
+dirs "$@"
+echo $(cygpath -w $PWD)
+find /c/Users/gregor.redelonghi/ -type f -iname "*a*cad*txt"
+for FFF $(find -type f -name ".*"); do echo $FFF; done
+for FFF in .*; do echo $FFF; done
+fzf --reverse
+pushd
+drpbx-rclone-sync-ODPRTO2-R-L 
+git log --graph
+cat file.txt | ./bin/readstdin.exe 
+tmxns
+showVNs_b 
+for FFF in $(find -maxdepth 1 -type f -name ".*"); do diff -q $FFF ~/majstaf/en_metsys_git/en_metsys_source/en_dotfiles/$(basename $FFF); done
+showVNs_b 20230115
+fish
+psswdchange-en 
+cargo build
+fzf
+szpp
+get_ndiffs 
+tmxks

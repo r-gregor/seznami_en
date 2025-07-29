@@ -1,0 +1,13 @@
+for FFF in *; do echo "mv -v $FFF ${FFF//.sh/}"; done
+for FFF in *; do mv -v $FFF ${FFF//.sh/}; done
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+for FFF in $(find ~/majstaf/en_git/en_metsys_source/majbin_en -type f); do diff -q $FFF ~/majstaf/majbin/$(basename $FFF); done 
+for FFF in $(find ~/majstaf/en_git/en_metsys_source/majbin_en -type f); do diff -q $FFF ~/majstaf/majbin/$(basename $FFF); done | grep differ
+for FFF in $(find ~/majstaf/en_git/en_metsys_source/majbin_en -type f); do diff -q $FFF ~/majstaf/majbin/$(basename $FFF) 2>/dev/null; done | grep differ
+for FFF in $(diff -q metsys_en/ ~/majstaf/en_git/en_metsys_source/en_setups/ | grepc 'Only in met' |cut -b 38-); do echo $FFF; done
+for FFF in $(diff -q metsys_en/ ~/majstaf/en_git/en_metsys_source/en_setups/ | grepc 'Only in met' |cut -b 38-); do echo cp -rnv ~/majstaf/metsys_en/$FFF ~/majstaf/en_git/en_metsys_source/en_setups/ ; done
+for FFF in $(diff -q metsys_en/ ~/majstaf/en_git/en_metsys_source/en_setups/ | grepc 'Only in met' |cut -b 38-); do cp -rnv ~/majstaf/metsys_en/$FFF ~/majstaf/en_git/en_metsys_source/en_setups/ ; done
+for FFF in $(find -type l | xargs -I{} ls -l {} | grep 'home/gregor' | cut -b61- |sed 's/ ->.*//'); do echo $FFF; done
+for FFF in $(find -type l | xargs -I{} ls -l {} | grep 'home/gregor' | cut -b61- |sed 's/ ->.*//'); do echo mv $FFF ~/usr_local_bin_listulbs/; done
+for FFF in $(find -type l | xargs -I{} ls -l {} | grep 'home/gregor' | cut -b61- |sed 's/ ->.*//'); do echo mv -v $FFF ~/usr_local_bin_listulbs/; done
+for FFF in $(find -type l | xargs -I{} ls -l {} | grep 'home/gregor' | cut -b61- |sed 's/ ->.*//'); do mv -v $FFF ~/usr_local_bin_listulbs/; done

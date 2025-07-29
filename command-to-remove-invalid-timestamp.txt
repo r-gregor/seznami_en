@@ -1,0 +1,2 @@
+cat history-en.dat_20240819-154011 | sed "s/\( 17.\{8\}\): invalid timestamp/ $(printf '%(%F %T)T ' \1) /" > history-en.dat_20240819-154011_3
+

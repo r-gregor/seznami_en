@@ -1,0 +1,1094 @@
+
+Cygwin Configuration Diagnostics
+Current System Time: Fri Dec 02 11:25:45 2016
+
+Windows 7 Enterprise Ver 6.1 Build 7601 Service Pack 1
+
+Path:	C:\Users\gregor.redelonghi\myprogs\cygwin64\usr\local\bin
+	C:\Users\gregor.redelonghi\myprogs\cygwin64\bin
+	C:\Windows\system32
+	C:\Windows
+	C:\Windows\System32\Wbem
+	C:\Windows\System32\WindowsPowerShell\v1.0
+	C:\Windows\System32\WindowsPowerShell\v1.0
+	C:\Users\gregor.redelonghi\myprogs\cygwin64\lib\lapack
+
+Output from C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\id.exe
+UID: 17634(gregor.redelonghi)
+GID: 10513(Domain Users)
+10513(Domain Users)
+545(Users)
+4(INTERACTIVE)
+66049(CONSOLE LOGON)
+11(Authenticated Users)
+15(This Organization)
+4095(CurrentSession)
+66048(LOCAL)
+1056432(G_JPE_Posebno_ARHIV_R)
+1056441(G_JPE_Posebno_ISO_9001_R)
+1052820(G_JPE)
+1056437(G_JPE_Posebno_GIS_R)
+1056084(G_JPE_PI)
+1056440(G_JPE_Posebno_GIS_TOPOGRAFIJA_R)
+1056439(G_JPE_Posebno_GIS_DB_R)
+1056446(G_JPE_Posebno_PROGRAMI_R)
+1056088(G_JPE_PI_OPROJ)
+1056438(G_JPE_Posebno_GIS_CAFVIEW_R)
+70145(Authentication authority asserted identity)
+1056435(DL_JPE_Posebno_ARHIV_R)
+1056465(DL_JPE_Posebno_ISO_9001_R)
+1056463(DL_JPE_Posebno_GIS_DB_R)
+1050532(DL_AppV_SAPTestRazsirjena)
+1056461(DL_JPE_Posebno_GIS_R)
+1056119(DL_JPE_Share_PI_OPROJ)
+1050287(DL_Public_FC)
+1056115(DL_JPE_Share_PI)
+1056485(DL_JPE_Share)
+1069039(DL_AppV_5_SAP_740)
+1056470(DL_JPE_Posebno_PROGRAMI_R)
+1056462(DL_JPE_Posebno_GIS_CAFVIEW_R)
+1056464(DL_JPE_Posebno_GIS_TOPOGRAFIJA_R)
+1052554(DL_AppV_AdobeRdr)
+401408(Medium Mandatory Level)
+
+SysDir: C:\Windows\system32
+WinDir: C:\Windows
+
+Here's some environment variables that may affect cygwin:
+USER = 'gregor.redelonghi'
+PWD = '/home/gregor.redelonghi/seznami'
+HOME = '/home/gregor.redelonghi'
+
+Use '-r' to scan registry
+
+obcaseinsensitive set to 1
+
+Cygwin installations found in the registry:
+  System: Key: 71b43b63524449e9 Path: C:\Users\gregor.redelonghi\myprogs\cygwin64
+  User:   Key: 71b43b63524449e9 Path: C:\Users\gregor.redelonghi\myprogs\cygwin64
+
+Listing available drives...
+Drv Type          Size   Used Flags              Name
+c:  hd  NTFS    305142Mb  31% CP CS UN PA FC     
+e:  cd             N/A    N/A                    
+g:  net NTFS   3481468Mb 100% CP CS UN PA        JPE
+h:  net NTFS   3481468Mb 100% CP CS UN PA        JPE
+i:  net NTFS    614269Mb  86% CP CS UN PA        JHL_Ostalo
+t:  net NTFS    614269Mb  86% CP CS UN PA        JHL_Ostalo
+y:  net NTFS   3481468Mb 100% CP CS UN PA        JPE
+
+fd = floppy,          hd = hard drive,       cd = CD-ROM
+net= Network Share,   ram= RAM drive,        unk= Unknown
+CP = Case Preserving, CS = Case Sensitive,   UN = Unicode
+PA = Persistent ACLS, FC = File Compression, VC = Volume Compression
+
+Mount entries: these map POSIX directories to your NT drives.
+-NT-                                             -POSIX-   -Type-  -Flags-
+C:\Users\gregor.redelonghi\myprogs\cygwin64      /         system  binary,auto
+C:\Users\gregor.redelonghi\myprogs\cygwin64\bin  /usr/bin  system  binary,auto
+C:\Users\gregor.redelonghi\myprogs\cygwin64\lib  /usr/lib  system  binary,auto
+cygdrive prefix                                  /         user    binary,posix=0,auto
+
+Looking to see where common programs can be found, if at all...
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\awk
+ -> C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\gawk.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\bash.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cat.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cp.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cpp.exe
+Not Found: crontab
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\find.exe
+Found: C:\Windows\system32\find.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\gcc.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\gdb.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\grep.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\kill.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\ld.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\ls.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\make.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\mv.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\patch.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\perl.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\rm.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\sed.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\ssh.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\sh.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\tar.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\test.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\vi.exe
+Found: C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\vim.exe
+
+Looking for various Cygwin DLLs...  (-v gives version info)
+  621k 2016/11/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygarchive-13.dll
+   39k 2016/09/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygargp-0.dll
+  643k 2013/04/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygaspell-15.dll
+  117k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygatk-1.0-0.dll
+  159k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygatk-bridge-2.0-0.dll
+   88k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygatomic-1.dll
+  147k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygatspi-0.dll
+   16k 2013/03/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygattr-1.dll
+   80k 2013/05/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygaudio-2.dll
+  177k 2016/05/04 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygautotrace-3.dll
+  180k 2015/03/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygblkid-1.dll
+   64k 2013/03/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygbz2-1.dll
+ 1087k 2015/11/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcairo-2.dll
+   27k 2015/11/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcairo-gobject-2.dll
+  119k 2015/11/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcairo-script-interpreter-2.dll
+   10k 2015/02/20 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcharset-1.dll
+  487k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclang-3.8.dll
+12296k 2014/10/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclang.dll
+  505k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangAnalysis-3.8.dll
+ 1387k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangARCMigrate-3.8.dll
+ 2597k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangAST-3.8.dll
+  280k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangASTMatchers-3.8.dll
+ 1536k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangBasic-3.8.dll
+ 2772k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangCodeGen-3.8.dll
+  890k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangDriver-3.8.dll
+ 1169k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangDynamicASTMatchers-3.8.dll
+   52k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangEdit-3.8.dll
+  271k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangFormat-3.8.dll
+  909k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangFrontend-3.8.dll
+   18k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangFrontendTool-3.8.dll
+   92k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangIndex-3.8.dll
+  623k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangLex-3.8.dll
+  775k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangParse-3.8.dll
+   57k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangRewrite-3.8.dll
+  385k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangRewriteFrontend-3.8.dll
+ 4933k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangSema-3.8.dll
+ 1115k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangSerialization-3.8.dll
+ 2018k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangStaticAnalyzerCheckers-3.8.dll
+ 1234k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangStaticAnalyzerCore-3.8.dll
+  142k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangStaticAnalyzerFrontend-3.8.dll
+  244k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangTooling-3.8.dll
+   33k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygclangToolingCore-3.8.dll
+  117k 2013/05/05 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcloog-isl-4.dll
+   13k 2015/03/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcom_err-2.dll
+   31k 2013/04/24 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcord-1.dll
+  203k 2016/05/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcroco-0.6-3.dll
+   10k 2016/06/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcrypt-0.dll
+ 2235k 2016/09/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcrypto-1.0.0.dll
+  468k 2016/11/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygcurl-4.dll
+   24k 2014/11/12 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygdatrie-1.dll
+ 1549k 2016/08/22 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygdb-5.3.dll
+  267k 2016/10/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygdbus-1-3.dll
+  124k 2016/08/22 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygdb_cxx-5.3.dll
+  570k 2016/08/22 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygdb_sql-5.3.dll
+  169k 2014/02/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygdialog-11.dll
+  176k 2016/09/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygdialog-13.dll
+  154k 2013/10/20 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygedit-0.dll
+  110k 2016/11/11 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygEGL-1.dll
+  158k 2016/08/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygEMF-1.dll
+  643k 2016/07/12 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygepoxy-0.dll
+  229k 2016/01/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygevent-2-0-5.dll
+  136k 2016/01/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygevent_core-2-0-5.dll
+  106k 2016/01/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygevent_extra-2-0-5.dll
+   21k 2016/01/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygevent_openssl-2-0-5.dll
+   10k 2016/01/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygevent_pthreads-2-0-5.dll
+  145k 2016/06/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygexpat-1.dll
+   73k 2016/08/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygexslt-0.dll
+  214k 2015/03/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygext2fs-2.dll
+   30k 2014/10/14 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfam-0.dll
+   27k 2015/11/17 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygffi-6.dll
+ 1050k 2016/07/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfftw3-3.dll
+ 1008k 2016/07/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfftw3f-3.dll
+   24k 2016/07/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfftw3f_threads-3.dll
+  863k 2016/07/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfftw3l-3.dll
+   24k 2016/07/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfftw3l_threads-3.dll
+   24k 2016/07/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfftw3_threads-3.dll
+  243k 2016/08/11 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfontconfig-1.dll
+   26k 2016/01/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfontenc-1.dll
+   55k 2016/09/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygformw-10.dll
+  545k 2015/01/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfpx-1.dll
+  417k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfreebl3.dll
+  597k 2016/07/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygfreetype-6.dll
+  103k 2013/04/24 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggc-1.dll
+    8k 2013/04/24 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggccpp-1.dll
+   70k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggcc_s-seh-1.dll
+  174k 2015/11/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggck-1-0.dll
+  478k 2015/11/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggcr-base-3-1.dll
+  367k 2015/11/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggcr-ui-3-1.dll
+  470k 2014/06/01 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggcrypt-11.dll
+  580k 2016/09/22 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggcrypt-20.dll
+  239k 2013/04/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggd-2.dll
+  346k 2016/08/18 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggd-3.dll
+   39k 2016/10/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggdbm-4.dll
+   13k 2016/10/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggdbm_compat-4.dll
+  606k 2016/04/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggdk-3-0.dll
+  131k 2016/05/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggdk_pixbuf-2.0-0.dll
+  187k 2016/11/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygGeoIP-1.dll
+ 1158k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggfortran-3.dll
+   32k 2013/07/22 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggif-4.dll
+ 1276k 2016/06/02 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggio-2.0-0.dll
+  459k 2016/11/11 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygGL-1.dll
+  287k 2016/11/11 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygglapi-0.dll
+  958k 2016/06/02 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygglib-2.0-0.dll
+   14k 2016/06/02 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggmodule-2.0-0.dll
+  527k 2016/08/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggmp-10.dll
+  125k 2015/03/18 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggnome-keyring-0.dll
+  931k 2015/08/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggnutls-28.dll
+   24k 2015/08/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggnutls-openssl-27.dll
+   41k 2015/08/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggnutlsxx-28.dll
+  284k 2016/06/02 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggobject-2.0-0.dll
+  105k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggomp-1.dll
+   10k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggomp-plugin-host_nonshm-1.dll
+   68k 2016/07/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggpg-error-0.dll
+  176k 2016/10/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggraphite2-3.dll
+11540k 2016/06/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggs-9.dll
+  258k 2016/09/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggssapi_krb5-2.dll
+    9k 2016/06/02 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggthread-2.0-0.dll
+ 6690k 2016/04/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggtk-3-0.dll
+   17k 2016/04/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyggtkreftestprivate-0.dll
+  691k 2013/04/22 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygguile-17.dll
+  389k 2016/10/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygharfbuzz-0.dll
+   11k 2016/10/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygharfbuzz-icu-0.dll
+   30k 2015/01/27 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyghistory7.dll
+  167k 2016/03/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyghogweed-2.dll
+   77k 2014/08/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygICE-6.dll
+  361k 2015/11/24 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicons-0.dll
+ 1009k 2015/02/20 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygiconv-2.dll
+21806k 2013/06/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicudata51.dll
+25076k 2016/04/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicudata57.dll
+25606k 2016/10/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicudata58.dll
+ 1717k 2013/06/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicui18n51.dll
+ 2082k 2016/04/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicui18n57.dll
+ 2091k 2016/10/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicui18n58.dll
+   43k 2013/06/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicuio51.dll
+   44k 2016/04/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicuio57.dll
+   44k 2016/10/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicuio58.dll
+  305k 2013/06/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicule51.dll
+  298k 2016/04/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicule57.dll
+   38k 2013/06/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygiculx51.dll
+   38k 2016/04/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygiculx57.dll
+ 1231k 2013/06/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicuuc51.dll
+ 1400k 2016/04/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicuuc57.dll
+ 1422k 2016/10/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygicuuc58.dll
+   78k 2013/06/05 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygid3tag-0.dll
+  196k 2014/12/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygidn-11.dll
+  212k 2016/11/03 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygidn2-0.dll
+  304k 2016/07/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygImlib2-1.dll
+   42k 2016/10/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygintl-8.dll
+  888k 2013/05/05 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygisl-10.dll
+ 1039k 2015/09/20 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygisl-13.dll
+  272k 2015/01/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygjasper-1.dll
+   48k 2014/06/17 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygjbig-2.dll
+   18k 2014/06/17 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygjbig85-2.dll
+  403k 2016/08/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygjpeg-8.dll
+  129k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygjson-glib-1.0-0.dll
+  177k 2016/09/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygk5crypto-3.dll
+   85k 2016/11/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygkpathsea-6.dll
+  722k 2016/09/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygkrb5-3.dll
+   35k 2016/09/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygkrb5support-0.dll
+   45k 2015/11/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyglber-2-4-2.dll
+  189k 2015/02/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyglcms-1.dll
+  293k 2014/11/14 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyglcms2-2.dll
+  246k 2015/11/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygldap-2-4-2.dll
+  262k 2015/11/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygldap_r-2-4-2.dll
+17273k 2014/10/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygLLVM-3.4.dll
+26685k 2016/07/21 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygLLVM-3.8.dll
+    6k 2016/08/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyglsa64.dll
+   35k 2016/06/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygltdl-7.dll
+   41k 2015/10/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyglz4-1.dll
+  139k 2015/11/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyglzma-5.dll
+  126k 2014/11/17 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyglzo2-2.dll
+  114k 2016/01/11 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmagic-1.dll
+  291k 2013/10/12 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygMagick++-5.dll
+  353k 2016/08/27 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygMagick++-6.Q16-6.dll
+ 4157k 2013/10/12 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygMagickCore-5.dll
+ 4498k 2016/08/27 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygMagickCore-6.Q16-2.dll
+ 1088k 2013/10/12 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygMagickWand-5.dll
+ 1151k 2016/08/27 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygMagickWand-6.Q16-2.dll
+  169k 2016/10/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygman-2-7-5.dll
+   22k 2016/10/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmandb-2-7-5.dll
+   29k 2016/09/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmenuw-10.dll
+   42k 2013/08/12 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmetalink-3.dll
+  329k 2016/08/24 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygming-1.dll
+  370k 2013/05/02 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmng-1.dll
+  367k 2016/08/22 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmng-2.dll
+   89k 2015/03/01 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmpc-3.dll
+  346k 2016/09/27 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmpfr-4.dll
+   71k 2015/03/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygmspack-0.dll
+   53k 2016/09/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygncurses++w-10.dll
+  279k 2016/09/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygncursesw-10.dll
+  131k 2014/11/14 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygneon-27.dll
+  204k 2016/11/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygnetpbm-10.dll
+  180k 2016/03/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygnettle-4.dll
+  137k 2016/09/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygnghttp2-14.dll
+  222k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygnspr4.dll
+ 1285k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygnss3.dll
+  165k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygnssdbm3.dll
+  154k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygnssutil3.dll
+   90k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygobjc-4.dll
+  189k 2016/11/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygopenjp2-7.dll
+  126k 2016/03/04 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygopenjpeg-1.dll
+   30k 2014/11/16 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygOpenVG-1.dll
+  319k 2015/06/01 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygp11-kit-0.dll
+   14k 2016/09/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpanelw-10.dll
+  258k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpango-1.0-0.dll
+   43k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpangocairo-1.0-0.dll
+   71k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpangoft2-1.0-0.dll
+   28k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpangoxft-1.0-0.dll
+   11k 2013/07/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpaper-1.dll
+  474k 2016/08/11 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpcre-1.dll
+  463k 2016/08/11 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpcre2-16-0.dll
+ 2021k 2016/04/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygperl5_22.dll
+   39k 2015/04/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpipeline-1.dll
+  638k 2016/08/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpixman-1-0.dll
+   17k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygplc4.dll
+   14k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygplds4.dll
+ 1159k 2016/04/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygplot-2.dll
+ 1000k 2016/04/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygplotter-2.dll
+  148k 2014/05/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpng15-15.dll
+  179k 2016/08/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpng16-16.dll
+ 1897k 2014/02/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpoppler-44.dll
+ 2028k 2016/11/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpoppler-62.dll
+   41k 2016/07/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpopt-0.dll
+   54k 2016/09/20 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygprocps-5.dll
+  113k 2015/06/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygproxy-1.dll
+   49k 2016/11/04 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpsl-5.dll
+    8k 2013/04/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpspell-15.dll
+  362k 2016/06/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygpstoedit-0.dll
+   39k 2016/11/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygptexenc-1.dll
+ 2717k 2016/09/01 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygQtCore-4.dll
+10055k 2016/09/01 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygQtGui-4.dll
+  308k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygquadmath-0.dll
+  207k 2015/01/27 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygreadline7.dll
+   71k 2015/03/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygrest-0.7-0.dll
+   28k 2015/03/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygrest-extras-0.7-0.dll
+  201k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygrsvg-2-2.dll
+ 2215k 2016/06/27 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygruby220.dll
+   97k 2014/11/24 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsasl2-3.dll
+   11k 2015/07/17 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsigsegv-2.dll
+  823k 2016/10/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygslang-2.dll
+   28k 2014/01/14 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygSM-6.dll
+   89k 2015/03/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsmartcols-1.dll
+  165k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsmime3.dll
+  264k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsoftokn3.dll
+  630k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsoup-2.4-1.dll
+   11k 2015/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsoup-gnome-2.4-1.dll
+  964k 2016/08/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsqlite3-0.dll
+  156k 2016/03/02 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygssh2-1.dll
+  398k 2016/09/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygssl-1.0.0.dll
+  406k 2016/10/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygssl3.dll
+   12k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygssp-0.dll
+   30k 2013/06/05 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygstartup-notification-1-0.dll
+ 1325k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygstdc++-6.dll
+   60k 2016/11/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygsynctex-1.dll
+   66k 2016/08/22 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtasn1-6.dll
+  162k 2016/11/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtexlua52-5.dll
+  436k 2016/11/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtexluajit-2.dll
+   32k 2014/11/12 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygthai-0.dll
+   52k 2016/09/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygticw-10.dll
+  296k 2013/05/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtidy-0-99-0.dll
+  363k 2014/05/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtiff-5.dll
+  420k 2015/10/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtiff-6.dll
+   12k 2014/05/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtiffxx-5.dll
+   11k 2015/10/28 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtiffxx-6.dll
+  442k 2016/08/07 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygturbojpeg-0.dll
+  218k 2016/05/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygtxc_dxtn.dll
+ 1154k 2013/04/20 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygunistring-0.dll
+ 1538k 2015/10/16 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygunistring-2.dll
+   73k 2015/02/11 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygusb0.dll
+  166k 2013/06/12 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygustr-1.dll
+   15k 2015/03/23 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cyguuid-1.dll
+ 2378k 2016/07/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygvpx-3.dll
+    8k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygvtv-0.dll
+    8k 2016/06/13 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygvtv_stubs-0.dll
+  344k 2016/07/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygwebp-5.dll
+   27k 2016/07/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygwebpmux-1.dll
+   30k 2013/11/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygwrap-0.dll
+ 1128k 2016/10/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygX11-6.dll
+    9k 2016/10/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygX11-xcb-1.dll
+   12k 2013/06/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXau-6.dll
+  375k 2016/01/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXaw-7.dll
+  296k 2014/08/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXaw3d-8.dll
+  121k 2016/08/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygxcb-1.dll
+   76k 2016/08/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygxcb-glx-0.dll
+   41k 2016/08/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygxcb-render-0.dll
+   12k 2016/08/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygxcb-shm-0.dll
+   17k 2013/03/17 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygxcb-util-1.dll
+   11k 2013/03/18 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXcomposite-1.dll
+   34k 2013/06/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXcursor-1.dll
+   10k 2013/04/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXdamage-1.dll
+   21k 2015/03/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXdmcp-6.dll
+   56k 2014/08/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXext-6.dll
+   20k 2016/10/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXfixes-3.dll
+   73k 2014/08/10 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXft-2.dll
+   58k 2016/10/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXi-6.dll
+   10k 2013/06/06 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXinerama-1.dll
+ 1213k 2016/08/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygxml2-2.dll
+   85k 2014/01/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXmu-6.dll
+   59k 2014/01/15 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXpm-4.dll
+   36k 2016/10/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXrandr-2.dll
+   36k 2016/01/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXrender-1.dll
+  209k 2016/08/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygxslt-1.dll
+   12k 2013/03/14 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXss-1.dll
+  326k 2016/01/29 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXt-6.dll
+   22k 2016/10/09 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygXtst-6.dll
+  121k 2014/12/08 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygyaml-0-2.dll
+   80k 2014/11/19 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygz.dll
+   61k 2015/03/26 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygzip-2.dll
+   24k 2013/05/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygzzip-0-13.dll
+   12k 2013/05/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygzzipfseeko-0-13.dll
+   15k 2013/05/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygzzipmmapped-0-13.dll
+    9k 2013/05/30 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygzzipwrap-0-13.dll
+ 3229k 2016/08/31 C:\Users\gregor.redelonghi\myprogs\cygwin64\bin\cygwin1.dll
+    Cygwin DLL version info:
+        DLL version: 2.6.0
+        DLL epoch: 19
+        DLL old termios: 5
+        DLL malloc env: 28
+        Cygwin conv: 181
+        API major: 0
+        API minor: 304
+        Shared data: 5
+        DLL identifier: cygwin1
+        Mount registry: 3
+        Cygwin registry name: Cygwin
+        Installations name: Installations
+        Cygdrive default prefix: 
+        Build date: 
+        Shared id: cygwin1S5
+
+  451k 2016/06/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\lib\lapack\cygblas-0.dll
+ 6102k 2016/06/25 C:\Users\gregor.redelonghi\myprogs\cygwin64\lib\lapack\cyglapack-0.dll
+
+Checking for any Cygwin services... (use -v for more detail)
+
+No Cygwin services found.
+
+
+Cygwin Package Information
+Package                             Version                        Status
+_autorebase                         001004-1                       OK
+_update-info-dir                    03000-1                        OK
+a2ps                                4.14-3                         OK
+abook                               0.6.1-1                        OK
+adwaita-icon-theme                  3.18.0-1                       OK
+alternatives                        1.3.30c-10                     OK
+arj                                 3.10.22-3                      OK
+ascii                               3.15-1                         OK
+asciidoc                            8.6.8-1                        OK
+aspell                              0.60.6.1-1                     OK
+at-spi2-core                        2.18.3-1                       OK
+attr                                2.4.46-1                       OK
+autoconf                            13-1                           OK
+autoconf2.1                         2.13-12                        OK
+autoconf2.5                         2.69-3                         OK
+automake                            9-1                            OK
+automake1.10                        1.10.3-2                       OK
+automake1.11                        1.11.6-2                       OK
+automake1.12                        1.12.6-2                       OK
+automake1.13                        1.13.4-1                       OK
+automake1.14                        1.14.1-2                       OK
+automake1.15                        1.15-1                         OK
+automake1.4                         1.4p6-11                       OK
+automake1.5                         1.5-11                         OK
+automake1.6                         1.6.3-12                       OK
+automake1.7                         1.7.9-11                       OK
+automake1.8                         1.8.5-11                       OK
+automake1.9                         1.9.6-11                       OK
+autossh                             1.4e-1                         OK
+autotrace                           0.31.1-17                      OK
+base-cygwin                         3.8-1                          OK
+base-files                          4.2-4                          OK
+bash                                4.3.46-7                       OK
+bash-completion                     2.4-1                          OK
+bc                                  1.06.95-2                      OK
+biber                               2.5-1                          OK
+binutils                            2.25-4                         OK
+bmp2png                             1.62-3                         OK
+build-docbook-catalog               1.5-2                          OK
+bzip2                               1.0.6-2                        OK
+ca-certificates                     2.10-1                         OK
+cabextract                          1.6-1                          OK
+ccache                              3.1.9-2                        OK
+cdargs                              1.35-2                         OK
+cdda2wav                            1.1.11-1                       OK
+cdrecord                            1.1.11-1                       OK
+cdrkit-doc                          1.1.11-1                       OK
+chere                               1.4-1                          OK
+chkconfig                           1.3.30a-2                      OK
+clang                               3.8.1-1                        OK
+clisp                               2.49-6.20150312hg15611         OK
+cmake                               3.6.2-1                        OK
+code2html                           0.9.1-1                        OK
+colordiff                           1.0.9-1                        OK
+coreutils                           8.25-3                         OK
+cpio                                2.11-3                         OK
+csih                                0.9.9-1                        OK
+ctags                               5.8-1                          OK
+curl                                7.51.0-1                       OK
+cvs                                 1.11.23-2                      OK
+cvsutils                            0.2.6-1                        OK
+cygcheck-dep                        2.1-1                          OK
+cygport                             0.22.0-1                       OK
+cygrunsrv                           1.62-1                         OK
+cygutils                            1.4.15-2                       OK
+cygutils-extra                      1.4.15-2                       OK
+cygwin                              2.6.0-1                        OK
+cygwin-devel                        2.6.0-1                        OK
+cygwin-doc                          2.6.0-1                        OK
+dash                                0.5.8-3                        OK
+dblatex                             0.3.9-1                        OK
+dconf-service                       0.24.0-1                       OK
+ddir                                2010.0321+git1685e72-1         OK
+ddrescue                            1.21-1                         OK
+dejavu-fonts                        2.37-1                         OK
+desktop-file-utils                  0.23-1                         OK
+dialog                              1.3-2.20160828                 OK
+diffstat                            1.61-1                         OK
+diffutils                           3.5-1                          OK
+docbook-xsl                         1.77.1-1                       OK
+dos2unix                            7.3.4-1                        OK
+dri-drivers                         12.0.4-1                       OK
+duff                                0.5.2-1                        OK
+ed                                  1.13-1                         OK
+editrights                          1.03-1                         OK
+email                               3.2.3-git-2                    OK
+fdupes                              1.50-PR2-3                     OK
+figlet                              2.2.2-2                        OK
+file                                5.25-1                         OK
+findutils                           4.6.0-1                        OK
+fish                                2.4.0-1                        OK
+flip                                1.19-1                         OK
+font-encodings                      7.5-3                          OK
+font-ibm-type1                      7.5-3                          OK
+fontconfig                          2.12.1-1                       OK
+gamin                               0.1.10-15                      OK
+gawk                                4.1.4-1                        OK
+gcc-ada                             5.4.0-1                        OK
+gcc-core                            5.4.0-1                        OK
+gcc-fortran                         5.4.0-1                        OK
+gcc-g++                             5.4.0-1                        OK
+gcc-objc                            5.4.0-1                        OK
+gcc-objc++                          5.4.0-1                        OK
+gcc-tools-epoch1-autoconf           2.59-2                         OK
+gcc-tools-epoch1-automake           1.9.6-2                        OK
+gcc-tools-epoch2-autoconf           2.64-2                         OK
+gcc-tools-epoch2-automake           1.11.6-1                       OK
+gccmakedep                          1.0.3-1                        OK
+gcr                                 3.18.0-1                       OK
+gdb                                 7.10.1-1                       OK
+gdk-pixbuf2.0-svg                   2.40.11-1                      OK
+genisoimage                         1.1.11-1                       OK
+GeoIP                               1.6.9-1                        OK
+GeoIP-database                      20161101-2                     OK
+getent                              2.18.90-4                      OK
+ghostscript                         9.19-1                         OK
+ghostscript-fonts-other             6.0-1                          OK
+ghostscript-fonts-std               8.11-1                         OK
+git                                 2.8.3-1                        OK
+glib2.0-networking                  2.46.1-1                       OK
+gnome-icon-theme                    3.10.0-1                       OK
+gnome-keyring                       3.18.3-1                       OK
+gnupg                               1.4.21-1                       OK
+grep                                2.25-1                         OK
+groff                               1.22.3-1                       OK
+groff-perl                          1.22.3-1                       OK
+gsettings-desktop-schemas           3.18.1-1                       OK
+gtk-update-icon-cache               3.18.9-1                       OK
+gv                                  3.7.4-1                        OK
+gzip                                1.8-1                          OK
+hexedit                             1.2.13-2                       OK
+hicolor-icon-theme                  0.15-1                         OK
+hostname                            3.13-1                         OK
+html2ps                             1.0b7-2                        OK
+icedax                              1.1.11-1                       OK
+ImageMagick                         6.9.5.7-1                      OK
+inetutils                           1.9.1-2                        OK
+inetutils-server                    1.9.1-2                        OK
+info                                6.3-1                          OK
+ipc-utils                           1.0-2                          OK
+ipcalc                              0.41-1                         OK
+iprint                              1.3-1                          OK
+irssi                               0.8.20-1                       OK
+iso-codes                           3.70-1                         OK
+jpeg                                1.5.0-1                        OK
+kbproto                             1.0.7-1                        OK
+less                                481-1                          OK
+lftp                                4.7.3-1                        OK
+libarchive13                        3.2.2-1                        OK
+libargp                             20110921-3                     OK
+libaspell15                         0.60.6.1-1                     OK
+libatk-bridge2.0_0                  2.18.1-1                       OK
+libatk1.0_0                         2.18.0-1                       OK
+libatomic1                          5.4.0-1                        OK
+libatspi0                           2.18.3-1                       OK
+libattr1                            2.4.46-1                       OK
+libaudio2                           1.9.3-1                        OK
+libautotrace3                       0.31.1-17                      OK
+libblkid1                           2.25.2-2                       OK
+libbz2-devel                        1.0.6-2                        OK
+libbz2_1                            1.0.6-2                        OK
+libcairo2                           1.14.4-1                       OK
+libcharset1                         1.14-3                         OK
+libclang                            3.4.2-4                        OK
+libclang3.8                         3.8.1-1                        OK
+libcloog-isl4                       0.18.0-2                       OK
+libcom_err2                         1.42.12-2                      OK
+libcroco0.6_3                       0.6.11-1                       OK
+libcrypt0                           1.4-1                          OK
+libcurl4                            7.51.0-1                       OK
+libdatrie1                          0.2.8-1                        OK
+libdb5.3                            5.3.28-1                       OK
+libdbus1_3                          1.10.12-1                      OK
+libdialog11                         1.2-20140112-1                 OK
+libdialog13                         1.3-2.20160828                 OK
+libedit0                            20130712-1                     OK
+libEGL1                             12.0.4-1                       OK
+libEMF-devel                        1.0.8-1                        OK
+libEMF1                             1.0.8-1                        OK
+libepoxy0                           1.3.1-1                        OK
+libevent2.0_5                       2.0.22-1                       OK
+libexpat-devel                      2.2.0-0                        OK
+libexpat1                           2.2.0-0                        OK
+libext2fs2                          1.42.12-2                      OK
+libfam0                             0.1.10-15                      OK
+libffi6                             3.2.1-2                        OK
+libfftw3_3                          3.3.5-1                        OK
+libfontconfig-common                2.12.1-1                       OK
+libfontconfig-devel                 2.12.1-1                       OK
+libfontconfig1                      2.12.1-1                       OK
+libfontenc1                         1.1.3-1                        OK
+libfpx1                             1.3.1.4-1                      OK
+libfreetype-devel                   2.6.5-1                        OK
+libfreetype6                        2.6.5-1                        OK
+libgc1                              7.2d-2                         OK
+libgcc1                             5.4.0-1                        OK
+libgck1_0                           3.18.0-1                       OK
+libgcr-base3_1                      3.18.0-1                       OK
+libgcr-ui3-common                   3.18.0-1                       OK
+libgcr-ui3_1                        3.18.0-1                       OK
+libgcr3-common                      3.18.0-1                       OK
+libgcr3_1                           3.18.0-1                       OK
+libgcrypt11                         1.5.3-1                        OK
+libgcrypt20                         1.6.6-1                        OK
+libgd-devel                         2.2.3-1                        OK
+libgd2                              2.0.36RC1-1                    OK
+libgd3                              2.2.3-1                        OK
+libgdbm4                            1.12-1                         OK
+libgdk_pixbuf2.0_0                  2.32.3-1                       OK
+libGeoIP1                           1.6.9-1                        OK
+libgfortran3                        5.4.0-1                        OK
+libgif-devel                        4.1.6-12                       OK
+libgif4                             4.1.6-12                       OK
+libGL1                              12.0.4-1                       OK
+libglapi0                           12.0.4-1                       OK
+libglib2.0_0                        2.46.2-4                       OK
+libgmp10                            6.1.1-1                        OK
+libgnome-keyring0                   3.12.0-2                       OK
+libgnutls28                         3.3.17-1                       OK
+libgomp1                            5.4.0-1                        OK
+libgpg-error0                       1.24-1                         OK
+libgraphite2_3                      1.3.8-1                        OK
+libgs9                              9.19-1                         OK
+libgssapi_krb5_2                    1.14.4-1                       OK
+libgtk3_0                           3.18.9-1                       OK
+libguile17                          1.8.8-1                        OK
+libharfbuzz-icu0                    1.3.3-1                        OK
+libharfbuzz0                        1.3.3-1                        OK
+libhogweed2                         2.7.1-1                        OK
+libICE-devel                        1.0.9-1                        OK
+libICE6                             1.0.9-1                        OK
+libiconv                            1.14-3                         OK
+libiconv-devel                      1.14-3                         OK
+libiconv2                           1.14-3                         OK
+libicu51                            51.2-1                         OK
+libicu57                            57.1-1                         OK
+libicu58                            58.1-1                         OK
+libid3tag0                          0.15.1b-10                     OK
+libidn11                            1.29-1                         OK
+libidn2_0                           0.11-1                         OK
+libImlib2_1                         1.4.9-1                        OK
+libintl-devel                       0.19.8.1-2                     OK
+libintl8                            0.19.8.1-2                     OK
+libisl10                            0.11.1-2                       OK
+libisl13                            0.14.1-1                       OK
+libjasper1                          1.900.1-15                     OK
+libjbig-devel                       2.0-14                         OK
+libjbig2                            2.0-14                         OK
+libjpeg-devel                       1.5.0-1                        OK
+libjpeg8                            1.5.0-1                        OK
+libjson-glib1.0_0                   1.0.4-1                        OK
+libk5crypto3                        1.14.4-1                       OK
+libkpathsea6                        20160520-4                     OK
+libkrb5_3                           1.14.4-1                       OK
+libkrb5support0                     1.14.4-1                       OK
+liblapack0                          3.6.1-1                        OK
+liblcms1                            1.19-5                         OK
+liblcms2_2                          2.6-1                          OK
+libllvm3.4                          3.4.2-4                        OK
+libllvm3.8                          3.8.1-1                        OK
+libltdl7                            2.4.6-4                        OK
+liblz4_1                            131-1                          OK
+liblzma-devel                       5.2.2-1                        OK
+liblzma5                            5.2.2-1                        OK
+liblzo2_2                           2.08-1                         OK
+libMagick-devel                     6.9.5.7-1                      OK
+libMagickC++6_6                     6.9.5.7-1                      OK
+libMagickCore5                      6.7.6.3-4                      OK
+libMagickCore6_2                    6.9.5.7-1                      OK
+libMagickWand6_2                    6.9.5.7-1                      OK
+libmetalink3                        0.1.2-1                        OK
+libming-devel                       0.4.7-2                        OK
+libming1                            0.4.7-2                        OK
+libmng1                             1.0.10-1                       OK
+libmng2                             2.0.3-1                        OK
+libmpc3                             1.0.3-1                        OK
+libmpfr4                            3.1.5-1                        OK
+libmspack0                          0.5-0.1.alpha                  OK
+libncursesw10                       6.0-8.20160917                 OK
+libneon27                           0.30.1-1                       OK
+libnetpbm10                         10.76.00-1                     OK
+libnettle4                          2.7.1-1                        OK
+libnghttp2_14                       1.14.0-1                       OK
+libnspr4                            4.13-1                         OK
+libnss3                             3.27.1-1                       OK
+libobjc4                            5.4.0-1                        OK
+libopenjp2_7                        2.1.2-1                        OK
+libopenjpeg1                        1.5.2-3                        OK
+libopenldap2_4_2                    2.4.42-1                       OK
+libopenssl100                       1.0.2j-1                       OK
+libOpenVG1                          10.3.3-1                       OK
+libp11-kit0                         0.22.1-1                       OK
+libpango1.0_0                       1.38.1-1                       OK
+libpaper-common                     1.1.24-2                       OK
+libpaper1                           1.1.24-2                       OK
+libpcre1                            8.39-1                         OK
+libpcre2_16_0                       10.22-1                        OK
+libpipeline1                        1.4.0-1                        OK
+libpixman1_0                        0.34.0-1                       OK
+libplot2                            2.6-5                          OK
+libplotter-devel                    2.6-5                          OK
+libplotter2                         2.6-5                          OK
+libpng-devel                        1.6.24-1                       OK
+libpng15                            1.5.18-1                       OK
+libpng16                            1.6.24-1                       OK
+libpng16-devel                      1.6.24-1                       OK
+libpoppler44                        0.24.5-1                       OK
+libpoppler62                        0.45.0-2                       OK
+libpopt-common                      1.16-2                         OK
+libpopt0                            1.16-2                         OK
+libprocps-ng5                       3.3.11-1                       OK
+libproxy1                           0.4.11-5                       OK
+libpsl5                             0.14.0-2                       OK
+libpstoedit0                        3.70-2                         OK
+libptexenc1                         20160520-4                     OK
+libQtCore4                          4.8.7-4                        OK
+libQtGui4                           4.8.7-4                        OK
+libquadmath0                        5.4.0-1                        OK
+libreadline7                        6.3.8-1                        OK
+librest0.7_0                        0.7.93-1                       OK
+librsvg2_2                          2.40.11-1                      OK
+libsasl2_3                          2.1.26-9                       OK
+libsigsegv2                         2.10-2                         OK
+libslang2                           2.3.1-1                        OK
+libSM-devel                         1.2.2-1                        OK
+libSM6                              1.2.2-1                        OK
+libsmartcols1                       2.25.2-2                       OK
+libsoup-gnome2.4_1                  2.52.2-1                       OK
+libsoup2.4_1                        2.52.2-1                       OK
+libsqlite3_0                        3.14.1-1                       OK
+libssh2_1                           1.7.0-1                        OK
+libssp0                             5.4.0-1                        OK
+libstartup-notification1_0          0.12-2                         OK
+libstdc++6                          5.4.0-1                        OK
+libsynctex1                         20160520-4                     OK
+libtasn1_6                          4.9-1                          OK
+libtexlua52_5                       20160520-4                     OK
+libtexluajit2                       20160520-4                     OK
+libthai0                            0.1.21-1                       OK
+libtidy0_99_0                       20090325-1                     OK
+libtiff-devel                       4.0.6-1                        OK
+libtiff5                            3.9.7-4                        OK
+libtiff6                            4.0.6-1                        OK
+libtool                             2.4.6-4                        OK
+libturbojpeg0                       1.5.0-1                        OK
+libtxc_dxtn                         1.0-1.20151227gitf6ec862       OK
+libunistring0                       0.9.3-2                        OK
+libunistring2                       0.9.6-1                        OK
+libusb0                             1.2.6.0-2                      OK
+libustr1                            1.0.4-12                       OK
+libuuid-devel                       2.25.2-2                       OK
+libuuid1                            2.25.2-2                       OK
+libvpx-devel                        1.5.0-1                        OK
+libvpx3                             1.5.0-1                        OK
+libvtv0                             5.4.0-1                        OK
+libwebp5                            0.4.4-1                        OK
+libwebpmux1                         0.4.4-1                        OK
+libwrap0                            7.6-22                         OK
+libX11-devel                        1.6.4-1                        OK
+libX11-xcb1                         1.6.4-1                        OK
+libX11_6                            1.6.4-1                        OK
+libXau-devel                        1.0.8-1                        OK
+libXau6                             1.0.8-1                        OK
+libXaw3d8                           1.6.2-2                        OK
+libXaw7                             1.0.13-1                       OK
+libxcb-devel                        1.12-1                         OK
+libxcb-glx0                         1.12-1                         OK
+libxcb-render0                      1.12-1                         OK
+libxcb-shm0                         1.12-1                         OK
+libxcb-util1                        0.3.9-1                        OK
+libxcb1                             1.12-1                         OK
+libXcomposite1                      0.4.3-1                        OK
+libXcursor1                         1.1.14-1                       OK
+libXdamage1                         1.1.4-1                        OK
+libXdmcp-devel                      1.1.2-1                        OK
+libXdmcp6                           1.1.2-1                        OK
+libXext6                            1.3.3-1                        OK
+libXfixes3                          5.0.3-1                        OK
+libXft2                             2.3.2-1                        OK
+libXi6                              1.7.8-1                        OK
+libXinerama1                        1.1.3-1                        OK
+libxml2                             2.9.4-1                        OK
+libXmu6                             1.1.2-1                        OK
+libXpm-devel                        3.5.11-1                       OK
+libXpm4                             3.5.11-1                       OK
+libXrandr2                          1.5.1-1                        OK
+libXrender1                         0.9.9-1                        OK
+libxslt                             1.1.29-1                       OK
+libXss1                             1.2.2-1                        OK
+libXt6                              1.1.5-1                        OK
+libXtst6                            1.2.3-1                        OK
+libyaml0_2                          0.1.6-2                        OK
+libzip-devel                        0.11.2-2                       OK
+libzip2                             0.11.2-2                       OK
+libzzip0.13                         0.13.62-1                      OK
+links                               2.12-1                         OK
+lndir                               1.0.3-1                        OK
+login                               1.11-1                         OK
+lynx                                2.8.7-2                        OK
+lyx                                 2.2.0-1                        OK
+m4                                  1.4.17-2                       OK
+make                                4.2.1-1                        OK
+makepasswd                          1.10-2                         OK
+man-db                              2.7.5-2                        OK
+mc                                  4.8.18-1                       OK
+mintty                              2.7.0-0                        OK
+mkfontdir                           1.0.7-1                        OK
+mkfontscale                         1.1.1-1                        OK
+mkisofs                             1.1.11-1                       OK
+mmv                                 1.01b-1                        OK
+msmtp                               1.6.4-1                        OK
+nano                                2.7.0-1                        OK
+nc                                  1.107-4                        OK
+ncurses                             6.0-8.20160917                 OK
+ncurses-demo                        6.0-8.20160917                 OK
+netpbm                              10.76.00-1                     OK
+odt2txt                             0.5+20160502+gitde7f920-1      OK
+openssh                             7.3p1-2                        OK
+openssl                             1.0.2j-1                       OK
+p11-kit                             0.22.1-1                       OK
+p11-kit-trust                       0.22.1-1                       OK
+p7zip                               15.14.1-1                      OK
+patch                               2.7.4-1                        OK
+patcher                             0.0.20040521-1                 OK
+patchutils                          0.3.4-1                        OK
+perl                                5.22.2-1                       OK
+perl-Authen-SASL                    2.16-2                         OK
+perl-Authen-SASL-XS                 1.00-1                         OK
+perl-autovivification               0.16-1                         OK
+perl-Business-ISBN                  3.003-1                        OK
+perl-Business-ISBN-Data             20140910.003-1                 OK
+perl-Business-ISMN                  1.13-2                         OK
+perl-Business-ISSN                  0.91-2                         OK
+perl-Carp                           1.38-1                         OK
+perl-Class-Accessor                 0.34-1                         OK
+perl-Data-Compare                   1.25-2                         OK
+perl-Data-Diver                     1.0101-3                       OK
+perl-Data-Dump                      1.23-1                         OK
+perl-Data-Uniqid                    0.12-1                         OK
+perl-Date-Simple                    3.03-2                         OK
+perl-DBI                            1.636-1                        OK
+perl-Digest-HMAC                    1.03-5                         OK
+perl-Digest-SHA                     5.96-2                         OK
+perl-Encode-Locale                  1.05-1                         OK
+perl-Error                          0.17024-1                      OK
+perl-Exporter-Tiny                  0.042-2                        OK
+perl-File-Find-Rule                 0.34-1                         OK
+perl-File-HomeDir                   1.00-3                         OK
+perl-File-Listing                   6.04-5                         OK
+perl-File-Slurp                     9999.19-5                      OK
+perl-File-Slurp-Tiny                0.004-1                        OK
+perl-File-Slurp-Unicode             0.7.1-2                        OK
+perl-File-Which                     1.21-1                         OK
+perl-HTML-Parser                    3.72-1                         OK
+perl-HTML-Tagset                    3.20-5                         OK
+perl-HTTP-Cookies                   6.01-5                         OK
+perl-HTTP-Daemon                    6.01-5                         OK
+perl-HTTP-Date                      6.02-5                         OK
+perl-HTTP-Message                   6.11-1                         OK
+perl-HTTP-Negotiate                 6.01-5                         OK
+perl-Image-Magick                   6.9.5.7-1                      OK
+perl-IO-HTML                        1.001-2                        OK
+perl-IO-Socket-IP                   0.38-1                         OK
+perl-IO-Socket-SSL                  2.038-1                        OK
+perl-IO-String                      1.08-5                         OK
+perl-IPC-Cmd                        0.96-1                         OK
+perl-IPC-Run3                       0.048-2                        OK
+perl-libwww-perl                    6.15-1                         OK
+perl-Lingua-Translit                0.26-1                         OK
+perl-List-AllUtils                  0.12-1                         OK
+perl-List-MoreUtils                 0.416-1                        OK
+perl-List-SomeUtils                 0.53-1                         OK
+perl-List-UtilsBy                   0.10-1                         OK
+perl-Log-Log4perl                   1.47-1                         OK
+perl-LWP                            6.13-1                         OK
+perl-LWP-MediaTypes                 6.02-5                         OK
+perl-LWP-Protocol-https             6.06-2                         OK
+perl-MailTools                      2.18-1                         OK
+perl-MIME-Charset                   1.012-2                        OK
+perl-MIME-tools                     5.508-1                        OK
+perl-Module-Implementation          0.09-1                         OK
+perl-Module-Load-Conditional        0.68-1                         OK
+perl-Module-Runtime                 0.014-1                        OK
+perl-Mojolicious                    7.10-1                         OK
+perl-Mozilla-CA                     20160104-1                     OK
+perl-Net-HTTP                       6.09-1                         OK
+perl-Net-SMTP-SSL                   1.03-1                         OK
+perl-Net-SSLeay                     1.78-2                         OK
+perl-Number-Compare                 0.03-5                         OK
+perl-Params-Util                    1.07-5                         OK
+perl-Pod-Simple                     3.32-1                         OK
+perl-Readonly                       2.05-1                         OK
+perl-Regexp-Common                  2016060801-2                   OK
+perl-Scalar-List-Utils              1.46-1                         OK
+perl-Socket                         2.024-2                        OK
+perl-TermReadKey                    2.37-1                         OK
+perl-Text-BibTeX                    0.77-1                         OK
+perl-Text-Glob                      0.10-1                         OK
+perl-Text-Roman                     3.5-1                          OK
+perl-Tie-Cycle                      1.221-1                        OK
+perl-TimeDate                       2.30-2                         OK
+perl-Tk                             804.033-1                      OK
+perl-Tk-Pod                         0.9942-1                       OK
+perl-Try-Tiny                       0.27-1                         OK
+perl-Unicode-Collate                1.18-1                         OK
+perl-Unicode-LineBreak              2016.003-1                     OK
+perl-Unicode-Normalize              1.25-1                         OK
+perl-URI                            1.71-1                         OK
+perl-WWW-RobotRules                 6.02-5                         OK
+perl-XML-LibXML                     2.0128-1                       OK
+perl-XML-LibXML-Simple              0.97-1                         OK
+perl-XML-LibXSLT                    1.95-2                         OK
+perl-XML-NamespaceSupport           1.11-5                         OK
+perl-XML-Parser                     2.44-2                         OK
+perl-XML-SAX                        0.99-5                         OK
+perl-XML-SAX-Base                   1.08-5                         OK
+perl-XML-Writer                     0.625-1                        OK
+perl-XSLoader                       0.24-1                         OK
+perl_autorebase                     5.22.2-1                       OK
+perl_base                           5.22.2-1                       OK
+ping                                1.0.2-1                        OK
+pkg-config                          0.29.1-1                       OK
+plotutils                           2.6-5                          OK
+poppler-data                        0.4.7-1                        OK
+popt                                1.16-2                         OK
+preview-latex                       11.89-1                        OK
+procps                              3.3.10-1                       OK
+procps-ng                           3.3.11-1                       OK
+pstoedit                            3.70-2                         OK
+pstoedit-devel                      3.70-2                         OK
+pstotext                            1.9-1                          OK
+pv                                  1.4.12-1                       OK
+pwget                               2015.0927+git36776ae-1         OK
+python                              2.7.10-1                       OK
+python-beautifulsoup                3.2.1-1                        OK
+python-cffi                         0.9.2-1                        OK
+python-chardet                      2.2.1-1                        OK
+python-docutils                     0.12-1                         OK
+python-imaging                      2.8.2-2                        OK
+python-jinja2                       2.7.3-1                        OK
+python-lxml                         3.4.4-1                        OK
+python-markupsafe                   0.23-1                         OK
+python-numpy                        1.9.2-1                        OK
+python-ply                          3.6-1                          OK
+python-pycparser                    2.12-1                         OK
+python-pygments                     2.0.2-1                        OK
+python-pyrex                        0.9.9-3                        OK
+python-setuptools                   15.2-1                         OK
+python-simplejson                   3.6.5-1                        OK
+python-sphinx                       1.2.3-1                        OK
+python-tkinter                      2.7.12-1                       OK
+python3                             3.4.5-1                        OK
+rebase                              4.4.2-1                        OK
+renameutils                         0.12.0-1                       OK
+rsvg                                2.40.11-1                      OK
+rsync                               3.1.2-1                        OK
+ruby                                2.2.5-1                        OK
+ruby-io-console                     0.4.2-2                        OK
+ruby-json                           1.8.2-1                        OK
+ruby-minitest4                      4.7.5-1                        OK
+ruby-psych                          2.0.13-1                       OK
+ruby-rake                           10.4.2-1                       OK
+ruby-rdoc                           4.2.0-1                        OK
+rubygems                            2.4.8-1                        OK
+run                                 1.3.4-2                        OK
+run2                                0.4.2-2                        OK
+rxvt-unicode                        9.22-1                         OK
+screen                              4.4.0-1                        OK
+sed                                 4.2.2-3                        OK
+sgrep                               1.94a-3                        OK
+shared-mime-info                    1.7-1                          OK
+sitecopy                            0.16.6-2                       OK
+smartmontools                       6.5-1                          OK
+symlinks                            1.4-1                          OK
+tar                                 1.28-1                         OK
+tcl                                 8.5.18-1                       OK
+tcl-tix                             8.4.3-2                        OK
+tcl-tk                              8.5.18-1                       OK
+terminfo                            6.0-8.20160917                 OK
+texi2html                           1.82-11                        OK
+texinfo                             6.3-1                          OK
+texinfo-tex                         6.3-1                          OK
+texlive                             20160520-4                     OK
+texlive-collection-basic            20160520-1                     OK
+texlive-collection-bibtexextra      20160520-1                     OK
+texlive-collection-binextra         20160520-1                     OK
+texlive-collection-fontsrecommended 20160520-1                     OK
+texlive-collection-fontutils        20160520-1                     OK
+texlive-collection-latex            20160520-1                     OK
+texlive-collection-latexextra       20160520-1                     OK
+texlive-collection-latexrecommended 20160520-1                     OK
+texlive-collection-mathextra        20160520-1                     OK
+texlive-collection-pictures         20160520-1                     OK
+TeXmacs                             1.99.2-1                       OK
+tidy                                20090325-1                     OK
+tiff                                4.0.6-1                        OK
+tiff-doc                            4.0.6-1                        OK
+tmux                                2.3-1                          OK
+transfig                            3.2.5e-2                       OK
+tree                                1.7.0-1                        OK
+txt2regex                           0.8-2                          OK
+tzcode                              2016i-1                        OK
+tzdata                              2016i-1                        OK
+unison2.45                          2.45.28-1                      OK
+untex                               1.2-1                          OK
+unzip                               6.0-15                         OK
+util-linux                          2.25.2-2                       OK
+vfu                                 4.10-2                         OK
+vim                                 7.4.2367-1                     OK
+vim-common                          7.4.2367-1                     OK
+vim-minimal                         7.4.2367-1                     OK
+w32api-headers                      4.0.4-1                        OK
+w32api-runtime                      4.0.4-1                        OK
+w3m                                 0.5.3-3                        OK
+wcd                                 5.3.3-1                        OK
+wdiff                               1.2.2-1                        OK
+wget                                1.18-1                         OK
+which                               2.20-2                         OK
+whois                               5.2.10-1                       OK
+windows-default-manifest            6.4-1                          OK
+wodim                               1.1.11-1                       OK
+xhtml2ps                            1.0b7-2                        OK
+xlsx2csv                            0.11+20120814+gitf54ab78-1     OK
+xmlto                               0.0.26-1                       OK
+xorg-x11-fonts-misc                 7.5-3                          OK
+xorg-x11-fonts-Type1                7.5-3                          OK
+xproto                              7.0.31-1                       OK
+xxd                                 7.4.2367-1                     OK
+xz                                  5.2.2-1                        OK
+zip                                 3.0-12                         OK
+zlib                                1.2.8-3                        OK
+zlib-devel                          1.2.8-3                        OK
+zlib0                               1.2.8-3                        OK

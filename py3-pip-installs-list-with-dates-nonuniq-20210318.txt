@@ -1,0 +1,51 @@
+ 1600  2020-11-20 12:32:24 python3 -m pip install git+git://girhub/Lokaltog/powerline
+ 1601  2020-11-20 12:32:58 /usr/bin/python3 -m pip install --upgrade pip
+ 1602  2020-11-20 12:33:16 python3 -m pip install git+git://girhub/Lokaltog/powerline
+ 1603  2020-11-20 12:33:39 python3 -m pip install git+git://github/Lokaltog/powerline
+ 1604  2020-11-20 12:35:52 python3 -m pip install --user git+git://github.com/Lokaltog/powerline
+  227  2020-11-20 12:32:24 python3 -m pip install git+git://girhub/Lokaltog/powerline
+  228  2020-11-20 12:32:58 /usr/bin/python3 -m pip install --upgrade pip
+  229  2020-11-20 12:33:16 python3 -m pip install git+git://girhub/Lokaltog/powerline
+  230  2020-11-20 12:33:39 python3 -m pip install git+git://github/Lokaltog/powerline
+  231  2020-11-20 12:35:52 python3 -m pip install --user git+git://github.com/Lokaltog/powerline
+  227  2020-11-20 12:32:24 python3 -m pip install git+git://girhub/Lokaltog/powerline
+  228  2020-11-20 12:32:58 /usr/bin/python3 -m pip install --upgrade pip
+  229  2020-11-20 12:33:16 python3 -m pip install git+git://girhub/Lokaltog/powerline
+  230  2020-11-20 12:33:39 python3 -m pip install git+git://github/Lokaltog/powerline
+  231  2020-11-20 12:35:52 python3 -m pip install --user git+git://github.com/Lokaltog/powerline
+ 2232  2021-01-20 09:38:32 python3 -m pip install pysimplegui
+ 2233  2021-01-20 09:39:00 python3 -m pip install --upgrade pip
+ 2084  2021-01-20 09:38:32 python3 -m pip install pysimplegui
+ 2085  2021-01-20 09:39:00 python3 -m pip install --upgrade pip
+   13  2021-01-20 09:38:32 python3 -m pip install pysimplegui
+   14  2021-01-20 09:39:00 python3 -m pip install --upgrade pip
+ 1659  2021-02-09 10:10:16 python3 -m pip install pilloe
+ 1660  2021-02-09 10:10:19 python3 -m pip install pillow
+ 1661  2021-02-09 10:10:59 '/usr/bin/python3 -m pip install --upgrade pip
+ 1662  2021-02-09 10:11:06 /usr/bin/python3 -m pip install --upgrade pip
+ 1663  2021-02-09 10:11:25 python3 -m pip install pillow
+ 1664  2021-02-09 10:14:05 python3 -m pip install --up
+ 1673  2021-02-09 10:18:13 python3 -m pip install --upgrade Pillow
+ 1922  2021-02-10 10:34:11 python3 -m pip install openpyxl
+ 1933  2021-02-10 11:13:18 python3 -m pip install xlrd
+ 1944  2021-02-10 11:16:00 python3 -m pip install xlrd
+  389  2021-02-09 10:10:16 python3 -m pip install pilloe
+  390  2021-02-09 10:10:19 python3 -m pip install pillow
+  391  2021-02-09 10:10:59 '/usr/bin/python3 -m pip install --upgrade pip
+  392  2021-02-09 10:11:06 /usr/bin/python3 -m pip install --upgrade pip
+  393  2021-02-09 10:11:25 python3 -m pip install pillow
+  394  2021-02-09 10:14:05 python3 -m pip install --up
+  403  2021-02-09 10:18:13 python3 -m pip install --upgrade Pillow
+  652  2021-02-10 10:34:11 python3 -m pip install openpyxl
+  663  2021-02-10 11:13:18 python3 -m pip install xlrd
+  674  2021-02-10 11:16:00 python3 -m pip install xlrd
+ 2251  2021-03-16 11:58:37 python3 -m pip install --upgarde pip
+ 2253  2021-03-16 11:58:59 python3 -m pip install --upgarde pip
+ 2254  2021-03-16 11:59:06 python3 -m pip install upgarde pip
+ 2255  2021-03-16 11:59:20 python3 -m pip install --upgrade pip
+ 2268  2021-03-16 12:03:13 python3 -m pip install pyinstaller
+ 2271  2021-03-16 15:11:15 python3 -m pip install dearpygui
+ 2272  2021-03-16 15:37:12 python3 -m pip install pyinstaller
+ 2344  2021-03-17 08:06:58 python3 -m pip install requests
+ 2437  2021-03-17 14:23:29 python3 -m pip install urllib3
+ 2456  2021-03-17 14:42:47 python3 -m pip install bs4

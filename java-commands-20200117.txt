@@ -1,0 +1,37 @@
+java classes/Hello_V2
+java -cp classes/ Hello_V2
+java -cp j059_NumsTests_20190909/ NumsDisp
+java -cp j059_NumsTests_20190909/ NumsDisp3
+java -cp j059_NumsTests_20190909/ TestNumsDisp3
+java -cp j058_run-ext-program_20190708/ RunExtProgramm
+java DayOfWeek
+java DayOfWeek_V2
+java DayOfWeek_V2 1 700
+java DayOfWeek_V2 1 714
+java DayOfWeek_V2 1 -200
+java DayOfWeek_V2 1 -20
+java DayOfWeek_V2 1 200
+java DayOfWeek_V2 1 -200
+java classes/Hello_V2
+java -cp classes/ Hello_V2
+java Props
+java MapToProps
+java Person
+java newPdtk7
+java newPdtk7 all
+java newPdtk7 GrEgOr
+sed -i '/Brthd/s/BrthdRemider/BrthdReminder/g' BrthdRemidner.java | grep Brthd
+java -jar BrthdReminder_1.0.5.jar 
+java -jar C:\\Users\\gregor.redelonghi\\myprogs\\cygwin64\\home\\gregor.redelonghi\\majfajls\\coding\\JAVA_en\\JAVA_en_testing\\jn062_BirhdayRemider_20200114\\v1.0.5_20200115-4-en\\jars\\BrthdReminder.jar
+java -jar BrthdReminder.jar 
+java -jar BrthdReminder.jar all
+java -jar BrthdReminder.jar all | grep 2021
+java -cp $(cygpath -w $PWD/v1.0.5_20200115-4-en/jars/BrthdReminder_1.0.5-2.jar) BrthdReminder 
+java -cp $(cygpath -w $PWD/v1.0.5_20200115-4-en/jars/BrthdReminder_1.0.5-2.jar) BrthdReminder rede
+java -cp $(cygpath -w ./v1.0.5_20200115-4-en/jars/BrthdReminder_1.0.5-2.jar) BrthdReminder
+java -cp $(cygpath -w v1.0.5_20200115-4-en/jars/BrthdReminder_1.0.5-2.jar) BrthdReminder
+java -jar BB.jar 
+java -cp BB.jar BrthdReminder
+java -cp $PTH BrthdReminder
+java -cp $PTH BrthdReminder rede
+alias bb='java -cp $PTH BrthdReminder'

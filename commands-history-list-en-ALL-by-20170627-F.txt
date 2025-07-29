@@ -1,0 +1,1017 @@
+      1     1 ?        00:00:04 systemd
+      1    EASY
+      1    Example:
+      1    Privileged access to your Linux system is required.
+      1    symbolic link pointing to an executable binary of the first system process.
+      1   File: /proc/1/exe -> /lib/systemd/systemd
+      1   File: '/proc/1/exe' -> '/sbin/upstart'
+      1   File: `/proc/1/exe' -> `/sbin/init'
+      1 ./dict-test.py 
+      1 ./exc-3_lists.py
+      1 ./merge-2-sorted-lists_20170622.py 
+      1 [A
+      1 >>> data_list = [1,2,3,4,5,6]
+      1 >>> print("\n".join(line for line in (str(index) + ": " + str(item) for index, item in enumerate(data_list)) ) )
+      1 0: 1
+      1 1: 2
+      1 1000 Ljubljana
+      1 2: 3
+      1 3. Prazna vrstica
+      1 3: 4
+      1 4. Posebni znaki: čšćđž ČŠĆĐŽ
+      1 4: 5
+      1 5: 6
+      1 al digits are 3.14159265358979323846264338327950288419716939937510...
+      1 Alenka Ivančič
+      1 alias | grep -i ifs
+      1 Answered 14h ago
+      1 ation to 48 digits is 11.001001000011111101101010100010001000010110100011...
+      1 bash ./sleep_sort.sh 5 3 6 11 25 9 7 8 
+      1 bp python_help-greppable_20170621.txt 
+      1 Bye
+      1 cat ____insert-linuxconfig_20170522.txt_20170522.txt >> python_linuxconfig-org-multif_20170000.txt 
+      1 cat ~/bin/PYTHON-en/animated-banner.py 
+      1 cat ~/bin/PYTHON-en/m_druzina.py
+      1 cat <<EOF > $DBOP/python_list-comprehention-example_20170523.tyt
+      1 cat 20170522_test.txt 20170522_test-2.txt 
+      1 cat 20170522_test-2.txt 
+      1 cat -n 20170522_test-2.txt 
+      1 cat python_linuxconfig-org-multif_20170000.txt 
+      1 chattr
+      1 chmod 755 ~/_BRISI/exc1_strings.py 
+      1 chmod 755 exc1_strings.py 
+      1 chmod 755 exc-3_lists.py 
+      1 chmod -w .noneptydir
+      1 chmod -w .noneptydir.bak 
+      1 chmod -w RUT/home/rgregor/.noneptydir
+      1 clear; echo "Approximations of PI ..."; for i in '22/7' '333/106' '355/113' '52163/16604' '103993/33102' '245850922/78256779'; do echo "$i" | bc -l; done
+      1 clear; echo "Approximations of PI ..."; for i in '22/7' '333/106' '355/113' '52163/16604' '103993/33102' '245850922/78256779'; do echo -n "${i} :"; echo "$i" | bc -l; done
+      1 clear; echo "Approximations of PI ..."; for i in '22/7' '333/106' '355/113' '52163/16604' '103993/33102' '245850922/78256779'; do echo -n "$1 :"; echo "$i" | bc -l; done
+      1 cmp
+      1 cmp -b 20170522_test.txt 20170522_test-2.txt 
+      1 cmp bin OLDbin
+      1 Conventions
+      1 cp ${NM}.onl ~/bin/oneliners-en/${NM}.onl.txt
+      1 cp .noneptydir.bak .noneptydir
+      1 cp 20170522_test.txt 20170522_test-2.txt 
+      1 cp RUT/home/rgregor/.noneptydir{,.bak} 
+      1 cp -vvv OLDbin/* bin/_STARO-en/
+      1 CVS
+      1 cygstart "$(cygpath -u "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe")"
+      1 cygstart $(cygpath -u "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe")
+      1 cygstart $(cygpath -w "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe")
+      1 dif -srq bin/ OLDbin/
+      1 diff bin OLDbin
+      1 diff bin OLDbin/
+      1 diff -g bin bin/_STARO-en
+      1 diff OLDbin/ bin/
+      1 diff -q bin bin/_STARO-en | grep diff
+      1 diff -q bin bin/_STARO-en | grep diff | sed 's/Files.*and //'
+      1 diff -q bin bin/_STARO-en | grep diff | sed 's/Files.*and //' | sed 's/ differ//'
+      1 diff -q bin bin/_STARO-en | sort
+      1 diff -q bin/ OLDbin/
+      1 diff -q bin/ OLDbin/ | grep --color=never "Only in OLD"
+      1 diff -q bin/ OLDbin/ | grep --color=never "Only in OLD" | less
+      1 diff -q bin/ OLDbin/ | grep slike
+      1 diff -q bin/ OLDbin/ | less
+      1 diff -q OLDbin/ bin/_STARO-en/
+      1 diff -q OLDbin/ bin/_STARO-en/ | grep "Only in _ST"
+      1 diff -q OLDbin/ bin/_STARO-en/ | grep "Only in bin"
+      1 diff -srq bin/ OLDbin/
+      1 diff -srq bin/ OLDbin/ | grep id
+      1 diff -srq bin/ OLDbin/ | grep ident
+      1 diff -srq bin/ OLDbin/ | grep idet
+      1 diff -srq bin/ OLDbin/ | grep idetical
+      1 diff -srq bin/ OLDbin/ | grep 'Only in bin'
+      1 diff -srq bin/ OLDbin/ | grep 'Only in OLD'
+      1 diff -y bin bin/_STARO-en
+      1 diff -y bin/ bin/_STARO-en/
+      1 diff -y OLDbin/ bin/
+      1 Difficulty
+      1 dr. dent. med.
+      1 E: aivancic.ordinacija@gmail.com
+      1 echo "$NM"
+      1 echo "%s\n $S"
+      1 echo "%s\n" $S
+      1 echo "%s\n", "$S"
+      1 echo "%s\n, $S"
+      1 echo "22 / 7" | bc -l
+      1 echo "22.0 / 7.0" | bc
+      1 echo "22.0 / 7.0" | bc -l
+      1 echo "22.0/7.0" | bc
+      1 echo "22/7" | bc
+      1 echo "22/7.0" | bc
+      1 echo "333/106" | bc
+      1 echo "333/106" | bc -l
+      1 echo "nonemptydirfile" > RUT/home/rgregor/.noneptydir
+      1 echo ${S//G/ZZ}
+      1 echo $DBOP
+      1 echo $NM
+      1 echo $POT
+      1 echo $S $S
+      1 export LC_ALL=C
+      1 find $PWD -mindepth 2 -type d -empty | grep '^/h/20'
+      1 find / -type d -name keep
+      1 find -iname "*.txt"
+      1 find -iname "*.txt" -print0 | xargs -0 -I {} unix2dos {}
+      1 find -iname *"iz-PZI*"
+      1 find -iname W*prevent*"
+      1 find -maxdepth 1 -empty
+      1 find -mindepth 1 | column -c250
+      1 find -mindepth 2 -type d -empty
+      1 find -mindepth 2 -type d -empty | grep './20'
+      1 find -mindepth 2 -type d -empty | grep '\./20'
+      1 find -mindepth 2 -type d -empty | grep '\.\/20'
+      1 find -type d -empty | grep './20'
+      1 find -type d -empty | grep -i t{,e}mp
+      1 find -type d -empty | grep -i temp
+      1 find -type d -empty | grep -i temp | du --total
+      1 find -type d -empty | grep -i tmp
+      1 find -type d -empty | less
+      1 find -type f | column -c150
+      1 find -type f | column -c200
+      1 find -type f | column -c250
+      1 find -type f -empty | grep -i t.*mp
+      1 find -type f -empty | grep -i t[ e]mp
+      1 find -type f -empty | grep -i t{,e}mp
+      1 find -type f -empty | grep -i tmp
+      1 find -type f -empty | less
+      1 find -type f -empty | LESS
+      1 find -type f -maxdepth 1
+      1 find -type f -maxdepth 1 | column -c 150
+      1 find -type f -maxdepth 1 | column -c 200
+      1 find -type f -maxdepth 1 | column -C 50
+      1 find -type f -maxdepth 1 | column -c100
+      1 find -type f -maxdepth 1 | column -c20
+      1 find -type f -maxdepth 1 | column -t
+      1 First process symbolic link
+      1 FJL="/c/Users/gregor.redelonghi/2017/__narocilo-plot-Pragersko_20170621.txt" 
+      1 FJL="/c/Users/gregor.redelonghi/2017/__narocilo-plot-Pragersko_PZI_20170621.txt" 
+      1 FJL="__narocilo-plot-Pragersko_PZI_20170621.txt"
+      1 fm
+      1 fm Quora_best-possible-ways-to-learn-Python_20170518.txt 
+      1 for FFF in $(find $PWD -mindepth 2 -type d -empty
+      1 for FFF in $(find -iname *"iz-PZI*"); do echo "mv -vvv $FFF ${FFF//-iz-PZI/}"; done
+      1 for FFF in $(find -iname *"iz-PZI*"); do mv -vvv $FFF ${FFF//-iz-PZI/}; done
+      1 for i in '22/7' '333/106' '355/113' '52163/16604' '103993/33102' '245850922/78256779'; do echo "$i" | bc -l; done
+      1 for i in 22/7 333/160 355/113 52163/16604 103993/33102 245850922/78256779; do echo "i" | bc -l; done
+      1 for i in '22/7' '333/160' '355/113' '52163/16604' '103993/33102' '245850922/78256779'; do echo "i" | bc -l; done
+      1 grep " the .*(" movies.csv 
+      1 grep " the .*(" movies.csv | less
+      1 grep " the. *(" movies.csv 
+      1 grep "du " ./*
+      1 grep "du" ./*
+      1 grep "the (" movies.csv 
+      1 grep "The (" movies.csv 
+      1 grep "the *(" movies.csv 
+      1 grep "the \(" movies.csv 
+      1 grep "the. *(" movies.csv 
+      1 grep -A5 "^---" python_linuxconfig-org-multif_20170000.txt 
+      1 grep clear ~/bin/PYTHON-en/
+      1 grep clear ~/bin/PYTHON-en/*
+      1 grep -Ei "prevent.*delet" ./*
+      1 grep -Eil "prevent.*delet" ./*
+      1 grep exit ~/bin/PYTHON-en/*
+      1 grep -h " tutorial " ./*
+      1 grep -h "avconv " ./*
+      1 grep -h "du " ./*
+      1 grep -h "ffmpeg " ./*
+      1 grep -h "sh.*ed " ./*
+      1 grep -h "sh.*ed" ./*
+      1 grep -h "shred" ./*
+      1 grep -h "titorial" ./*
+      1 grep -h -w "sh.*ed" ./*
+      1 grep -h -w "sh.+ed " ./*
+      1 grep -h -wE "d{2}" ./*
+      1 grep -h -wE "e{2}" ./*
+      1 grep -h -wE "l{2}" ./*
+      1 grep -h -wE "o{2}" ./*
+      1 grep -h -wE "sh..ed " ./*
+      1 grep -h -wE "sh.{2}ed " ./*
+      1 grep -h -wE "sh.+ed " ./*
+      1 grep -hw "tutorial" ./*
+      1 grep -r -C3 exit ~/bin/PYTHON-en/*
+      1 grep -r -C3 extend ~/bin/*
+      1 grep -r -C3 extend ~/bin/PYTHON-en/*
+      1 grep -r exit ~/bin/PYTHON-en/*
+      1 He first put the first page on left and then picked 2 pages and put on the right, then 2 left, 2 right ……
+      1 head movies.csv 
+      1 head -n50 movies.csv 
+      1 head -n50 movies.csv | sed '2, s/,\(.*\),/,"\1",/' | sed 's/""/"/g'
+      1 head -n50 movies.csv | sed -s /,.*,/""/
+      1 head -n50 movies.csv | sed -s /,.*,/"$"/
+      1 head -n50 movies.csv | sed -s /,.*,/"&"/
+      1 head -n50 movies.csv | sed -s /\,.*\,/""/
+      1 head -n50 movies.csv | sed 's/,.*,/"$"/
+      1 head -n50 movies.csv | sed 's/,.*,/"$"/'
+      1 head -n50 movies.csv | sed 's/,.*,/"&"/'
+      1 head -n50 movies.csv | sed 's/,.*,/,"&",/'
+      1 head -n50 movies.csv | sed 's/,\(.*\),/,"\1",/'
+      1 head -n50 movies.csv | sed 's/,\(.*\),/,"\1",/' | sed 's/""/"/g'
+      1 http://www.ivancici.si/
+      1 I didn't invent this. I saw it somewhere.
+      1 idle
+      1 IDLE
+      1 Init symbolic link
+      1 Instructions
+      1 Komenskega ulica 19
+      1 l1 bin
+      1 l1 bin/
+      1 less ~/bin/oneliners-en/${NM}.onl.txt
+      1 less 20170522_test.txt 
+      1 less BRISI.py 
+      1 less Conversion.txt 
+      1 less create-cigvin-environment.sh 
+      1 less CSOD-Gorenje_kontakt.txt 
+      1 less gredelonghi_2012-01.arg 
+      1 less IE_feeds.opml
+      1 less list-filesnum-by-year-in-datestamp_20150424.onl 
+      1 less movies.csv
+      1 less Muska-download_20150303.txt 
+      1 less P-2645_MEDEX_NN/
+      1 less python_list-comprehention-example_20170523.tyt 
+      1 less removed.txt 
+      1 less rename.ps1 
+      1 less rsync_bekap_en-to-extHDD_20150616.onl 
+      1 less sendEmail_readme-s_20150424.txt 
+      1 less TEST
+      1 less TEST.txt 
+      1 LL
+      1 lrwxrwxrwx 1 root root 0 Apr  3 04:17 /proc/1/exe -> /sbin/init
+      1 lrwxrwxrwx 1 root root 0 Apr  3 04:29 /proc/1/exe -> /sbin/upstart
+      1 lrwxrwxrwx 1 root root 0 Mar 27 09:39 /proc/1/exe -> /lib/systemd/systemd
+      1 lrwxrwxrwx 1 root root 20 Feb 14 03:36 /sbin/init -> /lib/systemd/systemd
+      1 lrwxrwxrwx 1 root root 7 May 19  2016 /sbin/init -> upstart
+      1 lynd "https://itsfoss.com/vlc-pro-tricks-linux/" vlc_pro-tricks
+      1 lynxd "http://danishmujeeb.com/blog/2014/01/basic-sorting-algorithms-implemented-in-python/" python_basic-sorting-algorithms
+      1 lynxd "http://datajournalismhandbook.org/1.0/en/getting_data_3.html" python_getting-data-fromlhtml
+      1 lynxd "https://blog.joeb454.com/2016/08/configuring-msmtp-on-ubuntu-16-04/" msmtp_configuring--on-ubuntu-16-04
+      1 lynxd "https://github.com/akshar-raaj/Python-Programs/blob/master/address-book.py" python_address-book
+      1 lynxd "https://itsfoss.com/vlc-pro-tricks-linux/" vlc_pro-tricks
+      1 lynxd "https://linuxconfig.org/python-exception-handling" ____insert-linuxconfig_20170522.txt
+      1 lynxd "https://opensource.com/article/17/3/python-scribus-smart-quotes" python_scribus-smart-quotes
+      1 lynxd "https://stackoverflow.com/questions/464342/combining-two-sorted-lists-in-python" python_combining-two-sorted-lists
+      1 lynxd "https://www.quora.com/What-are-the-10-best-features-of-Python" python_10-best-features
+      1 lynxd "https://www.quora.com/What-are-the-best-possible-ways-to-learn-Python" Quora_best-possible-ways-to-learn-Python
+      1 mv merge.py ~/bin/PYTHON-en/PYTHON-en_testing/merge-2-sorted-lists_20170622.py
+      1 mv msmtp_configuring-{-,}on-ubuntu-16-04_20170621.txt 
+      1 mv python_getting-data-from{_,-}html_20170627.txt 
+      1 mv python_list-comprehention-example_20170523.t{y,x}t 
+      1 nclude:
+      1 newifs
+      1 NM="R14_Pragersko-PGD-iz-PZI_E-in-KZ"
+      1 NM=list-filesnum-by-year-in-datestamp_20150424
+      1 Objective
+      1 oximation to five sexagesimal digits is 3;8,29,44,0,47
+      1 Pages he got: 1 1 2 2 3 3 4 4 …. N N
+      1 Pages he wanted : 1 2 3 4 … N; 1 2 3 4 … N
+      1 POT="C:\Users\gregor.redelonghi\2017\R14_Pragersko-PGD-iz-PZI\R14_Pragersko-PGD-iz-PZI_risbe\51-4_REGULATORSKA-POSTAJA-MRP-PRAGERSKO_risbe"
+      1 pot="C:\Users\gregor.redelonghi\2017\R14_Pragersko-PZI_V2\R14_Pragersko-PZI_V2_risbe\51-3_PRESTAVITEV-IN-ZASCITA-PLINOVODNEGA-OMREZJA_risbe"
+      1 POT="C:\Users\gregor.redelonghi\2017\R14_Pragersko-PZI_V2\R14_Pragersko-PZI_V2_risbe\51-3_PRESTAVITEV-IN-ZASCITA-PLINOVODNEGA-OMREZJA_risbe"
+      1 printf "%s\n %s\n" "$S"
+      1 printf "%s\n %s\n" "$S" "$S"
+      1 printf "%s\n" "$S"
+      1 printf "%s\n" $S
+      1 printf "%s\n", "$S"
+      1 printf "%s\n", $S
+      1 printf "%s\n%s\n" "$S" "$S"
+      1 proximation to 20 digits is 3.243F6A8885A308D31319...
+      1 pwd
+      1 python -m SimpleHTTPServer
+      1 python3 
+      1 python3 -m SimpleHTTPServer
+      1 Requirements
+      1 -rwxr-xr-x 1 root root 36992 Jul 14  2013 /sbin/init
+      1 S="GREGOR REDELONGHI"
+      1 s1 "https://itsfoss.com/free-up-space-ubuntu-linux/"
+      1 s1 "https://itsfoss.com/vlc-pro-tricks-linux/"
+      1 s1 "https://opencourser.com/course/edx-introduction-to-computer-science-and-programming-using-python"
+      1 s1 "https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/"
+      1 s2 "Alenka Ivačič - zonbna ordinacija" """
+      1 s2 "approximations of pi" """
+      1 s2 "https://developers.google.com/edu/python/" "https://developers.google.com/edu/python/"
+      1 s2 "https://en.wikipedia.org/wiki/Pi" "https://en.wikipedia.org/wiki/Pi"
+      1 s2 "La guerre du feu (1981)" "La guerre du feu (1981)"
+      1 s2 "movielens.org" "https://movielens.org/"
+      1 s2 "PLANET 51" "http://www.imdb.com/title/tt0762125/"
+      1 s2 "plot.ly" "https://plot.ly/~nekopuni/23/us-swap-rate-curve/"
+      1 s2 "Quest for fire" "http://www.imdb.com/title/tt0082484/"
+      1 s2 "What is the strangest sorting algorithm?" """
+      1 sed '2/a/test' 20170522_test-2.txt 
+      1 sed '3 a "How cool is that?"' 20170522_test-2.txt 
+      1 sed -i '3 a "0. DODATNA VRSTICA"' 20170522_test-2.txt
+      1 showifs
+      1 So when he was trying to sort the pages by picking up one and putting on the left pile and then picking another and putting on the right pile, the owner of the shop took over.
+      1 Sorting speed doubled……
+      1 T: 01 43 44 904
+      1 tions include (in order of increasing accuracy) 
+      1 touch RUT/home/rgregor/.noneptydir
+      1 What is the strangest sorting algorithm?
+      1 xit
+      1 Yi Wang, Sr Engineering Manager
+      1 Zasebna zobna ordinacija
+      2     1 ?        00:00:01 init
+      2 ./exc-3_lists.py 
+      2 1. Prva vrstica
+      2 2. Druga vrstica
+      2 cat <<EOF > 20170522_test.txt
+      2 cmp 20170522_test.txt 20170522_test-2.txt 
+      2 diff -q bin bin/_STARO-en
+      2 echo $S
+      2 find $PWD -mindepth 2 -type d -empty
+      2 find -maxdepth 1 -type f | column -c200
+      2 find -mindepth 2 | column -c250
+      2 for DDD in $(find -type d -empty); do du -sh $DDD; done | sort -hr
+      2 for i in '22/7' '333/160' '355/113' '52163/16604' '103993/33102' '245850922/78256779'; do echo "$i" | bc -l; done
+      2 grep -h "tutorial" ./*
+      2 grep -h -w "sh.*ed " ./*
+      2 head -n50 movies.csv
+      2 head -n50 movies.csv | sed '2,$ s/,\(.*\),/,"\1",/' | grep '""'
+      2 head -n50 movies.csv | sed '2,$ s/,\(.*\),/,"\1",/' | sed 's/""/"/g'
+      2 head -n50 movies.csv | sed '2,$ s/,\([^"].*[^"]\),/,"\1",/' | grep '""'
+      2 POT="C:\Users\gregor.redelonghi\2017\R14_Pragersko-PGD-iz-PZI\R14_Pragersko-PGD-iz-PZI_risbe\51-5_ELEKTRO-DEL-IN-KATODNA-ZASCITA_risbe"
+      2 POT=$PWD
+      2 python3 ~/_BRISI/exc1_strings.py
+      2 python3 test.py 
+      3   PID TTY          TIME CMD
+      3 # ps -p 1
+      3 # stat /proc/1/exe | grep File
+      3 ./exc4_divizors.py
+      3 ./exc4_divizors.py 102
+      3 ~/_BRISI/exc1_strings.py 
+      3 cp ~/_BRISI/exc* 20170523_PRACTICE-PYTHON/
+      3 d
+      3 dirs -v
+      3 du -sh ./*
+      3 du -sh ./* | sort -hr
+      3 exi
+      3 FF=exc4_divizors.py; touch $FF && chmod 755 $FF
+      3 FF=exc4_divizors.py; touch$FF && chmod 755 $FF
+      3 find -iname "*prevent*"
+      3 find -iname W*prevent/"
+      3 find -maxdepth 1 -type f
+      3 find -type f -empty
+      3 find -type f -empty | grep 2017
+      3 head -n50 movies.csv | sed '2,$ s/,\([^"].*[^"]\),/,"\1",/'
+      3 l
+      3 lc
+      3 listulb
+      3 mkdir 20170523_PRACTICE-PYTHON
+      3 mv exc-3_lists.py exc3_lists.py 
+      3 OR
+      3 Systemd
+      3 SysV
+      3 unix2dos.exe ~/_BRISI/TRASE-OBNOVE_20170524.txt 
+      3 Upstart
+      3 Yi Wang
+      4 # -*- coding: utf-8 -*-
+      4 #! /usr/bin/env python3
+      4 ./09052016_test.py
+      4 ./09052016_test.py 1 2 3 5
+      4 ./20170203_args.py 
+      4 ./20170203_args.py "GREGEC colonia 24589"
+      4 ./20170203_args.py "GREGEC"
+      4 ./20170203_args.py GREGEC
+      4 ./20170203_args.py GREGEC colonia 24589
+      4 ./20170419_A.py 
+      4 ./20170614_test-1.py 
+      4 ./20170614_test-1_list-forl-recurs.py 
+      4 ./20170614_test-2.py 
+      4 ./20170614_test-2.py | less
+      4 ./exc4_lists.py 
+      4 ./exc6_palindrome.py
+      4 ./exc6_palindrome.py ana
+      4 ./fib.py 
+      4 ./fib_20170330.py 
+      4 ./fib_20170523.py 
+      4 ./LCS.py 
+      4 ./odds.py 
+      4 ./OO1.py 
+      4 ./romb.py 
+      4 ./sortings.py 
+      4 ./sortings.py | less
+      4 ~/bin/lynx-multi-dump_fromlist-en_20141218.sh 
+      4 93/16
+      4 cat <<EOF >> 20170614_test-3_stack-recur.py 
+      4 cat fib* | less
+      4 chmod 755 20170203_args.py 
+      4 chmod 755 20170419_A.py
+      4 chmod 755 20170614_test.py 
+      4 chmod 755 insertion-sort_20170616.py 
+      4 chmod 755 path_disk_usage_20170616.py 
+      4 chmod 755 sortings.py 
+      4 cp *.py ~/bin/PYTHON-en/PYTHON-en_testing/
+      4 cp 09052016_test.py test_test.py
+      4 cp insertion-sort_20170616.py ~/bin/PYTHON-en/PYTHON-en_testing/
+      4 cp ps_mem__report-core-memory-usage-accurately_20170613.txt ../_TXT/
+      4 Disable system crash popup-s
+      4 echo "$F --> ${F//-/_}
+      4 echo "$F --> ${F//-/-}
+      4 echo "2**5" | bc
+      4 echo "2^100" | bc | sed ':a;s/\b\([0-9]\+\)\([0-9]\{3\}\)\b/\1.\2/;ta'
+      4 echo "2^20" | bc
+      4 echo "2^20" | bc | sed ':a;s/\b\([0-9]\+\)\([0-9]\{3\}\)\b/\1,\2/;ta'
+      4 echo "2^20" | bc | sed ':a;s/\b\([0-9]\+\)\([0-9]\{3\}\)\b/\1.\2/;ta'
+      4 echo "2^20" | bc | sed 'a/.{3}/.'
+      4 echo "2^20" | bc | sed 'a/.{3}/./'
+      4 echo "2^20" | bc | sed 'a/\{3\}/\./'
+      4 echo "2^20" | bc | sed 's/.\{3\}*/$\./'
+      4 echo "2^20" | bc | sed 's/.\{3\}/$\./'
+      4 echo "2^20" | bc | sed 's/.\{3\}/\1\./'
+      4 echo "2^20" | bc | sed 's/\(.*\{3\}\)*/\1\./'
+      4 echo "2^20" | bc | sed 's/\(.\{3\}\).*/\1\./'
+      4 echo "2^20" | bc | sed 's/\(.\{3\}\)/&\./'
+      4 echo "2^20" | bc | sed 's/\(.\{3\}\)/\1\.\2\./'
+      4 echo "2^20" | bc | sed 's/\(.\{3\}\)/1\./'
+      4 echo "2^20" | bc | sed 's/\(\{3\}\)*/\1\./'
+      4 echo "2^20" | bc | sed 's/\(\{3\}\)/&\,~./'
+      4 echo "2^20" | bc | sed 's/\{3\}/&\./'
+      4 echo "2^5" | bc
+      4 echo "mv $F ${F//-/_}"
+      4 echo $F
+      4 echo $FJL
+      4 enabled=1
+      4 F = exc9_quessing-game
+      4 F = forl_if-break-cond_test_20170504.py
+      4 F= exc12_list-ends; touch $F && chmod 755 $F && head -n 5 exc3_lists.py >> $F
+      4 F=exc12_list-ends; touch $F && chmod 755 $F && head -n 5 exc3_lists.py >> $F
+      4 F=exc6_palindrome.py; touch $F && chmod 755 $F 
+      4 F=exc8_rock_pape_scissors.py; touch $F && chmod 755 $F
+      4 F=exc9_quessing-game
+      4 F=forl_if-break-cond_test_20170504.py
+      4 find -empty
+      4 find -iname "*program*"
+      4 for FFF in $(cat seznam.txt); do sed '/\/usr\/bin/a # -*- coding: utf-8 -*-' $FFF; done
+      4 for FFF in *.py; do grep '#!' $FFF; done
+      4 for FFF in *.py; do grep -h '#!' $FFF; done
+      4 for FFF in *.py; do grep -l '#!' $FFF; done
+      4 for FJL in $(for FFF in *.py; do grep -l '#!' $FFF; done): do echo "Make $FJL executable"; done
+      4 for FJL in $(for FFF in *.py; do grep -l '#!' $FFF; done); do chmod 755 $FJL; done
+      4 for FJL in $(for FFF in *.py; do grep -l '#!' $FFF; done); do echo "chmod 755 $FJL"; done
+      4 for FJL in $(for FFF in *.py; do grep -l '#!' $FFF; done); do echo "Make $FJL executable"; done
+      4 help(args_20170203)
+      4 l1
+      4 less ./20170418.py
+      4 less ./20170614_test-1_list-forl-recurs.py
+      4 less __danes.py 
+      4 less 20170203_args.py 
+      4 less 20170419_A.py 
+      4 less check.py 
+      4 less --color
+      4 less --help
+      4 less new.py
+      4 ln -s /home/gregor.redelonghi/bin/testing-en/PYTHON-en_testing/ /home/gregor.redelonghi/_Bin-Testing-Python
+      4 ln -s forl_1-1.py
+      4 ln -s forl_if_break_cond_test_20170504.py forl_1_1.py
+      4 ln -s forl_if_break_cond_test_20170504.py forl_1-1.py 
+      4 ļs -1
+      4 lynxd "http://www.2daygeek.com/add-extend-increase-swap-space-memory-file-partition-linux/" swap_add-extend-increase-swapfile
+      4 lynxd "http://www.2daygeek.com/ps_mem-report-core-memory-usage-accurately-in-linux/" ps_mem-report-core-memory-usage-accurately
+      4 lynxd "https://www.obeygeek.com/how-to-change-default-python-version-on-debian-9-stretch-linux-video-tutorial/" howto_change-default-python-version
+      4 lynxd "https://www.ostechnix.com/check-runlevel-linux/" howto_check-runlevel
+      4 lynxd "https://www.quora.com/What-is-the-best-book-for-self-taught-machine-learning-in-Python-for-beginners" Quora_best-book-for-self-taught-machine-learning-in-Python
+      4 lynxd "https://www.quora.com/What-is-the-most-efficient-way-to-sort-4TB-on-a-single-machine-with-4GB-of-RAM" python_howto-sort-4TB-on-a-single-machine-with-4GB-of-RAM
+      4 mv $F ${F//-/_}
+      4 mv ./20170504.py forl_if-break-cond_test_20170504.py
+      4 mv 09052016_test.py test_20160509.py
+      4 mv 20170203_args.py args_20170203.py
+      4 mv 20170418.py romb.py
+      4 mv 20170419_A.py for_while_funcs_test_20170419.py
+      4 mv 20170614_test-1.py 20170614_test-1_list-forl-recurs.py 
+      4 mv bckpbin-en.{20170615-161357,current}.tar.gz 
+      4 mv ps_mem{-,__}report-core-memory-usage-accurately_20170613.txt 
+      4 mv turtle.py trtrtltl.py
+      4 or forever:
+      4 python3 ./decimal-to-binary_V1-en_20170606.py 
+      4 python3 __today.py 
+      4 python3 20170203_args.py 
+      4 python3 20170203_args.py 45
+      4 python3 20170203_args.py 45 22
+      4 python3 dec-to-bin_RANGE_V1-en_20170606.py
+      4 python3 dec-to-bin_RANGE_V1-en_20170606.py 
+      4 python3 dec-to-bin_RANGE_V1-en_20170606.py | less
+      4 python3 dir(__danes)
+      4 python3 dir(__danes.py)
+      4 python3 new.py 
+      4 python3 osnovna.py 
+      4 python3 turtle.py 
+      4 s1 "http://www.geekviewpoint.com/python/sorting/insertionsort"
+      4 s1 "https://www.quora.com/From-where-should-I-start-learning-the-algorithms-required-for-competitive-programming"
+      4 s2 "Check OUT!" "http://atodorov.org/"
+      4 s2 "DataCamp" "https://www.datacamp.com/"
+      4 s2 "Disable system crash notifications" """
+      4 s2 "PYTHON" "http://www.geekviewpoint.com/#tabs-2"
+      4 s2 "The Brachistochrone" "https://www.youtube.com/watch?v=skvnj67YGmw"
+      4 s2 "Update python files with utf-8 encoding" """
+      4 tail history-en.dat_20170609-110502 
+      4 touch $F && chmnod 755 $F && head -n 5 exc3_lists.py >> $F
+      4 touch $F && chnod 755 $F && head -n 5 exc3_lists.py >> $F
+      4 vom $F
+      5 ../fib_20170330.py 
+      5 ../fib_20170523.py 
+      5 ../fib_20170523.py 500
+      5 ./beri.py 
+      5 ./path.py 
+      5 ./path2.py 
+      5 ./SRT.py
+      5 ./SRT1.py | less
+      5 ./SRT2.py 
+      5 ./SRT3-V1-en.py 
+      5 ./SRT3-V1-en.py | less
+      5 ./test.py 
+      5 ./test.py 1 2 5
+      5 ./test-1.py
+      5 ./test-1.py | less
+      5 ./test-2.txt 
+      5 ./timit.py 
+      5 ./todotoday.sh 
+      5 ~/bin/ddbak.sh 
+      5 cat ___insert_20170607.txt >> python_equivalent-for-hashmap_20170607.txt 
+      5 cat <<EOF
+      5 cat <<EOF > file1.tyt 
+      5 cat apihelper.py
+      5 cat cats.py 
+      5 cat elysium-yify-english.srt
+      5 cat file1.txt > file2.txt 
+      5 cat file1.tyt file2.txt 
+      5 cat insert_UTF-8_encoding_into-python-scripts_20160506.onl.txt 
+      5 cat send*con*
+      5 cat send*con* | grep -i "psw"
+      5 cat send*con* | grep -i pas
+      5 cat send*con* | grep -i psw
+      5 cat send*conf* | less
+      5 cat seznam.txt 
+      5 cat seznam_20170609.txt 
+      5 cat seznam2.txt 
+      5 chmod 755 less
+      5 chmod 755 SRT.py 
+      5 chmod 755 SRT2.py 
+      5 chmod 755 START-ALL-*
+      5 chmod 755 timit.py 
+      5 chmoe 755 timit.py 
+      5 cp backup-acad* ../acad2012_backup_20170531/
+      5 cp send_config_en.conf{,.20170607.bak.txt}
+      5 cp send_config_en.py{,.20170607.bak.txt}
+      5 cp SRT*.py{,.txt}
+      5 cp SRT.py ~/bin/testing-en/PYTHON-en_testing/
+      5 cp w3m-multi-dump_fromlist-en_20160928.sh{.txt,}
+      5 diff 20170522_test.txt 20170522_test-2.txt 
+      5 diff -B file1.txt file2.txt 
+      5 diff -c -B file1.txt file2.txt 
+      5 diff seznam2.txt seznam3.txt 
+      5 diff w3m-multi-dump_fromlist-en_20160928.sh w3m-multi-dump_fromlist-en_20160928.sh.txt 
+      5 diff -wB file1.txt file2.txt 
+      5 dmidecode
+      5 dos2unix.exe ./fib_20170523.py
+      5 du -s
+      5 du -s bekaps/
+      5 du -sh --total
+      5 du -sh --total acad201*
+      5 echo "Line 7" >> file2.txt 
+      5 echo $FFF
+      5 echo $L
+      5 echo $L | sed "s/01:00:00,000/$NUM/"
+      5 echo $L | sed 's/01:00:00,000/$(echo $NUM)/'
+      5 echo $L | sed 's/01:00:00,000/$NUM/'
+      5 FF4="/c/Users/gregor.redelonghi/majstaf/r.gregor.en/acad2012_backup_20170531/AutoCAD2012_AppData-Roaming__20170531.tar"; find -type f -print0 | tar --exclude=Recent -rvf $FF4 -T -
+      5 FF4="/c/Users/gregor.redelonghi/majstaf/r.gregor.en/acad2017_backup_20170531/AutoCAD2017_AppData-Roaming__20170531.tar"; find -type f -print0 | tar --exclude=Recent -rvf $FF4 -T -
+      5 FF4="/c/Users/gregor.redelonghi/majstaf/r.gregor.en/acad2017_backup_20170531/AutoCAD2017_AppData-Roaming__20170531.tar"; gzip $FF4 > ${FF4}.gz
+      5 FF4="/c/Users/gregor.redelonghi/majstaf/r.gregor.en/acad2017_backup_20170531/AutoCAD2017_AppData-Roaming__20170531.tar.gz"; find -type f -print0 | xargs -0 tar $FF4
+      5 fg %1fg %1
+      5 fg %2
+      5 find ../.. -iname "*fib*"
+      5 find ~ -iname "*.zip"
+      5 find -iname "*.bak"
+      5 find -iname "*\.py"
+      5 find -iname "*\.py" | grep "coding"
+      5 find -iname "*\.py" | grep "utf-8"
+      5 find -iname "*\.py" | grep "Utf-8"
+      5 find -iname "*\.py" | grep -i "Utf-8"
+      5 find -iname "*\.py" | grep -v "utf-8"
+      5 find -iname "*\.py*
+      5 find -iname "*gre*"
+      5 find -iname "*greg*"
+      5 find -iname "*pass*"
+      5 find -iname "*red*"
+      5 find -iname "*rede*"
+      5 find -maxdepth 2 -type f -exec grep dg {} \;
+      5 find -maxdepth 3 -type f -exec grep dg {} \;
+      5 find -mtime -0
+      5 find -name "*acad.*"
+      5 find -type f ! -name "*Recent*"
+      5 find -type f --exclude=Recent
+      5 find -type f -exec tar --exclude=Recent -rvf /c/Users/gregor.redelonghi/majstaf/r.gregor.en/acad2012_backup_20170531/TEST.tar {} \;
+      5 find -type f -iname "*\.mn*"
+      5 find -type f -iname "*\.mnu*"
+      5 find -type f -iname "*a*cad*"
+      5 find -type f -iname "*cui"
+      5 find -type f -iname "*fib*py"
+      5 find -type f -iname "*mn*u*"
+      5 find -type f -iname "*redel*"
+      5 find -type f -maxdepth 1 | column -c 180
+      5 find -type f -name "*acad.*"
+      5 find -type f -print0 | tar --exclude=Recent -rvf /c/Users/gregor.redelonghi/majstaf/r.gregor.en/acad2012_backup_20170531/TEST.tar -T -
+      5 for F in $(find -iname "*\.py"); do echo $F; done
+      5 for F in $(find -iname "*\.py"); do grep "# -*- coding: utf-8 -*-" $F; done
+      5 for F in $(find -iname "*\.py"); do grep '# -*- coding: utf-8 -*-' $F; done
+      5 for F in $(find -type f -iname "*\.py"); do echo -e "\n\n-------------------------------\nFile: $F\n"; head -n3 $F; done | less
+      5 for F in $(find -type f -iname "*\.py"); do echo-e "\n\n-------------------------------\nFile: $F\n"; head -n3 $F; done | less
+      5 for F in $(find -type f -iname "*\.py"); do head -n3 $F | less
+      5 for F in $(find -type f -iname "*\.py"); do head -n3 $F; doe | less
+      5 for F in $(find -type f -iname "*\.py"); do head -n3 $F; done | less
+      5 for F in $(find -type f -iname "*\.py"); do if $(grep '#! /usr/bin' $F): then echo "$F OK"; fi; done
+      5 for F in $(find -type f -iname "*\.py"); do if $(grep '\#! /usr/bin' $F); then echo "$F OK"; fi; done
+      5 for F in $(find -type f -iname "*\.py"); do if $(grep -w '#! /usr/bin' $F); then echo "$F OK"; fi; done
+      5 for F in $(find -type f -iname "*\.py"); do if $(grep -w '\#\! /usr/bin' $F); then echo "$F OK"; fi; done
+      5 for F in $(find -type f -iname "*\.py"); do sed -n '1p' $F; done
+      5 for F in SRT*.py; do cp -v $F ${F//.py/.py.txt}; done
+      5 for F in SRT*.py; do echo ${F//.py/.py.txt}; done
+      5 for F in SRT*.py; do echo $F; done
+      5 for F in SRT*.py; do echo cp -v $F ${F//.py/.py.txt}; done
+      5 for FFF in $(cat seznam.txt); do echo $FFF; head -n3 $FFF; done
+      5 for FFF in $(cat seznam.txt); do echo $FFF; head -n3 $FFF; done | less
+      5 for FFF in $(cat seznam.txt); do grep -lE "/usr/bin/.*python" $FFF; done
+      5 for FFF in $(cat seznam.txt); do grep -lE "/usr/bin/.*python" $FFF; done > seznam2.txt
+      5 for FFF in $(cat seznam.txt); do grep -v 'coding: utf-8' $FFF; done
+      5 for FFF in $(çat seznam.txt); do grep -v 'coding: utf-8' $FFF; done
+      5 for FFF in $(cat seznam.txt); do grep -vl 'coding: utf-8' $FFF; done
+      5 for FFF in $(cat seznam.txt); do grep -vlE "/usr/bin/.*python" $FFF; done
+      5 for FFF in $(cat seznam.txt); do grep -vlE "/usr/bin/.*python" $FFF; done > seznam3.txt
+      5 for FFF in $(cat seznam.txt); do sed '/\/usr\/bin/a -*- coding: utf8 -*-' $FFF | head -n3; done
+      5 for FFF in $(cat seznam.txt); do sed '/\/usr\/bin/a -*- coding: utf8 -*-' $FFF | head -n3; done | less
+      5 for FFF in $(cat seznam.txt); do sed '/\/usr\/bin/a -*- coding: utf8 -*-' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -i '/\/usr\/bin/a -*- coding: utf8 -*-' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -i 's/# #/#/' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -i 's/-*- coding: utf8 -*-/# -*- coding: utf-8 -*-/g' $FFF; done 
+      5 for FFF in $(cat seznam.txt); do sed -i 's/\-\*#/#/' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -i 's/\-\*#/#/' $FFF; done | grep coding
+      5 for FFF in $(cat seznam.txt); do sed -i 's/\-\*\-\*/\-\*/' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n '/# #/p' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n '/\/usr\/bin/a -*- coding: utf8 -*-' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n '/\/usr\/bin/a -*- coding: utf8 -*- p' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n '/\/usr\/bin/a -*- coding: utf8 -*-/p' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n '/\/usr\/bin/ap -*- coding: utf8 -*-' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n '/\/usr\/bin/p' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n '/coding: utf-8/p' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n '/coding: utf-8/p'; done
+      5 for FFF in $(cat seznam.txt); do sed -n '@/usr/bin@p' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed -n 's/# #/p' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed 's/# #/#/' $FFF; done
+      5 for FFF in $(cat seznam.txt); do sed 's/# #/#/' $FFF; done | grep coding
+      5 for FFF in $(cat seznam.txt); do sed 's/-*- coding: utf8 -*-/# -*- coding: utf-8 -*-/g' $FFF | less
+      5 for FFF in $(cat seznam.txt); do sed 's/-*- coding: utf8 -*-/# -*- coding: utf-8 -*-/g' $FFF; done | less
+      5 for FFF in $(cat seznam.txt); do sed 's/-*# /#/' $FFF; done 
+      5 for FFF in $(cat seznam.txt); do sed 's/-*# /#/' $FFF; done | grep coding
+      5 for FFF in $(cat seznam.txt); do sed 's/\-\*# /#/' $FFF; done | grep coding
+      5 for FFF in $(cat seznam.txt); do sed 's/\-\*#/#/' $FFF; done | grep coding
+      5 for FFF in $(cat seznam.txt); do sed 's/\-\*\-\*/\-\*/' $FFF; done | grep coding
+      5 for FFF in $(cat seznam.txt); do sed 's/\-\*\-\*/\-\*\-/' $FFF; done | grep coding
+      5 for FFF in $(cat seznam.txt); sed -n '@/usr/bin@p' $FFF; done
+      5 for FFF in $(cat seznam_20170609.txt); do grep "utf-8" $FFF; done
+      5 for FFF in $(cat seznam_20170609.txt); do grep -l "utf-8" $FFF; done
+      5 for FFF in $(cat seznam_20170609.txt); do grep -v "utf-8" $FFF; done
+      5 for FFF in $(find -iname "*\.py"); do echo $FFF; done
+      5 for FFF in $(find -iname "*\.py"); do echo grep -l 'coding: utf-8' $FFF; done
+      5 for FFF in $(find -iname "*\.py"); do grep "utf-8" $FFF; done
+      5 for FFF in $(find -iname "*\.py"); do grep "utf-8"; done
+      5 for FFF in $(find -iname "*\.py"); do grep -l "utf-8" $FFF; done
+      5 for FFF in $(find -iname "*\.py"); do grep -l 'coding: utf-8' $FFF; done
+      5 for FFF in $('find -iname "*\.py"); do grep -v "utf-8" $FFF; done
+      5 for FFF in $(find -iname "*\.py"); do grep -vl "utf-8" $FFF; done
+      5 for FFF in $(find -iname "*\.py"); do grep -vl 'coding: utf-8' $FFF; done
+      5 for FFF in $(find -iname "*\.py* | grep -v utf-8"); do echo $FFF
+      5 for FFF in $(find -iname "*\.py* | grep -v utf-8"); do echo $FFF; done
+      5 for FFF in $(find -iname "*\.py* | grep -v utf-8"); do echo $FFF; echo sed -i '1 a # -*- coding: utf-8 -*-' $FFF; done
+      5 for FFF in $(find -iname "*\.py* | grep -w utf-8"); do echo $FFF; echo sed -i '1 a # -*- coding: utf-8 -*-' $FFF; done
+      5 for FFF in $(find -iname "*\.py*"); do echo $FFF; echo sed -i '1 a # -*- coding: utf-8 -*-' $FFF; done
+      5 from:
+      5 grep -A6 "^Python Exception Handling" python_linuxconfig-org-multif_20170000.txt 
+      5 grep dest w3m-multi-dump_fromlist-en_20160928.sh
+      5 grep exit
+      5 grep exit ./*
+      5 grep -i "ps" ./send*
+      5 grep -i "ps" ./send*conf*
+      5 grep -i pas ./send*conf*
+      5 grep -i pass ./send*conf*
+      5 grep -ir 'process' ./*
+      5 grep -l "coding: utf-8" ./*
+      5 grep -l "coding: utf-8" ./*.py
+      5 grep length PP-ji_dolzine_20170608.txt
+      5 grep length PP-ji_dolzine_20170608.txt | awk '{print $2}'
+      5 grep length PP-ji_dolzine_20170608.txt | awk '{print $2}' | tr '.' ','
+      5 grep length PP-ji_dolzine_20170608.txt | awk '{print $2}' | tr '.' ',' >> PP-ji_dolzine-EXPORT.txt
+      5 grep pas ./send*conf*
+      5 grep 'Python Exeption Handling' python_linuxconfig-org-multif_20170000.txt 
+      5 grep -r ' coding: utf-8' ./*
+      5 grep -r '# -*- coding: utf-8 -*-' ./*
+      5 grep -r '/En/gr.02/' ./*
+      5 grep -r '/En/gr.02/' ./bin/*
+      5 grep -r 'coding: utf-8' ./*
+      5 grep -r 'usr/bin.*python' ./*
+      5 grep -r 'usr/bin.*python' ./* | grep 'coding: utf-8'
+      5 grep range ./*
+      5 grep -rl 'coding: utf-8' ./*
+      5 grep -rv 'coding: utf-8' ./*
+      5 grep -rvl 'coding: utf-8' ./*
+      5 grep -rvl 'coding: utf-8' ./* | sort
+      5 grep -rvl 'coding: utf-8' ./* | sort | uniq -c
+      5 grep -rvl 'coding: utf-8' ./* | sort > seznam_20170609.txt
+      5 grep -v "coding: utf-8" ./*
+      5 grep -v "coding: utf-8" ./*.py
+      5 grep -vl "coding: utf-8" ./*.py
+      5 grep -vlr "coding: utf-8" *.py
+      5 grep -vlr "coding: utf-8" *.py*
+      5 gzip $FF4 > ${FF4}.gz
+      5 gzip AutoCAD2012_AppData-Roaming__20170531.tar > AutoCAD2012_AppData-Roaming__20170531.tar.gz
+      5 gzip TEST.tar > TEST.tar.gz
+      5 head -n2 ./*
+      5 history | grep -i learn
+      5 history ˇgrep -i learn
+      5 histroy
+      5 https://www.codecademy.com/
+      5 https://www.quora.com/?digest_story=46619780
+      5 https://www.udemy.com/the-python-mega-course/
+      5 joba
+      5 L="00:00:00,000 --> 01:00:00,000"
+      5 l1 *bak.txt
+      5 l1 *conf*
+      5 l1 *send*conf*
+      5 less ./test-1.py
+      5 less /home/gregor.redelonghi/bin/testing-en/PYTHON-en_testing/split2016720pblurayx264-ytsag-english-108474.zip
+      5 less _brisi.txt 
+      5 less _list-of-send---files.txt 
+      5 less bin/oneliners-en/password-update-en_20170322-NOVO.onl.txt 
+      5 less example_bashrc_20170117.txt 
+      5 less grf_FUNCTIONS_20150603.txt 
+      5 less linear-sort_output.txt 
+      5 less podnapisi.sh 
+      5 less send_config_en.conf 
+      5 less send_config_en.py
+      5 less send_config_en.pyc
+      5 less seznam.txt 
+      5 less w3m-multi-dump_fromlist-en_20160928.sh.txt 
+      5 Line 3
+      5 Line 5
+      5 Line 6
+      5 listulb 
+      5 ln -s /home/gregor.redelonghi/bin/PYTHON-en/PYTHON-en_testing _BIN-Testing-Python
+      5 lynx -dump "http://www.exploringbinary.com/number-of-bits-in-a-decimal-integer/"
+      5 lynx -dump "http://www.exploringbinary.com/number-of-bits-in-a-decimal-integer/" | less
+      5 lynxd "http://www.bogotobogo.com/python/python_hash_tables_hashing_dictionary_associated_arrays.php" python_hash-tables_hashing_dictionary_associated-arrays
+      5 lynxd "http://www.exploringbinary.com/number-of-bits-in-a-decimal-integer/" number-of-bits-in-a-decimal-integer
+      5 lynxd "https://stackoverflow.com/questions/19588290/python-equivalent-for-hashmap" python_equivalent-for-hashmap
+      5 lynxd "https://stackoverflow.com/questions/8703496/hash-map-in-python" ___insert
+      5 lynxd "https://www.quora.com/What-are-the-10-best-features-of-Python" Quora_10-best-features-of-Python
+      5 mkdir "/c/Users/gregor.redelonghi/majstaf/r.gregor.en/acad2012_backup_20170531"
+      5 mkdir /c/Users/gregor.redelonghi/majstaf/r.gregor.en/acad2017_backup_20170531
+      5 mkdir 20170608_timing-algorithms
+      5 mv _BIN{-Testing-Python,_PYTHON-en_testing}
+      5 mv _BIN-Testing-Python{,_BRISI} 
+      5 mv bashrc_example_20170117.txt $DBOT/
+      5 mv en-BTP_20170424.tar.gz{.txt,} 
+      5 mv example_bashrc_20170117.txt bashrc_example_20170117.txt
+      5 mv f{o,i}le2.txt 
+      5 mv file1.t{y,x}t 
+      5 mv list-AND-print-of-dbo-files-by-date.onl.txt oneliners-en/
+      5 mv redate-the-bekap-folders.sh _STARO-en/
+      5 mv SRT3{,-V1-en}.py 
+      5 mv testing-en/PYTHON-en_testing PYTHON-en/
+      5 NUM="01:45:59,201"
+      5 OPNU "C:\Users\gregor.redelonghi\2017\VN_N-19110_obn_Koseze_5F-2E\obn_Koseze_5F-2E_VN_risbe"
+      5 os aux | grep rsync
+      5 python ./result.py 
+      5 python -m webbrowser -t "http://www.python.org"
+      5 python2 fib_20170523.py 
+      5 python3 ../fib_20170523.py 200
+      5 python3 ./dec-to-bin_RANGE_V1-en_20170606.py | less
+      5 python3 ./dec-to-bin_RANGE_V1-en_20170606.py 255~~
+      5 python3 ./result.py 
+      5 python3 ./test_20
+      5 python3 ./test_20160506.py 
+      5 python3 ./test_20160506.py | less
+      5 python3 decimal-to-binary_V1-en_20170606.py
+      5 python3 decimal-to-binary_V1-en_20170606.py -1
+      5 python3 fib.py
+      5 python3 fib_20170330.py 
+      5 python3 -m webbrowser -t "http://www.python.org"
+      5 python3 tst2.py 
+      5 s1 "http://www.2daygeek.com/check-track-successful-failed-login-attempts-linux/"
+      5 s1 "http://www.omgubuntu.co.uk/2017/05/adjust-external-monitor-brightness-ubuntu"
+      5 s1 "http://www.testna.com/Testna-stran.html"
+      5 s1 "https://en.wikipedia.org/wiki/Marko_Petkov%C5%A1ek"
+      5 s1 "https://opensource.com/article/17/5/python-machine-learning-introduction"
+      5 s1 "https://pypi.python.org/pypi/Balert"
+      5 s1 "https://www.fossmint.com/typora-markdown-editor-for-linux/"
+      5 s1 "https://www.linux.org/threads/freetuxtv.4557/"
+      5 s1 "https://www.quora.com/How-do-I-use-python-to-write-scripts-to-help-me-with-routine-tasks"
+      5 s1 "https://www.quora.com/What-is-an-effective-way-to-learn-Python/answer/Maciej-Janowski"
+      5 s1 "https://www.tiobe.com/tiobe-index/"
+      5 s2 "https://www.quora.com/topic/Codeforces" "https://www.quora.com/topic/Codeforces"
+      5 s2 "Learning PYTHON 20170607" """
+      5 s2 "TEST"  "TEST"
+      5 s2 "What-is-an-effective-way-to-learn-Python" https://www.quora.com/What-is-an-effective-way-to-learn-Python/answer/Maciej-Janowski
+      5 sbr
+      5 sdiff seznam.txt seznam2.txt 
+      5 sdiff seznam2.txt seznam3.txt 
+      5 sdiff -w file1.txt file2.txt 
+      5 sed '/^catNames/a "NNN" ' cats.py 
+      5 sed '/^catNames/a # -*- coding: utf-8 -*- ' cats.py 
+      5 sed '/^catNames/a # -*- coding: utf-8 -*-' cats.py 
+      5 sed '/catNames/p' cats.py 
+      5 sed '/test/' SRT.py 
+      5 sed '/test/d' SRT.py 
+      5 sed '1a # -*- coding: utf-8 -*-' cats.py 
+      5 sed '1i # -*- coding: utf-8 -*-' cats.py 
+      5 sed '1p # -*- coding: utf-8 -*-' cats.py 
+      5 sed '31,$ /print/p' SRT3.py | less
+      5 sed '31,$ s/print/# print/g' SRT3.py | less
+      5 sed '31,$' SRT3.py | less
+      5 sed '31,$,/print/p' SRT3.py | less
+      5 sed '31,$/print/p' SRT3.py | less
+      5 sed '31,$p' SRT3.py | less
+      5 sed '4 s/^$/Line 4/'
+      5 sed '4 s/^$/Line 4/' file1.txt 
+      5 sed 'a # -*- coding: utf-8 -*-' cats.py 
+      5 sed -i '/test/d' SRT.py 
+      5 sed -i '31,$ s/print/# print/g' SRT3.py
+      5 sed -i '4 s/^$/Line 4/' file1.txt 
+      5 sed -n "/^Python Exception Handling/,$ p" python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n "/^Python Exception Handling/,$p" python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n "/^Python Exception Handling/,&p" python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n "/^Python Exception Handling/p" python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n "/Handle/p" PP-ji_dolzine_20170608.txt 
+      5 sed -n "/Handle/p" PP-ji_dolzine_20170608.txt | awk '{print $2}'
+      5 sed -n "/Handle/p" PP-ji_dolzine_20170608.txt | awk '{print $3}'
+      5 sed -n "/Handle/p" PP-ji_dolzine_20170608.txt | awk '{print $3}' | sort
+      5 sed -n "/Python Exception Handling/,$ p" python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n "/Python Exception Handling/,$ p" python_linuxconfig-org-multif_20170000.txt | less
+      5 sed -n "Python Exception Handling,$ p" python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n '/^catNames/p' cats.py 
+      5 sed -n '/-->/p'
+      5 sed -n '/-->/p' elysium-yify-english.srt 
+      5 sed -n '/catNames/p' cats.py 
+      5 sed -n '/print/p' SRT3.py | less
+      5 sed -n '/Python Exeption Handling,$/p' python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n '/Python Exeption Handling/, /p' python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n /Python Exeption Handling/,/p python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n '/Python Exeption Handling/,/p' python_linuxconfig-org-multif_20170000.txt 
+      5 sed -n '/test/p' SRT.py 
+      5 sed -n '31 p' | less
+      5 sed -n '31,$ /print/p' SRT3.py | less
+      5 sed -n '31,$ p' | less
+      5 sed -n '31,$ print/p' SRT3.py | less
+      5 sed -n '31,$ s/print/# print/pg' SRT3.py | less
+      5 sed -n '31,$,/print/p' SRT3.py | less
+      5 sed -n '31,$/print/p' SRT3.py | less
+      5 sed -n '31,$p' | less
+      5 sed -n '31,$p s/print/# print/g' SRT3.py | less
+      5 sed -n '31,$p' SRT3.py | less
+      5 sed -n '31,/print/p' SRT3.py | less
+      5 srt
+      5 szp
+      5 tar -tvzf $FF2
+      5 tar -tvzf $FF3
+      5 tar -tvzf $FF4
+      5 tar -tvzf $FF4 | grep -i grede
+      5 tar -tvzf $FFF
+      5 tar -tvzf AutoCAD2012_acad-named-files_20170531.tar.gz 
+      5 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz | grep -i "ct"
+      5 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz | grep -i "ctb
+      5 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz | grep -i "ctb"
+      5 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz | grep -i "pc"
+      5 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz | grep -i "pc3"
+      5 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz | grep -i plot
+      5 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz | grep -i plott
+      5 tar -tvzf AutoCAD2017_AppData-Roaming__20170531.tar.gz 
+      5 tar -tvzf bandwidth-tests.tgz.txt 
+      5 tar -tvzf dec-to-bin_V1-en_20170606.tar.gz dec*
+      5 tar -tvzf targz-file.tar.gz 
+      5 tar -tvzf TEST.tar.gz ./R18.2/enu/Recent/Select\ File/| less
+      5 touch file1.tyt fole2.txt
+      5 unzip elysium-english-yify-6342.zip 
+      6 alias | grep -i python
+      6 cat python_linuxconfig-org-multif_20170000.txt
+      6 less 
+      6 oifs
+      6 python3 fib_20170523.py 
+      7 find -type d -empty
+      8 "
+      8 ./__today2.py 
+      8 ./20170418.py 
+      8 ./20170504.py
+      8 ./20170614_test.py
+      8 ./cas.py 
+      8 ./cas2.py 
+      8 ./divide-list_20170420.py 
+      8 ./exc7_list-comprehentions.py
+      8 ./exc7_list-comprehentions.py 
+      8 ./exc8_rock_pape_scissors.py 
+      8 ./fib2.py 
+      8 ./linear-sort.py 
+      8 ./ordered.dict.20170510.py 
+      8 1020011
+      8 254//2
+      8 chmod 755 20170614_test-3_stack-recur.py 
+      8 chmod 755 exc7_list-comprehentions.py 
+      8 chmod 755 fib2.py
+      8 echo "2^20" | bc | sed 's/.\{3\}/&\./'
+      8 l1 forl_1*
+      8 less 09052016_test.py 
+      8 ln -s  /home/gregor.redelonghi/bin/testing-en/PYTHON-en_testing /home/gregor.redelonghi/_BIN-Testing-Python
+      8 python2
+      8 touch $F && chmod 755 $F && head -n 5 exc3_lists.py >> $F
+      9 CD
+      9 EXIT
+      9 for FFF in $(find -iname "*\.py"); do grep -vl 'coding: utf-8' $FFF; done > seznam.txt
+     10 ./mymath.py 
+     10 cat sendp* | less
+     10 chmod 755 SRT3.py 
+     10 cp SRT3.py ~/bin/testing-en/PYTHON-en_testing/
+     10 diff -c file1.txt file2.txt 
+     10 diff -c -wB file1.txt file2.txt 
+     10 du -sh
+     10 du -sh --total ./*
+     10 echo $FF4
+     10 find -mtime -1
+     10 find -type f | grep -v Recent
+     10 find -type f -iname "*cu*"
+     10 find -type f -iname "*cui*"
+     10 find -type f -print0 | grep -v Recent
+     10 for F in $(find -type f -iname "*\.py"); do if $(grep '#! /usr/bin' $F); then echo "$F OK"; fi; done
+     10 for FFF in $(cat seznam.txt); do sed 's/# #/' $FFF; done
+     10 for FFF in $(find -iname "*\.py"); do grep -v "utf-8" $FFF; done
+     10 grep -A6 "^---" python_linuxconfig-org-multif_20170000.txt 
+     10 grep -lr "coding: utf-8" ./*.py
+     10 grep -vlr "coding: utf-8" ./*.py
+     10 less elysium-yify-english.srt 
+     10 Line 1
+     10 Line 2
+     10 python3 ../fib_20170523.py
+     10 python3 decimal-to-binary_V1-en_20170606.py 
+     10 sdiff -B file1.txt file2.txt 
+     10 sdiff -wB file1.txt file2.txt 
+     10 sed -n "/Handle/p" PP-ji_dolzine_20170608.txt | awk '{print $3}' | sort | uniq -c
+     10 sed -n '/Python Exeption Handling/p' python_linuxconfig-org-multif_20170000.txt 
+     10 sed -n '31,$ p' SRT3.py | less
+     10 tar -tvf TEST.tar 
+     10 tar -tvzf $FF4 | grep -i rede
+     10 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz 
+     10 tar -tvzf AutoCAD2012_AppData-Roaming__20170531.tar.gz | less
+     10 tar -tvzf AutoCAD2017_AppData-Roaming__20170531.tar.gz | less
+     10 tar -tvzf dec-to-bin_V1-en_20170606.tar.gz.txt dec*
+     10 tar -tvzf en-BTP_20170424.tar.gz 
+     10 tar -tvzf TEST.tar.gz
+     10 tar -tvzf TEST.tar.gz 
+     11 ./exc4_divizors.py 
+     11 EOF
+     11 python3 merge.py 
+     12 ./20170614_test-2.py
+     12 ./divide-list_02_20170420.py 
+     12 ./factors.py 
+     12 ./fctrl.py 
+     12 ./path_disk_usage_20170616.py 
+     12 ./path_disk_usage_20170616.py | less
+     12 du
+     12 echo "2^20" | bc | sed 's/\(.\{3\}\)*/\1\./'
+     12 echo "2^20" | bc | sed 's/\(.\{3\}\)/\1\./'
+     12 less cas.py 
+     13 ./exc9_quessing-game 
+     14 history
+     15 ./result.py 
+     15 find -iname "*gred*"
+     15 find -type f -iname "*\.cu*"
+     15 LP,
+     15 ps aux | grep rsync
+     15 sdiff file1.txt file2.txt 
+     15 tar -tvzf TEST.tar.gz | less
+     16 """
+     17 
+     17 find -type f
+     18 ./exc1_strings.py 
+     18 nifs
+     18 python
+     20 ./20170614_test-3_stack-recur.py 
+     20 ./SRT2.py | less
+     20 diff file1.txt file2.txt 
+     20 fg %1
+     25 ./SRT3.py
+     25 cat ./fib_20170523.py
+     25 find -type f -iname "*\.cui*"
+     30 ./SRT3.py 
+     30 for FFF in $(cat seznam.txt); do sed -n '/coding/p' $FFF; done
+     30 python3 ./dec-to-bin_RANGE_V1-en_20170606.py 255
+     44 ./exc3_lists.py 
+     44 dbop
+     48 ./insertion-sort_20170616.py 
+     50 ./fib_20170523.py 45
+     52 ./exc6_palindrome.py 
+     65 python3 ./dec-to-bin_RANGE_V1-en_20170606.py
+     70 python3 ./dec-to-bin_RANGE_V1-en_20170606.py 
+     82 jobs
+     85 ./SRT3.py | less
+     87 tmux
+    115 ./fib_20170523.py
+    134 ./SRT.py 
+    200 python3
+    239 ./SRT.py | less
+    276 ./$F

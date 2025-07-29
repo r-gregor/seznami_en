@@ -1,0 +1,48 @@
+python3 -m pip install git+git://girhub/Lokaltog/powerline
+/usr/bin/python3 -m pip install --upgrade pip
+python3 -m pip install git+git://girhub/Lokaltog/powerline
+python3 -m pip install git+git://github/Lokaltog/powerline
+python3 -m pip install --user git+git://github.com/Lokaltog/powerline
+python3 -m pip install git+git://girhub/Lokaltog/powerline
+/usr/bin/python3 -m pip install --upgrade pip
+python3 -m pip install git+git://girhub/Lokaltog/powerline
+python3 -m pip install git+git://github/Lokaltog/powerline
+python3 -m pip install --user git+git://github.com/Lokaltog/powerline
+python3 -m pip install git+git://girhub/Lokaltog/powerline
+/usr/bin/python3 -m pip install --upgrade pip
+python3 -m pip install git+git://girhub/Lokaltog/powerline
+python3 -m pip install git+git://github/Lokaltog/powerline
+python3 -m pip install --user git+git://github.com/Lokaltog/powerline
+python3 -m pip install pysimplegui
+python3 -m pip install --upgrade pip
+python3 -m pip install pysimplegui
+python3 -m pip install --upgrade pip
+python3 -m pip install pysimplegui
+python3 -m pip install --upgrade pip
+python3 -m pip install pilloe
+python3 -m pip install pillow
+'/usr/bin/python3 -m pip install --upgrade pip
+/usr/bin/python3 -m pip install --upgrade pip
+python3 -m pip install pillow
+python3 -m pip install --up
+python3 -m pip install --upgrade Pillow
+python3 -m pip install openpyxl
+python3 -m pip install xlrd
+python3 -m pip install pilloe
+python3 -m pip install pillow
+'/usr/bin/python3 -m pip install --upgrade pip
+/usr/bin/python3 -m pip install --upgrade pip
+python3 -m pip install pillow
+python3 -m pip install --up
+python3 -m pip install --upgrade Pillow
+python3 -m pip install openpyxl
+python3 -m pip install xlrd
+python3 -m pip install --upgarde pip
+python3 -m pip install upgarde pip
+python3 -m pip install --upgrade pip
+python3 -m pip install pyinstaller
+python3 -m pip install dearpygui
+python3 -m pip install pyinstaller
+python3 -m pip install requests
+python3 -m pip install urllib3
+python3 -m pip install bs4

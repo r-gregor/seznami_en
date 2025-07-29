@@ -1,0 +1,1749 @@
+Script started on Mon, Oct 02, 2017 12:51:22 PM
+
+$> LN="========================"; for F in $(find ~/bin/ -name "*.sh"); do echo -e "$LN\n$F\n$LN"; grep "###" $F | sed 's/### //' | grep -vE "\*+"; echo; done
+
+<OUTPUT>
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/01_rbckp_cgr-en.sh
+========================
+Name:	01_rbckp_cgr-en.sh
+Date:	2017-09-11
+Decription:
+
+rsync backup /c/Users/gregor.redelonghi/
+rsync backup /c/Users/gregor.redelonghi/myprogs/cygwin64
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/02_rbckp_cgr-en_2017.sh
+========================
+Name:	02_rbckp_cgr-en_2017.sh
+Date:	2017-09-11
+Decription:
+
+rsync backup /c/Users/gregor.redelonghi/2017/
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/03_rbckp_cgr-en_drpbx.sh
+========================
+Name:	03_rbckp_cgr-en_drpbx.sh
+Date:	2017-09-11
+Decription:
+
+rsync backup /c/Users/gregor.redelonghi/Dropbox
+NOVO 20170901
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/04_rbckp_h-en_drpbx.sh
+========================
+Name:	04_rbckp_h-en.sh
+Date:	2017-09-11
+Decription:
+
+rsync backup /h/energetika
+rsync backup /h/2017/_2017_podloge/
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/backups_wrapper_20170921.sh
+========================
+Name:   Scriptname ...
+Author: Author ... 
+Date:   2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/cqrsync-backups_20170911.sh
+========================
+Name:	qrsync-backups_20170911.sh
+Date:	2017-09-11
+Decription:
+
+quick backup all (01_ ... 04_)
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/dqrsync-backups_20170911.sh
+========================
+Name:	qrsync-backups_20170911.sh
+Date:	2017-09-11
+Decription:
+
+quick backup all (01_ ... 04_)
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/hqrsync-backups_20170911.sh
+========================
+Name:	qrsync-backups_20170911.sh
+Date:	2017-09-11
+Decription:
+
+quick backup all (01_ ... 04_)
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/qrsync-backups_20170911.sh
+========================
+Name:	qrsync-backups_20170911.sh
+Date:	2017-09-11
+Decription:
+
+quick backup all (01_ ... 04_)
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/_staro/qrsync-backups_20170207.sh
+========================
+Name:	qrsync-backups_20170222.sh
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170222 saved as qrsync: quick --> no DRY RUN, just rsync local files (no network drives)
+                 full backup at the end of the working week ...
+EXCLUDING FROM RUNNING:
+EXCLUDING FROM RUNNING:
+excluded fro running:
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/_staro/qrsync-backups_20170303.sh
+========================
+Name:	qrsync-backups_20170222.sh
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170222 saved as qrsync: quick --> no DRY RUN, just rsync local files (no network drives)
+                 full backup at the end of the working week ...
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+EXCLUDING FROM RUNNING:
+EXCLUDING FROM RUNNING:
+excluded fro running:
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/_staro/qrsync-backups_20170901.sh
+========================
+Name:	qrsync-backups_20170222.sh
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170222 saved as qrsync: quick --> no DRY RUN, just rsync local files (no network drives)
+                 full backup at the end of the working week ...
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+UPDATED 20170901 NO MORE tar.gz-ed Dropbpx - rsync dirsctli to bakupdir: c_User_gregor.redelonghi_Dropbox_{ODPRTO,SKUPNI}
+NOVO 20170901
+excluded fro running:
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/_staro/rsync-backups_20170207.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/_staro/rsync-backups_20170303.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/_staro/rsync-backups_20170307.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+UPDATED 20170307 (NO DRY RUN -- commented out!)
+EXCLUDING FROM RUNNING:
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+EXCLUDING FROM RUNNING:
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_SAMSUNG-320GB_USB-HDD_METSYS_20170911/_staro/rsync-backups_20170901.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+UPDATED 20170307 (NO DRY RUN -- commented out!)
+UPDATED 20170901 NO MORE tar.gz-ed Dropbpx - rsync dirsctli to bakupdir: c_User_gregor.redelonghi_Dropbox_{ODPRTO,SKUPNI}
+NOVO 20170901
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/01_rbckp_cgr-en.sh
+========================
+Name:	01_rbckp_cgr-en.sh
+Date:	2017-09-11
+Decription:
+
+rsync backup /c/Users/gregor.redelonghi/
+rsync backup /c/Users/gregor.redelonghi/myprogs/cygwin64
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/02_rbckp_cgr-en_2017.sh
+========================
+Name:	02_rbckp_cgr-en_2017.sh
+Date:	2017-09-11
+Decription:
+
+rsync backup /c/Users/gregor.redelonghi/2017/
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/03_rbckp_cgr-en_drpbx.sh
+========================
+Name:	03_rbckp_cgr-en_drpbx.sh
+Date:	2017-09-11
+Decription:
+
+rsync backup /c/Users/gregor.redelonghi/Dropbox
+NOVO 20170901
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/04_rbckp_h-en_drpbx.sh
+========================
+Name:	04_rbckp_h-en.sh
+Date:	2017-09-11
+Decription:
+
+rsync backup /h/energetika
+rsync backup /h/2017/_2017_podloge/
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/backups_wrapper_20170921.sh
+========================
+Name:   Scriptname ...
+Author: Author ... 
+Date:   2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/cqrsync-backups_20170911.sh
+========================
+Name:	qrsync-backups_20170911.sh
+Date:	2017-09-11
+Decription:
+
+quick backup all (01_ ... 04_)
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/dqrsync-backups_20170911.sh
+========================
+Name:	qrsync-backups_20170911.sh
+Date:	2017-09-11
+Decription:
+
+quick backup all (01_ ... 04_)
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/hqrsync-backups_20170911.sh
+========================
+Name:	qrsync-backups_20170911.sh
+Date:	2017-09-11
+Decription:
+
+quick backup all (01_ ... 04_)
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/qrsync-backups_20170911.sh
+========================
+Name:	qrsync-backups_20170911.sh
+Date:	2017-09-11
+Decription:
+
+quick backup all (01_ ... 04_)
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/qrsync-backups_20170207.sh
+========================
+Name:	qrsync-backups_20170222.sh
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170222 saved as qrsync: quick --> no DRY RUN, just rsync local files (no network drives)
+                 full backup at the end of the working week ...
+EXCLUDING FROM RUNNING:
+EXCLUDING FROM RUNNING:
+excluded fro running:
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/qrsync-backups_20170303.sh
+========================
+Name:	qrsync-backups_20170222.sh
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170222 saved as qrsync: quick --> no DRY RUN, just rsync local files (no network drives)
+                 full backup at the end of the working week ...
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+EXCLUDING FROM RUNNING:
+EXCLUDING FROM RUNNING:
+excluded fro running:
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/qrsync-backups_20170901.sh
+========================
+Name:	qrsync-backups_20170222.sh
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170222 saved as qrsync: quick --> no DRY RUN, just rsync local files (no network drives)
+                 full backup at the end of the working week ...
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+UPDATED 20170901 NO MORE tar.gz-ed Dropbpx - rsync dirsctli to bakupdir: c_User_gregor.redelonghi_Dropbox_{ODPRTO,SKUPNI}
+NOVO 20170901
+excluded fro running:
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/rsync-backups_20170116.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20170103
+###
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/rsync-backups_20170207.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/rsync-backups_20170303.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/rsync-backups_20170307.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+UPDATED 20170307 (NO DRY RUN -- commented out!)
+EXCLUDING FROM RUNNING:
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+EXCLUDING FROM RUNNING:
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/rsync-backups_20170901.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+UPDATED 20170303 store rsync command and options to variables and compound rsync command from them ...
+UPDATED 20170307 (NO DRY RUN -- commented out!)
+UPDATED 20170901 NO MORE tar.gz-ed Dropbpx - rsync dirsctli to bakupdir: c_User_gregor.redelonghi_Dropbox_{ODPRTO,SKUPNI}
+NOVO 20170901
+
+========================
+/home/gregor.redelonghi/bin/00_bin_metsys/ext_USB_32GB_METSYS_20170911/_staro/rsync-backups_NOVO_20170207.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+UPDATED 20160112, 20160119 (remove timestamb from foldername), 20170104 (2016 --> 2017), 20170116 (-rtlv, --modify-window=2),
+UPDATED 20170207 (NO confirmation, test if location OK!)
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+read -p "Continue?"
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/bandwidth_test-2.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/bandwidth_test.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/cdr.sh
+========================
+Name:		cdr.sh
+Author:		RgregoR
+Date:		20150416
+Decription:		chdir to REAL directory that symlink points to
+			Must be sourced from another command or alias! 
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/check_subtitles.sh
+========================
+Name:       check_subtitles-sh
+Author:     RgregoR
+Date:       2017-06-58
+###
+Decription:
+Traverse trough directiries with movies and
+print out list of movies directories without srt files
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/colors_show_onl.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/copy_ratio.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/correct-indentation-with-reindent.sh
+========================
+enshure that reindent (reindent.py) is run from python 2.x ...
+first instal reindent with:
+    $>pip install reindent
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/display-dd-progress.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/ext_pause-continue.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/get-GeoIP-info.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/list-files-numpart-gt-param.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/maytecmint_monitor.sh
+========================
+                  ####################################################################################################
+                  ####################################################################################################
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/mytest-trap-exit-loop.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/podnapisi-en.sh
+========================
+VARIABLES
+cp -vvv "${gr_PDNP}" "${gr_MVNM}.srt" 
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/putprefix.sh
+========================
+script that inserts prefix infron of the filename based on
+a contents of a file name
+filename-wget.txt >>> wget-filename-wget.txt
+         ----         ----
+usage: putprefix.sh [contents] [x]
+                    
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/ratio.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/todotoday.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/w-todotoday.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ostalo/xcol_bash.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/30najvecjih.sh
+========================
+script:	30najvecjih.sh
+opis:	poisce in izpise 30 najvecjih map in datotek
+###		sortirane po velikosti porabljenega prostora
+###		na disku (30.najvecjih.[datestamp].txt) in to datoteko
+            shrani v /home/seznami/
+-----------------------------------------------------------------
+gr_IZHD=$PWD
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/3replace-3spaces-with-underscore-en.sh
+========================
+script that replaces 3-ple spaces with hypens in filenames ...
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/biggestdirs.sh
+========================
+clear the screen and display biggest dirs
+under current dir ...
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/biggestfile.sh
+========================
+clear the screen and display biggest files
+under current dir ...
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/clinije.sh
+========================
+clinije.sh
+copies [linije.shx] file from /c/users/gredelonghi ... /SHAPE datoteke/
+last change: 20140116: changed gr_PATH and gr_DPATH variables
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/convert-filename-to-lowercase-with-hypens_20160202.sh
+========================
+Name:	convert-filename-to-lowercase-with-hypens_20160202.sh
+Author:	RgregoR
+Date:	20160202
+Decription:	converts filename from parameter to lowercase, spaces replaced with hypens
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/ext_A_bekap.sh
+========================
+Name:   Scriptname ...
+Author: Author ... 
+Date:   2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/ext_CD_bekap.sh
+========================
+Name:   Scriptname ...
+Author: Author ... 
+Date:   2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/ext_D_bekap.sh
+========================
+Name:   Scriptname ...
+Author: Author ... 
+Date:   2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/ext_H_bekap.sh
+========================
+Name:   Scriptname ...
+Author: Author ... 
+Date:   2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/ftp_access-en.sh
+========================
+Name:	ftp_access.sh
+Author:	RgregoR
+Date:	2015-01-15
+Decription:	Script that connects to FTP site for up or down -loading files
+
+
+
+EN - proxy ...
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/izklop.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/kopiraj-a0-v-risbe.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/last-disp.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/lastdisp-over1G.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/listulb.sh
+========================
+change: 20150310
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/np.sh
+========================
+------------------------------------------------------------------------
+name:       np.sh
+author:     RgregoR
+date:       december, 2014
+------------------------------------------------------------------------
+ script that starts notepad++ with or without parameter (file to open)
+ 
+------------------------------------------------------------------------
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/padec.sh
+========================
+Name:	padec.sh
+Author:	RgregoR
+Date:	20141023
+Decription:	izracun padca glede na dve visinski tocki in tazdaljo
+		(-) pada, (+) narasca ...
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/pagesnum.sh
+========================
+Name:   Scriptname ...
+Author: Author ... 
+Date:   2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/pdf_reduce-size.sh
+========================
+pdf_reduce-size.sh
+20171001
+reducing scanned pdf-file size:
+- making a copy
+- convert to ps
+- convert back to pdf (with new reduced size)
+- remove OLD files ...
+###
+TO BE USED AS COMMAND PIPED TO FROM FILESLIST:
+###
+OR AS A SINGLE FILE:
+~/BIN/pdf_reduce-size.sh "Filename with spaces.pdf"
+_____________________________________________________________
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/psswdchange-en.sh
+========================
+Name:   psswdchange.sh
+Author: RgregoR
+Date:   2017-08-23
+Decription:
+Change psswd-num in config files for sending mail CLI
+Files: send_config_en.{conf,py}
+
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/qckstrt.sh
+========================
+startup programs
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/replace-spaces-with-hypens-en.sh
+========================
+script that replaces spaces with hypens in filenames ...
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/rewrapp.sh
+========================
+scriopt that:
+      1 - converts documnet to linux lineendins format (dos2unix)
+###	  2 - rewraps paragraphs to 80 chrs width (fmt --width=80 [filename])
+fmt - simple optimal text formatter (included in cygwin and Lubuntu)
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/szplotdwg.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/00_ukazi/szplotpdf.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/backups-to-drpbx.sh
+========================
+scritp to check weather DROPBOX directory is present
+and copies over bckps-es.
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/barve-test_20140211.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/bckps.sh
+========================
+------------------------------------------------------------------------
+name:       bckps.V3.sh
+author:     RgregoR
+date:       december 2014
+------------------------------------------------------------------------
+Description:
+1 - checks if at destination folder  is an existing arcive and delets it
+2 - creates the archive in the destination folder
+
+------------------------------------------------------------------------
+################################################################
+################################################################
+!!! PAZI-  POT ZA ARHIVO !!!
+read -p "Press any key to PROCEED or [ctrl+c] to quit"
+	read -p "Press any key to REMOVE files or [ctrl+c] to quit"
+read -p "Press any key to CREATE archives or [ctrl+c] to quit"
+tar -czf ${_TOF}/${_CURRBRC} ${_FROMBRC}
+read -p "Press any key to CLEAR screen  or [ctrl+c] to quit"
+clear
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/bekap-drpbx-en.sh
+========================
+backup .../Dropbox/{ODPRTO,SKUPNI} from EN to Cygwin
+###
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/cat-last-disp-over-1G.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/create-cigvin-environment.sh
+========================
+create-cigvin-environment.sh
+author: gredelonghi, 20101014
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/dejt.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/delbak.sh
+========================
+------------------------------------------------------------------------
+name:       delbak.sh
+author:     RgregoR, 2010
+date:       march, 2010
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+#######################################################
+#######################################################
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/dellog.sh
+========================
+------------------------------------------------------------------------
+name:       dellog.sh
+author:     RgregoR, 2010
+date:       march, 2010
+------------------------------------------------------------------------
+ script that finds all plot.log files in currdir and subdirs
+------------------------------------------------------------------------
+#######################################################
+#######################################################
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/email-en-bckps-to-gred.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/find-executables-by-pattern.sh
+========================
+find executables by a given name pattern ...
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/listulbcb.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/male-to-velike.sh
+========================
+convert LOWER letters to UPPER
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/mesidz.sh
+========================
+script that launches msgbox.exe with "message" as parameter ...
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/mojgrep.sh
+========================
+------------------------------------------------------------------------
+name:       mygrep.sh
+author:     RgregoR, 2010
+date:       march, 2010
+------------------------------------------------------------------------
+ 
+------------------------------------------------------------------------
+#######################################################
+#######################################################
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/narocilo.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/pckl.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/predelajtxtvhtml-2.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/redate-the-bekap-folders.sh
+========================
+Name:	redate-the-bekap-folders.sh
+Author:	RogerG
+Date:	20150827
+Decription:	script renames bekap foders to contain the actual date in the name
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/run-oneliner.sh
+========================
+---------------------------------------------
+execute command written as a string in a file
+in ~/bin/oneliners
+###
+this script NEEDS TO BE SOURCED from 
+external command or alias 
+---------------------------------------------
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/sbc.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/send-email.sh
+========================
+Name:	send-email.sh
+Author:	RgregoR
+Date:	2014-09-26
+script that sends l from CLI over <sendEmail (WinXP cmd)>
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/seznamslik.sh
+========================
+------------------------------------------------------------------------
+name:       seznamslik.sh
+author:     RgregoR, 2010
+date:       avgust, 2010
+------------------------------------------------------------------------
+ Script that creates a list all pics as a weblink in a
+ [<datum>_seznamslik.html] web page in [/home/gredelonghi/docs].
+ It lists the files in [/c/r.gregor.en/].
+------------------------------------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+sed 's|/|\\|g; s|\\c|c:|g; s|<\\|</|g; s|file:\\\\\\c|file:///c|g; s|docsc:|docs\\c|g' <${_webdest} >${_webdest}_2
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/seznamzaplot.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/show-50big-in-currdir.sh
+========================
+clear the screen and display 50 biggest dirs
+under current dir
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/slikepoberi.sh
+========================
+slikepoberi.sh
+make a date-time prefix for filename
+get the URL of tje siteup to the changing number
+together with the ending "/" if there ...
+get the start and the end number ...
+DOWNLOAD pics ...
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/stopscrin.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/top-commands-01.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/ure.sh
+========================
+------------------------------------------------------------------------
+name:       ure.sh
+author:     RgregoR, 2010
+date:       february, 2010
+------------------------------------------------------------------------
+ script that calculates time diference in format [hh:mm]
+------------------------------------------------------------------------
+########################################################
+########################################################
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/velike-to-male.sh
+========================
+convert UPPER letters to LOWER
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/vimeo_downloader.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/vse-slike.sh
+========================
+------------------------------------------------------------------------
+name:       vse-slike.sh
+author:     RgregoR, 2010
+date:       january, 2010
+------------------------------------------------------------------------
+ Script that creates a list of different files by type as a weblink in a
+ [docslist.html] web page in [/home/gredelonghi/docs].
+ It lists the files in [/c/r.gregor.en/usr/docs].
+------------------------------------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/vsi-fajli-list2html.sh
+========================
+------------------------------------------------------------------------
+name:       vse-slike.sh
+author:     RgregoR, 2014
+date:       march, 2014
+------------------------------------------------------------------------
+ Script that creates a list of different files by type as a weblink in a
+ [docslist.html] web page in [/c/users/gredelonghi/].
+ It lists the files in [/c/users/gredelonghi/seznami/].
+------------------------------------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+echo
+echo "Copying ${_webdest} to ${_websrc}/${_webpg}"
+cp ${_webdest} ${_websrc}/${_webpg}
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/webpcs-links.sh
+========================
+------------------------------------------------------------------------
+name:       webpcs-links.sh
+author:     RgregoR, 2010
+date:       avgust, 2010
+------------------------------------------------------------------------
+ Script that creates a list all pics as a weblink in a
+ [<datum>_<ime>.html] web page in <curdir>.
+------------------------------------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+sed 's|/|\\|g; s|\\c|c:|g; s|<\\|</|g; s|file:\\\\\\c|file:///c|g; s|docc:|doc\\c|g' <${_webdest} >${_webdest}_2
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/webpcs-list.sh
+========================
+------------------------------------------------------------------------
+name:       webpcs-links.sh
+author:     RgregoR, 2010
+date:       avgust, 2010
+------------------------------------------------------------------------
+ Script that creates a list all pics as a weblink in a
+ [<datum>_<ime>.html] web page in <curdir>.
+------------------------------------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+sed 's|/|\\|g; s|\\c|c:|g; s|<\\|</|g; s|file:\\\\\\c|file:///c|g; s|docc:|doc\\c|g' <${_webdest} >${_webdest}_2
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/webseznam.sh
+========================
+------------------------------------------------------------------------
+name:       webseznam.sh
+author:     RgregoR, 2012 [predelano 20141124]
+date:       november, 2014
+------------------------------------------------------------------------
+ Script that creates a list of different files by type as a weblink in a
+ [docslist.html] web page in [/home/gredelonghi/seznami].
+ It lists the files in [~/seznami/].
+------------------------------------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+CREATING HTML HEADER ### -----------------------------------------------
+   echo "<a href=\"file:\\\\\\${_HF}\">${_HF}</a><br>"  >>  "${_webdest}"
+done
+    echo "<a href=\"file:\\\\\\${_HF}\">${_HF}</a><br>"  >>  "${_webdest}"
+done
+    echo "<a href=\"file:\\\\\\${_HF}\">${_HF}</a><br>"  >>  "${_webdest}"
+done
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/webslike.sh
+========================
+###webslike.sh
+make a date-time prefix for filename
+get the URL of tje siteup to the changing number
+together with the ending "/" if there ...
+get the start and the end number ...
+compose the filename
+insert the html header info and starting tags ...
+populate the bofdy of a file with links to the pics ...
+insert the html ending tags ...
+display the contents of the file ...
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/wrtcmmd.sh
+========================
+Script that stores the last typed command into variable
+and writes it in the first line of a file and than executes
+and writes the output of a command into same file
+last command is called from [ /home/forallusers/llast.scr ]
+that is sourced and it must not contain shebang so that
+it doesnt start a subshell - history doestn work!!
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/zamenjaj-m-V-spr.sh
+========================
+script that converts all lowercase variable names starting with underscore "_"
+to _UPPERCASE variable names!
+
+========================
+/home/gregor.redelonghi/bin/99_STARO-en/zze_20161014.sh
+========================
+"cy" | "CY")
+cygstart /c/users/gregor.redelonghi/myprogs/cygwin64/cygwin-en.bat
+;;
+"zy" )
+cygstart /c/users/gregor.redelonghi/myprogs/cygwin64/cygwin-en_rxvt.bat
+;;
+exit 1
+
+========================
+/home/gregor.redelonghi/bin/bekap/bekap1-en_lh.sh
+========================
+------------------------------------------------------------------------
+name:       bckps.V3.sh
+author:     RgregoR
+date:       december 2014
+UPDATE:	20150320 / 20150327 / 20150403
+------------------------------------------------------------------------
+Description:
+1 - checks if at destination folder  is an existing arcive and delets it
+2 - creates the archive in the destination folder
+------------------------------------------------------------------------
+Update 20150403: adding archive for $DOMA folder
+------------------------------------------------------------------------
+gr_FROMDOMA=$HOME/RUT
+!!! PAZI-  POT ZA ARHIVO !!!
+gr_CURRDOMA="bckpdoma-en.${gr_DATE}.tar.gz"
+read -p "Press any key to PROCEED or [ctrl+c] to quit"
+	read -p "Press any key to REMOVE files or [ctrl+c] to quit"
+read -p "Press any key to CREATE archives or [ctrl+c] to quit"
+tar -czf ${gr_TOF}/${gr_CURRBRC} ${gr_FROMBRC}
+echo "Creating archive: ${gr_TOF}/${gr_CURRDOMA}"
+tar -czf ${gr_TOF}/${gr_CURRDOMA} -C $HOME/RUT rgregor
+
+========================
+/home/gregor.redelonghi/bin/bekap/bekap2-en_lh-db.sh
+========================
+scritp to check weather DROPBOX directory is present
+and copies over bckps-es.
+
+========================
+/home/gregor.redelonghi/bin/bekap/bekap3-en_db-lh.sh
+========================
+backup .../Dropbox/{ODPRTO,SKUPNI} to EN
+###
+
+========================
+/home/gregor.redelonghi/bin/bekap/bkpall_20170901.sh
+========================
+Name:	bkpall.sh
+Author:	RgregoR
+Date:	20150327
+Decription:	Run all backup script consequentially ...
+
+
+UPDATE 20170901: NO MORE bekap3-en_db-lh.sh ... Drobox backed up directly to ext-s 
+
+========================
+/home/gregor.redelonghi/bin/bekap/RSYNC_BACKUP-en.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+echo "${gr_CMMND} --delete /c/Users/gregor.redelonghi/2017/ /h/2017-danes/"
+read -p "OK?"
+
+========================
+/home/gregor.redelonghi/bin/bekap/RSYNC_BACKUP-en_NOVO_20170919.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+echo "${gr_CMMND} --delete /c/Users/gregor.redelonghi/2017/ /h/2017-danes/"
+read -p "OK?"
+
+========================
+/home/gregor.redelonghi/bin/bekap/RSYNC_BACKUP-en_staro_20170919.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/ddbaklog/ddbak.sh
+========================
+------------------------------------------------------------------------
+name:       delbak.sh
+author:     RgregoR, 2010
+date:       march, 2010
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Updated 20161124:
+Removed interactive checkings ...
+in ...
+# #######################################################
+# #######################################################
+
+========================
+/home/gregor.redelonghi/bin/ddbaklog/ddlog.sh
+========================
+------------------------------------------------------------------------
+name:       delbak.sh
+author:     RgregoR, 2010
+date:       march, 2010
+------------------------------------------------------------------------
+ script that finds all plot.log files listed in ${gr_DLIST}
+------------------------------------------------------------------------
+Updated 20161124:
+Removed interactive checkings ...
+in ...
+# #######################################################
+# #######################################################
+
+========================
+/home/gregor.redelonghi/bin/fnd/fnd_dupfls.sh
+========================
+Name:	find-duplicatef-01.sh
+Author:	RgregoR
+Date:	20140420
+Decription: ONELINER that finds all duplicate files (by contents) in groups separated ba empty lines ...
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/fnd/fnd_fls_byword.sh
+========================
+Name:	find-file-by-word.sh
+Author:	RgregoR
+Date:	2016-04-18 (20160419,)
+Descr.:	find file by containing (whole) word like: grep, sed, ubuntu, 2016 ...
+
+-----------------------------------------------------------------------------------
+#UPDATE-1 (20160819-en):
+added test if search pattern suplied as parameter to scritp, else ask for it ...
+-----------------------------------------------------------------------------------
+UPDATE-2 (20160819-en):
+(it searches fort the part of the word too)
+-----------------------------------------------------------------------------------
+
+========================
+/home/gregor.redelonghi/bin/fnd/fnd_python_files_by_time.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/fnd/fnd_txt_latest_files_by_time.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/gooo/godossrc.sh
+========================
+godossrc.sh: go to dest pasted from dos [c:\Documents And Settings\ ...]
+###
+
+========================
+/home/gregor.redelonghi/bin/gooo/gooo.sh
+========================
+------------------------------------------------------------------------
+name:       gooo.sh
+author:     RgregoR, 2014
+date:       20141218
+------------------------------------------------------------------------
+script:     shell script replacement for CDARGS  
+------------------------------------------------------------------------
+ATTENTION!!!
+YOU MUST SOURCE THIS FILE TO MAKE IT WORK!!!
+THE BEST WAY IS TO MAKE AN ALIAS:
+alias goo='source $HOME/bin/gooo.sh'
+------------------------------------------------------------------------
+	ls -AF --color
+
+========================
+/home/gregor.redelonghi/bin/gremdomov/gremdomov-vknd.sh
+========================
+Name:	gremdomov-vknd.sh
+Author:	RgregoR
+Date:	20150305 -- updated 20150323 / 20150327
+Decription:
+goinghome (gremdomov-vknd) script that runs Dropbox, performs backups, sends home links list, and SHUTSDOWN the comp.
+
+
+sleep 5
+
+========================
+/home/gregor.redelonghi/bin/gremdomov/gremdomov.sh
+========================
+Name:	gremdomov.sh
+Author:	RgregoR
+Date:	20150305 -- updated 20150323 / 20150327
+Decription:
+goinghome (gremdomov) script that runs Dropbox, performs backups, sends home links list, and restarts the comp.
+
+
+bckps && backups-to-drpbx && bekap-drpbx-en
+###sleep 5
+
+========================
+/home/gregor.redelonghi/bin/lynxdump/lynx-multi-dump_fromlist-en_20141218.sh
+========================
+oneliner to read a list of webpages links from a file and inserts them to single text file:
+ EN-proxy ...
+FILENAME - MUST CREATE!! ###
+
+========================
+/home/gregor.redelonghi/bin/lynxdump/lynxdump-webpage-to-file.sh
+========================
+script that cretaes a TXT file, inserts a webpage URL to the top row
+and creates lynx -dump of a web page after ...
+ EN-proxy ...
+
+========================
+/home/gregor.redelonghi/bin/lynxdump/lynxdump_USERAGENT_webpage-to-file.sh
+========================
+script that cretaes a TXT file, inserts a webpage URL to the top row
+and creates lynx -dump of a web page after ...
+EN proxy ...
+
+========================
+/home/gregor.redelonghi/bin/opn/opn.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/opn/opn.u.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/opn/opn.w.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/pnp/pnp.sh
+========================
+------------------------------------------------------------------------
+name:       pnp.sh
+author:     RgregoR, 2015
+date:       december 2015
+last chng:  2015/12/18
+------------------------------------------------------------------------
+Description:
+script that creates directory structure acording to scheme below for
+organising the project:
+
+c:\osn_dir
+  |
+  +--\trasa_dn_naziv_faza
+     |
+     +--\naziv_faza_podloge
+     |
+     +--\naziv_faza_podatki
+     |
+     +--\naziv_faza_risbe
+     |  
+     +--\naziv_faza_teksti
+It pools the basic input data from an external file "seznam.txt"
+as comma separated list of data: trasa,dn,naziv,faza
+------------------------------------------------------------------------
+osn_dir="/c/Users/gregor.redelonghi/2017"  changed 20170103 !!!
+##########################################################################
+# passing an entry to a log file
+echo "[ $(date +%Y%m%d-%H:%M:%S) ] Starting $0" >> ${gr_logf} ##start logging 
+#######################################################
+#######################################################
+
+========================
+/home/gregor.redelonghi/bin/pnp/vnp.sh
+========================
+------------------------------------------------------------------------
+name:       vnp.sh
+author:     RgregoR, 2014
+date:       december 2014
+last chng:  2014/12/18
+------------------------------------------------------------------------
+Description:
+script that creates directory structure acording to scheme below for
+organising the project:
+
+c:\osn_dir
+  |
+  +--\VN_naziv
+     |
+     +--\naziv_VN_podloge
+     |
+     +--\naziv_VN_podatki
+     |
+     +--\naziv_VN_risbe
+     |  
+     +--\naziv_VN_teksti
+It pools the basic input data from an external file "seznam.txt"
+as comma separated list of data: trasa,dn,naziv,faza
+------------------------------------------------------------------------
+##########################################################################
+# passing an entry to a log file
+echo "[ $(date +%Y%m%d-%H:%M:%S) ] Starting $0" >> ${gr_logf} ##start logging 
+
+clear
+#######################################################
+#######################################################
+else
+    echo "[ $(date +%Y%m%d-%H:%M:%S) ] Your answer is NOT \"y\" or \"Y\"." | tee -a ${gr_logf} # append to log
+    echo "[ $(date +%Y%m%d-%H:%M:%S) ] ... LEAVING! ..." | tee -a ${gr_logf} # append to log
+        echo "[ $(date +%Y%m%d-%H:%M:%S) ] Exiting $0" >> ${gr_logf} # stop logging
+        echo "[ $(date +%Y%m%d-%H:%M:%S) ] --------------------------------------------------------------------------------" >> ${gr_logf}        
+fi
+
+========================
+/home/gregor.redelonghi/bin/send_mail/send-home-single-link.sh
+========================
+Name:	send-home ...
+Author:	RgregoR
+Date:	20151002
+Decription:	script that sends URL to URL list file and to homa as single URL message
+
+
+
+/usr/local/bin/sh1l.............................../home/gregor.redelonghi/bin/send_mail/sendhome1list.sh
+/usr/local/bin/sndhm............................../home/gregor.redelonghi/bin/send_mail/ssndhm.sh
+
+========================
+/home/gregor.redelonghi/bin/send_mail/sendfiles-msg.sh
+========================
+Name:	sendfiles.sh
+Author:	RgregoR
+Date:	2014-09-26
+script that sends l from CLI over <sendEmail (WinXP cmd)>
+UPDATE: 2017-03-21: import connection data from external file "send_config_en.conf"
+
+
+echo -e "\n${gr_cmdpath}/sendEmail -xu ${gr_xu} -xp ${gr_xp} -u \"danes-en: ${gr_tajmstemp}\" -s ${gr_srv} -f ${gr_frm} -t ${gr_rcp} -a \"$(cygpath -w ${gr_ATTF})\" -m \"danes-en: ${gr_tajmstemp}\""
+
+========================
+/home/gregor.redelonghi/bin/send_mail/sendfiles.sh
+========================
+Name:	sendfiles.sh
+Author:	RgregoR
+Date:	2014-09-26
+script that sends l from CLI over <sendEmail (WinXP cmd)>
+
+UPDATE: 2017-03-21: import connection data from external file "send_config_en.conf"
+
+
+echo -e "\n${gr_cmdpath}/sendEmail -xu ${gr_xu} -xp ${gr_xp} -u \"danes-en: ${gr_tajmstemp}\" -s ${gr_srv} -f ${gr_frm} -t ${gr_rcp} -a \"$(cygpath -w ${gr_ATTF})\" -m \"danes-en: ${gr_tajmstemp}\""
+
+========================
+/home/gregor.redelonghi/bin/send_mail/sendhome1list.sh
+========================
+Name:	sendhome1list.sh
+Author:	RgregoR
+Date:	20150303 -- updated 20150323/20150415
+script that takes the <path> as argument and inserts it in a list-file which is to be
+sent home with <sendEmail (WinXP cmd)>
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/send_mail/sendhome2filelist.sh
+========================
+Name:	sendhome2filelist.sh
+Author:	RgregoR
+Date:	20150303 -- updated 20150323 / 20150410
+script that sends home sendhomelist_[datestamp].txt
+with <sendEmail (WinXP cmd)>
+
+UPDATE: 2017-03-21: import connection data from external file "send_config_en.conf"
+
+
+
+========================
+/home/gregor.redelonghi/bin/send_mail/sendhome3url-to-list-and-home.sh
+========================
+Name:   sendhome3url-to-list-and-home.sh
+Author: RgregoR
+Date:   20171002
+Decription:
+Combination of ulb/s1 and ulb/sh1l
+...
+
+
+========================
+/home/gregor.redelonghi/bin/send_mail/snd.mm.hm.sh
+========================
+Name:	snd.mm.hm.sh
+Author:	RgregoR
+Date:	2014-11-18
+script that sends home a message
+
+UPDATE: 2017-03-21: import connection data from external file "send_config_en.conf"
+
+
+
+========================
+/home/gregor.redelonghi/bin/send_mail/sndhm.sh
+========================
+Name:	sndhm.sh
+Author:	RgregoR
+Date:	2014-09-26
+script that takes the <path> as argument and sends it home with <sendEmail (WinXP cmd)>
+
+UPDATE: 2017-03-21: import connection data from external file "send_config_en.conf"
+
+
+========================
+/home/gregor.redelonghi/bin/testing-en/ASCII.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/testing-en/backdoor.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/testing-en/filmi/podnapisi.sh
+========================
+VARIABLES
+    echo "cp ${gr_PDNP} ${gr_MVNM}.srt"
+
+========================
+/home/gregor.redelonghi/bin/testing-en/geslo.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/testing-en/nprj-1.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/testing-en/nprj-2.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/testing-en/nprj-3.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/testing-en/options.sh
+========================
+Name:   Scriptname ...
+Author: Author ... 
+Date:   2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/testing-en/pikce.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/testing-en/progress.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/testing-en/pswd.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/testing-en/sleepsort.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/testing-en/term-testing.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/testing-en/trap-exit-loop.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/testing-en/trraapp.sh
+========================
+
+========================
+/home/gregor.redelonghi/bin/testing-en/try.sh
+========================
+Name:	Scriptname ...
+Author:	Author ... 
+Date:	2013-05-24 
+Decription:
+
+
+
+
+========================
+/home/gregor.redelonghi/bin/w3mdump/w3m-multi-dump_fromlist-en_20160928.sh
+========================
+oneliner to read a list of webpages links from a file and inserts them to single text file:
+ EN-proxy ...
+FILENAME - MUST CREATE!! ###
+
+========================
+/home/gregor.redelonghi/bin/w3mdump/w3mdump-webpage-to-file.sh
+========================
+script that cretaes a TXT file, inserts a webpage URL to the top row
+and creates lynx -dump of a web page after ...
+ EN-proxy ...
+
+========================
+/home/gregor.redelonghi/bin/zze/zze.sh
+========================
+cygstart $(cygpath -u "C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe")
+"cs" | "CS")
+cygstart /c/users/gregor.redelonghi/majstaf/r.gregor.en/orodjarna/Console/console.exe
+;;
+
+"pt" | "PT")
+cygstart /c/users/gregor.redelonghi/majstaf/r.gregor.en/orodjarna/putty.exe
+;;
+
+"bb" | "BB")
+cygstart /c/users/gregor.redelonghi/majstaf/r.gregor.en/orodjarna/blackbox/blackbox.exe
+;;
+
+"ff" | "FF")
+${gr_novapot}/ff.bat
+;;
+"cy" | "CY")
+cygstart /c/users/gregor.redelonghi/myprogs/cygwin64/cygwin-en.bat
+;;
+"zy" )
+cygstart /c/users/gregor.redelonghi/myprogs/cygwin64/cygwin-en_rxvt.bat
+;;
+exit 1
+
+========================
+/home/gregor.redelonghi/bin/zze/zzl.sh
+========================
+------------------------------------------------------------------------
+name:       zze-test.sh
+author:     RgregoR, 2014
+date:       20141218
+------------------------------------------------------------------------
+script: start-menu
+ 
+------------------------------------------------------------------------
+cygstart "${seznam[${pointer}]}" ### QUOTES ARE IMPORTANT ###
+
+
+
+Script done on Mon, Oct 02, 2017 12:51:35 PM

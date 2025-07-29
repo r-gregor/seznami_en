@@ -1,0 +1,111 @@
+     1	132G	/c
+     2	65G	/c/Users
+     3	32G	/c/Windows
+     4	12G	/c/Program Files
+     5	5.5G	/c/Program Files (x86)
+     6	3.6G	/c/ProgramData
+     7	629M	/c/$Recycle.Bin
+     8	427M	/c/temp
+     9	5.7M	/c/PREREZ
+    10	1.3M	/c/utils
+    11	775K	/c/energetika
+    12	72K	/c/home
+    13	60K	/c/Intel
+    14	4.0K	/c/ocs-ng
+    15	0	/c/System Volume Information
+    16	0	/c/Recovery
+    17	0	/c/PerfLogs
+    18	0	/c/MSOCache
+    19	0	/c/inetpub
+---------------------------------------------------------------
+132G	/c/
+65G	/c/Users
+64G	/c/Users/gregor.redelonghi
+32G	/c/Windows
+16G	/c/Windows/Installer
+---------------------------------------------------------------
+65G	/c/Users/
+64G	/c/Users/gregor.redelonghi
+25G	/c/Users/gregor.redelonghi/AppData
+20G	/c/Users/gregor.redelonghi/majstaf/myprogs
+12G	/c/Users/gregor.redelonghi/2021
+---------------------------------------------------------------
+32G	/c/Windows/
+16G	/c/Windows/Installer
+4.6G	/c/Windows/System32
+3.3G	/c/Windows/WinSxS
+2.9G	/c/Windows/Installer/$PatchCache$
+---------------------------------------------------------------
+12G	/c/Program Files/
+4.8G	/c/Program Files/Autodesk
+4.6G	/c/Program Files/SL-King
+3.3G	/c/Program Files/SL-King/King.Infra
+2.6G	/c/Program Files/Autodesk/AutoCAD 2020
+---------------------------------------------------------------
+5.5G	/c/Program Files (x86)/
+1.5G	/c/Program Files (x86)/Microsoft Office/Office16
+1.5G	/c/Program Files (x86)/Microsoft Office
+1.2G	/c/Program Files (x86)/Common Files
+872M	/c/Program Files (x86)/Adobe
+---------------------------------------------------------------
+3.6G	/c/ProgramData/
+1.2G	/c/ProgramData/App-V
+989M	/c/ProgramData/Autodesk
+673M	/c/ProgramData/App-V/A8158AEB-B73C-461D-A3CD-A8F5454E9D84
+622M	/c/ProgramData/gregor.redelonghi
+---------------------------------------------------------------
+629M	/c/$Recycle.Bin/
+628M	/c/$Recycle.Bin/S-1-5-21-3276175991-2128578656-3475652450-7634
+230M	/c/$Recycle.Bin/S-1-5-21-3276175991-2128578656-3475652450-7634/$RFQ6MPX.zip
+61M	/c/$Recycle.Bin/S-1-5-21-3276175991-2128578656-3475652450-7634/$R5H9B2F.dwg
+23M	/c/$Recycle.Bin/S-1-5-21-3276175991-2128578656-3475652450-7634/$RSVJKEX
+---------------------------------------------------------------
+427M	/c/temp/
+323M	/c/temp/Panther
+203M	/c/temp/Panther/MigLog.xml
+98M	/c/temp/Panther/setupact.log
+64M	/c/temp/King.Prostor 2019_v19.1.3_x64_all.exe
+---------------------------------------------------------------
+5.7M	/c/PREREZ/
+2.1M	/c/PREREZ/acad_light.mnr
+2.1M	/c/PREREZ/acad.mnr
+268K	/c/PREREZ/acad.CUIX
+264K	/c/PREREZ/acad.bak.cuix
+---------------------------------------------------------------
+1.3M	/c/utils/
+1.2M	/c/utils/BGInfo
+828K	/c/utils/BGInfo/bginfo.exe
+388K	/c/utils/BGInfo/JPE.bgi
+64K	/c/utils/Upravljanje z osebnimi certifikati.msc
+---------------------------------------------------------------
+775K	/c/energetika/gredelonghi_acad_support
+775K	/c/energetika/
+490K	/c/energetika/gredelonghi_acad_support/files
+82K	/c/energetika/gredelonghi_acad_support/menus
+64K	/c/energetika/gredelonghi_acad_support/lisp
+---------------------------------------------------------------
+72K	/c/home/gregor.redelonghi/JAVA_en_testing
+72K	/c/home/gregor.redelonghi
+72K	/c/home/
+---------------------------------------------------------------
+60K	/c/Intel/
+44K	/c/Intel/Logs
+32K	/c/Intel/Logs/IntelGFX.log
+16K	/c/Intel/gp/profile_gregor.redelonghi.dat
+16K	/c/Intel/gp
+---------------------------------------------------------------
+4.0K	/c/ocs-ng/ocspackage.log
+4.0K	/c/ocs-ng/
+---------------------------------------------------------------
+0	/c/System Volume Information/
+---------------------------------------------------------------
+0	/c/Recovery/
+---------------------------------------------------------------
+0	/c/PerfLogs/
+---------------------------------------------------------------
+0	/c/MSOCache/
+---------------------------------------------------------------
+0	/c/inetpub/temp/appPools
+0	/c/inetpub/temp
+0	/c/inetpub/history
+0	/c/inetpub/

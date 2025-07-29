@@ -1,0 +1,1337 @@
+ or BIOS on Linux
+!
+"re" module
+%d_%H%M%S) ] -- "
+'''"
+'''" "s2 "Can I make .exe files in Python?" '''
+- Learn how to parse and patch python source during runtime using the abtract syntax tree ("ast") module .
+- New in 2016: Write async code using "async" and coroutines.
+- Understanding the GIL (Global Interpreter Lock) and mastering threading.
+- Write and Use Decorators
+- Write and Use Generators
+- Writing a recursive function then refactoring it to iterative (using a stack like "deque").
+- Writing interfaces to C libraries/libcffi.
+./kopiraj_a0_v_risbe.sh 
+./sendp3_2_args_en.py
+./sendp3mymail_en.py 
+/content/getting-started-ncurses
+09320/how-to-set-up-and-use-multiple-profiles-user-accounts-in-firefox/
+33393/why-i-switched-from-chrome-to-firefox-quantum/
+34111/firefox-quantum-isnt-just-copying-chrome/
+Advanced:
+Basics+:
+CURSES-Programming-HOWTO/
+East and interbred with them creating Cro-Magnon.
+JUBLJANA
+S server with external USB HDD (SSD?)
+cat $fjl
+cat << EOF >> $fjl
+cat <<< EOF
+cat <<<EOF
+cat run_sendhome1_and_sendp3_1.sh 
+ch?v=1k4c87HEOAQ
+ch?v=74znyxVyQAE
+ch?v=BhveDBCBvjQ
+ch?v=HO0hjU5Vmuo
+ch?v=Li4F954M59k
+ch?v=edGvNqy-4y8
+ch?v=jCiIzxLXPeE
+ch?v=q3m6UbZy-5M
+ch?v=sMHXxNqKd_E
+chmod 644 ./*
+code using "async" and coroutines.
+cp sendhome1list_ORIGINAL.sh _send_mail_staro/
+curl -s -w 'Testing Website Response Time for :%{url_effective}\n\nLookup Time:\
+e Cro Magnon?
+echo -e "\n\n---\n" >> $fjl
+ep-ubuntu-system-clean/
+fhl=python_scaling_apps_20180213.txt
+find -name "python_*"
+find -name "python_*" | sed 's!^python_!ptn_!'
+find -name "python_*" | sed 's/^python_/ptn_/'
+find -name "python_*" | sed 's/python_/ptn_/'
+find -name "python_*" | sed's!^python_!ptn_!'
+find -type f --maxdepth 1 ! -name "ptn_*"
+find -type f -maxdepth 1 ! -name "ptn_*"
+find -type f -maxdepth 1 ! -name "ptn_*" | sed 's:\./::'
+fjl=python_scaling_apps_20180213.txt
+fo=progress2 in
+for ff in $(find -type f -maxdepth 1 ! -name "ptn_*"); do echo $ff; done
+for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do echo $ff; done
+for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do echo mv -v $ff ${ff//.\//.\/ptn_}; done
+for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do echo mv -v $ff ${ff//^ /ptn_}; done
+for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do echo mv -v $ff ${ff//^/ptn_}; done
+for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do mv -v $ff ${ff//.\//.\/ptn_}; done
+grep 'dt.datetime.now()' ./*
+grep -E "http.*mlocale" ./*
+grep -E "http.*mlocate" ./*
+h17
+head howto_mlocate_20160531.txt 
+https://www.youtube.com/watch?v=1k4c87HEOAQ
+https://www.youtube.com/watch?v=74znyxVyQAE
+https://www.youtube.com/watch?v=BhveDBCBvjQ
+https://www.youtube.com/watch?v=HO0hjU5Vmuo
+https://www.youtube.com/watch?v=Li4F954M59k
+https://www.youtube.com/watch?v=edGvNqy-4y8
+https://www.youtube.com/watch?v=jCiIzxLXPeE
+https://www.youtube.com/watch?v=q3m6UbZy-5M
+https://www.youtube.com/watch?v=sMHXxNqKd_E
+ibraries/libcffi.
+ie
+iles in Python?" '''
+ion then refactoring it to iterative (using a stack like "deque").
+less /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/p1
+less /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/pi
+less gremdomov.log 
+listilb | grep 'bin/send_mail'
+listulb | grep 'bin/send_mail'
+listulb | grep -E "f.*nd"
+listulb | grep get
+listulb | grep grt
+lynx -dump "https://anonbadger.wordpress.com/2017/11/18/python-testing-asserting-raw-byte-output-with-pytest/" | less
+lynx -dump -width=110 "https://julien.danjou.info/blog/2018/scaling-python-application-threads"
+lynx -dump -width=110 "https://julien.danjou.info/blog/2018/scaling-python-application-threads" >> $fjl
+lynx -dump -width=110 $url >> $fjl
+lynx -dump width=110 "https://julien.danjou.info/blog/2018/scaling-python-application-threads"
+mkdir _send_mail_staro
+mv *TEST* *ORIG* _send_mail_staro/
+mv /usr/local/bin/run_sh1l_and_s1 /usr/local/bin/p_run_sh1l_and_s1 
+mv _send_mail_staro/*ORIG* ./
+mv sendhome1list20171023.sh _send_mail_staro/
+mv sendhome1list{_ORIGINAL,}.sh 
+n functions.
+nect Time:\t\t%{time_connect}\nAppCon Time:\t\t%{time_appconnect}\nRedirect Time:\
+obal Interpreter Lock) and mastering threading.
+oes not have that spacing between lines by default, I edited Netbeans configuration to increase the line spacing.
+on
+p_run_sh1l_and_s1 
+p_run_sh1l_and_s1 "http://www.theitstuff.com/save-files-directly-google-drive-download-10-times-faster"
+p_run_sh1l_and_s1 "https://anonbadger.wordpress.com/2017/11/18/python-testing-asserting-raw-byte-output-with-pytest/"
+p_run_sh1l_and_s1 "https://debarshiray.wordpress.com/2017/11/20/image-wrangling-with-gegl-an-introduction/"
+p_run_sh1l_and_s1 "https://www.phoronix.com/scan.php?page=news_item&px=GNU-Nano-2.9-Released"
+pagesnum mlocate_finding-files-multif_20171123.txt 
+pddbak
+pddlog
+pdlog
+python
+ransfer Time:\t%{time_pretransfer}\nStart-transfer Time:\t%{time_starttransfer}\
+s in trgovina
+s1 "https://www.quora.com/What-are-some-cool-facts-about-the-Universe"
+s2 "https://www.phoronix.com/scan.php?page=news_item&px=GNU-Nano-2.9-Released" "https://www.phoronix.com/scan.php?page=news_item&px=GNU-Nano-2.9-Released"
+s2 "https://www.quora.com/What-are-some-cool-facts-about-the-Universe"
+tch python source during runtime using the abtract syntax tree ("ast") module .
+tion(*args, **kwargs))
+tty-useful-squid-tips-tricks/
+unrar
+unrar e 07-02-2018\ E2.rar 
+unrar e 07-02-2018\ E3.rar 
+url="https://julien.danjou.info/blog/2018/scaling-python-application-asyncio"
+usly thought.
+•List Comprehensions
+•Map/Filter/Reduce/Lambda
+•`zip()` and other builtin functions.
+    echo -n "[ $(date +%Y%m%d_%H%M%S) ] -- "
+ (per hour)
+ Faks: 01 51 40 285
+ to sort the rows, using the 4th column as an index, no?
+(V kleti)
+------------------
+./sendp3_2_args_en.py "WW" "XX"
+./sizes.exe 
+./sort-by-field.py 
+./test
+./test.exe 
+5
+618034 + 1) / 1.618034 = 1.618034
+?p=3462
+?p=3480
+A = 1.618034, B = 1 --> (1.618034 + 1) / 1.618034 = 1.618034
+Check if you are using UEFI or BIOS on Linux
+Copy to clipboard
+Dokaz:
+E-pošta: info@eltus.si 
+ELTUS PLUS d.o.o. 
+FIREFOX QUANTUM
+If I'm right, you're trying to sort the rows, using the 4th column as an index, no?
+LL
+NP
+Please note that the font does not have that spacing between lines by default, I edited Netbeans configuration to increase the line spacing.
+Prinesi pokrov in zamenjajo!
+S1 "http://www.techradar.com/vpn/the-best-vpn-for-linux"
+S2 "SKI lessons 20180209" '''
+Should give you the lines, sorted by the integer value of their 4th tab-split column.
+Spletna stran: www.eltus.si
+Steps
+Telefon: 01 51 40 280 servis in trgovina
+Vodnikova ulica 187, 1000 LJUBLJANA
+alias ggl='cygstart /c/Users/gregor.redelonghi/AppData/Local/Google/Chrome/Application/chrome.exe'
+arhiviraj:
+cat << EOF
+cat >>> EOF
+cat bionic-desktop-amd64_MD5SUMS.txt 
+ch?v=798-RjVHoRc     JUDO One side grip Ashi-Guruma
+ch?v=7nUGnyT34Q4     KUMIKATA (Maitre Jacques SEGUIN)
+ch?v=OdbKKQqmZn0     Korean Judo - Drop knee Tai otoshi 
+ch?v=Qtf5mU1-504     EXTREME STANCE grip & throwing routines
+ch?v=UpfcNhfz6Os     Uchi Mata- 4 Variations
+ch?v=zb4us6w1q3w     Yoga movements for a more powerful and more stable uchimata
+chmod 755 test.py 
+clc
+cp sort-by-field.py TEXT.txt ~/bin/PYTHON_en/PYTHON_en_testing/sort-by-field_20171130/
+cygstart /c/Users/gregor.redelonghi/AppData/Local/Google/Chrome/Application/chrome.exe python_advanced-lists-sorting_20171013.txt 
+cygstart /c/Users/gregor.redelonghi/AppData/Local/Google/Chrome/Application/chrome.exe python_sorting-with-a-key_20171013.txt 
+down vote
+el_sylvia_xfce_whatsnew.php
+es that for every 7-fold increase in time after detonation, there is a 10-fold decrease in the exposure rate. In other words, when the amount of time is multiplied by 7, the exposure rate is divided by 10.
+exr_CD
+find ! -name "ptn_*"
+find "*sort*"
+find "2jsort*"
+find -iname "*tmux*"
+find -iname "*tmux*" | xargs grep 2days
+fm
+fnc |grep -i au
+fnc |grep ac
+fnc |grep au
+fnc |grep exc
+fnc |grep word
+ggl
+ggl python_sorting-mini-howto_20171013.txt 
+grep 'How to use argparse to parse python scripts parameters' ./*
+grep 'https://www.2daygeek.com/empty-a-file-delete-' ./*
+grep -E "key.*getter ./*
+grep -E "key.*getter" ./*
+grep getter ./*
+grep tsm ./*
+history
+https://www.fossmint.com/keep-ubuntu-system-clean/
+https://www.howtogeek.com/209320/how-to-set-up-and-use-multiple-profiles-user-accounts-in-firefox/
+https://www.howtogeek.com/333393/why-i-switched-from-chrome-to-firefox-quantum/
+https://www.howtogeek.com/334111/firefox-quantum-isnt-just-copying-chrome/
+info:
+les TEXT.txt 
+less .lesshst 
+less Neimenovana\ priloga\ 00007.html 
+less Neimenovana\ priloga\ 00010.html 
+less TEXT.txt
+lynx -dump "http://www.geeksforgeeks.org/binary-heap/" | less
+lynxd "http://www.geeksforgeeks.org/binary-heap/" binary-heap
+md5sum.exe bionic-desktop-amd64.iso 
+mkdir ~/bin/PYTHON_en/PYTHON_en_testing/sort-by-field_20171130
+mv bionic-desktop-amd64.iso /c/Users/gregor.redelonghi/Downloads/
+mv sortimg-by-filed_20171130.tar.gz{,.txt} 
+mv test.py sort-by-field.py
+ntp
+p_run_sh1l_and_s1 https://anonbadger.wordpress.com/2017/11/18/python-testing-asserting-raw-byte-output-with-pytest/
+ps aux -W
+ps aux -W |grep -i google
+python3 ./test.py
+s1 "https://opensource.com/article/18/2/variables-data-types-libreoffice-basic"
+s1 "https://www.dedoimedo.com/computers/kubuntu-zesty-perfect.html"
+s1 "https://www.quora.com/What-is-the-dark-side-of-living-in-South-Korea-I-have-heard-from-multiple-people-that-the-country-has-a-huge-dark-side"
+s2 "Can I make .exe files in Python?" '''
+s2 "GeeksForGeeks" "http://www.geeksforgeeks.org/"
+s2 "IMPORTANT" '''
+s2 "JUDO" "https://www.youtube.com/watch?v=7iGXeCeXd48"
+s2 "JenLaw nd photos s2 "Can I make .exe files in Python?" '''
+s2 "JenLaw nd phtos" "JenLaw nd phtos"
+s2 "TimeShift" "http://www.teejeetech.in/p/timeshift.html"
+s2 "What should I learn in Python ..." '''
+s2 "check out!" "https://realpython.com/"
+s2 "sorting text by fourth field" """
+s2 "sorting text by fourth field" '''
+sorted by the integer value of their 4th tab-split column.
+space Eng & Mfg Consultant (2014-present)
+sudo fc-cache -fv
+tional nonsense. This is the actual reality.
+tuo cup
+wh 15
+ys.
+}
+~/bin/get_filenames_by_word_en_V2_20171027.py -s cheat
+~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s cheat
+~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s cheat | grep cheat --color
+. .bashrc
+./00_backups_wrapper -a
+./00_backups_wrapper -h
+./sendp2mymail_en.py 
+./sendp3_2_args_en.py 
+./text_colors.py
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe --help | grep only
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -P e2fsprogs-1.42.12-2
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -Y -P e2fsprogs-1.42.12-2
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -P e2fsprogs
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -Y -P e2fsprogs
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -Y -P e2fsprogs-1.42.12-2
+A:  Yes.
+DBOP
+EXITĐ
+Q:  Can I make .exe files in Python?
+_PYTHON_en_testing/filedelta_20180111/main_s.py 
+akrn 1
+akrn 2
+alias | less
+awk 'FNR == 1{ print FILENAME } ' /etc/hosts
+awk '{ print FILENAME } ' /etc/hosts
+bekap/bekap1_en_lh.sh 
+bekap/bekap2_en_lh_db.sh 
+blog/2018/scaling-python-application-threads
+bot
+cat $2
+cat $f2 | grep $(head -n1 $f1)
+cat $f2 | grep $(head -n1 4f1)
+cat *conf*
+cat *sonc*
+cat ./ | grep strf
+cat ./*
+cat ./* | grep http
+cat ./* | grep str
+cat ./* | grep strf
+cat ./* | grep time
+cat /proc/partitions
+cat F.txt 
+cat TEST*
+cat TEST+
+cat bekap_en.log 
+cat bekap_en.log | grep "8020.?_"
+cat bekap_en.log | grep "8020?_"
+cat bekap_en.log | grep -E "8020.?_"
+cat bekap_en.log | grep 8020*
+cat send_config_en.py
+chmod 755 text_colors.py 
+chsh
+cp ./* ../BEKAP_LAST_20180105/
+cp heap{2,3}.py 
+cp text_colors.py{,.txt} 
+cp ~/bin/00_ukazi/psswdchange_en.sh{,.txt} 
+cygpath -w $(pwd) | putclip
+cygpath -w $pwd
+cygpath -w pwd
+cygrinsrv -L
+ddbak 
+ddlog
+dn
+do -sxh
+du -s
+du -sh ./
+du -sh /c/Users/gregor.redelonghi/Downloads/
+du -sh /c/Users/gregor.redelonghi/myprogs/cygwin64/
+du -sh bekap_c_gregor.redelonghi_Downloads/
+du -sxh
+du -sxh ./*
+du -sxh ./* | sort -h
+du -sxh ./* | sort -rh | head
+du .sh ./
+du .sh ./*
+e2fsprogs
+echo "$foo" | grep "$(printf '\302\240')"
+echo "$foo" | grep "$(printf '\u00a0')"
+echo "$foo" | grep $'\xc2\xa0'
+echo "$foo" | sed -n 'l' | grep '\\302\\240'
+echo "AB"
+echo "BEGIN" > F.txt 
+echo "BYE!" > ~/_BRISI/F.txt 
+echo "GG g"
+echo "filename.ext" | sed '/.*.\./p'
+echo "filename.ext" | sed 's/\(.*\)[._-].*/\1/'
+echo "filename.ext" | sed 's/\(.*\)[._-]/\1/'
+echo "filename.ext" | sed -n '/.*.\./p'
+echo "filename.ext" | sed -n '/.*\./\1p'
+echo "filename.ext" | sed -n '/.*\./p'
+echo "filename.ext" | sed -n '/\(.*\)./\1p'
+echo "filename.ext" | sed -n '/\(.*\).\./\1p'
+echo "filename.ext" | sed -n '/\(.*\).\./p\1'
+echo "filename.ext" | sed -n '/\(.*\)\./\1/p'
+echo $f1
+echo 'touch TEST1.txt TEST2.txt' >> TEST1.txt 
+echo 'touch TEST1.txt TEST2.txt' >> TEST2.txt 
+expr $(seq -s " + " 111 121)
+expr `seq -s " + " 111 121`
+exr_C
+f2=~/.tmp/LL.txt
+fg %1
+file /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/p1
+find ! -type d
+find -iname "*conf*"
+find -iname "*gesl*"
+find -iname "*p*ss*"
+find -maxdepth 0 ! -type d
+find -maxdepth 1 ! -type d
+find -maxdepth 1 ! -type d -exec mv {} 00_ostalo/
+find -maxdepth 1 ! -type d -exec mv {} 00_ostalo/ \;
+find -mtime -0
+find -mtime -1 -type d
+find -mtime -2
+find -mtime -3
+find -mtime -3 -type f
+find -name "20??"
+find -type f -iname "*ch\.txt"
+find -type f -iname "*sh"
+find -type f -iname "*sh\.txt"
+find -type f -iname "*tr*aska*\.dwg"
+find -type f -iname "*tr*aska.dwg"
+find -type f -iname "*tr*aska\.dwg"
+find -type f -iname "??.sh"
+find -type f -iname "??.txt"
+find -type f -iname "???*.txt"
+find -type f -iname "???.sh"
+find -type f -iname "???.txt"
+find -type f -iname "????????.txt"
+find -type f -iname "[-_]*.txt"
+find -type f -iname "[-_]???.txt"
+fnc | grep ris
+foo=$(echo 123 456 has a NBSP, 123 456 does not)
+foo=$(echo 123 456has a NBSP, 123 456 does not)
+foo=$(echo 123456 has a NBSP, 123 456 does not)
+for DD in "20??"; do echo $DD; done
+for DD in "20??"; do echo find $DD -type d -iname "*trubar*"; done
+for DD in $(find -maxdepth 1 -name "20??"); do echo find $DD -type d -iname "*trubar*"; done
+for DD in $(find -maxdepth 1 -name "20??"); do find $DD -type d -iname "*trubar*"; done
+for DD in $(find -name "20??"); do echo find $DD -type d -iname "*trubar*"; done
+for DD in iname "20*"; do echo $DD; done
+for DD in iname "20??"; do echo $DD; done
+getclip
+getfacl youtube_dl.exe 
+grep "*gr.*" ./*
+grep "*gr\.*" ./*
+grep -r 'tms=' ./* 
+grep -r wrapper ~/bin/*
+grep -rE '^tm..*=' ./* 
+grep -rE '^tm..=' ./* 
+grep -rE '^tm..?=' ./* 
+grep -rE '^tm.=' ./* 
+grep -rE '^tm.?=' ./* 
+grep -rlE ' tm?=' ./* 
+grep -rlE '^tm.?=' ./* 
+grep -rlE '^tm?=' ./* 
+grep -rlE 'tm?=' ./* 
+grep clip ./*
+grep if ../*
+grep python3 ./*
+head -n1 $f1
+history | grep -i check
+history | grep -i free
+history | grep -i linux
+history | grep -i nix
+history | grep -i nux
+history | grep -i open
+history | grep -i site
+history | grep -i source
+history | grep -i tech
+history | grep -i unix
+history | grep dtrf
+l1 PYTHON_en/
+less 00_bin_metsys_en/
+less which-dev-is-USB_20160915.onl.txt 
+listulb > ~/.tmp/LL.txt
+listulb | grep $(head -n1 $f1)
+listulb | grep 30najv
+listulb | grep ext
+listulb | grep gesl
+listulb | grep pass
+listulb | grep paw
+listulb | grep ps
+listulb | grep run
+ln -s PYTHON_en/PYTHON_en_testing/get_filenames_by_word_en_V2_20171027.py ./
+ln -s PYTHON_en/text_colors.py ./
+ln -s get_filenames_by_word_en_V2_20171027.py ../../
+ln -s text_colors.py ../
+locale
+lq
+lynd "https://www.ostechnix.com/prevent-files-folders-accidental-deletion-modification-linux/" chattr_prevent-files-folders-accidental-deletion-modification
+lynxd "http://www.pythonexample.com/code/python-rsync-progress/" python_rsync-progress-bar-01
+lynxd "https://www.cyberciti.biz/faq/bash-find-out-if-variable-contains-substring/" bash_finding-if-szbstring-in-variable
+lynxd "https://www.cyberciti.biz/faq/how-to-extract-substring-in-bash/" bash_howto_extract-substring
+lynxd "https://www.cyberciti.biz/faq/how-to-print-filename-with-awk-on-linux-unix/" awk_how-to-print-filename-with-awk
+lynxd "https://www.cyberciti.biz/faq/show-progress-during-file-transfer/" python_rsync-progress-bar-02
+lynxd "https://www.cyberciti.biz/tips/linux-unix-download-accelerator.html" lftp_as-download-accelerator
+lynxd "https://www.ostechnix.com/prevent-files-folders-accidental-deletion-modification-linux/" chattr_prevent-files-folders-accidental-deletion-modification
+mkdir BEKAP_LAST_20180105
+mkdir _ext_STARO
+mkdir heap_20171206
+mv 00_bin_metsys{,_en}
+mv _ext_STARO{,_en}/
+mv awk_how{-,}to-print-filename-with-awk_20180205.txt 
+mv colors.py text_colors.py 
+mv text_colors.py ~/bin/PYTHON_en/
+n Python?
+netstat -a
+netstat -af
+netstat -ap
+netstat -at
+netstat -at TCP
+netstat -au
+ouch /c/Users/gregor.redelonghi/2017/plot.log
+p_run_sh1l_and_s1 "https://itsfoss.com/losslesscut-video-cutter/"
+pagesnum "python_rsync-progress-bar-01_20171207.txt"
+pagesnum python_ANSI_escapecodes_20171201.txt
+pdelbak
+ped
+pip3 list
+python2
+python3 max_heap3.py 
+python3 min_heap
+python3 min_heap3.py 
+pytpe ext_CD
+r Python code into an executable.
+r_ed
+s1 "http://www.TEST.com/TEST/test.html"
+s1 "https://www.quora.com/What-is-the-most-interesting-website-you-found-on-internet"
+s2 "KEEP UBUNTU CLEAN" '''
+s2 "Link: Dropbox/Valmeinier_2018(M)" "https://www.dropbox.com/l/scl/AADYjWR2sE5zzRkHjqUSL-qNRHCBhYCAfZQ"
+s2 "NEW Firefox ..." '''
+s2 "SERVIS FISSLER" '''
+s2 "TEST" "TEST"
+s2 "check if UEFI or BIOS" '''
+s2 "http://www.codeblocks.org/" "http://www.codeblocks.org/"
+s2 "https://uappexplorer.com/snaps - list" "https://uappexplorer.com/snaps"
+s2 "unicode characters" "http://graphemica.com/unicode/characters"
+s2 'add to rsync scripts' '''
+s2 BioDomes $L
+screen
+seq -s, 1 9
+seq 1 2 100
+seq 1 2 100 >> ~/_BRISI/F.txt 
+seq 1 2 9
+seq 3 8
+seq 8
+setup --help
+tail -f F.txt 
+tar -tvzf bckpbat_en_20180206_151625.tar.gz | grep MET
+tar -tvzf bckpbin_en_20180206_151625.tar.gz | grep MET
+tar -tvzf bckpbrc_en_20180206_151625.tar.gz | grep MET
+tar -tvzf bckpdocs_en_20180206_151625.tar.gz | grep MET
+tar -tvzf bckpfau_en_20180206_151625.tar.gz | grep MET
+tar -tvzf bckpszn_en_20180206_151625.tar.gz | grep MET
+tmux list-windows
+touch $(seq -f "file%g" 1 10)
+touch F.txt
+touch TEST1.txt TEST2.txt
+type chattr
+type clipin
+type pddr
+type putclip
+type xclip
+tytpe ext_CD
+vc
+w17
+which chattr
+which e2fsprogs
+~/bin/ddbaklog/delbak.sh 
+~/bin/get_filenames_by_word_en_V2_20171027.py -files -s "attr"
+~/bin/get_filenames_by_word_en_V2_20171027.py -s "attr"
+~/bin/get_filenames_by_word_en_V2_20171027.py -s attr
+~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s "attr"
+'
+' | fold
+' | fold -s | less
+' | fold -w 110  -s | less
+(sbc && script)
+---------------------------------------------
+./test.py 
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe --help > cygwin_setup_cli-options_20180201.txt
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -P libxml2-2.9.4-2
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -p http://172.17.3.64:80 -P libxml2-2.9.4-2
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -W -P libxml2-2.9.4-2
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -p http://172.17.3.64:80 -P libxml2-2.9.4-2
+100 days .1 rad
+14 days 1 rad
+49 hours 10 rad
+:q
+CD ..
+Cygwin --help
+HSTL
+Howto create RaspberryPi NAS server with external USB HDD (SSD?)
+PS1="\n[ \D{%Y%m%d_%H%M%S} -- ${PWD} ] \n\$> "
+The 7:10 Rule of Thumb states that for every 7-fold increase in time after detonation, there is a 10-fold decrease in the exposure rate. In other words, when the amount of time is multiplied by 7, the exposure rate is divided by 10.
+Updated Mon
+What you see on TV is sensational nonsense. This is the actual reality.
+\grep root ./*
+are a lot older than previously thought.
+br
+cat -r typescript 
+cat /j/bekaps/bekap_en.log 
+cat PIP1
+cat PIPE1
+cat p1
+cat pq
+cat seznami/samostojni-URL-naslovi_20160531_ORIGINAL.txt 
+cat ~/typescript 
+caz p1
+cheat tar
+chmod 755 convert_URLs_to_html_links_20171211.py 
+chmod 755 nums_20171213.py 
+cmf list
+cygpath -w $(pwd)
+cygwin --help
+date "1 hour"
+date +%Y%m%d_%H%M%S -d "5 dasy 1 hour"
+date +%Y%m%d_%H%M%S -d "5 days 1 hour"
+date --iso-9601 ns
+date --iso-9601=ns
+date -I 'seconds'
+date -I seconds
+date -I'minutes'
+date -I'ns'
+date -I'seconds'
+date -I'seconds' -d "5 days 1 hour"
+date -I'seconds' -d "5 days"
+date -I['ns']
+date -I['seconds']
+date -I[ns]
+date -I[seconds]
+date -Iminutes -d "5 days 1 hour"
+date -d "1 hour"
+date -d "5 weeks"
+date -s "%Y%m%d" -d "1 hour"
+date -s "%Y%m%d%h%M%S"
+date -s "%Y-%m-%d"
+date -s %Y%m%d%h%M%S
+date -s %Y%m%d%h%m$S
+date -s '%Y%m%d%h%M%S'
+date['ns']
+dd
+ean ... py" """
+echo "Hy!" > p1
+echo "filename: $fjl" >> $fjl
+echo "https://sites.google.com/site/easylinuxtipsproject/alternative" >> $fjl
+export PS1="[ \D{%Y%m%d} - \t ] -- \u @ \H\n\w \$> "
+export PS1="\n[ \D{%Y%m%d_%H%M%S} -- $PWD ] \n\$> "
+export PS1="\n[ \D{%Y%m%d_%H%M%S} ] -- \u@\H \W \n\$> "
+export PS1="\n[ \D{%Y%m%d_%H%M%S} ] -- \u@\H \w \$> "
+export PS1="\n[ \D{%Y%m%d} - \t ] -- \u @ \H\n\w \$> "
+export PS1="\n[\D{%Y%m%d_%H%M%S}] -- \u@\H [ $(pwd) ] \n\$> "
+export PS1="\n[\D{%Y%m%d_%H%M%S}] -- \u@\H [ $PWD ] \n\$> "
+export PS1="\u @ \h \$> "
+export PS1="\u@\h ~$ > "
+export PS1="\u@\h"
+export PS1="\u@\h\n\$>"
+export PS1=\u@\h\n\$>
+ext_a
+fidh
+find -iname "*addr*"
+find -iname "*naslo*"
+find -iname "*stiplo*"
+find -name "*sort*"
+fjl="turn-ubuntu-into-xubuntu_20180201.txt"
+for FFF in 01_rbckp_cgr_en.sh 02_rbckp_cgr_en_2017.sh 03_rbckp_cgr_en_drpbx.sh 04_rbckp_h_en_drpbx.sh; do sed -i '/s/stats1/stats2/' $FFF; done
+for FFF in 01_rbckp_cgr_en.sh 02_rbckp_cgr_en_2017.sh 03_rbckp_cgr_en_drpbx.sh 04_rbckp_h_en_drpbx.sh; do sed -i 's/stats1/stats2/' $FFF; done
+for N in {1..100}; do echo $N; done
+for N in {1..100}; do echo $N; done > PIPE1
+for N in {1..100}; echo $N; done
+ftP_
+ft_
+ftp
+ggl python_advanced-lists-sorting_20171013.txt 
+gre PS1 .bashrc
+grep '-rltDv' ./*
+grep '\-rltDv' ./*
+grep pip ~/seznami/*
+grep proxy ~/.bashrc
+grep root ./*
+grep tms ./*
+history | grep -i cygwin
+http://www.linuxjournal.com/content/getting-started-ncurses
+http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/
+https://blog.linuxmint.com/?p=3462
+https://blog.linuxmint.com/?p=3480
+https://www.linuxmint.com/rel_sylvia_xfce_whatsnew.php
+https://www.youtube.com/watch?v=798-RjVHoRc     JUDO One side grip Ashi-Guruma
+https://www.youtube.com/watch?v=7nUGnyT34Q4     KUMIKATA (Maitre Jacques SEGUIN)
+https://www.youtube.com/watch?v=OdbKKQqmZn0     Korean Judo - Drop knee Tai otoshi 
+https://www.youtube.com/watch?v=Qtf5mU1-504     EXTREME STANCE grip & throwing routines
+https://www.youtube.com/watch?v=UpfcNhfz6Os     Uchi Mata- 4 Variations
+https://www.youtube.com/watch?v=zb4us6w1q3w     Yoga movements for a more powerful and more stable uchimata
+less PIPE1
+less typescript2.txt 
+listulb | grep -1 a0
+listulb | grep -i a0
+lynx -dump "https://sites.google.com/site/easylinuxtipsproject/alternative" >> $fjl
+lynx -dump "https://sites.google.com/site/easylinuxtipsproject/first-xubuntu" >> $fjl
+lynx -dump "https://sites.google.com/site/easylinuxtipsproject/first-xubuntu" | less
+lynxd "http://usalug.com/vi.html" vi_tutorial
+lynxd "http://www.geeksforgeeks.org/html-adding-youtube-videos/" html_adding-youtube-videos
+lynxd "https://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address/74428#74428" RPi_setup-networking-wifi-static-ip-address
+lynxd "https://www.networkworld.com/article/3240938/linux/how-to-squeeze-the-most-out-of-linux-file-compression.html" compression-info
+lynxd "https://www.networkworld.com/article/3251853/linux/why-use-named-pipes-on-linux.html" why-named-pipes
+mkfifo p1
+mv start.en_20171211.tar.gz{,.txt}
+mv typescript typescript1.txt
+mv typescript typescript2.txt
+pdd
+pip --version
+pip list
+pip search cheat
+pip show
+pip show ipython
+pip show jedi
+pip show wheel
+quit
+rpddr
+s-tui
+s1 "https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update"
+s1 "https://www.quora.com/Why-is-1-61803399-considered-as-golden-ratio"
+s2 "Battery powered trains - VivaRail" "https://www.youtube.com/watch?time_continue=2&v=9s4heZe7ChM"
+s2 "Gina Carano Movies" "http://www.comingsoon.net/movies/features/650591-gina-carano-movies#/slide/1"
+s2 "ZLATI REZ" '''
+s2 "arhiviraj: " '''
+scr
+script --help
+script -c ./min_heap.py 
+script -c yes | ./min_heap.py 
+script -q
+sed 's/rltDv/rltD/' 01_rbckp_cgr_en.sh 
+sed 's/rltDv/rltD/' 01_rbckp_cgr_en.sh | grep rltD
+sed -e 's:/$::' samostojni-URL-naslovi_BoB_20171211_txt.txt 
+sed -i 's/rltDv/rltD/' 01_rbckp_cgr_en.sh
+sed -i 's/rltDv/rltD/' 02_rbckp_cgr_en_2017.sh 
+sed -i 's/rltDv/rltD/' 03
+sed -i 's/rltDv/rltD/' 03_rbckp_cgr_en_drpbx.sh 
+sed -i 's/rltDv/rltD/' 04_rbckp_h_en_drpbx.sh 
+sed -i 's:/$::' samostojni-URL-naslovi_BoB_20171211_txt.txt
+seq -f "%02g" 6
+seq -s. 1 9
+seq -s. 1, 9
+sfn
+tail -n10 PIPE1
+telnet mapscii.me
+touch $FJL
+tput colors
+tput cup
+type sbc
+type sbr
+typescript
+yes | python3 min_heap.py 
+you would leave after 14 days.
+"$((24 x 22))"
+$((24 x 22))
+$(24 x 22
+((24 x 22))
+./lists_20180117.py 
+./screenw.py 
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -P python3-libxml2-2.9.4-2
+30najvecjih 
+D3 = {'D':22, 'M':2, 'Y':1968, 'Z':[]17,1,2018]}
+ECIT
+FF = FAJEL-1.txt 
+FF=FAJEL-1.txt 
+W3M -dump "https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/" | less
+\cp --force --backup=numberd $FF $FF
+\cp --force --backup=numbered --suffix '_' $FF $FF
+\cp --force --backup=numbered --suffix='+' $FF $FF
+\cp --force --backup=numbered --suffix='_' $FF $FF
+\cp --force --backup=numbered --sufix '_' $FF $FF
+\cp --force --backup=numbered --sufix="_" $FF $FF
+\cp -u -v FAJEL-1.txt FAJEL-2.txt 
+_PYTHON_en_testing
+add: 'import sys'
+at AAA.txt 
+cat FAJEL-1.txt
+cbot
+chmod 755 lists_20180117.py 
+chmod 755 screenw.py 
+cl test.txt AAA.txt
+cp --force --backup=number $FF $FF
+cp --force -u -v FAJEL-1.txt FAJEL-2.txt 
+cp -r timedelta_20180111/ filedelta_20180111/
+cp AAA.txt ~/_BRISI
+cp lists_20180117.py lists_20180117.py.txt
+cp test.txt AAA.txt
+d3.keys
+diff -q FAJEL-1.txt FAJEL-1.txt.~1~ 
+diff FAJEL-1.txt FAJEL-1.txt.~1~ 
+du -h ./AppData/Local/Microsoft/Outlook
+du -h ./AppData/Local/Microsoft/Outlook/gregor.redelonghi@energetika.si.ost
+du -sh ./AppData/Local/Microsoft/Outlook
+du ./AppData/Local/Microsoft/Outlook/gregor.redelonghi@energetika.si.ost
+echo "24*22" | bc
+echo $FF
+echo $TERM
+f = open('AAA.txt', 'r')
+file padec.py --mime-encoding
+file plot.log --mime-encoding
+file repl_bash_en_V1_20180109.sh --mime-encoding
+file repl_en_V5_20180109.py --mime-encoding
+file swap_func.py --mime-encoding
+file text_colors.py --mime-encoding
+find -iname "*41804*"
+find -maxdepth 2 -type d -iname "*tribuna*"
+find -maxdepth 3 -type d -iname "*tribuna*"
+find -mtime -15 -type d
+find -size +100M
+find -size +10M
+find -size +1M
+find -size +500M
+find / -type f -iname "libxml2*"
+for F in $(find -mtime -1); do pagesnum $F; done
+less /usr/share/doc/libxml2/README 
+less AAA.txt 
+less file-func_V1_20180116.py 
+lynx -dump "https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/" | less
+lynxd "https://blog.gocept.com/2013/07/15/reliable-file-updates-with-python/" python_reliable-file-updates
+lynxd "https://julien.danjou.info/blog/2018/scaling-python-application-threads" python_scaling-application-threads
+lynxd "https://opensource.com/article/18/1/parsing-html-python" python_parsing-html
+lynxd "https://tag1consulting.com/blog/building-api-django-20-part-i" python_building-api-django-part-1
+lynxd "https://www.redips.net/linux/create-fat32-usb-drive/" howto_create-fat32-usb-drive
+m3w -dump "https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/" | less
+mv lists_20180117.py.txt ~/_BRISI
+pagesnum ../_PYTHON/python_parsing-html_20180131.txt 
+pagesnum RPi_as_linux_backup_server-multif_20180131.txt 
+pip show lxml
+pip show pandaS
+pip show pandas
+pip3 show lxml
+pip3 show pandas
+s1 "https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b"
+s1 "https://www.dedoimedo.com/computers/mx-17.html"
+s1 "https://www.linux.com/learn/intro-to-linux/2018/1/multimedia-apps-linux-console"
+s1 "https://www.quora.com/When-are-imaginary-numbers-used-in-real-life-What-practical-applications-do-they-have"
+s1 "https://www.quora.com/Which-group-or-country-has-the-highest-number-of-Neanderthal-genes"
+s1 "https://www.zurnal24.si/svet/nori-posnetki-neurja-s-snegom-iz-alp-cesta-sedem-metrov-pod-snegom-303221"
+s2 "NOV CENTER ROG" "https://www.youtube.com/watch?time_continue=33&v=76kZGrbSdps"
+s2 "RPi NAS" '''
+s2 "Top 10 Self Defense Martial Arts Styles " "https://www.youtube.com/watch?v=CBBx08fSytk"
+s2 "check out" '''
+sd PYTHON_en_testing/
+sxt_CD
+touch $fjl
+update clean(...py):
+w3md "https://itsfoss.com/swap-size/" swap-size
+w3md "https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/" file-system-for-usb-drive
+~/bin/fnd/get_filenames_by_word_files -o json django
+~/bin/fnd/get_filenames_by_word_files -o json django Tow
+~/bin/fnd/get_filenames_by_word_files -o json django Tow tow
+~/bin/fnd/get_filenames_by_word_files -o json django [tT]ow
+~/bin/fnd/get_filenames_by_word_files -o json django num
+~/bin/fnd/get_filenames_by_word_files -o json django numPy
+~/bin/fnd/get_filenames_by_word_files -o json django numpy
+~/bin/fnd/get_filenames_by_word_files -o json django turtle
+~/bin/fnd/get_filenames_by_word_files -s django
+~/bin/fnd/get_filenames_by_word_files -s json
+~/bin/fnd/get_filenames_by_word_files_en_20171027.py 
+~/bin/fnd/get_filenames_by_word_files_en_20171027.py -h
+~/bin/fnd/get_filenames_by_word_files_en_20171027.py -o fat '32 ' | grep "fat\|32 "
+~/bin/fnd/get_filenames_by_word_files_en_20171027.py -o fat 32
+~/bin/fnd/get_filenames_by_word_files_en_20171027.py -o fat 32 | grep "fat\|32"
+~/bin/get_filenames_by_word_en_V2_20171027.py -h
+¸\cp --force --backup=number $FF $FF
+çd /g/
+"""
+../../t
+../../text_colors.py
+./00_backups_wrapper 
+./dirwalk.py 
+./repl.py 
+/home/gregor.redelonghi/bin/PYTHON_en/PYTHON_en_testing/STRINGS_20180103.py
+/home/gregor.redelonghi/bin/PYTHON_en/text_colors.py
+00_ukazi/psswdchange_en.sh 
+City of Barcelona Kicks Out Microsoft in Favor of Linux and Open Source
+EXIT
+En/gr.06/
+L
+PDDER
+PYTHON3
+PYTHON_en/text_colors.py
+S2 "judo 20180105" '''
+S='Kva je zej? A smo kej Neumni! No p Gremo#'
+S='Kva je zej? A smo kej Neumni! No.pa.Gremo#.txt'
+S='Sej sam gremo? A je to vazno; torej samski'
+S='Sej sam gremo? A je to vazno; torej samski.mp4'
+S='Sej sam gremo? A je to vazno; torej-samski'
+[A
+\tree -d ~/bin/
+\tree -dn ~/bin/
+\tree -n ~/bin/
+\tree -nF ~/bin/
+\tree -nF ~/bin/ | grep '/'
+by
+cal
+cat $f1
+cat send_config_en.*
+cat send_config_en.conf
+cat ~/.tmp/send_config_en.*
+cat ~/bin/oneliners_en/remove_square_bracket_links_numbers_from_txt_file_20170629.onl.txt 
+chmod 755 repl.py 
+chmod 755 timedelta.py 
+cp $(find ~ -name fajl.txt) ../
+cp *.html /d/bekaps/bekap_c_gregor.redelonghi_Downloads/
+cp *.html /j/bekaps/bekap_c_gregor.redelonghi_Downloads/
+cp -r SNEZNE_VERIGE/ /c/Users/gregor.redelonghi/Dropbox/SKUPNI/
+cp 02_rbckp_cgr_en_201{7,8}.sh 
+cp repl_bash_en_V1_20180109.sh ../../00_ukazi/
+cp repl_bash_en_V1_20180109.sh 20180109/
+cp repl_bash_en_V1_20180109.sh ~/_BRISI/repl_bash_en_V1_20180109.sh.txt
+cp repl_en_V3_20180104.py ~/_BRISI/repl_en_V3_20180104.py.txt
+dc bin/
+du 
+echo "$foo" | grep "["$'\xc2\xa0'"]"
+echo "filename.ext" | sed -n '/\(.*\)\./\1p'
+echo $S | sed 's/![[:alpha:]]/_/g'
+echo $S | sed 's/[[:alpha:]]/_/g'
+echo $S | sed 's/[[:nonalpha:]]/_/g'
+echo $S | sed 's/[^[:alpha:]]/_/g'
+echo $S | sed 's/[^[azAZ09]]/_/g'
+echo $S | sed 's/[^[az]]/_/g'
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g' -e 's/./*/' -e 's/__/_/g' -e 's/--/-/g'
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g' -e 's/./-/' -e 's/__/_/g' -e 's/--/-/g'
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g' -e 's/./-/g' -e 's/__/_/g' -e 's/--/-/g'
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g' -e 's/\./-/' -e 's/__/_/g' -e 's/--/-/g'
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g' -e 's/__/_/g' -e 's/--/-/g'
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g')
+echo $gr_fjl; cat $gr_fjl | sed "s/\[[0-9]\{2,\}\]//" | grep -E "\[[0-9]\{2,\}\]"
+echo $gr_fjl; cat $gr_fjl | sed -n "/\[[0-9]\{2,\}\]/p"
+f = read('test.txt', 'r')
+find -atime -15 -type f -iname "*.jpg"
+find -atime -25 -type f -iname "*.jpg"
+find -atime -55 -type f -iname "*.gif
+find -atime -55 -type f -iname "*.gif"
+find -atime -55 -type f -iname "*.jpg"
+find -atime -55 -type f -iname "*vosc*"
+find -iname "*youtube*"
+find -maxdepth 0 -size 0
+find -name "repl_*"
+find ../../ -name fajl.txt
+find ../../../ -name fajl.txt
+find /home/gregor.redelonghi/bin/ -iname "*num*onl*"
+find /home/gregor.redelonghi/bin/PYTHON_en/ -mtime -21
+find /home/gregor.redelonghi/bin/PYTHON_en/ -mtime -40
+find ~ -name fajl.txt
+foo=$(echo 123456 has a NBSP, 123 456 does not)
+for fj in $(find -type f); do grep strf $fj; done
+gr_fjl="python_shutil_module_20180115.txt"
+grep '2017' ./*
+grep 'https://www.python.org/dev/peps/pep-0008/' ./*
+grep -C5 strftime repl_en_V5_20180109.py 
+grep -r '2017' ./*
+grep -r 'gredelonghi*2017' ./*
+grep -r 'gredelonghi\*2017' ./*
+grep -r 'import ' ./*
+grep -r -C3  readlines ../../*
+grep -r -C3  readlines ../../* | less
+grep -r import ./*
+grep -r readlines ../../*
+grep -rE '[-_]2017' ./*
+grep -rE 'gredelonghi.*2017' ./*
+grep -rE 'gredelonghi/2017' ./*
+grep -rE 'gredelonghi[/]2017' ./*
+grep -rE 'gredelonghi[\/]2017' ./*
+grep -rE 'gredelonghi[\\\/]2017' ./*
+grep -rE 'gredelonghi[\\]2017' ./*
+grep -rE 'redelonghi/2017' ./*
+grep -rE 'redelonghi[\/]2017' ./*
+grep -rE -l '[-_]2017' ./*
+grep -rE -l '[-_]2017' ./bin/* | grep -iv 'staro'
+grep -rE -l 'redelonghi[\/]2017' ./*
+grep strftime ./*
+grep strftime repl_en_V5_20180109.py 
+history | grep 01-08
+history | grep repl_en_V5_20180109.pytouch
+history | grep strf
+im kopiraj_a0_v_risbe.sh
+les _danes_20170927.txt 
+less ./text_colors.py 
+less 2020.txt 
+less _danes_20170927.txt 
+less test.txt
+ln -s youtube_dl.exe ../
+ln 00_ukazi/youtube_dl.exe ../
+ln 00_ukazi/youtube_dl.exe ./youtube-dl.exe
+lynx -dump "https://pymotw.com/3/datetime/" | less
+lynxd "https://docs.python.org/3/library/shutil.html" python_shutil_module
+lynxd "https://www.cyberciti.biz/faq/use-bash-aliases-ssh-based-session/" bash-ssh_run-aliases-in-ssh-session
+lynxd "https://www.ibm.com/developerworks/linux/library/l-lpic1-108-3/index.html?ca=drs-" mta_IBM
+lynxd "https://www.linuxtechi.com/view-contents-compressed-file-folders-linux/" view-contents-compressed-file-folders
+mcm
+mkdir -P dir1/dir2/dir3/dir4/dir5
+mkdir -p dir1/dir2/dir3/dir4/dir5
+mkdir SNEZNE_VERIGE
+mkdir_SNEZNE_VERIGE
+modules_most-times-imported_list_20180110.txt
+mount
+mv *.mp4 SNEZNE_VERIGE/
+mv 20170321_test test_20170321
+mv Hilfer_pravilno_nameščanje_snežnih_verig-Withcar-si_20131025.mp4 Hilfer_pravilno_namescanje_sneznih_verig_20180115.mp4 
+mv Kako_namestimo_verige_20150205.mp4 Kako_namestimo_verige_20180115.mp4 
+mv Kako_namestimo_verige_20180115.mp4 
+mv _201{7,8}_VARHIVO/
+mv _201{7,8}_docs/
+mv _201{7,8}_ostalo/
+mv get_filenames_by_word_en_{0,V}2_20171027.py 
+mv time-and-file-delta_en_20180112.tar.gz{,.txt} 
+mv timedelta{,_V1_20180112}.py 
+mv timedelta{_V1_20180112}.py 
+pagesnum ~/_BRISI/PRINT.txt
+qck
+rewrap Famous_Atheists_in_science_20180111.txt 
+s1 "http://www.ocsmag.com/2017/12/23/best-xfce-distro-of-2017/"
+s1 "https://www.dedoimedo.com/computers/best-distro-2017.html"
+s1 "https://www.ostechnix.com/check-meltdown-spectre-vulnerabilities-patch-linux/"
+s2 "AGAIN!" "https://www.linuxtechi.com/"
+s2 "Diners On-Line storitve Link" "https://online.dinersclub.si/#/login"
+s2 "Judo Newaza Part 1. Techniques by Rikard Almlöf, Spif Judo" "https://www.youtube.com/watch?v=lL01DcOXJp0"
+s2 "Never Forget Ne Waza" "https://www.youtube.com/watch?v=Zz94CiA_OpE"
+s2 "Saving window position in Xfce session" "https://www.eyrie.org/~eagle/journal/2017-12/001.html"
+s2 "nove restavracije 2017" "http://www.rtvslo.si/tureavanture/kulinarika/nove-restavracije-z-letnico-2017-od-najvisje-v-mestu-do-novega-figovca/441977"
+s2 'Linux Mint 18.3 “Sylvia” Xfce released!' '''
+sed -i 's/\[59\]//p' $gr_fjl
+stat -c %A lftp.exe.stackdump 
+stat -c %C lftp.exe.stackdump 
+stat -c %aA lftp.exe.stackdump 
+stat lftp.exe.stackdump 
+tmux
+tree -d ~/bin/
+tree dir1/
+tree ~/bin/
+type -a bin
+type ext_CD
+unamr -a
+w18
+w3m -dump "http://www.daveoncode.com/2013/01/06/date-time-year-month-day-hour-minute-second-difference-python/" >> ~/_BRISI/PRINT.txt 
+w3m -dump "https://pymotw.com/3/datetime/" | less
+w3m -dump "https://www.w3resource.com/python-exercises/date-time-exercise/python-date-time-exercise-32.php" >> ~/_BRISI/PRINT.txt 
+w3m -dump "https://www.w3resource.com/python-exercises/python-basic-exercise-14.php" >> ~/_BRISI/PRINT.txt 
+w3md "https://pymotw.com/3/datetime/" python_datetime-module-tutorial
+wh 16
+while read LINE; do touch "$LINE"; done < ../fajl.txt 
+while read LN; do cat $f2 | grep $LN; done < $f1
+ydl -F "https://www.youtube.com/watch?v=qBSSdXBi_xA"
+ydl -f22 "https://www.youtube.com/watch?v=eSILtBlvkMU"
+ydl -f22 "https://www.youtube.com/watch?v=qBSSdXBi_xA"
+~/bin/00_ukazi/repl_bash_en_V1_20180109.sh 
+~/bin/PYTHON_en/text_colors.py 
+~/bin/fnd/get_filenames_by_word_files -a dd cat
+~/bin/fnd/get_filenames_by_word_files -a dd cat |grep "cat\|dd"
+~/bin/fnd/get_filenames_by_word_files -a pip dev
+~/bin/fnd/get_filenames_by_word_files -a pip env
+~/bin/fnd/get_filenames_by_word_files -o pip env
+~/bin/fnd/get_filenames_by_word_files -o pip env | grep "pip\|env"
+~/bin/fnd/get_filenames_by_word_files -s 20171220
+~/bin/fnd/get_filenames_by_word_files -s pip
+ext_CD
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe --help
+LC_ALL='C'
+\rop
+\top
+acr
+cat MX-17_x64.iso.md5 
+cat MX-17_x64.iso.md5 && md5sum MX-17_x64.iso
+chmod 755 STRINGS_20180103.py 
+cmatrix
+cp /c/Users/gregor.redelonghi/majstaf/BRISI/repl.py bin/PYTHON_en/PYTHON_en_testing/repl_20180103.py
+cp bckpbin_d_20180109_005350.tar.gz ~/RUT/home/rgregor/
+cp checkout.html ~/_BRISI/checkout.html_EN-20180104.txt
+cp checkout.html ~/_BRISI/checkout.html_EN-20180104_V2.txt
+cp clean_movie_dirname_en_V2_20180105.py /c/Users/gregor.redelonghi/Downloads/clean_movie_dirname_en_V2_20180105.py.txt
+cp repl_d_V4_20180108.py 20180109/
+cp repl_en_V5_20180109.py ~/_BRISI/
+cp repl_en_V5_20180109.py ~/bin/PYTHON_en/PYTHON_en_testing/
+du -h BIN
+du -h BIN/
+du -s RUT/
+du -sh BIN
+du -sh RUT/
+export LC_ALL=C
+ext_CD | grep -i "Starting\| transfer time"
+find *h -iname "*arhiv*"
+find -atime -55 -type f -iname "*novo*"
+find -atime -55 -type f -iname "*sre*"
+find -ctime -0
+find -ctime -1
+find -ctime 0
+find -iname "*arhiv*"
+find -iname "*navodil*"
+find -maxdepth 3 -iname "*tribun*"
+find -type d -iname "*tribun*"
+find /c/Users/gregor.redelonghi/ -iname "*kaso*"
+find /c/Users/gregor.redelonghi/ -iname "*posoj*"
+find /c/Users/gregor.redelonghi/ -iname "*stre*"
+find /c/Users/gregor.redelonghi/ -iname "*stre*"ni
+find /c/Users/gregor.redelonghi/ -iname "*stre*ni"
+find /h -iname "*arhiv*"
+find /h -maxdepth 3 -type d -iname "*tribun*"
+find /h -type d -iname "*tribun*"
+find bin/ -ctime 0 
+find bin/ -ctime 0 -type f
+find bin/ -ctime 0 -type f -iname "*py" -o -iname "*sh"
+find bin/ -ctime 0 -type f -name "*py" -o -name "*sh"
+find bin/ -mtime -1 -type f | grep "py\|sh"
+find bin/ -mtime -2 -type f | grep "py\|sh"
+find bin/ -mtime -3 -type f | grep "py\|sh"
+find bin/ -mtime -4 -type f | grep "py\|sh"
+find bin/ -mtime -5 -type f | \grep "py\|sh"
+find bin/ -mtime -6 -type f | grep "py\|sh"
+find bin/ -mtime -7 -type f | \grep "py\|sh"
+find bin/ -mtime -7 -type f | grep "py\|sh"
+find bin/ -mtime 0 -type f
+find bin/ -mtime 0 -type f -name "*py" -o -name "*sh"
+find bin/ -mtime 0 -type f | grep "py\|sh"
+find ~/bin -iname "get*"
+for name in 'Dir one' 'Dir two' 'Fold 5 (2017)' 'Njam 2 (2017)[1080p]'; do mkdir "${name} [YTS-AG]"; done
+for name in 'Dir one' 'Dir two' 'Fold 5 (2017)' Njam 2 (2017)[1080p]'; do mkdir "${name} [YTS-AG]"; done
+for name in 'Dir one' 'Dir two' 'Fold 5 (2017)' Njam 2 \(2017\)[1080p]'; do mkdir "${name} [YTS-AG]"; done
+grep 'fil.* ' ./*
+grep 'fil.? ' ../*
+grep 'fil.? ' ./*
+grep -E 'fil.? ' ../*
+grep -E 'zero' ../*
+grep -Er 'zero' ../*
+grep -i cwd ./*
+grep -i ifs
+grep -i ifs ./*
+grep -ir ifs ./*
+grep currd ./*
+grep fil ./*
+grep http ~/.*
+grep http ~/.b*
+grep prox ~/.*
+grep prox ~/.b*
+grep walk ./*
+grep zero ./*
+l1 ~/bin/
+l1 ~/bin/00_ukazi/
+l1 ~/bin/fnd/
+lcc
+less 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+less ZAMENJAJ_2017-2018_seznam_20180103.txt 
+less cas2.py 
+less correct_subs.py 
+less lftp.exe.stackdump 
+less m_correct_time.py 
+less physt_20170920.txt 
+listulb
+lynx -dump "https://www.quora.com/Why-is-127-0-0-1-used-for-localhost-Does-anyone-know-why-that-number-was-chosen" | less
+lynxd "http://stackabuse.com/python-list-files-in-a-directory/" python_list-files-in-a-directory
+lynxd "https://bash-prompt.net/guides/telnet/" telnet_guide
+lynxd "https://www.linux.com/learn/intro-to-linux/2018/1/how-change-your-linux-console-fonts" howto_change-console-fonts
+lynxd "https://www.quora.com/Why-is-127-0-0-1-used-for-localhost-Does-anyone-know-why-that-number-was-chosen" 127-0-0-1-why-used-for-localhost
+mkdir 'Fifty shades (2014) [YTS-AG]'
+mkdir 'Fifty shades of Purple (2014) [YTS-AG] '
+mkdir -p 'Hemisfera (2015)' 'Guardians of G (2017) [YTS-AG]' 'So cool (2004) [1080p]'
+mkdir __ZACASNA__
+mp repl_20180103.py 
+mv 01_rbckp_cgr_en.sh 02_rbckp_cgr_en_2017.sh 03_rbckp_cgr_en_drpbx.sh 04_rbckp_h_en_drpbx.sh __ZACASNA__/
+mv repl_en_V5_20180109.py{,.txt} 
+my
+oddr
+pip3 help
+python3 repl.py 
+rxvt
+s1 "https://atom.io/packages/column-select"
+s2 "Atom vertical column select /2" "https://atom.io/packages/sublime-style-column-selection"
+s2 "inxi = COOL!" "https://smxi.org/docs/inxi.htm"
+s2 "update clean(...py)" """
+seq -f "%02g" 16
+seq -s', ' 1 9
+telnet google.com
+telnet smaba.example.com
+tree -d
+typw -a grep
+wh 2017
+wh 2018
+wh [17]
+which fnc
+which fncs
+which top
+~/bin/PYTHON_en/get_filenames_by_word_en_02
+~/bin/PYTHON_en/get_filenames_by_word_en_02 -a console font
+~/bin/PYTHON_en/get_filenames_by_word_en_02 -h
+~/bin/PYTHON_en/get_filenames_by_word_en_02_20171027.py 
+~/bin/fnd/get_filenames_by_word_files -a console
+~/bin/fnd/get_filenames_by_word_files -a console font
+~/bin/fnd/get_filenames_by_word_files -a font
+~/bin/fnd/get_filenames_by_word_files -a font | grep font
+~/bin/fnd/get_filenames_by_word_files -o fsc syst
+~/bin/fnd/get_filenames_by_word_files -o fsc syst | grep "fsc\|syst"
+~/bin/fnd/get_filenames_by_word_files -s fsc
+~/bin/fnd/get_filenames_by_word_files -s fsc | grep fsc
+ municipality to join “Public Money, Public Code” campaign
+PS1='\n[ \D{%Y%m%d_%H%M%S} -- ${PWD} ] \n\$> '
+ce by Spring 2019
+cygrunsrv -L
+date +%Y%m%d_%H%M%S
+date --help
+date --help | less
+date -I
+date -I ns
+date -Iminutes
+date -Ins
+date -s "%Y%m%d"
+ecomes the first municipality to join the European campaign “Public Money, Public Code“.
+export PS1="\n[ \D{%Y%m%d_%H%M%S} -- ${PWD} ] \n\$> "
+export PS1="\n[ \D{%Y%m%d_%H%M%S} ] -- \u@\H \w \n\$> "
+for N in {1..100}; do echo $N; done > PIP1
+grep PS1 ~/.bashrc
+istration has prepared the roadmap to migrate its existing system from Microsoft and proprietary software to Linux and Open Source software.
+l IT talent
+less BoB_html_povrzave_20171211.txt 
+lp,
+mkfifo PIP1
+nux distributions
+pddbak && pddlog 
+�s, has reported that the City of Barcelona is in the process of migrating its computer system to Open Source technologies.
+SERVIS FISSLER:
+c
+cat $f2
+echo "$foo"
+echo "$foo" | grep -P "\xa0"
+find -mtime -1 -type f
+find -mtime -2 -type f
+find -type f -iname "*color*"
+find -type f -iname "*py\.txt"
+go
+kopiraj_a0 
+python3 heap2.py 
+"$((24 x 22))" | bc
+"24 x 22" | bc
+./nums_20171213.py 
+\cp --force --backup=number $FF $FF
+\cp --force --backup=numbered $FF $FF
+\cp --force --backup=numbered --suffix + $FF $FF
+\cp --force --backup=numbered --suffix=_ $FF $FF
+add import syss2 "update clean ... py" """
+chmod 755 main_s.py 
+cp -f ~/_PYTHON_en_testing/filedelta_20180111/AAA.txt ./
+cp -u -v FAJEL-1.txt FAJEL-2.txt 
+du
+find -size +1G
+htop
+pddbak 
+touch FAJEL-1.txt
+listulb 
+./clean_movie_dirname_en_V1_20180104.py 
+cat BoB_html_povrzave_20171211.txt 
+cat ZAMENJAJ_2017-2018_seznam_20180103.txt 
+cat test.txt
+cat typescript 
+cat typescript | less
+date -Iseconds -d "5 days 1 hour"
+echo "$foo" | od -c
+echo $S
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g'
+echo $VPT
+find -atime -15 -type f -iname "*.jpg" -o -iname "*.png"
+find -name "repl_b*"
+find -type d -iname "*podat*" -o -iname "*podlo*"
+grep -rE -l 'redelonghi[\/]2017' ./* | grep -iv 'staro'
+grep -rE -l 'redelonghi[\/]2017' ./* | grep -iv 'staro' > ZAMENJAJ_2017-2018_seznam_20180103.txt
+grep PS1 .bashrc
+less bekap_en.log 
+less typescript
+mv bekap_en_201{7,8}
+mv bekap_h_201{7,8}_podloge
+pip help
+python3 _BRISI/nums.py 
+python3 heap.py 
+sed -i "s/\[[0-9]\{2,\}\]//" $gr_fjl
+sed -n '/\[59\]/p' $gr_fjl
+stat -c %a %A lftp.exe.stackdump 
+stat -c %a lftp.exe.stackdump 
+~/bin/PYTHON_en/PYTHON_en_testing/repl_en_V5_20180109.py 
+~/bin/fnd/get_filenames_by_word_files -s pipenv
+ļl
+./STRINGS_20180103.py 
+./list-filenames.py 
+find -size 0
+fncs
+mkdir 20180109
+type -a grep
+type fncs
+./clean_movie_firname.py 
+find bin/ -mtime -5 -type f | grep "py\|sh"
+for name in 'Dir one (2004)  ' ' Dir two (1996)' 'Fold 5 (2017)' 'Njam 2 (2017)[1080p]'; do mkdir "${name} [YTS-AG]"; done
+grep -ir 'def tms' ./*
+grep -ir 'tms' ./*
+s2 "update clean ... py" """
+tar -xvzf bckpbin_d_20180109_005350.tar.gz 
+wh 18
+PDDR
+cat FAJEL-2.txt 
+python3 heap3.py 
+python3 min_heap.py 
+CD
+cat typescript
+date -Iseconds
+du -sh ./*
+ne
+pddlog 
+r_ue
+wh 17
+a17
+find -mtime -1
+top
+uname -a
+/c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -P libxml2-2.9.4-2
+less test.txt 
+touch /c/Users/gregor.redelonghi/2017/plot.log
+type fnc
+cat AAA.txt 
+du -sh
+fish
++1
+3K
+48
+4K
+A Spanish newspaper, El País, has reported that the City of Barcelona is in the process of migrating its computer system to Open Source technologies.
+Barcelona becomes the first municipality to join “Public Money, Public Code” campaign
+BarcelonaSave
+Brief: Barcelona city administration has prepared the roadmap to migrate its existing system from Microsoft and proprietary software to Linux and Open Source software.
+Migration aims to help local IT talent
+Money is always a factor
+Reddit
+SHARES 7K
+Stumble
+Suggested read
+Tweet
+Ubuntu is the choice for Linux distributions
+What do you think?
+With this move, Barcelona becomes the first municipality to join the European campaign “Public Money, Public Code“.
+ext_C
+update clean ... py:
+./text_colors.py 
+date
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g' -e 's/\./-/g' -e 's/__/_/g' -e 's/--/-/g'
+echo $S | sed -e 's/[^A-Za-z0-9._-]/_/g' -e 's/\./-/g' -e 's/__/_/g' -e 's/--/-/g' -e 's/\(.*\)-/\1\./'
+echo $gr_fjl; cat $gr_fjl | sed "s/\[[0-9]\{2,\}\]//" | grep -E "\[[0-9]{2,}\]"
+echo 'City of Barcelona Kicks Out Microsoft in Favor of Linux and Open Source
+ydlF "https://www.youtube.com/watch?v=eSILtBlvkMU"
+~/bin/fnd/get_filenames_by_word_files
+~/bin/fnd/get_filenames_by_word_files -h
+pdelbak 
+szp
+find -maxdepth 1 -size 0
+grep -rl 'tms=' ./* 
+l
+~/bin/lynxdump/lynx_multi_dump_fromlist_en_20141218.sh 
+~/bin/00_ukazi/psswdchange_en.sh 
+./repl_20180103.py 
+./timedelta_V1_20180112.py 
+./convert_URLs_to_html_links_20171211.py 
+./repl_en_V3_20180104.py 
+bash TEST.sh 
+sbc
+l1
+script
+LP,
+less typescript 
+pwd
+./main_s.py 
+Share
+./timedelta.py 
+du -sh ./* | sort -hr
+'''
+bash ./TEST.sh
+ftp_access_en 
+ext_A
+./file-delta_V1_20180112.py 
+./clean_movie_dirname_en_V2_20180105.py 
+sbr
+fnc
+python3 colors.py 
+dbop
+./repl_bash_en_V1_20180109.sh 
+./repl_en_V5_20180109.py 
+./repl_d_V4_20180108.py 
+ext_CD
+
+python3
+pddr

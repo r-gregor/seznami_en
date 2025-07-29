@@ -1,0 +1,53 @@
+
+Command Line Options:
+
+    --allow-unsupported-windows    Allow old, unsupported Windows versions
+ -a --arch                         Architecture to install (x86_64 or x86)
+ -C --categories                   Specify entire categories to install
+ -o --delete-orphans               Remove orphaned packages
+ -A --disable-buggy-antivirus      Disable known or suspected buggy anti virus
+                                   software packages during execution.
+ -D --download                     Download packages from internet only
+ -f --force-current                Select the current version for all packages
+ -h --help                         Print help
+ -I --include-source               Automatically install source for every
+                                   package installed
+ -i --ini-basename                 Use a different basename, e.g. "foo",
+                                   instead of "setup"
+ -U --keep-untrusted-keys          Use untrusted keys and retain all
+ -L --local-install                Install packages from local directory only
+ -l --local-package-dir            Local package directory
+ -m --mirror-mode                  Skip package availability check when
+                                   installing from local directory (requires
+                                   local directory to be clean mirror!)
+ -B --no-admin                     Do not check for and enforce running as
+                                   Administrator
+ -d --no-desktop                   Disable creation of desktop shortcut
+ -r --no-replaceonreboot           Disable replacing in-use files on next
+                                   reboot.
+ -n --no-shortcuts                 Disable creation of desktop and start menu
+                                   shortcuts
+ -N --no-startmenu                 Disable creation of start menu shortcut
+ -X --no-verify                    Don't verify setup.ini signatures
+ -O --only-site                    Do not download mirror list.  Only use sites
+                                   specified with -s.
+ -M --package-manager              Semi-attended chooser-only mode
+ -P --packages                     Specify packages to install
+ -p --proxy                        HTTP/FTP proxy (host:port)
+ -Y --prune-install                Prune the installation to only the requested
+                                   packages
+ -K --pubkey                       URL of extra public key file (gpg format)
+ -q --quiet-mode                   Unattended setup mode
+ -c --remove-categories            Specify categories to uninstall
+ -x --remove-packages              Specify packages to uninstall
+ -R --root                         Root installation directory
+ -S --sexpr-pubkey                 Extra public key in s-expr format
+ -s --site                         Download site URL
+ -u --untrusted-keys               Use untrusted saved extra keys
+ -g --upgrade-also                 Also upgrade installed packages
+    --user-agent                   User agent string for HTTP requests
+ -v --verbose                      Verbose output
+ -W --wait                         When elevating, wait for elevated child
+                                   process
+
+The default is to both download and install packages, unless either --download or --local-install is specified.

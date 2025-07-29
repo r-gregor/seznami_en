@@ -1,0 +1,3884 @@
+exit
+which python
+exit()
+print "Help"
+print("Help")
+version
+exit()
+5/3
+exit()
+import email
+dir(email)
+exit()
+print("Gregec OJLA!")
+inpor sys
+inport sys
+import sys
+dir(sys)
+sys.getfilesystemencoding()
+exit
+exit()
+print("čebula")
+exit()
+D1 = {'name' : 'gregor',
+      'surname' : 'Redelonghi',
+      'street_name' : 'Valvasorjeva ulica',
+      'street_num' : '5',
+      'gsm' : '051/315-307',
+      'c_phone' : '01/5889-658',
+      'company' : 'ENERGETIKA LJUBLJANA, d.o.o.'
+}
+D1
+D1_list = D1.items()
+print(D1_list)
+print(D1_list[3][1])
+print(D1_list[3])
+D1_i = D1.items()
+D1_i
+print(D1_i)
+D1_k = D1.keys()
+print(D1_k)
+print(D1_k[1])
+print(D1_k)
+D1
+D2 = D1.items()
+D2
+exit
+exit()
+D1 = {
+'ime' : 'Gregor',
+'priimek' : 'Redelonghi',
+'naslov' : 'Valvasorjeva ulic 5',
+'kraj' : '1000 Ljubljana'
+}
+D1
+print(D1.items())
+print(list(D1.items()))
+D1K 0 D1.keys()
+D1K = D1.keys()
+D1V = D1.values()
+print(D1K)
+list(D1K)
+list(D1V)
+for k, v in list(D1K), list(D1V):
+	print("Key: ", k)
+	print("Value: ", v)
+for k, v in D1.items():
+	print("Key: ", k)
+	print("Value: ", v)
+for k, v in D1.items():
+	print("Value: ", v, end='')
+	print("Key: ", k)
+for k, v in D1.items():
+	print("Key: ", k, end='')
+for k, v in D1.items():
+	print("Key: ", k, end='')
+	print("Value: ", v)
+for k, v in D1.items():
+	print("Key: ", k, end='')
+	print("; Value: ", v)
+exit()
+f = open(fyjl.01.txt, r)
+f = open('fajl.01.txt', r)
+f = open('fajl.01.txt', 'r')
+f.read()
+f.readlines()
+f.mode
+f.name
+fd = f.read()
+print fd
+print(fd)
+fd = f.read()
+print(fd)
+f.read()
+f.name
+f.close()
+f = open('fajl.01.txt', 'r')
+f.read()
+fd = f.read()
+print(fd)
+print fd
+print(f.read())
+f.mode
+f.open
+f.opened
+f.closed
+f.read()
+f.close()
+f = open('fajl.01.txt', 'r')
+f.read()
+list(f.read())
+list(f.read(), '\n')
+f.read()
+f.close()
+f = open('fajl.01.txt', 'r')
+f.read()
+len(f.read())
+f.close()
+f = open('fajl.01.txt', 'r')
+len(f.read())
+f.close()
+f = open('fajl.01.txt', 'r+')
+f.read()
+len(f.read())
+f.close()
+f = open('fajl.01.txt', 'r+')
+fd = f.read()
+print(fd)
+f.read()
+f = open('fajl.01.txt', 'r+')
+fl = f.readline()
+print(fl)
+len(f)
+len(f.read())
+f = open('fajl.01.txt', 'r+')
+fr = f.read()
+len (fr)
+fl = f.readline()
+print(fl)
+fr = f.read()
+print(fr)
+f = open('fajl.01.txt', 'r+')
+fr = f.read()
+print(fr)
+print(fl)
+print(fr)
+fl = f.readline()
+print(fr)
+print(fl)
+print(fr)
+fl = f.readline()
+print(fl)
+fl = f.readline()
+print(fl)
+print(fr)
+f.close()
+f = open('fajl.01.txt', 'r+')
+fl = f.readline()
+print(fl)
+fl = f.readline()
+print(fl)
+fl = f.readline()
+print(fl)
+fr = f.read()
+print(fr)
+f.seek(0)
+print(fr)
+f.tell()
+f.read()
+f.seek(0)
+f.read()
+f.seek(0)
+print(fr)
+fr.seek(0)
+f.seek(0)
+f.tell()
+fr = f.read()
+print(fr)
+f.seek(20)
+f.seek(20)
+f.tell()
+fr = f.read()
+print(fr)
+f.seek()
+f.seek(0)
+fr = f.read()
+print(fr)
+f.split('\n')
+L = list(f)
+L
+L = list(f.read())
+L
+f.read()
+f.seek(0)
+L = list(f.read())
+L
+f.seek(0)
+L = split(f.read(), '\n')
+P = '\n'.join(L)
+P
+print(fr)
+print(L)
+P = L.join(" ")
+L
+print(L.join(" "))
+L
+" ".join(L)
+"".join(L)
+L
+L.split('\n')
+str(L).split('\n')
+str(L)
+L
+V = "".join(L)
+V
+V.splt('\n?')
+V.splt('\n')
+V.spilt('\n')
+V.split('\n')
+exit()
+D = {}
+for L in file('pari.txt'):
+	k, v = L.split()
+	D[k] = int(v)
+import file
+exit
+exit()
+for L in open('pari.txt', 'r'):
+	k, v 0 L.split()
+for L in open('pari.txt', 'r'):
+	k, v = L.split()
+D={}
+D
+for L in open('pari.txt', 'r'):
+	k, v = L.split()
+	D[k] = int(v)
+D
+dir{dict())
+dir(dict())
+pype(dict())
+type(dict())
+help(dict())
+help(split())
+help(.split())
+dir(split())
+help(split())
+help(dir())
+help(open())
+help(file.open())
+help(open(file))
+help(open('pari.txt'))
+help(open('filename'))
+help(open('pari', 'r'))
+help(open('pari.txt', 'r'))
+help(list().split())
+help(list.split())
+help([].split())
+help(split())
+help(split)
+help(split())
+help(D)
+L=[]
+help(L)
+S = "Aleluje\nHere she comes.\nOh Yeah!"
+S
+S.split()
+help(S.split())
+help(S.split)
+help(split)
+help(str().split)
+S.split(sep='\n')
+L1 = S.split(sep='\n')
+Lq
+L1
+L1[0] = 'Allelluya!'
+L1
+L1[0] = 'Allellouya!'
+L1
+for ln in L1:
+	print ln
+for ln in L1:
+	print(ln)
+for ln in L1:
+	print(str(ln) + "\n\n")
+	print(str(ln) + "\n\t")
+for ln in L1:
+	print(str(ln) + "\n\t")
+	print(str(ln), "\n\t")
+	print(str(ln) + "\n\t")
+for ln in L1:
+	print(str(ln) + "\n")
+	print("\n", end='')
+for ln in L1:
+	print(str(ln) + "\n\t", end='')
+for ln in L1:
+	print(str(ln) + "\n")
+	print("\n\t", end='')
+for ln in L1:
+	print("\n\t", end='')
+	print("\t", end='')
+for ln in L1:
+	print(str(ln) + "\n")
+	print("\t", end='')
+for ln in L1:
+	print(str(ln) + "\n", end='')
+	print("\t", end='')
+for ln in L1:
+	print(str(ln) + "\n\t", end='')
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9];
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N) + "\n", end='')
+	print(str(N), end='')
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N), end='')
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N), end='')
+print(,end="\n")
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N), end='')
+print("", end="\n")
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N), end='')
+print()
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N), end='')
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(ln) + "\n\t", end='')
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N), end='')
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N) + "\n")
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N))
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N))
+print("\nDone!\n")
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N))
+print("Done")
+for N in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
+	print(str(N))
+L = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+print(L)
+for NUM in range(len(L)):
+	print(L[NUM])
+for NUM in range((len(L)/2):
+for NUM in range((len(L)/2)):
+	print(L[NUM])
+for NUM in range((len(L)/2)):
+	print(L[int(NUM)])
+for NUM in range((int(len(L)/2))):
+	print(L[NUM])
+exit()
+import osnovna
+L0
+import * from osnovna
+from osnovna import *
+L0
+D0
+exit()
+from osnovna import *
+S0
+S1
+S1.split(sep=',')
+S1.split()
+S1.split(sep=',')
+S1.replace()
+S1.replace(','n '')
+S1.replace(',', '')
+S1.replace(',', '').split()
+LL = S1.replace(',', '').split()
+LL
+for SS in LL.item():
+	print(SS)
+for SS in LL:
+	print(SS)
+SS
+LL
+", ".join(LL)
+",\t".join(LL)
+print(",\t".join(LL))
+exit
+exit()
+version
+help()
+version
+exizt()
+exit
+exit()
+exit
+python2
+exit
+exit()
+import this
+L = []
+L.append=['gREGOR','Tadeja','Zala','Mark','Spela']
+L.expand=['gREGOR','Tadeja','Zala','Mark','Spela']
+L.extend=['gREGOR','Tadeja','Zala','Mark','Spela']
+L.append('gREGOR','Tadeja','Zala','Mark','Spela')
+L.extend(['gREGOR','Tadeja','Zala','Mark','Spela'])
+L
+L.append(['Gregor','Redelonghi'])
+L
+L.delete[0]
+L.remove[0]
+dir(L)
+help(L.remove)
+L.remove(L[0])
+L
+L.extend(['Mali Redelonghi', '... tamala ...', 'Angelcek', 'BBoy'])
+L
+len(L)
+L.remove(L[-5])
+L
+print('\n'.join(L))
+print('\n\t'.join(L))
+print('\n'.join(L))
+K = '\n'.join(L)
+K
+print(K)
+N = '''
+Gregor
+Redelonghi
+in
+Tadeja
+Mali Redelonghi
+'''
+N
+print(N)
+list(N)
+help(list())
+N
+help(string)
+N
+help(list(N))
+N2 = N.split('\n')
+N2
+N2.remove(N2[-1])
+N2
+N2.remove(N2[5])
+N2
+exit()
+class Dog:
+	def __init__(self, name):
+		self.name = name
+class Dog:
+	def __init__(self, name):
+		self.name = name
+	def add_trick(self, trick):
+		self.tricks.append(trick)
+d = Dog('Fido')
+e = Dog('Buddy')
+d.add_trick('roll over')
+class Dog:
+	def __init__(self, name):
+		self.name = name
+		self.tricks=[]
+	def add_trick(self, trick):
+		self.tricks.append(trick)
+d = Dog('Fido')
+e = Dog('Buddy')
+d.add_trick('roll over')
+e.add_trick('Hopp, Hopp!')
+d.tricks
+e.tricks
+e.add_trick('Fetch a stick!')
+e.add_trick('Play dead!')
+e.tricks
+d.tricks
+d.add_trick('Run away, and nexer come back again!')
+d.tricks
+exit()
+S = "Gregor Redelonghi je danes zares velik in neprmagljiv"
+S
+L = list(S)
+L
+for i in L:
+	''.join(L)
+for i in L:
+for range(len(L)):
+L
+for i in range(len(L)):
+	print(L[i] + L[i+1])
+for i in range(0, len(L)):
+	print(L[i] + L[i+1])
+print(L[i])
+L
+i
+len(L)
+print(L[i])
+i
+i=0
+i
+print(L[i])
+for i in range(0, (len(L)-1)):
+	print(L[i] + L[i+1]); i += 1
+i
+i=0
+for i in range(0, (len(L)-1)):
+	L1=L[i]; L2=L[i+1]
+	print(L1 + L2)
+i
+i=0
+for i in range(0, (len(L)-1)):
+	Ln=L[i] + L[i+1]
+	print(Ln)
+L
+for i in range(0, (len(L)-1)):
+	print L[i]
+	print(L[i])
+for i in range(0, (len(L)-1)):
+	print(L[i])
+i=0
+for i in range(0, (len(L)-1)):
+	print(L[i])
+L = list("Gregor Redelonghi ninja")
+L
+for i in range(len(L)):
+	print(L[i])
+i
+i=0
+for i in range(len(L)):
+i=0; L2=L[i] + L[i+1]; i+=1
+while i<len(L):
+	i=0; L2=L[i] + L[i+1]; i+=1
+	print(L2)
+L
+Ln=L[0]
+Ln
+while i<len(L):
+	print(Ln)
+	Ln = Ln + L[i]; i+=1
+	print(Ln)
+while i<len(L):
+	Ln = Ln + L[i]; i+=1
+	print(Ln)
+Ln
+L
+while i<len(L):
+	La = La + L[i]; i+=1
+	peint(La)
+La = L[0]
+i
+i=0
+while i<len(L):
+	La = La + L[i]; i+=1
+	print(La)
+La
+exit()
+S = "Gregor Redelonghi"
+i=0
+for N in S:
+	print(S[N])
+	print(N)
+for N in S:
+	print(N)
+for N in S:
+	G=N
+S
+print S[0]
+print (S[0])
+for i in S:
+	print(i)
+for i in S:
+	print(i)
+for i in S:
+	print(i)
+for i in S:
+	print(i)
+	j = S[i+1]
+for i in S:
+	print(S[i] + S[i+1])
+for i in S:
+	j=i
+	print(j + i)
+for i in S:
+	print i
+for i in S:
+print(S[0])
+print(S[0]); for i in S:
+exit()
+S
+L = list("Gregor Redelonghi")
+L
+for i in range(0, len(L)):
+S
+L
+L1 = ''
+for i in range(0, len(L)):
+	L1 = L1 + L[i]
+	print(L1)
+exit()
+import os
+print(os.path.getcwd())
+print(os.getcwd())
+PTH = print(os.getcwd())
+print(PTH)
+PTH = os.getcwd()
+print(PTH)
+print(os.path.basepath(PTH))
+print(os.basepath(PTH))
+print(os.path.dirname(PTH))
+print(os.path.basename(PTH))
+print(os.path.abspath(PTH))
+print(os.path.expaduser("~"))
+print(os.path.expaduser("~/"))
+print(os.path.expanduser("~/"))
+print(os.path.expanduser("~"))
+print(os.path.expanduser(~))
+print(os.path.expanduser("~"))
+print(os.path.expanduser())
+print(os.path.splitdrive(PTH))
+print(os.path.split(PTH))
+dir(print(os.path.split(PTH)))
+type(print(os.path.split(PTH)))
+type(print(os.path.split()))
+type(print(os.path.split(PTH)))
+type(print(os.path.dirname(PTH)))
+print(os.path.dirname(PTH))
+print(os.path.baeename(PTH))
+print(os.path.basename(PTH))
+python --version
+version
+exiT()
+exit()
+MS = """Gregor Redelonghi,
+Tadeja Mali Redelonghi,
+Spela Redelonghi
+Zala Redelonghi,
+Mark Redelonghi
+"""
+MS
+list(MS)
+MS
+L = list(MS)
+L
+L1 = L[0]; print(L1)
+L1 = L[0]; print(L1); for i in range(1, len(L)):
+for i in range(1, len(L)):
+L1
+for i in range(1, len(L)):
+	L1 = L1 + L[i]
+	print(L1)
+L
+for i in range(1, len(L)):
+	L1 = L1 + L[i]
+	print(L1)
+L
+MS
+for i in range(0,25):
+	print L[i]
+for i in range(0,25):
+	print(L[i])
+for i in range(0,25):
+	L1 = L1 + L[i]
+	print(L1)
+L
+L = list("Gregor Redelonghi Full Dobr Oci")
+L
+for i in range(0, len(L)):
+l1
+L1
+L1 = L[0]
+L1
+L
+MS = """Gregor Redelonghi,
+Tadeja Mali Redelonghi,
+Zala Redelonghi
+"""
+MS
+L = list(MS)
+L
+L[15]
+L1 = L[0]
+L1
+for i in range(1, len(L)):
+	print L1
+for i in range(1, len(L)):
+	print(L1)
+	L1 = L1 + L[i]
+for i in range(1, len(L)):
+print(i)
+for i in range(1, len(L)):
+	print(i)
+for i in range(1, len(L)):
+	print(L[i])
+for i in range(1, len(L)):
+	L1 = L[i]
+	print(L1)
+for i in range(1, len(L)):
+	L1 = L[i]
+	L1 = L1 + L[i]
+	print(L1)
+for i in range(1, len(L)):
+	L1 = L1 + L[i]
+	print(L1)
+L
+L1
+L2
+L2 = L[0]
+L2
+for i in range(1, len(L)):
+	print(L2)
+	L2 = L2 + L[i]
+	print(L2)
+L2
+L1 = ""
+for i in range(0, len(L)):
+	L1 = L1 + L[i]
+	print(L1)
+MS
+MS2 = MS.strip()
+MS2
+MS2=""
+MS2
+MS2 = MS.replace("\n", "")
+MS2
+L=""
+L = list(MS2)
+L
+for i in range(0, len(L)):
+	L1 = ""
+	L1 = L1 + L[i]
+	print(L1)
+for i in range(0, len(L)):
+	L1 = ""
+	L1 = L1 + L[i]
+	print(L1)
+L1 = ""
+for i in range(0, len(L)):
+	L1 = L1 + L[i]
+	print(L1)
+L1 = ""
+for i in range(0, len(L)):
+	L1 = L1 + L[i] + L[i+1]
+for i in range(0, len(L)):
+L1 = ""
+for i in range(0, len(L)):
+	L1 = L1 + L[i] + L[i+1]
+	print(L1)
+L1 = ""
+for i in range(0, len(L)):
+	L1 = L1 + L[i]
+	print(L1)
+	L1 = L1 + L[i+1]
+	print(L1)
+L1 = ""
+for i in range(0, len(L)):
+	L1 = L1 + L[i]
+	L1 = L1 + L[i+1]
+	print(L1)
+L1 = ""; i = 0
+while i < len(L):
+	L1 = L1 + L[i]
+	print(L1)
+len(L)
+L1 = ""; i = 0
+	L1 = L1 + L[i]
+L1 = ""; i = 0
+while i < len(L):
+	L1 = L1 + L[i]
+	i+= 1
+	print(L1)
+L1 = ""; i = 0
+	L1 = L1 + L[i]
+L1 = ""; i = 0
+while i < len(L):
+	L1 = L1 + L[i]
+	L1 = L1 + L[i+1]
+	i+= 1
+	print(L1)
+L1 = L[0]
+L1
+L1 = L1 + L[1]
+L1
+L1 = L1 + L[2]
+L1
+L1 = ""; i = 0
+for i in range(0, len(L)):
+	L1 = L1 + L[i] + L[i+1]
+	i = i + 2
+	print(L1)
+L
+!ls
+exit()
+print("{:15s} {:5.2f}".format("Moja Jajca", 15.542589))
+print("{:15s} {:5.2f}\n{:15s} {:5.2f}".format("Moja Jajca", 15.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:5.2f}\n{:15s} {:5.2f}".format("Moja Jajca", 15.542589, "Klinton Bozgo", 222.5879))
+print("{:15s} {:-5.2f}\n{:15s} {:-5.2f}".format("Moja Jajca", 15.542589, "Klinton Bozgo", 222.5879))
+print("{:15s} {:5.2f}\n{:15s} {:5.2f}".format("Moja Jajca", 15.542589, "Klinton Bozgo", 222.5879))
+print("{:15s} {:5.2f}\n{:15s} {:5.2f}".format("Moja Jajca", 15.542589, "Klinton Bozgo", 22.5879))
+print("{:15s} {:5.2f}\n{:15s} {:05.2f}".format("Moja Jajca", 15.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:5.2f}\n{:15s} {:05.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:6.2f}\n{:15s} {:06.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:6.2f}\n{:15s} {:6.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:6.2f}\n{:15s} {:-8.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:8.2f}\n{:15s} {:-8.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:-8.2f}\n{:15s} {:-8.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:8.2f}\n{:15s} {:8.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:08.2f}\n{:15s} {:08.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:<08.2f}\n{:15s} {:<08.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:08.2f}\n{:15s} {:15.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:>08.2f}\n{:15s} {:15.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:>08.2f}\n{:15s} {:8.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:>8.2f}\n{:15s} {:8.2f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:>8.2f}\n{:15s} {:8.3f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:>8.2f}\n{:15s} {:8.3>f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:>8.2f}\n{:15s} {:>8.3f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+print("{:15s} {:>8.3f}\n{:15s} {:>8.3f}".format("Moja Jajca", 115.542589, "Klinton Bozgo", 2.5879))
+exit
+exit()
+import os
+os.walk()
+os.walk(os.getcwd())
+print os.walk(os.getcwd())
+dir(os.walk())
+dir(os.walk(top))
+dir(os.walk(.))
+dir(os.walk(os.getcwd()))
+help(os.walk(os.getcwd()))
+exit
+exit()
+import os
+for P, D, F in os.walk(os.getcwd()):
+	print P, D, F
+for P, D, F in os.walk(os.getcwd()):
+	print P
+	print "P"
+for P, D, F in os.walk(os.getcwd()):
+	print "P"
+for P, D, F in os.walk(os.getcwd()):
+	print(P)
+for P, D, F in os.walk(os.getcwd()):
+	print(D)
+for P, D, F in os.walk(os.getcwd()):
+	print(F)
+for P, D, F in os.walk(os.getcwd()):
+	print(P + "/" + D + "/" + F)
+for P, D, F in os.walk(os.getcwd()):
+	print(P)
+import os
+os.getcwd()
+os.walk(ODPRTO)
+for (P, D, F) in os.walk(ODPRTO):
+	print(P)
+for (P, D, F) in os.walk(_Dropbox):
+	print(P)
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	print(P)
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	type(P)
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	type(D)
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	type(F)
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	print(F)
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	print(D)
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	print(P.join(D))
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	print(.join(D))
+for (P, D, F) in os.walk(os.getcwd() + "/ODPRTO"):
+	print(".".join(D))
+M = os.walk(os.getcwd() + "/ODPRTO")
+M
+print(M)
+for (P,F,F) in M:
+	print(P)
+os.getcwd()
+dir(os.getcwd())
+10/4
+10%4
+11/2
+11%2
+11%4
+10%3
+10%4
+10%5
+int(11/2)
+int(11/2); 11%2
+exit()
+URL="http://users/gregorr.net/ggggg/"
+print(URL)
+if URL.endswith('/'):
+	print("Not COOL!")
+else:
+	print("OK!")
+URL="http://users/gregorr.net/ggggg.html"
+if URL.endswith('/'):
+	print("Not COOL!")
+else:
+	print("OK!")
+URL="http://users/gregorr.net/ggggg/"
+print(URL.rstrip('/')
+print(URL.rstrip('/'))
+exit()
+import subproccess
+import subprocess
+subprocess.cal(["df", "-h"])
+subprocess.call(["df", "-h"])
+subprocess.call(['watch -n1 df -h'])
+subprocess.call(['watch', ' -n1 df -h'])
+exit
+exit()
+import subprocess
+subprocess.call(['du'])
+subprocess.call(['du', '-sh', './*'])
+subprocess.call(['du', '-sh', './'])
+subprocess.call(['du', '-h', './'])
+subprocess.call(['du', '-h', './', '|', 'sort'])
+subprocess.call(['du', '-h', './', '|', 'sort -hr', '|', 'head'])
+subprocess.call(['du', '-h', './', '| 'sort -hr', '|', 'head'])
+subprocess.call(['du', '-h', './', '| sort -hr', '|', 'head'])
+subprocess.call(['du', '-h'])
+subprocess.call(['du', '-h']) | sort
+subprocess.call(['du', '-h'])
+subprocess.call(['du', '-s'])
+subprocess.call(['du', '-sh'])
+subprocess.call(['pwd'])
+exit()
+impoer turtle
+imprt turtle
+import turtle
+exit
+python2
+python
+exuit()
+exit()
+easy_install-3.4 pip
+exit
+exit()
+exit
+exit()
+exit
+exit()
+import matplotlib
+exit()
+mean([1.2.3.4.5.6.7.8.9.10])
+import statistics
+statistics.mean([1.2.3.4.5.6.7.8.9.10])
+statistics.mean([1,2,3,4,5,6,7,8,9,10])
+import statistics as st
+st.mean([1,3,5,7,9])
+st.mean([1,3,5,7,11])
+st.mean([3,3,4,5])
+round(st.mean([3,3,4,5]))
+round(st.mean([3,3,4,4]))
+round(st.mean([3,3,4,3]))
+round(st.mean([3,3,4,4,5]))
+round(st.mean([3,3,4,3,5]))
+round(st.mean(range(10)))
+st.mean(range(10))
+st.mean(range(11))
+st.mean(range(12))
+st.mean(range(13))
+round(st.mean(range(12)))
+exit()
+import platform as pf
+pf.machine()
+pf.platform()
+a, b = pf.machine(), pf.platform()
+print(a); print(b)
+pf.uname()
+exit()
+impoprt os
+import os
+os.getcwd()
+print("New directory:", "{}/KUKU/".format(os.getcwd()))
+print("New directory: {}/KUKU/".format(os.getcwd()))
+print("New directory: {}/KUKU/{}".format(os.getcwd(),"GREGOR"))
+print("New directory: {}/KUKU/{}".format(os.getcwd(), 100/2))
+print("New directory: {}/KUKU/{}".format(os.getcwd(), int(100/2)))
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), int(100/2)))
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), str(100/2)))
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), int(100/2)))
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), GR*5)
+)
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), "GR"*5))
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), "GR "*5))
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), "GR_"*5))
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), "_GR"*5))
+print("New directory: {}/KUKU/{}/".format(os.getcwd(), ".GR"*5))
+exit()
+import os sys subprocess
+import os, sys, subprocess
+command = ['du', '-sh', os.dirlist()]
+command = ['du', '-sh', os.getcwd()]
+subprocess.call(command)
+command = ['du', '-sh', os.getcwd() + '/*']
+subprocess.call(command)
+command = ['du', '-h', '--total', os.getcwd() + '/*']
+subprocess.call(command)
+command = ['du', '-h', '--total', os.getcwd()]
+subprocess.call(command)
+command = ['du', '-h', '--total', os.getcwd()]
+command = ['du', '-h', '--total', os.getcwd(), "| sort"]
+subprocess.call(command)
+command = ['du', '-h', '--total', os.getcwd(), "| sort"]
+command = ['du', '-h', '--total', os.getcwd()]
+subprocess.call(command)
+command = ['du', '-h', os.getcwd()]
+subprocess.call(command)
+command = ['df', '-h']
+subprocess.call(command)
+command = ['df', '-h', '|', 'grep /h']
+subprocess.call(command)
+command = ['df', '-h',]
+subprocess.call(command)
+command = ['df', '-h']
+subprocess.call(command)
+command = ['df', '-h']
+subprocess.call(command)
+subprocess.Popen(command)
+command = ['df', '-h', '|', 'grep /h']
+subprocess.Popen(command)
+exit()
+command = ['df', '-h', '|', 'grep /h']
+subprocess.call(command, shell=true)
+import subprocess
+subprocess.call(command, shell=true)
+subprocess.call(command, shell=True)
+command = ['df', '-h', '|', 'grep /h']
+subprocess.call(command, shell=True)
+command = ['df', '-h', '| grep /h']
+subprocess.call(command, shell=True)
+command = ['df' -h | grep /h']
+command = ['df -h | grep /h']
+subprocess.call(command, shell=True)
+subprocess.call(command, shell=True,)
+exit()
+i=1
+if (i % 2 == 0):
+	print()
+else:
+	print(i)
+i=1
+while(1):
+	print(i)
+i=1
+while(1):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(i, ", ")
+while(1):
+i=1
+while(1):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(i, ", ")
+	i +=1
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(i, ", ")
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		printf(i, "| ")
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print()
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		str.(printf(i, "| ")).rstrip
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		str.(print(i, ", ")).rstrip
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		str(print(i, ", ")).rstrip
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(str(print(i, "| ")).rstrip)
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(i, "| "),
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(i, "| ", end=''),
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(i, "| ", end='', flush=True)
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(i, "| ", end='',)
+print(range(20))
+for i in range(100):
+	if ( i % 2 == 0):
+		print()
+	else:
+		print(i, "| ",)
+for i in range(100):
+	if ( i % 2 == 0):
+		print('',)
+	else:
+		print(i, "| ",)
+for i in range(100):
+	if ( i % 2 == 0):
+		break
+	else:
+		print(i, "| ",)
+		break
+for i in range(10):
+	print(i)
+for i in range(10):
+	print(i,)
+for i in range(10):
+	print(i, end='')
+for i in range(10):
+	print(i, "| ", end='')
+for i in range(100):
+	if ( i % 2 == 0):
+		pass
+for i in range(100):
+	if ( i % 2 == 0):
+		pass
+	else:
+		print(i, "| ", end='')
+for i in range(50):
+	if ( i % 2 == 0):
+		pass
+	else:
+exit()
+print('{} gre pa za med'.format('Tale zlato')))
+print('{} gre pa za med'.format('Tale zlato'))
+st = 12345.7895
+print('{} gre pa za med'.format(st))
+print('{} gre pa za med'.format(st/2))
+print('{} gre pa za med'.format(st/4))
+print('{} gre pa za med'.format(st/8))
+print('{} gre pa za med!!'.format(st/8))
+nm = 'http://www.gregorjevastran.si'
+print('{} gre pa za med!!'.format(nm))
+print('{} gre pa za med!!'.format('.'nm.rtrip))
+print('{} gre pa za med!!'.format(nm.rtrip('.')))
+print('{} gre pa za med!!'.format(nm.trip('.')))
+exit()
+ln = "Gregor:Redelonghi:Valvasorjeva ul. 5:1000:Ljubljana"
+ln
+ln.strip(':')
+g= ln.strip(':')
+g
+print(ln.strip(":"))
+print(ln)
+ln
+G = ln.split(':')
+G
+for N in G: print(N)
+for N in G: print(N, end='')
+for N in G: print(N, "\n", end='')
+for N in G: print(N, " ", end='')
+for N in G: print(N, end='')
+for N in G: print(N, ,end='')
+for N in G: print(N, , end='')
+for N in G: print(N, '' , end='')
+for N in G: print(N, ',' , end='')
+for N in G: print(N, ', ' , end='')
+for N in G: print(N + ', ' , end='')
+for N in G: print(N + ', ' ,)
+for N in G: print(N + ', ')
+exit()
+S = "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana, tel: 01/426-33-82, e-mail: gregor.redelonghi@energetika.si"
+S
+S.split(',')
+SL = S.split(',')
+SL
+for R in SL: print(R)
+SL = S.split(', ')
+SL
+for R in SL: print(R)
+SG = S.split(' ')
+SG
+for R in SG: print(R)
+SG[1]
+exit
+exit()
+V = " Gregor Redelonghi "
+print("[" + V + "]")
+print("[" + V.lstrip() + "]")
+print("[" + V.lstrip().rstrip() + "]")
+print("[" + V.rstrip() + "]")
+exit()
+nms = ['Gregor', 'Tadeja', 'Zala', 'Mark', 'Spelca']
+nms
+type(nms)
+for nm in nms:
+	print(nms[nm])
+for nm in nms:
+	print('Hello', nm)
+	print('Hello' + nm)
+for nm in nms:
+	print('Hello' + nm)
+for nm in nms:
+	print('Hello ' + nm)
+for nm in nms:
+	print(' '.join(['Hello', nm])
+)
+for nm in nms:
+	print(' '.join(['Hello', nm, '.'])
+)
+for nm in nms:
+	print(' '.join(['Hello', nm + '.']))
+for nm in nms:
+	print(' '.join(['Hello', nm + '.', 'How are you today?']))
+for nm in nms:
+	print('\n'.join(['Hello', nm + '.', 'How are you today?']))
+for nm in nms:
+	print('\t'.join(['Hello', nm + '.', 'How are you today?']))
+print(', '.join(nms))
+print(' in '.join(nms))
+print(' in '.join(nms), '.')
+print(' in '.join(nms) + '.')
+F = 'Gregor'
+M = 'Tadeja'
+C = 'Zala, Mark and Spela'
+print('Father is {}. Mother is {}, and children are {}.'.format(F, M, C))
+exit()
+import timeit
+print(timit.timeit('1+3', number=50000))
+print(timeit.timeit('1+3', number=50000))
+print(timeit.timeit('1+3', number=5000000))
+print(timeit.timeit('1+3', number=50000000))
+print(timeit.timeit('1+3', number=500000000))
+print(timeit.timeit('1+3', number=5000000))
+print(timeit.timeit('1+3', number=50000000))
+print(timeit.timeit('1+3', number=500000000))
+print(timeit.timeit('1+3', number=50000000))
+nms = ['Gregec', 'Tadejc', 'Zajko', 'Barky', 'Spelc']
+nms
+print(for i, j in enumerate(nms))
+for i, j in enumerate(nms):
+	print (i, j)
+[print(i, j) for i, j in enumerate(nms)]
+[print(i, j) for i in enumerate(nms)]
+[print(i, j) for i, j in enumerate(nms)]
+for i, j in enumerate(nms):
+	print (i, j)
+	print (i+1, j)
+for i, j in enumerate(nms):
+	print (i+1, j)
+exit()
+a = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+b = [e for e in a if e % 2]
+print(b)
+b = [e for e in a if not e % 2]
+print(b)
+exit
+exit()
+def answer():
+	'''Function that
+		suplies an answer
+		that is num 42
+	'''
+	print('42')
+answer
+print(answer)
+help(answer)
+answer
+answer()
+b = answer()
+b
+print(b)
+b
+def dva():
+	return 2
+dva()
+b = dva()
+b
+exit()
+ln = 1.0e6
+ln
+int(ln)
+print("{.8f}.format nl)"
+print("{.8f},format.nl)"
+print("{.8f} format.nl)"
+nl
+print("{.8f}.format ln)"
+print("{.8f}, format.ln)"
+ln
+print("{.8f}. format(ln))"
+print("{.8f}".format(ln))"
+print("{.8f}".format(ln))
+print("{f}".format(ln))
+print("{0.8f}".format(ln))
+print("{:8f}".format(ln))
+print("{:5.8f}".format(ln))
+print("{:15.8f}".format(ln))
+print("{:15.3f}".format(ln))
+print("{:.3f}".format(ln))
+print("{.3f}".format(ln))
+print("{:.3f}".format(ln))
+nm = "Redelonghi"
+nm[1:]
+'G' + nm[1:]
+'Mali R' + nm[1:]
+'Mali R' + nm[:-8]
+'Mali R' + nm[-8:]
+'Mali R' + nm[-9:]
+'Mali R' + nm[-(len(nm)-1):]
+'Mali R' + nm[-(len(nm)-2):]
+'Mali R' + nm[-(len(nm)-0):]
+'Mali R' + nm[-(len(nm)-1):]
+'Mali R' + nm[0:]
+'Mali R' + nm[1:]
+'Mali R' + nm[1:5]
+'Mali R' + nm[1:]
+s1 = "Gregor Redelongi Valvasorjeva ulica 5 1000 Ljubljana"
+s1.split(' ')
+"\n".join)(s1)
+"\n".join(s1)
+"\n".join(s1.split(' '))
+print("\n".join(s1.split(' ')))
+def echo(line):
+	''' This function
+just prints the argument, no matter
+what it is.
+Be carefull about the type consistency, thou.
+Be we and live prosper.
+	'''
+	print(line)
+echo("My name is IPGHBPIUHBPU")
+help(echo())
+help(echo(line))
+help(echo("line"))
+help(echo)
+dir(line)
+dir(echo)
+type(echo)
+dir(echo())
+dir(echo(line))
+dir(echo("line"))
+help(echo)
+import sys
+fpr plc in sys.path
+for plc in sys.path
+for plc in sys.path:
+	print(plc)
+exit()
+import sys
+sys.getswd()
+getcwd()
+cwd()
+sys.cwd()
+import os
+os.getcwd()
+curdir = os.getcwd()
+print(curdir)
+print(curdir)
+import subproccess
+subprocces.call("ls", "-l", curdir)
+subprocess.call("ls", "-l", curdir)
+subprocess.call(["ls", "-l", curdir])
+subprocess.call(["ls", , curdir])
+subprocess.call(["ls", curdir])
+subprocess.call(["less" "www.zeth.net_20141202.txt"])
+subprocess.call(["less", "www.zeth.net_20141202.txt"])
+import re
+FJL = curdir + "www.zeth.net_20141202.txt"
+print(FJL)
+re.search("look.*", FJL)
+m = re.search("look.*", FJL)
+if m:
+	print(m.group())
+m = re.search("look", FJL)
+if m:
+m = re.search("look", FJL)
+if m:
+	print(m.group())
+subprocess.call(["grep -o", "look", FJL])
+subprocess.call(["grep", "-o", "look", FJL])
+subprocess.call(["grep", , "look", FJL])
+subprocess.call(["grep", "look", FJL])
+subprocess.call(["grep", "--color" "look", FJL])
+subprocess.call(["grep", "--color", "look", FJL])
+print(m)
+m = re.findall("look", FJL)
+if m:
+	print(m.group())
+m = re.findall('look', FJL)
+print(m)
+m = ['look', 'look', 'looked']
+print(m.group())
+print(m)
+subprocess.call(["ls", curdir])
+cd
+exit()
+import suprocess, sys, os, re
+import subprocess, sys, os, re
+f = fjl.txt
+f = "fjl.txt"
+suprocess.call(["ls", "-l", f)
+suprocess.call(["ls", "-l", f])
+subprocess.call(["ls", "-l", f])
+m = re.search('look', f)
+print(m)
+m = re.search('*look*', f)
+m = re.findall('look', f)
+print(m)
+m = re.findall('o', f)
+print(m)
+s = open(fjl.txt, r)
+s = open('fjl.txt', r)
+s = open('fjl.txt', 'r')
+exit()
+s = open('fjl.txt', 'r')
+print(s.read())
+s.close()
+print(s.read())
+s = open('fjl.txt', 'r')
+print(s.read())
+subprocess.call(["nano", "fjl.txt"])
+import subprocess, sys, os, re
+subprocess.call(["nano", "fjl.txt"])
+subprocess.call(["cat", "fjl.txt"])
+m = re.search('boy', "fjl.txt")
+print(m)
+m = re.search("boy", "fjl.txt")
+print(m)
+subprocess.call(["grep","--color", "boy", "fjl.txt"])
+m
+m = re.findall('b', 'fjl.txt')
+m
+src = """
+There is new boy in thovn. He has got new look. Ans it is smashing.
+He really looks very cool.
+Even if he leaves any time soon, he already gave us the hinge.
+Be well and prosper.
+Bye!
+"""
+print(src)
+m = re.findall('b', src)
+m
+m = re.findall('o', src)
+m
+if m:
+	print(m.group())
+m = re.findall('o.*', src)
+M
+m
+if m:
+	print(m.group())
+m = re.finiter('o.*', src)
+m = re.finditer('o.*', src)
+if m:
+	print(m.group())
+m
+m = re.findall('o.*', src)
+m
+for i in m:
+print(i)
+for i in m:
+	print(i)
+m = re.match('o.*' , src)
+m
+if m:
+	print(i)
+if m:
+	print(m.group())
+m = re.match('o', src)
+m
+m = re.find('o', src)
+m = re.findall('o', src)
+m
+m = re.match('o', src)
+m
+subprocess.call(["cat", "fjl.txt"])
+m = re.match('look', src)
+m
+f.close()
+f = open("fjl.txt", "r")
+f.read()
+f.readlines()
+f.read()
+f.close()
+f = open("fjl.txt", "r")
+f.readlines()
+help(readlines)
+help(readlines())
+help(f.readlines())
+help(readlines())
+f.close()
+f = open("fjl.txt", "r")
+help(readlines)
+help(readlines())
+help(f.readlines())
+f.readlines()
+f.close()
+f = open("fjl.txt", "r")
+help(f.readlines())
+f.close()
+f = open("fjl.txt", "r")
+dir(f.readlines())
+type(f.readlines())
+exit()
+A = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+N =len(A)
+N
+A[0]
+A[0:N-3]
+A[0+2:N-3]
+exit()
+for N in range(8):
+	print("/" + " "*N + "\")
+for N in range(8):
+	print("/" + " "*N + "\\")
+for N in range(8):
+K = 8
+for N in range(K):
+	print(" "*K + "/" + " "*N + "\\")
+	K += 1
+for N in range(K):
+	print(" "*K + "/" + " "*N + "\\")
+	K -= 1
+for N in range(K):
+	print(" "*K + "/" + " "*N*2 + "\\")
+	K -= 1
+K
+K = 8
+for N in range(K):
+	print(" "*K + "/" + " "*N*2 + "\\")
+	K -= 1
+exit()
+help(20170419_A.py)
+exit()
+def rec(n):
+	if n == 0:
+		return 1
+	else:
+		return n * (n-1)
+def rec(n):
+	if n == 0:
+		return 1
+	else:
+		return rec(n-1)
+rec(5)
+exit
+exit()
+import random
+help(random)
+S = [x for random(x) in range(1,26)]
+S = [x for x in range(1,26)]
+S
+S = random.shufle(S)
+random.shuffle(S)
+S
+exit
+exit()
+import random
+L = [ x for x in range(1, 26)]
+L
+random.shuffle(L)
+L
+sorted(L)
+L
+S = sorted(L)
+help(sorted)
+exit()
+f = open("MALTEKSTA.txt", "rt")
+f.read()
+f.seek(0)
+f.read()
+f.seek(0)
+f.seek(25)
+f.read()
+f.seek(0)
+f.read().split("\n")
+f.seek(0)
+f.print()
+f.readlins()
+f.readlines()
+f.seek(0)
+f.read()
+f.seek(0)
+help(read())
+help(f.read())
+help(.read())
+f.seek(0)
+f.read()
+f.seek(0)
+print(f.read())
+f.seek(0)
+F = f.read()
+print(F)
+f.read()
+print(F)
+f.read()
+f.seek(-15)
+f.seek(:15)
+f.seek(0)
+f.seek(15)
+print(F)
+f.read()
+print(F)
+f.stat()
+help(open())
+help(f.open())
+print(F)
+f.read()
+f.seek(0)
+f.seek(20)
+f.read()
+len(f)
+len(f.read())
+f.seek(0)
+len(f.read())
+f.seek(0)
+f.seek(138)
+f.read()
+f.seek(138)
+f.read()
+f.seek(138)
+len(f.read())
+fseek(0)
+print(F)
+print(F).split("\n")
+print(F)
+T = print(F)
+T
+print(T)
+T = [ x for x in print(F)]
+f.seek(0)
+T = [ x for x in f.read()]
+T
+f.read()
+f.seek(0)
+T = [ x for x in f.read().split('\n')]
+T
+for i in range(len(T):
+for i in range(len(T)):
+	print(T[i])
+for i in range(len(T)):
+	print(T[i+1])
+for i in range(len(T)-1):
+	print(T[i+1])
+for i in range(0, len(T), 2):
+	print(T[i])
+for i in range(0, len(T), 3):
+	print(T[i])
+for i in range(0, len(T), 4):
+	print(T[i])
+for i in range(1, len(T), 2):
+	print(T[i])
+f.close()
+for i in range(1, len(T), 2):
+	print(T[i])
+T
+exit()
+T
+exit()
+S = "Gregor Redelonghi"
+L = sorted(S)
+L
+help(sorted())
+help(sorted)
+help(sorted(key=none))
+help(sorted(L,key=none))
+help(sorted(L,key=None))
+help(sorted(key=None))
+help(sorted(,key=None))
+help(sorted(S ,key=None))
+help(sorted)
+list("Gregor Redelonghi")
+sorted(list("Gregor Redelonghi"))
+sorted("Gregor Redelonghi")
+exit()
+for i in range(1,3):
+	if i == 1:
+		i = 1
+	else:
+		i = i-1 + i
+for i in range(1,3):
+	i = i-1 + i
+	print(i)
+1 + 2 + 3
+1+2+3+4+5
+1*2*3*4*5
+1*2*3
+1*2
+1*2*3*4
+for i in range(1,3):
+	i = (i-1) * i
+	print(i)
+exit()
+prc = ["1064/2", "1666/4", "1065/4", "1669/14", "1669/12"]
+L
+prc
+S = sorted(prc)
+S
+exit()
+f = open("obn_Dravlje_2F_PARCELE-02_20170421.txt", "rt")
+F = f.read()
+print(F)
+S = [s for s in F.readlines()]
+S = [s for s in f.readlines()]
+S
+f.seek
+f.show
+f.seek(0)
+S = [s for s in f.readlin()]
+S = [s for s in f.readline()]
+S
+f.seek(0)
+S = []
+S = [s for s in f.readlines()]
+S
+S[0] = '1064/2\n'
+S
+S2 = sorted(S)
+S2
+for i in range(len(S2)):
+	print(S2[i])
+for i in range(len(S2)):
+	print(S2[i].strip())
+for i in range(len(S2)):
+	print(S2[i].strip())
+f.close()
+for i in range(len(S2)):
+	print(S2[i].strip())
+f2 = open("PARCELE-SORTIRANO.txt", wt)
+f2 = open("PARCELE-SORTIRANO.txt", "wt")
+for i in range(len(S2)):
+for i in S2:
+	print>>f2 i
+for i in S2:
+	print>>f2, i
+for i in range(len(S2)):
+for item in S2:
+	f2.write(item)
+s"
+S2
+for item in S2:
+	print(item)
+	print(item).strip()
+for item in S2:
+	print(item).strip()
+for item in S2:
+	print(item.strip())
+for item in S2:
+	f2.write(item.strip())
+f2.close()
+ydd
+exit()
+1/2+1/4+1/8+1/16
+1/2+1/4+1/8+1/16+1/32+1/64
+exit()
+for i in range(0,10,2):
+	print(i)
+	print("1/i =", 1/i)
+for i in range(2,10,2):
+	print(i)
+	print("1/i =", 1/i)
+.5+.25+.166666+.125
+exit()
+help(print)
+exit()
+NUM = 100
+L = [k for k in range(1, NUM+1) if NUM % k == 0]
+L
+NUM = 300
+L = [k for k in range(1, NUM+1) if NUM % k == 0]
+L
+print(L)
+exit()
+L = ["ena", "dve", "tri", "stiri" ,"pet", "sest", "sedem", "osem", "devet", "deset"]
+L
+for i, st in enumerate(L):
+	print(i, st[i])
+L
+for i in range(len(L)):
+print(i, L[i])
+for i in range(len(L)):
+	print(i, L[i])
+	print(i+1, L[i])
+for i in range(len(L)):
+	print(i+1, L[i])
+for i in range(len(L)):
+	print('{:>15}'.format(i+1), L[i])
+for i in range(len(L)):
+	print('{:<15}'.format(i+1), L[i])
+for i in range(len(L)):
+	print('{:<5}'.format(i+1), L[i])
+for i in range(len(L)):
+	print('{:<3}'.format(i+1), L[i])
+for i in range(len(L)):
+	print('{:<2}'.format(i+1), L[i])
+for i,item in enumerate(L):
+	print(i, L[i])
+for i,item in enumerate(L):
+	print(i, item)
+for i,item in enumerate(L):
+	print(i+1, item)
+print(enumerate(L))
+exit>()
+exit()
+y = [ ('IBM', 5), ('Zil', 3), ('DEC', 18) ]
+y
+y.sort()
+y
+def sort_on_2(a, b):
+	return cmp(a[1], b[1])
+y.sort(sort_on_2)
+Y
+y
+y.sort(sort_on_2)
+y.sort(sort_on_2())
+def sort_on_2(a, b):
+	return cmp(a[1], b[1])
+y.sort(sort_on2)
+y.sort(sort_on_2)
+y.sort(sort_on_2())
+y.sort(sort_on_2(a, b))
+sort_on_2(y.sort))
+exit
+exit()
+less
+a = 5
+a
+exit()
+help(os)
+help('os')
+help('sys')
+help('numpy')
+help('scypy')
+help('mail')
+help('email')
+help('while')
+help(while)
+help('def')
+exit()
+D = {"One" : 1, "Two" : 2, "Three" : 3, "Four": 4, "Five" : 5}
+D
+if 'Four' in D:
+	print(D['Four']
+else
+if 'Four' in D:
+	print(D['Four']
+else:
+if 'Four' in D:
+	print(D['Four']
+if 'Four' in D:
+	print(D['Four'])
+else:
+	print("No LUCK! Bye")
+def Q(n):
+	if str(n) in D:
+		print(D[str(n)])
+	else:
+		print("No luck. Bye!")
+Q(Four)
+Q('Four')
+Q('Fur')
+Q('Two')
+Q('Tri')
+Q('Three')
+D.keys()
+D.calues()
+D.items()
+D.values()
+D.items()
+[k for k, v in D.items()]
+[v for k, v in D.items()]
+len(D)
+k = 'Two'
+k in D
+k = "six"
+k in D
+k not in D
+L = [1,2,3,4,5,6,7,8,9,10]
+L
+next(L)
+LI = iter(L)
+nex(LI)
+next(LI)
+LI
+L
+next(LI)
+LI = iter(L)
+next(LI)
+for i in L:
+	print(i)
+for i in L:
+for i in L: print(i)
+for i in L: print(i); print("Done!")
+for i in L: print(i) && print("Done!")
+for i in L: print(i)
+print("Done")
+for i in L: print(i)
+for i in L:
+	print(i)
+print("Done")
+for i in L:
+	print(i)
+print(max(L))
+print(min(L))
+print(mean(L))
+print(fluor(L))
+print(floor(L))
+print(L.floor())
+print(L.max())
+d = {"Januar":1, "Februar":2, "Marec":3, "April":4, "Maj":5, "Junij":6, "Julij":7, "Avgust":8, "September":9, "Oktober":10, "November":11, "December":12} 
+for k, v in d:
+	print(k, v)
+for k, v in d:
+for k in d:
+	print(k)
+for k, v in d:
+	print(k)
+for k in d:
+	print(k, d[k])
+for k in d:
+	print('{0:<15}{1}'.format(k, d[k])
+for k in d:
+	print('{:<15}{}'.format(k, d[k])
+for k in d:
+	print('{:<15}{}'.format(k, d[k]))
+for k, v in sorted(d.items(), itemgetter(0), True):
+	print('{:<12}{}'.format(k, v))
+from operator import itemgetter
+for k, v in sorted(d.items(), itemgetter(0), True):
+	print('{:<12}{}'.format(k, v))
+for k, v in sorted(d.items(), itemgetter(0), True):
+	print('{:<12}{}'.format(k, v))
+for k, v in sorted(d.items(), itemgetter(1), True):
+	print('{:<12}{}'.format(k, v))
+for k, v in sorted(d.items(), itemgetter(1), True):
+	print(k, v)
+for k, v in sorted(d.items(), itemgetter(1), True):
+	print(k, v)
+d
+for k in d:
+	print(k, d[k])
+fot key, value in sorted(d.iteritems(), key=lambda (k,v): (v:k)):
+for key, value in sorted(d.iteritems(), key=lambda (k,v): (v:k)):
+for key, value in sorted(d.iteritems(), key = lambda(k,v): (v:k)):
+d
+for key, value in sorted(d.iteritems(), key = lambda (k, v): (v, k)):
+for key, value in sorted(d.iteritems(), key=lambda (k, v): (v, k)):
+for key, value in sorted(d.iteritems(), key = lambda (k,v): (v,k)):
+for key, value in sorted(d.iteritems(), key = lambda(k,v): (v,k)):
+for key, value in sorted(d.iteritems(), key = lambda (k,v): (v,k)):
+for key, value in sorted(d.iteritems(), key = lambda k,v: (v,k)):
+	print(key, value)
+help('iteritems')
+help('iteritems()')
+help('d.iteritems()')
+help('iter')
+for key, value in sorted(d.iteritems(), key = lambda k,v: (v,k)):
+	print(key, value)
+import collections
+d = collections.OrderedDict({"Januar":1, "Februar":2, "Marec":3, "April":4, "Maj":5, "Junij":6, "Julij":7, "Avgust":8, "September":9, "Oktober":10, "November":11, "December":12})
+d
+for k, v in d.items():
+	print(k, v)
+d = {"Januar":1, "Februar":2, "Marec":3, "April":4, "Maj":5, "Junij":6, "Julij":7, "Avgust":8, "September":9, "Oktober":10, "November":11, "December":12} 
+d
+for k, v in d.items():
+	print(k, v)
+sorted_d = sorted(d.items(), key=operator.itemgetter(0))
+import operator
+sorted_d = sorted(d.items(), key=operator.itemgetter(0))
+sorted_d
+sorted_d = sorted(d.items(), key=operator.itemgetter(1))
+sorted_d
+for k, v in sorted_d.items():
+	print(k, v)
+for i in sorted_d:
+	print(i)
+for i in sorted_d:
+	for k, v in i[k], i[v]:
+		print(k, v)
+for i in sorted_d:
+	for k in i:
+		print(k[0], k[1])
+sorted_d
+for k, v in sorted_d[0], sorted_d[1]:
+	print(k, v)
+for item in sorted_d:
+	print(item)
+for item in sorted_d:
+	for k, v in item:
+		print(k, v)
+for item in sorted_d:
+	for i in item:
+		print(i[0], i[1])
+for item in sorted_d:
+	print(item)
+for k, v in sorted_d[0], sorted_d[1]:
+	print(k, v)
+for i in sorted_d:
+	print(i[0], i[1])
+for i in sorted_d:
+	print('{:<12}{}'.format(i[0], i[1]))
+exit()
+exit>()
+exit()
+exit
+exit()
+import datetime as dt
+dt.now()
+dt.datetime.now()
+dt.datetime.now().isoformat()
+from dateutil.tz import gettz
+exit()
+2E+2
+2E-22
+2E-2
+2E-12
+2E-6
+2E-5
+2E-4
+2e+5
+2e5
+2e5 * 2e-4
+2e5 * e-4
+2e5 * 1e-4
+2e5 * 1e-5
+2e5 / 1e-5
+print('{:3e}'.format(2e5 / 1e-5))
+print('{:-3e}'.format(2e5 / 1e-5))
+print('{:1e}'.format(2e5 / 1e-5))
+print('{:5e}'.format(2e5 / 1e-5))
+print('{:.2e}'.format(2e5 / 1e-5))
+print('{:.2e}'.format(2e5 / 1e-4))
+print('{:.1e}'.format(2e5 / 1e-4))
+print('{:.1e}'.format(2e5 / 1e-6))
+print('{:.1e}'.format(2e5 / 1e6))
+exit()
+L = [N-19020", "N-19010", "N-19267"]
+L = ["N-19020", "N-19010", "N-19267"]
+L
+L.sorted()
+print(sorted(L))
+exit
+exit()
+exit
+exit()
+import os, sys
+os.walk(.)
+os.walk()
+os.walk(sys.path.getcwd())
+sys.path.getcwd()
+os.path.getcwd()
+sys.getcwd()
+os.walk(os.getcwd())
+print(os.walk(os.getcwd()))
+root, dirs, files = os.walk(os.getcwd())
+os.listdir('.')
+F = []
+for root, dirs, files in os.walk('.'):
+	F.extend(files)
+F
+ll
+for root, dirs, files in os.walk('bin/'):
+F = []
+F
+for root, dirs, files in os.walk('bin/'):
+	F.extend(files)
+F = []
+for root, dirs, files in os.walk('bin/'):
+	F.extend(files)
+	break
+F
+F2 = []
+for root, dirs, files in os.walk('bin/_STARO-en/'):
+	F2.extend(files)
+	break
+F2
+for FJL in F:
+	if FJL in F2:
+		print(FJL, "in both dirs!")
+for FJL in F:
+	if FJL in F2:
+		print(FJL, "in both dirs!")
+F2 = []
+for root, dirs, files in os.walk('bin/_STARO-en/'):
+	F2.extend(files)
+	break
+for FJL in F:
+	if FJL in F2:
+		print(FJL, "in both dirs!")
+for FJL in F:
+	print(FJL)
+for FJL in F2:
+	print(FJL)
+for FJL in F:
+	if FJL is in F2:
+if 'ure.sh' in F:
+	print('ure.sh is in', F)
+if 'ure.sh' in F2:
+	print('ure.sh is in', F)
+exit()
+import os, sys
+for root, dirs, files in os.walk(os.path('bin/_STARO-en)):
+for root, dirs, files in os.walk('bin/_STARO-en/'):
+	R.extend(root)
+	D.extend(dirs)
+	F.extend(files)
+R = []
+D = []
+F = []
+for root, dirs, files in os.walk('bin/_STARO-en/'):
+	R.extend(root)
+	D.extend(dirs)
+	F.extend(files)
+D
+R
+F
+R = []
+D = []
+F = []
+for root, dirs, files in os.walk('bin/_STARO-en/'):
+	R = dirs
+	F.extend(files)
+D
+F
+R
+for i in range(1,11):
+L1 = [F for F in range(1, 11): F.extend('File' + str(i))]
+L1 = [F for F in range(1, 11) L1.extend('File' + str(F))]
+L1 = [F for F in range(1, 11) ('File' + str(F))]
+L1 = [F for F in range(1, 11) 'File' + str(F)]
+L1 = []
+l1 = [ 'File' + str(i) for i in range(1,11)]for
+L1
+l1
+L1 = l1
+L1
+L2 = ['File14', 'File16', 'File3', 'File18', 'File20', 'File7', 'File21']
+L2
+for F in L2:
+	if F in L1:
+		print(F, "is in !")
+exit()
+os.listdir('.')
+ import os, sys
+import os
+import sys
+os.listdir('.')
+exit()
+	print('ure.sh is in', F)
+	F.extend(files)
+exit()
+L = [0,1,2,3,4,5,6,7,8,9]
+for N in L:
+	print(L)
+for N in range(len()):
+	print(L(N))
+for N in range(len(L)):
+	print(L(N))
+for N in range(len(L)):
+	print(L[N])
+data_list = [1,2,3,4,5,6]
+print("\n".join(line for line in (str(index) + ": " + str(item) for index, item in enumerate(data_list)) ) )
+for NUM in range(0,1001):
+	print(NUM)
+for NUM in range(0,1001):
+	if ( NUM//2 == 0):
+		print(NUM)
+	else:
+		continue
+for NUM in range(0,1001):
+	if ( NUM//2 == 0):
+		print(NUM)
+for NUM in range(0,1001):
+	if ( NUM % 2 == 0):
+for NUM in range(0,1001):
+	if ( NUM % 2 == 0):
+		print(NUM)
+for NUM in range(0,1001):
+	if not ( NUM % 2 == 0):
+		print(NUM)
+exit()
+L = []
+print(L)
+for N in range(1, 11):
+	L.extend(N)
+for N in range(1, 11):
+	L.extend(str(N))
+L
+L = [g
+L = []
+L
+L.extend(1, 2, 3)
+L.extend(1)
+L
+B = [1, 2, 3, 4, 5]
+B
+L.extend(B)
+L
+L = [0]
+L
+for N in range(1,6):
+	L.append(N)
+L
+L = []
+for N in range(1,6):
+	L.append(N)
+L
+exit()
+L1 = [1, 2, 3]
+L2 = [1, 2, 3]
+L1 == L2
+L2 = [1, 0 ,3]
+L1 == L2
+exit()
+S = GREGOR
+S = "GREGOR"
+S
+L = list(S)
+L
+for N in L: print(N)
+for N in L:
+	print(L[-(N-1)]
+print L[-1]
+L
+print L[-1]
+print(L[-1])
+for i in len(L):
+	print(L[-i])
+for i in len(L):
+	print(L[-i])
+	i +=1
+for i in len(L):
+	print(L[i])
+for i in len(L):
+	print(i)
+len(L)
+for i in range(len(L)):
+	print(L[i])
+for i in range(len(L)):
+	print(L[-i])
+for i in range(len(L)):
+	print(i)
+for i in range(len(L)):
+	print(-i)
+for i in range(len(L)):
+	print(-(i+1))
+for i in range(len(L)):
+	print(L[-(i+1)])
+for i in range(len(L)):
+L2 = []
+L1
+L
+L2
+for i in range(len(L)):
+	L2.append(L[-(i+1)])
+L2
+L == L2
+L = ["A", "N", "A"]
+L
+L2 = []
+for i in range(len(L)):
+	L2.append(L[-(i+1)])
+L == L2
+exit()
+a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+a
+b = [x for x in a if x*(2x+1)%2 == 0]
+b = [x for x in a if x*(2*x+1)%2 == 0]
+c = [x for x in a if x%2 != 0]
+c
+exit()
+elements = ["ROCK", "SCISSORS", "PAPER", "QUIT"]
+elements
+if "ROCK" or "SCISSORS" not in elements:
+	print("NOT OK!")
+else:
+	print("OK!")
+S1 = "ROCK"
+S2 = "PAPER"
+if S1 in elements: print("OK")
+if S1 and S2 in elements: print("OK")
+exit()
+L = [x for x in range(1, 16)]
+L
+L2 = L1[:]
+L2 = L[:]
+L2
+L2 = L[1:]
+L2
+L2 = L[-1]
+L2
+L2 = [x for x in L[0] and L[-1 ]]
+L2 = [x for x in L[0] and L[-1]]
+L2 = [L[0], L[-1]]
+L2
+def sub():
+	return [L[0], L[-1]]
+L2 = sub()
+L2
+L2 = []
+L2 = sub()
+L2
+L2 = []
+def sub2(LST):
+	return [LST[0], LST[-1]]
+L2 = sub2(L)
+L2
+exit()
+uit()
+quit()ž
+quit()
+exit()
+L = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+head, *tail = L
+head
+tail
+for i in L:
+	head, *tail = L
+exit
+exit()
+S = "Gregor Redelonghi"
+for i, c in enumerate(S): print(1, c)
+for i, c in enumerate(list(S)): print(1, c)
+for i, c in enumerate(S): print(1, c)
+E = enumerate(S)
+E
+for i, c in E: print(i, c)
+S
+for i, c in enumerate(s): print(i, c)
+for i, c in enumerate(S): print(i, c)
+for i, c in enumerate(S): print(1, c)
+S
+for i, c in enumerate(S): print(1, c)
+S = "Gregor Redelonghi"
+for i, c in enumerate(S): print(1, c)
+for i, c in E: print(1, c)
+E = enumerate(S)
+for i, c in E: print(1, c)
+M = enumerate(S)
+for i, c in M: print(1, c)
+for i, c in m: print(1, c)
+for i, c in M: print(1, c)
+M
+for i, c in M: print(1, c)
+S
+M = enumerate(S)
+for i, c in M: print(1, c)
+help(enumerate)
+[(i, c) for i, c in enumerate(S)]
+for i, c in enumerate(S):
+	print(i)
+	print(c)
+for i, c in enumerate(S):
+	print(i, c)
+for i, c in enumerate(S):
+	print(i, c)
+for i, c in enumerate(S):
+	print(i+1, c)
+for i, c in enumerate(S): print(i, c)
+S
+for i, c in enumerate(S): print(i, c)
+for i, c in enumerate(S): print(i+1, c)
+exit()
+import os, sys
+os.system('getcwd')
+os.system('pwd')
+os.system('ls', 'l')
+import subprocess
+subprocess.cal('ls'. '-l')
+subprocess.cal('ls', '-l')
+subprocces.call("ls", "-l", curdir)
+print(curdir)
+subproccess.call('ls')
+subprocess.call('ls')
+subprocess.call('ls', '-l')
+subprocess.popen('ls', '-l')
+exit()
+import os, sys, subprocess
+subprocess.call(["ls", "-l"])
+subprocess.call(["ls", "-l"]) | less
+subprocess.call(["ls", "-1"]) | less
+subprocess.call(["ls"]) | less
+subprocess.call("ls") | less
+F = "fjl.txt"
+os.stat(F)
+os.stat(F).st_mtime
+os.stat(F).st_ctime
+os.stat(F)
+os.stat("sendpys1-en-2.py")
+os.stat("sendpysl-en-2.py")
+os.stat("sendpysl-en-2.py").st_mtime
+exit()
+N = "01:59:59,59"
+N
+H1, M1, S1 = N.split(":")
+H1
+M1
+S1
+S2 = int(S1) + 350
+int(S1)
+S1.replace('', '.')
+S1
+S1.replace(',', '.')
+S2 = int(S1.replace(',', '.'))
+S2
+int(59.25)
+int(59,25)
+Si = S1.replace(',', '.')
+Si
+int(Si)
+Si / 2
+Si / 2.0
+int(Si) / 2.0
+float(Si) / 2.0
+float('59,25')
+float('59.25')
+S1
+Si = float(S1.replace(',', '.'))
+Si
+int(Si)
+H1
+M1
+Si
+S1, Sid = Si.split(',')
+Sis, Sid = S1.split(',')
+Sis
+Sid
+exit>()
+exit()
+L = "01:41:55,276 --> 01:41:56,903"
+L1, L2 = L.split(' --> ')
+L1, L2
+H1, M1, S1 = L1.split(':')
+H1, M1, S1
+H2, M2, S2 = L2.split(':')
+H2, M2, S2
+E = ':'.join(H1, M1, S1)
+E = ':'.join(list(H1, M1, S1))
+list(H1, M1, S1)
+H1
+M1
+S1
+S2 = H1 + ":" + M1 + ":" + S1
+S2
+E = ':'.join([H1, M1, S1])
+E
+L1
+L2
+LL = [L1, L2]
+LL
+" --> ".join(LL)
+exit()
+f = open("elysium-yify-english.srt", "r")
+f.readlines()
+f.close()
+f.readlines()
+f = open("elysium-yify-english.srt", "r")
+f.readlines()
+f.close()
+f = open("elysium-yify-english.srt", "r")
+f.readline()
+f.readline().strip()
+f.close()
+f = open("elysium-yify-english.srt", "r")
+while true:
+	if " --> " in f.readline():
+	print(f.readline())
+while true:
+	if " --> " in f.readline():
+		print(f.readline())
+while True:
+	if " --> " in f.readline():
+		print(f.readline())
+while True:
+	if "-->" in f.readline():
+		print("OK)
+while True:
+	if " --> " in f.readline():
+		print("OK")
+f.close()
+exit()
+import math
+N = 37
+math.log(N,2)
+int(math.log(N,2))
+2**5
+N-(2**5)
+math.log(5,2)
+N-(2**5 + 2**2)
+N - (2**5 + 2**2 + 2**0)
+math.log(1,2)
+int(math.log(1,2))
+exit()
+import math
+LR = []
+LR[5] = 1
+LR[5].extend(1)
+LR[5].expand(1)
+LR
+LR.insert(5,1)
+LR
+for i in range (0,4):
+	LR.insert(i,0)
+LR
+LR[2] = 1
+LR
+LR[0] = 1
+LR
+LR.reversed()
+LR[::-1]
+math.log(37,2)
+LR = []
+N
+N = 37
+N
+LR
+i = int(math.log(N,2))+1
+i
+LR.insert(6,1)
+LR
+for j in range(0,i-1):
+	LR.insert(j,0)
+LR
+exit()
+ord(a)
+ord("a")
+ord("A")
+help(ord)
+a = "Gregor Redelonghi)
+a = "Gregor Redelonghi"
+ord(a)
+for char in a:
+	print(ord(vhar))
+for char in a:
+	print(ord(char))
+for char in a:
+	print(char, " --> ", ord(char))
+for char in a:
+	print(sum(ord(char)))
+for char in a:
+	print(sum(int(ord(char))))
+for char in a:
+	print char
+for char in a:
+	print(char)
+for char in a:
+	sum += ord(char)
+print(sum)
+for char in a:
+	vst += ord(char)
+vst
+for char in a:
+	vst += ord(char)
+for char in a:
+	print(ord(char))
+for char in a:
+vst = 0
+for char in a:
+	vst += ord(char)
+vst
+for char in a:
+	hash += ord(char)
+print(hash)
+for char in a:
+	hash += ord(char)
+for char in a:
+	hash = hash + ord(char)
+hash = 0
+for char in a:
+	hash = hash + ord(char)
+hash
+exit
+exit()
+print(bin(256))
+A = bin(256)
+print(A[2:])
+min(2, 4, 1)
+min("aa", "ab", "za")
+min("ac", "ab", "za")
+hex(256)
+print(hex(256)[2:])
+exit()
+def sum_of_n(n):
+	the_sum = 0
+	for i in range (1, n+1):
+		the_sum = the_sum + 1
+	return the_sum
+sum_of_n(10)
+def sum_of_n(n):
+	the_sum = 0
+	for i in range (1, n+1):
+		the_sum = the_sum + i
+	return the_sum
+sum_of_n(10)
+exit()
+L1 = list("Gregor Redelonghi")
+L1
+for i in len(L1):
+L2 = []
+for i ina range(len(L1)):
+for i in range(len(L1)):
+	L2.append(pop(L1))
+for i in range(len(L1)):
+	L2.append(L1.pop())
+L2
+print(','.join(L1))
+L2
+','.join(L2)
+', '.join(L2)
+''.join(L2)
+''.joinL1; ''.join(L2)
+''.join(L1); ''.join(L2)
+L1
+S = "Gregor Redelonghi"
+L1 = list(S)
+L1
+for i in range(len(L1)):
+L2 = []
+L2
+for i in range(len(L1)):
+	L2.append(L1.pop())
+L2
+L1
+print(S, L2)
+print(S, ''.join(L2))
+print(S," <-->", ''.join(L2))
+print(S," <--> ", ''.join(L2))
+exit()
+range(4)
+print(range(4))
+for i in range(4): print(i)
+exit()
+class Queue:
+	def __init__(self):
+		self.items = []
+q = Sueue()
+q = Queue()
+class Queue:
+	def __init__(self):
+		self.items = []
+	
+	def is_empty(self):
+		return self.items == []
+	
+	def enqueue(self, item):
+		self.items.insert(0, item)
+	
+	def dequeue(self):
+		return self.items.pop()
+	
+	def size(self):
+		return len(self.items)
+q = Queue
+q.enqueue('Gregor')
+q.is_empty()
+q
+q.size()
+q.size(self)
+q.size()
+q = Queue()
+q.sizr()
+q.size()
+q.enqueue('Gregor')
+q.size()
+q
+q.enqueue('Redelonghi')
+q.size()
+q.enqueue('Valvasorjeva ulica 5')
+q.enqueue('1000 Ljubljana')
+q.size()
+q.dequeue()
+q.size()
+q.dequeue()
+q.size()
+q.dequeue()
+q.size()
+q.dequeue()
+q.size()
+exit
+exit()
+99999999999*99999999999
+exit()
+def gr_ln(n):
+	print("-" * n)
+gr_ln(70)
+gr_L = gr_ln(70)
+gr_L
+run(gr_L)
+eval(gr_L)
+print(gr_L)
+gr_L
+gr_L = gr_ln(70)
+exit()
+7%3
+7//3
+769//10
+769%10
+exit()
+254//2
+254%2
+exit()
+import stack
+s = Stack()
+s = stack.Stack()
+s.size()
+s.add('Gregor Redelonghi')
+s.is_empty()
+exit()
+import stack
+s = stack.Stack()
+s.size()
+s.push('Gregor Redelonghi')
+s.size()
+s.peek()
+exit()
+import stack
+s = stack.Stack()
+s.push('Gregor Redelonghi')
+s.peek()
+s.push('Tadeja Mali Redelonghi')
+s.peek()
+s.size()
+s.push('Uninvited Guest')
+s.peek()
+print(s.items)
+if 'Uninvited Guest' in (s.items):
+	print("KRIZA!!!")
+else:
+	print("It's OK. Good to go")
+s.pop()
+if 'Uninvited Guest' in (s.items):
+	print("KRIZA!!!")
+else:
+	print("It's OK. Good to go")
+def test():
+	if 'Uninvited Guest' in (s.items):
+		print("KRIZA!!!")
+	else:
+		print("It's OK. Good to go")
+test()
+s.push('En kul tip')
+s.push('Še ne kul tip')
+s.size()
+print(items)
+print(s.items)
+s.pop()
+print(s.items)
+test
+test()
+s.push('Uninvited Guest')
+test()
+s.pop()
+test()
+s.show()
+import stack
+s.show()
+exit()
+import stack
+s = stack.Stack()
+s.size()
+s.push('Gregor', 'Tadeja', 'Mark')
+s.push('Gregor')
+s.push('TAdeja')
+s.pop()
+s.push('TAdeja')
+s.pop()
+s.push('Tadeja')
+s.push('Zala')
+s.push('Špela')
+s.push('Mark')
+import stack
+s.test()
+exit()
+import stack
+s = stack.Stack()
+s.size()
+s.test()
+s.push('Gregor')
+s.push('Tadeja')
+s.push('Mark')
+s.push('Zala')
+s.push('Špela')
+s.push('Uninvited Guest')
+s.test()
+s.pop()
+s.push('uninvited guest')
+s.test()
+s.pop()
+s.test()
+T = s.test()
+T
+print(t)
+print(T)
+T
+gr_T = s.test()
+gr_T
+eval(gr_T)
+eval(str(gr_T))
+s.test()
+s.is_empty()
+not s.is_empty()
+def fct(n):
+	if n <= 1:
+		result = 1
+	
+	else:
+		result = n * fct(n-1)
+	return result
+fct(5)
+fct(3)
+fct(1)
+fct(0)
+fct(-10)
+fct(4)
+fct(125)
+fct(1024
+fct(1024)
+fct(104)
+fct(333)
+fct(999)
+fct(699)
+fct(710)
+fct(810)
+fct(910)
+fct(950)
+fct(980)
+fct(990)
+fct(995)
+fct(999)
+fct(998)
+fct(1001)
+fct(1000)
+fct(998.9)
+fct(980.1))
+fct(980.1)
+fct(980)
+fct(45.2)
+fct(33.7
+)
+fct(3.5)
+fct(3.9)
+fct(4)
+3.9*3.9
+3.9*3.9*3.9
+1*2*3.9
+1*2*3*4
+1*2*3*3.9
+1.9*2.9*3.9
+cd
+fct(8)
+fct(64)
+exit()
+100 % 10
+exit()
+import stack
+s = stack.Stack()
+s.show()
+s.push(0)
+s.show()
+s.push(0)
+s.show()
+s.push(1)
+s.show()
+while not s.is_empty():
+res = ""
+while not s.is_empty():
+	res = res + str(s.pop())
+res
+s.is_empty()
+s.show()
+s.push(0)
+s.push(1)
+s.show()
+s.is_empty()
+print(s.pop())
+s.show()
+print(str(s.pop()))
+s.show()
+s.push(0)
+s.push(1)
+s.show()
+s.pop()
+s.show()
+s.pop()
+s.show()
+s.pop()
+s.show()
+s.push("0")
+s.push("1")
+s.show()
+print(s.pop())
+exit()
+import stack
+s = stack.Stack()
+s.push(0)
+s.push(1)
+s.show()
+s.is_empty()
+while not s.is_empty():
+res =""
+while not s.is_empty():
+	res = res + str(s.pop())
+res
+exit()
+import turtle
+exit()
+import turtle
+exit()
+2**(64-1)
+26^63
+2^63
+2**63
+2**64
+(2**64) - 1
+((2**64) - 1)/(365*24*60*60)
+exit()
+16^16384
+16^2
+16**2
+16**16384
+print(2^3)
+print(2**3)
+print(2**(1/2))
+print(2**0.5))
+print(2**0.5)
+print(2**(1/3))
+print((2**(1/3))**3)
+exit()
+L = [x for None in range 10]
+L = [x for None in range(11)]
+L = [None for x in range(11)]
+L
+L = []
+L
+L = [None for x in range(10)]
+L
+L[5] = "Na petem mestu sem!"
+L
+L = []
+L = [None for x in range(10)]
+n = 5
+L[n-1] = "Na", n, "-tem mestu sem!"
+L
+L = []
+L[n-1] = "Na" + str(n) + "-tem mestu sem!"
+L
+L = [None for x in range(10)]
+L
+L[n-1] = "Na" + str(n) + "-tem mestu sem!"
+L
+L[4] = None
+L
+L[n-1] = "Na " + str(n) + "-tem mestu sem!"
+L
+m = 11
+for i in range(1,12):
+	print(i, i%m)
+for i in range(1,12):
+	j = i/m
+	print(i, j, m, (j - j/m)*m)
+for i in range(1,12):
+	j = i%m
+	print(i, j)
+for i in range(1,12):
+	j = i/m
+	print(i, j, m, int((j - j/m)*m))
+for i in range(m):
+	j = i/m
+	print(i, j, m, int((j - j/m)*m))
+for i in range(m):
+	j = i/m
+	print(i, j, int((j - j/m)*m))
+m = 18
+for i in range(m):
+	j = i/m
+	print(i, j, int((j - j/m)*m))
+def hashf(m, item):
+	return item % m
+for i in [22,78,45, 22,77,89]:
+	print(hashf(11,i))
+for i in [22,78,45, 22,77,89]:
+	print(i, hashf(11,i))
+for i in [54, 26, 93, 17, 77, 31]:
+	print(i, hashf(11,i))
+for i in [54, 26, 93, 17, 77, 31, 102, 9, 33]:
+	print(i, hashf(11,i))
+for i in [54, 26, 93, 17, 77, 31]:
+	print(i, i*(1-i/11))
+for i in [54, 26, 93, 17, 77, 31]:
+	print(i, i*(1-(i/11)))
+for i in [54, 26, 93, 17, 77, 31]:
+	print(i, i*int(1-(i/11)))
+i = 54
+i - (i/11)
+i - int(i/11)
+54/11
+int(54/11)
+54 - int(54/11)
+54 - int(54/11)*11
+i - int(i/11)*11
+for i in [54, 26, 93, 17, 77, 31]:
+	print(i, i - int(i/11)*11)
+exit
+D = {}
+for i in [1, 2, 3, 4, 5]:
+	D[i*6] = i
+D
+i = 6
+D[i/6]
+print(D[i/6])
+D
+print(D[6])
+i = 1
+print(D[i*6])
+i = 5
+if i*6 is in D:
+if i*6 in D:
+	print(D[i*6])
+i = 7
+if i*6 in D:
+	print(D[i*6])
+exit()
+help(09052016_test.py)
+dir(09052016_test.py)
+dir(__danes)
+dir(__danes.py)
+exit()
+import 09052016_test
+exit()
+import __danes
+import 09052016_test
+exit()
+import test_test
+help(test_test)
+print(test_test.__doc__)
+exit()
+import test_20160509
+print(test_test.__doc__)
+print(test_20160509.__doc__)
+help(test_20160509)
+exit()
+import __today
+print(__today.__doc__)
+help(__today)
+exit()
+import __today
+print(__today.__doc__)
+help(__today)
+exit()
+import 20170203_args
+exit()
+import args_20170203
+imort args_20170203
+import args_20170203
+import args_20170203 d
+help(args_20170203)
+import args_20170203
+import romb
+help(romb)
+print(romb.__doc__)
+exit()
+import for_while_funcs_test_20170419
+help(for_while_funcs_test_20170419)
+exit
+exit()
+import forl_if-break-cond_test_20170504
+exit()
+import forl_if_break_cond_test_20170504
+exit()
+import forl_1_1
+import forl_1-1
+import forl_1\-1
+exit
+exit()
+2**1000 < 10**82
+(2**1000)/(10**82)
+2**1000 =
+2**1000
+10**87
+2**10000
+2**100
+2**1000
+print(".2E".format(2**1000))
+print("{.2E}".format(2**1000))
+print("{.2E}".format(float(2**1000)))
+print("{:.2E}".format(2**1000))
+print("{:.6E}".format(2**1000))
+print("{:E}".format(2**1000))
+print("{:E}".format(2**1000)); print("{:E}.format(10**82)")
+print("{:E}".format(2**1000)); print("{:E}".format(10**82))
+print("{:E}".format(2**1000)) / print("{:E}".format(10**82))
+print("{:E}".format(2**1000)); print("{:E}".format(10**82))
+print("{:E}".format(2**1000/10**82))
+2**13
+exit()
+exit>()
+exit()
+D = {1:"Gregor", 2:"Tadeja", 3:"Zala", 4:"Mark", 5:"Spela"}
+D
+D[1]
+D[5]
+for i in range(4): print D[i]
+for i in range(4): print(D[i])
+for i in range(4): print D[i]
+for i in range(4): print(D[i])
+for i in range(5): print(D[i])
+for i in range(1,5): print(D[i])
+for i in range(1,6): print(D[i])
+for i in range(1,7): print(D[i])
+for i in range(1, len(D)): print(D[i])
+for i in range(1, len(D)+1): print(D[i])
+if 4 in D.keys(): print("OK!")
+if 14 in D.keys(): print("OK!")
+else: print("NOT THERE!")
+if 4 in D.keys(): print("OK!")
+else: print("NOT THERE!")
+if 4 in D.keys(): print("OK!"); print(D[4])
+else: print("NOT THERE!")
+if 4 in D.keys(): print("OK!", end=""); print(D[4])
+else: print("NOT THERE!")
+if 4 in D.keys(): print("OK!", end=" "); print(D[4])
+else: print("NOT THERE!")
+if 4 in D.keys(): print("OK!", end=" "); print(D[4]); else: print("NOT THERE!")
+if 4 in D.keys(): print("OK!", end=" "); print(D[4]) else: print("NOT THERE!")
+if 4 in D.keys(): print("OK!", end=" "); print(D[4]); else: print("NOT THERE!")
+print("OK", end=" "); print(D[i]) if i=4 in D.keys else print("NOT THERE!")
+print("OK", end=" "); print(D[4]) if 4 in D.keys else print("NOT THERE!")
+print("OK", end=" ") if 4 in D.keys else print("NOT THERE!")
+print("OK") if 4 in D.keys() else print("NOT THERE!")
+print("OK", end=" "); print(D[4]) if 4 in D.keys() else print("NOT THERE!")
+print("OK!", end=" "); print(D[4]) if i=4 in D.keys() else print("NOT THERE!")
+i = 4; print("OK!", end=" "); print(D[4]) if i in D.keys() else print("NOT THERE!")
+i = 14; print("OK!", end=" "); print(D[4]) if i in D.keys() else print("NOT THERE!")
+i = 4
+print("OK!", end=" "); print(D[4]) if i=4 in D.keys() else print("NOT THERE!")
+print("OK!", end=" "); print(D[4]) if i in D.keys() else print("NOT THERE!")
+i = 15
+print("OK!", end=" "); print(D[4]) if i in D.keys() else print("NOT THERE!")
+print("OK!", end=" ") and print(D[4]) if i in D.keys() else print("NOT THERE!")
+i = 4
+print("OK!", end=" ") and print(D[4]) if i in D.keys() else print("NOT THERE!")
+print("OK!", end=" ") and print(D[i]) if i in D.keys() else print("NOT THERE!")
+i = 4
+print("OK!", end=" ") and print(D[i]) if i in D.keys() else print("NOT THERE!")
+print("OK!", end=" ") print(D[i]) if i in D.keys() else print("NOT THERE!")
+print("OK!", D[i]) if i in D.keys() else print("NOT THERE!")
+i = 15
+print("OK!", D[i]) if i in D.keys() else print("NOT THERE!")
+D
+exit()
+import pygame
+exit()
+import json
+path = '/c/Users/gregor.redelonghi/Dropbox/ODPRTO/_PYTHON/usagov_bitly_data2012-03-16-1331923249.txt'
+records = [json.loads(line) for line in open(path)]
+records[0]
+records[0]['tz']
+for i in records: print(i)
+for id in records.keys(): print(records[0][id])
+print(records[0])
+L = list(records[0])
+L
+D = dict(records[0])
+D
+print(D)
+for i in D.keys(): print(i, D[i])
+for i in D.keys(): print(i + ': ' +  D[i])
+for i in D.keys(): print(i + ':' +  D[i].ljust(15))
+for i in D.keys(): print(i + ':' +  D[i])
+for i in D.keys(): print(i, D[i])
+for i in D.keys(): print(i, str(D[i]).ljust(15))
+for i in D.keys(): print(i, str(D[i]).rjust(15))
+for i in D.keys(): print(i.ljust(15), D[i])
+for i in D.keys(): print(i.ljust(5) + ":", D[i])
+for i in D.keys(): print((i + ":").ljust(5), D[i])
+L
+D
+for i in D.keys(): print((i + ":").ljust(5), D[i])
+from pandas import DataFrame, Series
+import pandas
+import pandas3
+exit>()
+exit()
+def f(x):
+	result = x**(2-x)
+	return result
+f(2)
+f(3)
+f(4)
+2**(2-4)
+4**(2-4)
+def kvadriraj(x):
+	kvadrat = x**2
+	return kvadrat
+kvadriraj(16)
+kv = kvadriraj(x)
+kv = kvadriraj
+kv(5)
+kv(100)
+help(kv)
+help(kvadriraj)
+dir(kvadriraj)
+exit()
+import numpy
+pip search numpy
+pip help
+pip --help
+pip3 help
+pip
+	exit()
+pip search numpy
+exit()
+import pandas
+import numpy
+exit()
+L = [0, 1, 2, 3, 4]
+l2 = [11, 12, 13]
+L.append(5)
+L
+L.append([6, 7, 8])
+L
+L[6]
+L[6].rmeove()
+help(L)
+L.pop([6])
+L.pop(6)
+L
+L.extend([6, 7, 8, 9, 10])
+L
+L.extend(l2)
+L
+LE = L.rec+versed()
+LE = L.reversed()
+LE = L.reverse()
+LE
+L
+L.reverse()
+L
+help(cmp)
+help(cmp())
+cmp
+exit()
+import re
+ptrn = "Gregor Redelonghi, Valvasorjeva ulica5, 1000 Ljubljana"
+re.match("Gre", ptrn)
+re.search("Gre", ptrn)
+print(ptrn)ž
+print(ptrn)
+match = re.search("Gre", ptrn)
+match
+print(match)
+if match: print("OK!")
+if match: print(match.group())
+match = re.search("G.\{2\}", ptrn)
+if match: print(match.group())
+match = re.search("G.{2}", ptrn)
+if match: print(match.group())
+match = re.search("G.{12}", ptrn)
+if match: print(match.group())
+match = re.search("\d", ptrn)
+if match: print(match.group())
+match = re.search("\d*", ptrn)
+if match: print(match.group())
+match = re.search("\d+", ptrn)
+if match: print(match.group())
+ptrn = "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana"
+match = re.search("\d+", ptrn)
+if match: print(match.group())
+match = re.search("\d.*", ptrn)
+if match: print(match.group())
+match = re.search("\W", ptrn)
+if match: print(match.group())
+match = re.search("\W*", ptrn)
+if match: print(match.group())
+match = re.search("\W", ptrn)
+if match: print(match.group())
+exit()
+L = ["Gregor", "Redelonghi", 1, 2, 3, 4, 5, "Ocka"]
+ime, priimek, *st, status = L
+ime
+priimek
+st
+status
+nums = [1, 8, 2, 23, 7, -4, 18, 23, 42, 37, 2]
+print(nums.sorted())
+print(sorted(nums))
+import heapq
+heapq.heapify(nums)
+nums
+exit()
+name = Gregec
+name = "Gregec"
+print(f"Halo {name}! How are you?")
+print("Halo {name}! How are you?".format(name))
+name
+print("Halo name. How are you?".format(name))
+print("Halo {name}. How are you?".format(name))
+print(Hello {}, How ar3e you?".format(name))
+name
+print("Hello {}, How ar3e you?".format(name))
+print("Hello {name}, How ar3e you?".format(name))
+print("Hello {0}, How ar3e you?".format(name))
+print("Hello {1}, How ar3e you?".format(name))
+print("Hello {1}, How ar3e you? Are you {0}".format(name, "Pussy"))
+print("Hello {1}, How ar3e you? Are you {0}??".format(name, "Pussy"))
+exit()
+myString = "Gregor Redelonghi"
+myNums ? [1, 2, 3, 4, 5, 6, 7, 8, 9]
+myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+myMix = ["Gregec", "Numero", 1, 2, 3]
+myMix
+globals()
+def vsota(A, B):
+	return A + B
+vsota(2, 5)
+def vsota(A, B):
+	sum = A + B
+	return sum
+vsota(2, 5)
+V1 = vsota(10, 2)
+V1
+def V(X, Y):
+	return X + Y
+V(1,2)
+V(1, 2)
+def vsota(X, Y):
+	return X + Y
+vsota(2, 3)
+vsota("A", "B")
+vsota("A", 3)
+vsota("A", str(3))
+vsota(100, 200)
+v(500,700)
+V(500,700)
+EXIT()
+exit()
+dir()
+exit()
+for E in range(1,10):
+	print("2^" + str(E) + " = " + str(2**E)) 
+for E in range(1,11):
+	print("2^" + str(E) + " = " + str(2**E)) 
+for E in range(1,101):
+	print({0:} {1:}. format("2^str(E)", str(2**E))) 
+for E in range(1,101):
+	print({} {} .format("2^str(E)", str(2**E))) 
+for E in range(1,101):
+	print("{} {}".format("2^" + str(E) + " = ", 2**E))
+	print("{} {:+5}".format("2^" + str(E) + " =", 2**E))
+for E in range(1,101):
+	print("{} {:+5}".format("2^" + str(E) + " =", 2**E))
+for E in range(1,101):
+	print("{} {:+5f}".format("2^" + str(E) + " =", 2**E))
+for E in range(1,101):
+	print("{} {:5f}".format("2^" + str(E) + " =", 2**E))
+for E in range(1,101):
+	print("{:s} {:f}".format("2^" + str(E) + " =", 2**E))
+	print("{:s} {:f}".format("2^" + str(E),  "=", 2**E))
+for E in range(1,101):
+	print("{:s} {:f}".format("2^" + str(E),  "=", 2**E))
+for E in range(1,101):
+	print("{:s} {:f}".format("2^" + str(E),  "=" + str(2**E)))
+for E in range(1,101):
+	print("{:s} {:s}".format("2^" + str(E),  "=" + str(2**E)))
+for E in range(1,101):
+	print("{:s} {:15s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:s} {:-15s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:s} {:<15s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:s} {:>15s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:s} {:>56s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:>10s} {:s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:<10s} {:s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:<7s} {:s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:<6s} {:s}".format("2^" + str(E),  "= " + str(2**E)))
+for E in range(1,101):
+	print("{:<5s} {:s}".format("2^" + str(E),  "= " + str(2**E)))
+print("INT:  {0:d}; HEX:  {1:x}; BIN: {2:b}".format(42))
+"INT:  {0:d}; HEX:  {1:x}; BIN: {2:b}".format(42)
+"INT:  {0:d}; HEX:  {0:x}; BIN: {0:b}".format(42)
+"INT:  {0:d}; HEX:  {0:#x}; BIN: {0:#b}".format(42)
+"INT:  {0:#d}; HEX:  {0:#x}; BIN: {0:#b}".format(42)
+for NUM in range(1,1000):
+	print("Num: {0:d} --> bin: {0:#b}".format(NUM))
+>>> for E in range(1,101):
+...     print("{:<5s} {:s}".format("2^" + str(E),  "= " + str(2**E)))
+...
+2^1   = 2
+2^2   = 4
+2^3   = 8
+2^4   = 16
+2^5   = 32
+2^6   = 64
+2^7   = 128
+2^8   = 256
+2^9   = 512
+2^10  = 1024
+2^11  = 2048
+2^12  = 4096
+2^13  = 8192
+2^14  = 16384
+2^15  = 32768
+2^16  = 65536
+2^17  = 131072
+2^18  = 262144
+2^19  = 524288
+2^20  = 1048576
+2^21  = 2097152
+2^22  = 4194304
+2^23  = 8388608
+2^24  = 16777216
+2^25  = 33554432
+2^26  = 67108864
+2^27  = 134217728
+2^28  = 268435456
+2^29  = 536870912
+2^30  = 1073741824
+2^31  = 2147483648
+2^32  = 4294967296
+2^33  = 8589934592
+2^34  = 17179869184
+2^35  = 34359738368
+2^36  = 68719476736
+2^37  = 137438953472
+2^38  = 274877906944
+2^39  = 549755813888
+2^40  = 1099511627776
+2^41  = 2199023255552
+2^42  = 4398046511104
+2^43  = 8796093022208
+2^44  = 17592186044416
+2^45  = 35184372088832
+2^46  = 70368744177664
+2^47  = 140737488355328
+2^48  = 281474976710656
+2^49  = 562949953421312
+2^50  = 1125899906842624
+2^51  = 2251799813685248
+2^52  = 4503599627370496
+2^53  = 9007199254740992
+2^54  = 18014398509481984
+2^55  = 36028797018963968
+2^56  = 72057594037927936
+2^57  = 144115188075855872
+2^58  = 288230376151711744
+2^59  = 576460752303423488
+2^60  = 1152921504606846976
+2^61  = 2305843009213693952
+2^62  = 4611686018427387904
+2^63  = 9223372036854775808
+2^64  = 18446744073709551616
+2^65  = 36893488147419103232
+2^66  = 73786976294838206464
+2^67  = 147573952589676412928
+2^68  = 295147905179352825856
+2^69  = 590295810358705651712
+2^70  = 1180591620717411303424
+2^71  = 2361183241434822606848
+2^72  = 4722366482869645213696
+2^73  = 9444732965739290427392
+2^74  = 18889465931478580854784
+2^75  = 37778931862957161709568
+2^76  = 75557863725914323419136
+2^77  = 151115727451828646838272
+2^78  = 302231454903657293676544
+2^79  = 604462909807314587353088
+2^80  = 1208925819614629174706176
+2^81  = 2417851639229258349412352
+2^82  = 4835703278458516698824704
+2^83  = 9671406556917033397649408
+2^84  = 19342813113834066795298816
+2^85  = 38685626227668133590597632
+2^86  = 77371252455336267181195264
+2^87  = 154742504910672534362390528
+2^88  = 309485009821345068724781056
+2^89  = 618970019642690137449562112
+2^90  = 1237940039285380274899124224
+2^91  = 2475880078570760549798248448
+2^92  = 4951760157141521099596496896
+2^93  = 9903520314283042199192993792
+2^94  = 19807040628566084398385987584
+2^95  = 39614081257132168796771975168
+2^96  = 79228162514264337593543950336
+2^97  = 158456325028528675187087900672
+2^98  = 316912650057057350374175801344
+2^99  = 633825300114114700748351602688
+2^100 = 1267650600228229401496703205376
+for NUM in range(1,1000): ; print("Num: {0:d} --> bin: {0:#b}".format(NUM))
+for NUM in range(1,1000); print("Num: {0:d} --> bin: {0:#b}".format(NUM))
+for NUM in range(1,1000): print("Num: {0:d} --> bin: {0:#b}".format(NUM))
+for NUM in range(1,1000): print("Num: {0:<10d} --> bin: {0:#b}".format(NUM))
+for NUM in range(1,1000): print("Num: {0:<5d} --> bin: {0:#b}".format(NUM))
+for NUM in range(1,1000): print("Num: {0:<5d} --> bin: {0:b}".format(NUM))
+for NUM in range(1,101): print("Num: {0:<5d} --> bin: {0:b}".format(NUM))
+for num in range(5,12): for base in 'dXob': print '{0:{width}{base}}'.format(num, base=base, width=width); print
+for num in range(1,17):
+    for base in 'dXob':
+        print '{0:{width}{base}}'.format(num, base=base, width=width)
+for num in range(1,17):
+    for base in 'dXob':
+        print '{0:{width}{base}}'.format(num, base=base, width=width)
+for num in range(1,17):
+    for base in 'dXob':
+        print{'0:{width}{base}}'.format(num, base=base, width=width)
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+    print
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+	print
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+    print()
+   for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+    print()
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+print()
+width = 5
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+    print()
+width = 5
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+	print()
+width = 5
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+width = 5
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+width = 5
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+	print()
+width = 5
+for num in range(1,17):
+    for base in 'dXob':
+        print('0:{width}{base}}'.format(num, base=base, width=width)
+	print(NUM)
+width = 5
+for num in range(1,17):
+	for base in 'dXob':
+		print('{0:{width}{base}}.format(num, base=base, width=width)
+width = 5
+for num in range(1,17):
+	for base in 'dXob':
+		print('{0:{width}{base}}.format(num, base=base, width=width))
+width = 5
+for num in range(1,17):
+	for base in 'dXob':
+		print('{0:{width}{base}}'.format(num, base=base, width=width))
+for num in range(1,17):
+	for base in 'dXob':
+		print('{0:{width}{base}}'.format(num, base=base, width=width))
+	print()
+for num in range(1,17):
+	for base in 'dXob':
+		print('{0:{width}{base}}'.format(num, base=base, width=width)),
+	print()
+for num in range(1,17):
+	for base in 'dXob':
+		print('{0:{width}{base}}'.format(num, base=base, width=width))
+	print()
+for num in range(5,12):
+	for base in 'dXob':
+		print('{0:{width}{base}}'.format(num, base=base, width=width)),
+	print()
+for num in range(5,12):
+width = 5
+for num in range(5,12):
+	for base in 'dXob':
+		print('{0:{width}{base}}'.format(num, base=base, width=width)),
+	print()
+width = 5
+for num in range(5,12):
+	for base in 'dXob':
+		print('{0:{width}{base}}'.format(num, base=base, width=width), end = ' ')
+	print()
+for num in range(1,17):
+	for base in 'dXob':
+		print('{0:{width}{base}}'.format(num, base=base, width=width), end = ' ')
+	print()
+width = 7
+for num in range(1,17):
+    for base in 'dXob':
+        print('{0:{width}{base}}'.format(num, base=base, width=width), end = ' ')
+    print()
+width = 7
+for num in range(0,17):
+    for base in 'dXob':
+        print('{0:{width}{base}}'.format(num, base=base, width=width), end = ' ')
+    print()
+width = 7
+for num in range(0,16):
+    for base in 'dXob':
+        print('{0:{width}{base}}'.format(num, base=base, width=width), end = ' ')
+    print()
+width = 7
+for num in range(0,32):
+    for base in 'dXob':
+        print('{0:{width}{base}}'.format(num, base=base, width=width), end = ' ')
+    print()
+exit()
+2**3 + 2**5
+2//3
+2**3
+2**5
+8+32
+2**(3+5)
+exit()
+rain_percent = {1980: "17%", 1981: "15%", 1982: "10%"}
+r = rain_percent
+print(r)
+print(r[1981])
+print(r[1983])
+print(r.get(1983, "88%")
+)
+print(r.get(1983, "88%"))
+print(r.get(19, "88%"))
+print(r.get(1981, "88%"))
+print(r.get(1983))
+EXIT()
+exit()
+import os
+!ls
+exit()
+import os
+help(os.stat())
+help(os.stat)
+os.stat(TEST.txt)
+os.stat("TEST.txt")
+filecmp
+help(filecmp)
+import filecmp
+help(filecmp)
+exit()
+import filecmp
+filecmp("TEST.txt", "TEST2.txt") 
+help(filecmp)
+cmp("TEST.txt", "TEST2.txt") 
+filecmp.cmp("TEST.txt", "TEST2.txt") 
+exit()
+import filecmp
+filecmp.cmp("TEST.txt", "TEST3.txt") 
+exit()
+import filecmp
+filecmp.cmp("TEST.txt", "TEST3.txt") 
+exit()
+!ls -l
+import subroccess
+import subrocess
+import subprocess
+subrocess.call(["ls", "-l"])
+subprocess.call(["ls", "-l"])
+subprocess.call(["ls", "-1"])
+exit()
+import os, subprocess, system
+import os, subprocess, sys
+for root, dirs, files in os.walk("./"):
+	file = os.patj.join(root.file)
+exit()
+L1 = range(1,11)
+L1
+L1 = [x for x in range(1,11)]
+L1
+map(bin(), L1)
+print(map(bin, L1))
+L2 = map(bin, L1)
+L2
+def sqr(x): return x**2
+sqr(2)
+map(sqr, L1)
+print(map(sqr, L1))
+L1
+sgr(3)
+sqr(3)
+L2 = map(sqr, L1)
+L2
+import math
+print(map(math.sqrt, L1))
+import map
+help(map())
+help(map(L1))
+help(map)
+exit()
+L1 = range(1,11)
+L1
+L1 = [ x for x in range(1,11)]
+l1
+L1
+print(map(bin, L1))
+print(list(map(bin, L1)))
+for B in map(bin, L1): print(B)
+for B in map(bin, L1): print(B, end=' ')
+for B in map(bin, L1): print(B, end=' ',)
+for B in map(bin, L1): print(B, end=' ', '\n')
+for B in map(bin, L1): print(B, "\n", end=' ',)
+for B in map(bin, L1): print(B, end=' ', "\n")
+for B in map(bin, L1): print(B, end=' ')
+for B in map(bin, L1): print(B, end='')
+for B in map(bin, L1): print(B)
+for B in map(bin, L1): print(B, end = '; ')
+for B in map(bin, L1): print(B, end = '; '); print("\n")
+for B in map(bin, L1): print(B, end = '; ')
+sqr
+sqr(2)
+def sqr(x): return x**2
+sqr
+sqr(3)
+def sqr(x): return x**2
+sqr(2)
+sqr(12)
+sqr(11)
+L1
+print(list(map(sqr, L1)))
+for N in map(sqr, L1): print(N)
+for N in map(sqr, L1): print(N, end = ', ')
+L2 = []
+for N in L1: L2.append(bin(L1))
+L2
+for N in L1: L2.append(map(bin(L1)))
+for N in L1: L2.append(bin(N))
+L2
+import math
+print(map(math.sqrt, L1))
+print(list(map(math.sqrt, L1)))
+def EvenOdd(N):
+	if N % 2 == 0
+def EvenOdd(N):
+	if N % 2 == 0:
+		print("Even")
+	else:
+		print("Odd")
+EvenOdd(3)
+EvenOdd(15)
+EvenOdd(16)
+print(list(map(EvenOdd, L1)))
+L1
+print(list(map(EvenOdd, L1)), end =", ")
+print(list(map(EvenOdd, L1)), end = ", ")
+print(list(map(EvenOdd, L1)))
+L1
+for N in L1: EvenOdd(N)
+for N in L1: EvenOdd(N), end =" "
+for N in L1: EvenOdd(N)
+list(map(EvenOdd, L1))
+print(map(EvenOdd, L1))
+nl = [1, 2, 3]
+sl = ["one", "two", "three"]
+rl = ["1-st", "2-cond", "3-rd"]
+nl
+sl
+rl
+print(list(map(lambda x, y, z: (x, y, z), nl, sl, rl)))
+product = lambda x,y: x*y
+product(10,5)
+import operator
+dir(operator)
+print(operator.abs(12.456))
+print(operator.abs(-12.456))
+print(operator.abs(int(-12.456)))
+L1
+print(filter(lambda N; N % 2 == 0, L1))
+print(filter(lambda N: N % 2 == 0, L1))
+print(list(filter(lambda N: N % 2 == 0, L1)))
+ L3 = list(filter(lambda N: N % 2 == 0, L1))
+ L3 = [ x for x in list(filter(lambda N: N % 2 == 0, L1)) ]
+L3 = [ x for x in list(filter(lambda N: N % 2 == 0, L1)) ]
+L3
+L4 = list(filter(lambda N: N % 2 == 0, L1))
+L4
+MN = ["Gregor Redelonghi", "Tadeja Mali Redelonghi", "Zala Redelonghi", Špela Redelonghi", "Mark redelonghi", "Valvasorjeva", "ulica", "5"]
+MN = ["Gregor Redelonghi", "Tadeja Mali Redelonghi", "Zala Redelonghi", "Špela Redelonghi", "Mark redelonghi", "Valvasorjeva", "ulica", "5"]
+MN
+f = lambda N: return len(MN[N]
+f = lambda N: return len(MN[N])
+f = lambda N: return len(MN)
+f = lambda N: return len(N)
+for E in NM: print(len(E))
+for E in MN: print(len(E))
+for E in MN: lambda E: return len(E) < 10
+for E in MN: return len(E) < 10
+for E in MN: print(len(E) < 10)
+for E in MN: filter(lambda E: print(len(E) < 10), MN)
+filter(lambda E: print(len(E) < 10), MN)
+list(filter(lambda E: print(len(E) < 10), MN))
+print(filter(lambda mys: len(mys < 10, MN))
+print(filter(lambda mys: len(mys < 10, MN)))
+print(list(filter(lambda mys: len(mys), MN)))
+print(list(filter(lambda mys: len(mys) < 10, MN)))
+print(list(filter(lambda mys: len(mys) > 10, MN)))
+print(list(filter(lambda mys: len(mys) < 8, MN)))
+print(list(filter(lambda mys: len(mys) > 15, MN)))
+print(list(filter(lambda mys: "ela" in mys, MN)))
+'%f' % 1.25
+'%5.2f' % 1.25
+'%.2f' % 1.25
+'%.3f' % 1.25
+'%.3f' % 3.1415927
+'%8.3f' % 3.1415927
+'%08.3f' % 3.1415927
+'%-8.3f' % 3.1415927
+'%-8.3f %f' % (3.1415927, 0.123456789)
+'%-15.3f %f' % (3.1415927, 0.123456789)
+'%0-15.3f %f' % (3.1415927, 0.123456789)
+'%-015.3f %f' % (3.1415927, 0.123456789)
+'%015.3f %f' % (3.1415927, 0.123456789)
+'%-015.3f %f' % (3.1415927, 0.123456789)
+'{:-015.3f} {:}f'.format(3.1415927, 0.123456789)
+'{:-15.3f} {:}f'.format(3.1415927, 0.123456789)
+'{:15.3f} {:}f'.format(3.1415927, 0.123456789)
+'{:5.3f} {:}f'.format(3.1415927, 0.123456789)
+'{:15.3f} {:}f'.format(3.1415927, 0.123456789)
+'{:-15.3f} {:}f'.format(3.1415927, 0.123456789)
+'{:-15f} {:}f'.format(3.1415927, 0.123456789)
+'{:-15.3f} {:}f'.format(3.1415927, 0.123456789)
+'{:-15.3f} {:f}'.format(3.1415927, 0.123456789)
+'{:15.3f} {:f}'.format(3.1415927, 0.123456789)
+'{:<5.3f} {:f}'.format(3.1415927, 0.123456789)
+'{:<15.3f} {:f}'.format(3.1415927, 0.123456789)
+'{:>15.3f} {:f}'.format(3.1415927, 0.123456789)
+'{:=15.3f} {:f}'.format(3.1415927, 0.123456789)
+'{:|15.3f} {:f}'.format(3.1415927, 0.123456789)
+'{:^15.3f} {:f}'.format(3.1415927, 0.123456789)
+'[{:^15.3f}] {:f}'.format(3.1415927, 0.123456789)
+'[{:^15.3f}]{:f}'.format(3.1415927, 0.123456789)
+'[{:<15.3f}]{:f}'.format(3.1415927, 0.123456789)
+'[{:>15.3f}]{:f}'.format(3.1415927, 0.123456789)
+'[{:>15.3f}]{:3.2f}'.format(3.1415927, 0.123456789)
+'[{:>15.3f} ]{:3.2f}'.format(3.1415927, 0.123456789)
+L = 20
+'[{:>*.3f} ]{:3.2f}'.format(L, 3.1415927, 0.123456789)
+'[{:>*f}]{:3.2f}'.format(20, 3.1415927, 0.123456789)
+'[{:*f}]{:3.2f}'.format(20, 3.1415927, 0.123456789)
+'[%*f}]%3.2f' % (20, 3.1415927, 0.123456789)
+'[%*f}]%3.2f' % (L, 3.1415927, 0.123456789)
+'[%-*f}]%3.2f' % (L, 3.1415927, 0.123456789)
+x = set([1, 2, 3, 4])
+x
+y = set([2, 2, 3, 3, 4, 4, 5, 5])
+y
+x || y
+print(x || y)
+print(x | y)
+print(x & y)
+print(x | y)
+print(x - y)
+print(y - x)
+print(y ^ x)
+exit()

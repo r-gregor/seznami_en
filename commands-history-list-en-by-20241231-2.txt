@@ -1,0 +1,3191 @@
+) softlink
+- xfce4: Keyboard --> short-cuts
+- xfce4: Window Manager --> key short-cuts
+- xfce4: XfDashboard ??
+./fsplit_en
+./fsplit_en ff-en_bookmarks_20241126_01.html 
+./fsplit_en ff-en_bookmarks_20241126_01.html 8
+./get_public_ip 
+./underscores-to-hypens-en 
+/d/RUN_backups -h
+/e/RUN_backups -h
+NM="Survive (2024) -- Oceans gone!"
+NM="Wicked Little Letters (2023)"
+and, look for cool background image change mouse action bindings!
+arr+="GRGEG"
+arr+="TDJ"
+arr+="tadeja"
+arr+=("greg")
+arr+=("tadeja")
+arr=("greg")
+arr[0]="greg"
+arr[0]=greg
+cat fsplit_en
+ch?v=fHycYVrXKlk
+check_git_diffs_en . dotfiles_en
+check_git_diffs_en metsys_en/
+check_git_diffs_en ~/majstaf_en/majbin_en ~/majstaf_en/engit/majbin_en
+check_git_diffs_en ~/majstaf_en/majbin_en/check_git_diffs_en
+check_git_diffs_en ~/majstaf_en/majrcs_en/ ~/_EGT/majrcs_en/
+check_git_diffs_en ~/majstaf_en/metsys_en/
+check_majbin_git_diffs_en ~/majstaf_en/metsys_en ~/majstaf_en/engat/metses_jpg
+check_majbin_git_diffs_en ~/majstaf_en/metsys_en ~/majstaf_en/engit/metsys_en
+check_majbin_git_diffs_en ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/
+chmod 755 check_majbin_git_diffs_en
+chmod 755 underscores-to-hypens 
+cp -i /home/gregor.redelonghi/majstaf_en/majbin_en/check_git_diffs_en ~/majstaf_en/engit/majbin_en/
+cp -i /home/gregor.redelonghi/majstaf_en/majbin_en/check_majbin_git_diffs_en ~/_EGT/majbin_en/
+cp -i /home/gregor.redelonghi/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat ~/majstaf_en/engit/majbin_en/lynxdump/
+cp -i check_majbin_git_diffs_en ~/_EGT/majbin_en/
+cp -i fsplit_en ~/_EGT/majbin_en/
+cp -i fsplit_en ~/_EGT/prenos/
+cp -i funclist_en startfuncs_en ~/_EGT/majrcs_en/
+cp -i majstaf_en/majbin_en/check_majbin_git_diffs_en ~/majstaf_en/engit/majbin_en/
+cp -i ~/majstaf_en/majbin_en/check_git_diffs_en ~/majstaf_en/engit/majbin_en/
+cp -r subdir DEST
+cp .bashrc ~/_EGT/dotfiles_en/
+cp FHD_4K_5K_8K_10K* ~/_EGT/prenos/
+cp HD_FHD_UHD_4K.jpeg ~/_EGT/prenos/
+cp bashrc_prompt_nerd_gredelonghi_en bashrc_prompt_base_gredelonghi_en 
+cp check_git_diffs_en* ~/majstaf_en/engit/majbin_en/
+cp check_git_diffs_en{,.backup.20241115}
+cp check_majbin_git_diffs_en{,.backup} 
+cp debian_mastering-openssh-remote-access_20241216.txt openssh_mastering-openssh-remote-access_on_debian_20241216.txt 
+cp fname_* subdir/
+cp fname_[456]* DEST
+cp location_test.c ~/majstaf_en/coding2/testing/c_testing/ct_TEST_FILES/
+cpddr
+ddr
+diff -q ${majbin_src} ${majbin_dst}
+diff -q ${majbin_src} ${majbin_dst} 
+diff -q ${majbin_src} ${majbin_dst} | grep -iv common
+diff -q ${majbin_src} ${majbin_dst} | grep -iv common |grep -iv .git 
+diff -q ${majbin_src} ${majbin_dst} | grep -iv common |grep -iv .git | cut -d' ' -f3- | sed 's/: //'
+diff -q ${majbin_src} ${majbin_dst} | grep -v Common
+diff -q ~/majstaf_en/majbin_en ~/majstaf_en/engit/majbin_en
+diff -q ~/majstaf_en/majbin_en ~/majstaf_en/engit/majbin_en | grep -iv "common\|\.git"
+diff -q ~/majstaf_en/majbin_en ~/majstaf_en/engit/majbin_en | grep -iv "common\|\.git\|differ" | sed 's/\/: /\//'
+diff -q ~/majstaf_en/majbin_en ~/majstaf_en/engit/majbin_en | grep -iv "common\|\.git\|differ" | sed -e 's/\/: /\//' 's/: /\//'
+diff -q ~/majstaf_en/majbin_en ~/majstaf_en/engit/majbin_en | grep -iv "common\|\.git\|differ" | sed -e 's/\/: /\//' -e 's/: /\//'
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en |grep 'majstaf_en/majbin_en'
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en |grep -E 'Only .* majstaf_en/majbin_en'
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en |grep -E 'Only.*majstaf_en/majbin_en'
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en |grep Only
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv "common\|\.git\|differ"
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv "common\|\.git\|differ" | sed -e 's/\/: /\//' -e 's/: /\//'
+diff -q ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/ | grep -i Only
+diff -q ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/ | grep -iv "\.git\|common"
+diff -q ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/ | grep -iv common
+diff -qr ~/majstaf_en/majbin_en/check_git_diffs_en
+diff -qr ~/majstaf_en/metsys_en ~/majstaf_en/engit/metsys_en
+diff -qr ~/majstaf_en/metsys_en ~/majstaf_en/engit/metsys_en | grep -i "only" | grep -iv "engit" | grep -iv '\.git' | grep -iv 'engit'
+diff -qr ~/majstaf_en/metsys_en ~/majstaf_en/engit/metsys_en | grep -i "only" | grep -iv "engit" | grep -iv '\.git' | grep -iv 'engit' | cut -d' ' -f3-
+diff -qr ~/majstaf_en/metsys_en ~/majstaf_en/engit/metsys_en | grep -i "only" | grep -iv "engit" | grep -iv '\.git' | grep -iv 'engit' | cut -d' ' -f3- | sed -e 's/\/: /\//' -e 's/: /\//'
+diff -qr ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en
+diff -qr ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/ | grep -iv common
+dirs -- look in EN!
+echo "$arr[@]"
+echo "${arr[+*]}"
+echo "${arr[+]}"
+echo "${arri[0]}"
+echo $#{arr}"
+echo $USER
+echo $arr2
+echo $out
+echo $output
+echo ${#nums[*]}
+echo ${#nums[+]}
+echo ${arr[22]}
+echo ${arr[95]}
+echo ${arr[@]}
+echo ${nums[0]}
+echo ${nums[4]}
+echo ${nums[5]}
+echo -e "${arr[0]}\n${arr[1]}
+echo -e "${arr[0]}\n${arr[1]}"
+echo -e $output
+echo arr
+echo arr2
+engt_status_new 
+f+gst
+fdupes 
+fdupes ~
+ffn
+fid -iname "*bit*"
+file /home/gregor.redelonghi/.local/bin/hypens-to-underscores
+find * -maxdepth 2 -type d -iname "*ukinitev*"
+find * -maxdepth 2 -type d -iname "p*ukinitev*"
+find -iname "*bit*"
+find -iname "*bit*" |grep 2024
+find -iname "*dup*"
+find -iname "*figlet*"
+find -iname "*gesl*" -o -iname "*pass*"
+find -iname "*grsl*"
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*inderscores*" |grep -v dotfiles
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*inderscores*" |grep -v engit
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*underscores*"
+find -iname "*mas*" |grep 2024
+find -iname *i3*
+find -name "ROJSTNIDNEVI.txt"
+find -name "ROJSTNIDNEVI.txt" | grep Jelena -
+find -name "ROJSTNIDNEVI.txt" | xargs -I{} grep Jelena {}
+find -type f |grep 20241126
+find -type f |grep 2024112[56]
+find -type f |grep 2024112[56] | xargs -I{} grep bit {}
+find -type f |grep 2024112[56] | xargs -I{} grep mask {}
+find name "*ddbak*"
+fm ~/_DOWNLOADS
+fnd-duplicate-files 
+for F in $arr2; do echo $F; done
+for F in ${arr2[@]; do echo $F; done
+for F in ${arr2[@]}; do echo $F; done
+for N in 1 2 3 4 5 6 7 8 9; do touch fname_${N}.txt; done
+for N in 1 2 3 4 5 6 7 8 9; do touch ~/majstaf_en/majbin_en/BRISIME_${N}; done
+for nm in "${arr[@]}"; do echo $nm; done
+for nm in $arr; do echo $nm; done
+for nm in ${arr[@]; do echo $nm; done
+for nm in ${arr[@]}; do echo $nm; done
+from: https://www.youtube.com/watch?v=PHGyKqY75Hg
+fsplit_en 
+fsplit_en ff-en_bookmarks_20241126_01.html 12
+git help show
+grefresh_fjl_to_git_repo bashrc_prompt_bare_gredelonghi_en 
+grefresh_fjl_to_git_repo bashrc_prompt_color_gredelonghi_en 
+grefresh_fjl_to_git_repo bashrc_prompt_nerd_gredelonghi_en 
+grefresh_fjl_to_git_repo grefresh_fjl_to_git_repo
+grep '!bash'
+grep '!bash' *
+grep -W ddbak
+grep -w ddbak *
+grep ddbak *
+grep hypen *
+grep let *
+grep lynx ~/majstaf_en/majbin_en/lynxdump/lynxd
+https://github.com/ajeetdsouza/zoxide
+https://www.youtube.com/watch?v=LBcQF0lktUU
+https://www.youtube.com/watch?v=fHycYVrXKlk
+in_xx) softlink
+l majstaf_en/
+ld ~/majstaf_en/coding2/testing/
+list-dupfilenames
+ln -s odjava_menu_en logout_menu_en
+lp,
+lynxd "https://i3wm.org/docs/user-contributed/swapping-workspaces.html" i3_swapping-workspaces-between-monitors
+lynxd "https://itsfoss.com/automount-drives-linux/" automount-drives
+lynxd "https://www.linuxjournal.com/content/mastering-openssh-remote-access-debian-pro" debian_mastering-openssh-remote-access
+majbin_dst=~/majstaf_en/engit/majbin_en/
+majbin_src=~/majstaf_en/majbin_en/
+majstaf_en/majbin_en/list_broken_symlinks
+mkdir -p ./testdir1/testdir2/testdir3/testdir4/testdir5/testdir6/testdir7/testdir8/testdir9
+mkdir 20241106
+mkdir DEST
+mkdir subdir
+mv c_bit-fields-and-bit-masking-structures-unions-multif_20241127.txt ~/_EGT/knowledgedb/_C_and_Cpp/
+mv debian_mastering-openssh-remote-access_20241216.txt ~/_EGT/knowledgedb/_DEBIAN/
+mv fsplit_en{,.sh.txt}
+mv get-public-ip get_public_ip 
+mv i3_swapping-workspaces-between-monitors_20241105.txt ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+mv openssh_mastering-openssh-remote-access_on_debian_20241216.txt ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+mv subdir DEST
+mv ~/majstaf_en/engit/metsys_en/cygwin_metsys/BRISIME_cygwin ~/majstaf_en/metsys_en/cygwin_metsys/
+nd image change mouse action bindings!
+nums=(1 2 3 4 5)
+prepare-fjl-for-knowledgebase automount-drives_20241127.txt 
+prepare-fjl-for-knowledgebase c_bit-fields-and-bit-masking-structures-unions-multif_20241127.txt
+prepare-fjl-for-knowledgebase c_bit-fields-and-bit-masking-structures-unions-multif_20241127.txt 
+prepare-fjl-for-knowledgebase debian_mastering-openssh-remote-access_20241216.txt 
+prepare-fjl-for-knowledgebase i3_swapping-workspaces-between-monitors_20241105.txt 
+prepare-fjl-for-knowledgebase software-pathfinding-algorithms-we-develop-software-by_20241115.txt 
+r, '-'
+readarray -t -O "${#arr[@]}" arr < <(git status)
+readarray -t -O "${#arr[@]}" arr <(echo -n $(git status))
+readarray -t arr < <("$(echo -en $(git status))")
+readarray -t arr < <($(echo -en "$(git status)"))
+readarray -t arr < <(echo -n $(git status))
+readarray -t arr < <(git status)
+readarray -t arr < <(git status))
+readarray -t out < <(echo -n $(git status))
+readarray -t out[C < <(echo -n $(git status))
+rn *part*
+s2 "zoxside" """
+softlink1-fname-to-ulb check_git_diffs_en
+softlink1-fname-to-ulb check_majbin_git_diffs_en
+softlink1-fname-to-ulb get_public_ip 
+softlink1-fname-to-ulb single-file-rename-and-relink-en 
+softlink1-fname-to-ulb single-file-underscores-to-hypens-en 
+softlink1-fname-to-ulb underscores-to-hypens 
+touch underscores-to-hypens
+touch ~/majstaf_en/engit/metsys_en/cygwin_metsys/BRISIME_cygwin
+touch ~/majstaf_en/majbin_en/BRISIME
+touch ~/majstaf_en/majbin_en/BRISIME_20241106
+tree -d ~/majstaf_en/engit/metsys_en
+tree -d ~/majstaf_en/engit/metsys_en/cygwin_metsys/BRISIME_cygwin
+tree testdir1/
+tree ~/_BRISI/testdir1/
+u
+upper-to-lower "Algorithms we develop software by"
+weroff script update)
+which fsplit_en 
+which hypens-to-underscores 
+z dot
+zoxside:
+cp-i  /home/gregor.redelonghi/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat ~/majstaf_en/engit/majbin_en/lynxdump/
+cp-i  /home/gregor.redelonghi/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat ~/majstaf_en/engit/majbin_en/lynxdump/
+diff -q ${majbin_src} ${majbin_dst} | grep -iv common |grep -iv .git | cut -d' ' -f3- | sed 's/: //'
+       -b, --branch
+ (5+)
+ -s, --short
+ Bros
+ Chan
+ Mackie (5+)
+#! /usr/bin/bash -i
+$(ralpath ./brth_test) 
+$(realpath ./brth_test)
+- ...
+- add _GT (.../majstf/xxgit) softlink
+- add _MB (.../majstaf/majbin_xx) softlink
+- feh + variety
+- odjava_menu_xx (logout/poweroff script update)
+./BrthReminder_c 
+./BrthReminder_c_color
+./bb
+./bbc
+./bin/BrthReminder_c_color 
+./brth_test 
+./brth_tteesstt 
+./fsplit_en.sh fname1 2
+/d/RUN_backups -x
+/e/RUN_backups -C
+/grep ROJSTN
+/usr/bin/mintty -e /usr/bin/bash
+/usr/bin/mintty -e /usr/bin/bash & disown
+/usr/bin/mintty -e /usr/bin/bash &>/dev/nul & disown
+/usr/bin/mintty -e /usr/bin/bash disown
+024)
+024) -- Movie Clip & Trailer
+0a_povezave/BrthReminder_color
+0a_povezave/BrthReminder_color breda
+0a_povezave/BrthReminder_color skočir
+0a_povezave/BrthReminder_color skčir
+:q!
+;
+Add to dmenu/rofi/bash menu:
+CITADEL (2024) -- The Russo Bros
+CROSS (2024) -- Prime Video (5+)
+DR=majrcs_en
+DR=metsys_en
+DR=seznami
+ELEVATION (2025) -- Anthony Mackie (5+)
+EXIT
+HELLBOY: THE CROOKED MAN (2024) -- Movie Clip & Trailer
+How to Setup and Configure Rofi (The Best App Launcher)
+MESTO=majbin_en
+MESTO=majrcs_en
+MIRA (2024) -- Asteroid Impact (5+)
+NM="Birth of the Dragon (2016)"
+NM="Brothers (2024)"
+NM="Matilda De Angelis ND"
+PANDA PLAN (2024) -- Jackie Chan
+TEACUP (2024)
+Tiling WM window switcher:
+VAR="/gregor/redelonghi/the_bos.2.pgp"
+VAR="/gregor/redelonghi/the_bos.pgp"
+[200~for prg in git huh bash numpy
+\dd
+_BRISI/BrthReminder_c 
+_BRISI/brth_tteesstt 
+_BRISI/ure.sh 
+_BRISI/ure.sh UrE
+_BRISI/ure.sh UrE 
+_BRISI/ure.sh UrEd
+_BRISI/ure.sh ggg
+_BRISI/ure.sh urE
+_BRISI/ure.sh ura
+act (5+)
+appimage_enabling_20241023.txt
+arr=( $(git status) )
+arr=()
+array+="Gregorr"
+array+="Tadeja 'The Queen' Mali Redelonghi"
+array+="Tadeja \"The Queen\" Mali Redelonghi"
+array+='Tadeja "The Queen" Mali Redelonghi'
+array=()
+bash --version
+bash -x ~/.bashrc
+bash -x ~/.bashrc | grep ddbak
+bash version
+bbc hro
+bbc redel
+bbc špe
+bin/BrthReminder_c
+bin/cm2feetinch_v2 181
+bin/cm2feetinch_v2 184
+bin/cm2feetinch_v2 187
+bin/cm2feetinch_v2 190
+bin/cm2feetinch_v2 192 
+bin/cm2feetinch_v2 215
+bin/sas1_serialize_array_of_structs_v12 
+bin/sas2_retreive_structs_from_file_v7 
+bin/sas2_retreive_structs_from_file_v7 | less
+bin/substring_withpointers_v3 
+bin/substring_withpointers_v3 15 15
+bin/substring_withpointers_v3 3 15
+bin/substring_withpointers_v3 4 14
+bin/substring_withpointers_v3 4 15
+bpytop 
+c d..
+c ~/majstaf_en/engit/majrcs_en/
+cat 
+cat 2024/_2024_DOKUMENTI/eInzenir_prijavni-podatki_Gregor-Redelonghi_20230321.txt
+cat _INSTALLATIONS*
+cat ___in_20241118.txt >> primer-on-linux-container-filesystems_20241118.txt 
+cat common_packages.txt 
+cat ff-en_bookmarks_20241126_01.html_part-0* > test.html
+check_git_diffs_en $PWD ~/_EGT/majbin_en/
+check_git_diffs_en . ~/_EGT/majbin_en/
+check_git_diffs_en majbin_en
+check_git_diffs_en ~/majstaf_en/majbin_en/ ~/majstaf_en/majbin_en/
+chmod 644 *
+chmod 755 BrthReminder_c_color.sh 
+chmod 755 engt_testpush_new 
+chmod 755 fsplit_en.sh 
+chmod 755 pattern_subst.sh 
+chmod 755 ~/majstaf_en/majbin_en/switch_prompt
+choice=$(for FFF in ~/majstaf_en/majrcs_en/bashrc_prompt_*; do echo $(basename $FFF); done | fzf); source ~/majstaf_en/majrcs_en/${choice}
+contains "https://tldp.org/LDP/abs/html/parameter-substitution.html"
+contains "https://www.howtoforge.com/how-to-use-rsnapshot-for-backup-and-restore-on-linux-servers/"
+cp  .minttyrc{,.backup.20241113} 
+cp * ~/_EGT/knowledgedb/_DEBIAN/
+cp * ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+cp *.png *.jpg ~/.config/mintty/backgrounds/
+cp -i
+cp -i * ~/majstaf_en/engit/knowledgedb/_DEBIAN/
+cp -i ./* ~/majstaf_en/engit/knowledgedb/_DEBIAN/
+cp -i .tmux.conf .minttyrc ~/majstaf_en/engit/dotfiles_en/
+cp -i /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en differ ~/majstaf_en/engit/majrcs_en/
+cp -i /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+cp -i /home/gregor.redelonghi/majstaf_en/majrcs_en/bashrc_gredelonghi_en majstaf_en/engit/majrcs_en/
+cp -i /home/gregor.redelonghi/majstaf_en/majrcs_en/bashrc_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+cp -i aliases_gredelonghi_en funclist_en startfuncs_en ~/_EGT/majrcs_en/
+cp -i bashrc_prompt_nerd_gredelonghi_en ~/majstaf_en/majrcs_en/
+cp -i check_git_diffs_en check_git_diffs_en.backup_20241106_03
+cp -i ff-en_bookmarks_20241126_01.html ~/majstaf_en/engit/prenos/
+cp -i fsplit_en ~/_BRISI/
+cp -i fsplit_en.sh ~/_EGT/majbin_en/
+cp -i fsplit_en.sh ~/majstaf_en/majbin_en/
+cp -i funclist_en  ~/_EGT/majrcs_en/
+cp -i internal_dir_structure_20241024.txt ~/_EGT/metsys_en/
+cp -i majstaf_en/majrcs_en/bashrc_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+cp -i majstaf_en/majrcs_en/startfuncs_en ~/_EGT/majrcs_en/
+cp -i rsnapshot_howto-use-for-backup-and-restore_20241114.txt ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+cp -i src/bin/BrthReminder_c* .
+cp -i startfuncs_en funclist_en ~/majstaf_en/majrcs_en/
+cp -i ~/.bashrc ./bashrc_prompt_nerd_gredelonghi_en 
+cp -i ~/.bashrc.ORIGINAL2 bashrc_prompt_base_gredelonghi_en 
+cp -i ~/.minttyrc ~/_EGT/dotfiles_en/
+cp -i ~/.minttyrc ~/majstaf_en/engit/dotfiles_en/
+cp -i ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/src/BrthReminder_c* .
+cp -i ~/majstaf_en/majbin_en/check_git_diffs_en ~/_EGT/majbin_en/
+cp -i ~/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/
+cp -i ~/majstaf_en/majrcs_en/bashrc_prompt_* ~/majstaf_en/engit/majrcs_en/
+cp -i ~/majstaf_en/majrcs_en/bashrc_prompt_base_gredelonghi_en ~/_EGT/majrcs_en/
+cp -i* ~/majstaf_en/engit/knowledgedb/_DEBIAN/
+cp -n ~/_DOWNLOADS/dark_blue_blurred_backgrounds_20241025/* .
+cp -r cygwin_metsys ~/majstaf_en/engit/metsys_en/
+cp -r debian_* ~/majstaf_en/engit/prenos/
+cp -r debian_setup/ ~/_EGT/metsys_en/
+cp -r debian_setup/ ~/majstaf_en/metsys_en/
+cp -r i3_setup ~/_EGT/metsys_en/
+cp -r metsys_jbe/i3* ~/majstaf_en/metsys_en/
+cp -r ~/_DOWNLOADS/dark_blue_blurred_backgrounds_20241025 images/
+cp -r ~/_EGT/prenos/background-imgs-blured/ .
+cp -rn debian_setup ~/majstaf_en/engit/metsys_en/
+cp -rn debian_setup/ ~/majstaf_en/metsys_en/
+cp ../ROJSTNIDNEVI.txt bin/
+cp ../metsys_en/_INSTALLATIONS_list_20241120.txt debian_setup/
+cp ./majstaf_en/engit/metsys_en/encode64_decode64_multiline_into_singleline_20241017.txt ~/majstaf_en/metsys_en/
+cp .bashrc ~/majstaf_en/majrcs_en/bashrc_prompt_nerd_gredelonghi_en 
+cp 0a_povezave/BrthReminder_color.exe ~/.local/bin/
+cp 0a_povezave/ROJSTNIDNEVI.txt .
+cp BrthReminder_c.c working_versions/BrthReminder_v25.c
+cp BrthReminder_c_color.c working_versions/BrthReminder_v25_colors.c
+cp BrthReminder_c_color.c{,.backup} 
+cp _INSTALLATIONS_jbe.{,ORIGINAL.}txt 
+cp _INSTALLATIONS_list_20241120.txt debian_setup/
+cp _INSTALLATIONS_list_20241120.txt ~/majstaf_en/engit/metsys_en/
+cp _INSTALLATIONS_list_20241120.txt ~/majstaf_en/engit/metsys_en/debian_setup/
+cp _INSTALLATIONS{_jbe,}.txt 
+cp appimage_enabling_20241023.txt ~/majstaf_en/engit/metsys_en/
+cp bashrc_prompt_base_gredelonghi_en ~/_EGT/majrcs_en/
+cp bashrc_prompt_nerd_gredelonghi_en bashrc_prompt_color_gredelonghi_en 
+cp check_git_diffs_en{,.backup_20241106_02}
+cp ff-en_bookmarks_20241126_01.html ~/majstaf_en/engit/prenos/
+cp funclist_en{,.backup.20241115}
+cp mintyfresh.sh{,.original}
+cp polybar_on_i3_setup_20241023.txt ~/majstaf_en/engit/metsys_en/i3_setup/
+cp ~/_DOWNLOADS/MX-23.4_October_x64.iso .
+cp ~/_DOWNLOADS/dark_blue_blurred_backgrounds_20241025 images/
+cp ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/ROJSTNIDNEVI.txt ~/.local/bin/
+cp ~/majstaf_en/majrcs_en/bashrc_prompt_nerd_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+crtice 
+cycheck -š xclip
+cš ff-en_bookmarks_20241126_01.html ~/majstaf_en/engit/prenos/
+d _DWG/exit
+danes 20241001:
+dbak
+debian_console-fonts-reconfigure_20241111.txt
+debian_setup/
+diff -c /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+diff -c5 /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+diff -q ${majbin_src} ${majbin_dst} | grep -iv common |grep -iv '\.git' 
+diff -q ~/majstaf_en/majbin_en ~/majstaf_en/engit/majbin_en | grep -iv "common\|\.git\|differ"
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common |grep -iv .git
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common |grep -iv .git | cut -d' ' -f3 | cut -d':' -f1
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common |grep -iv .git | cut -d' ' -f3-
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common |grep -iv .git | cut -d' ' -f3- | sed 's/: //' | fzf
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common |grep -iv .git | cut -d' ' -f3- | sed 's/: //' | fzf -m | xargs -I{} cp -v {} ~/majstaf_en/engit/majbin_en/ 
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common |grep -iv .git | cut -d' ' -f3- | sed 's/: //' | fzf | xargs -I{} cp -v {} ~/majstaf_en/engit/majbin_en/ 
+diff -q ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/
+diff -qr ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/
+diff -u /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+diff -u5 /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+diff -w /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+diff -wb /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+duh /d/ext_WD_usbHDD_2TB/n_bekaps/Downloads_cugr_en/ | head -n10
+duh /e/ext_SANDISK_USB_128G/n_bekaps/Downloads_cugr_en/ | head -n10
+duh | clm
+duh | head -n 30
+duh | head -n10
+ebr
+echo "${arr[*]}"
+echo $VAR
+echo $arr
+echo $arr3
+echo $array
+echo ${#arr1[22]}
+echo ${#arr1[23]}
+echo ${#arr2[@]}
+echo ${VAR##*th}
+echo ${VAR##.*p}
+echo ${VAR##.}
+echo ${VAR##/*.}
+echo ${VAR##/*}
+echo ${VAR##/.*}
+echo ${VAR##\.*p}
+echo ${VAR#*on}
+echo ${VAR#*osn
+echo ${VAR#*os}
+echo ${VAR#*th}
+echo ${VAR#.*p}
+echo ${VAR#\.*p}
+echo ${VAR%%/*.}
+echo ${VAR%%}
+echo ${VAR%*.}
+echo ${VAR%*/}
+echo ${VAR%.*p}
+echo ${VAR%/}
+echo ${VAR%\.*p}
+echo ${VAR%on*}
+echo ${arr1[23]}
+echo ${arr2[0]}
+echo ${arr2[2]}
+echo ${arr2[2}
+echo ${arr3[10]}
+echo ${arr3[1]}
+echo -e "[1;38m"
+echo -e "\[1;38m"
+echo -e "\e07;91m]RED-INVERSE${off}"
+echo -e "\e[07;91mRED-INVERSE${off}"
+echo -e "\e[07;91m]RED-INVERSE${off}"
+echo -e "\e[07m"
+echo -e "\e[1;38;5;64m"
+echo -e "\e[1;38;5;64m" KKK
+echo -e "\e[1;38m"
+echo -en $(git status)
+echo KKK
+echo arr3
+exir
+exoit
+export PROMPT_DIRTRIM=0
+export PROMPT_DIRTRIM=4
+ff ff-en_bookmarks_20241126_01.html
+ff ff-en_bookmarks_20241126_01.html_part-01
+ff test.html 
+ffn ff-en_bookmarks_20241126_01.html
+fi
+file $(which BrthReminder_c_color)
+file /usr/bin/dd
+file BrthReminder_c2
+find * -maxdepzh 0 -type f | grep -v '_test'
+find * -type f -iname "*shema*dwg" | grep -v '200*/
+find * -type f -iname "*shema*dwg" | grep -v '200*/'
+find * -type f -iname "*shema*dwg" | grep -v '2002'
+find * -type f -iname "*stebr*dwg"
+find -iname "*cht*"
+find -iname "*chtsht*"
+find -iname "*chtsht*" | xargs -I{} cp -nv {} ~/majstaf_en/support/chtshts/
+find -iname "*gesl*csv" -o -iname "*pass*csv"
+find -iname "*good*txt"
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*inderscores*"
+find -name "*.txt" -print0 | while IFS= read -r -d '' FF; do mv ${FF} $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r -d FF; do mv "$FF" $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r -d'' FF; do mv "$FF" $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r FF; do mv "$FF" $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r FF; do mv ${FF} $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 |xargs -0 -I{} echo mv -v {} $(spaces-to-underscores {})
+find -name "*.txt" -print0 |xargs -0 -I{} mv -v {} $(spaces-to-underscores {})
+find -name "*.txt" -print0 |xargs -0 echo 
+find -name "*.txt" -print0 |xargs -0 echo mv -v {} $(spaces-to-underscores {})
+find -name "*.txt" -print0 |xargs -0 echo | xargs -I{} mv {} $(spaces-to-underscores {})
+find -name "*.txt" -print0 |xargs -0 | while IFS= read FF; do mv ${FF} $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 |xargs -0 | while read FF; do mv "$FF" $(spaces-to-underscores "$FF"); done
+find -name "*.txt" -print0 |xargs -0 | while read FF; do mv $FF $(spaces-to-underscores $FF)
+find -name "*.txt" -print0 |xargs -0 | while read FF; do mv $FF $(spaces-to-underscores $FF); done
+find -name "*.txt" -print0 |xargs -0 | while read FF; do mv ${FF} $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" | while read LINE; do mv "$LINE" $(spaces-to-underscores "$LINE"); done
+find -name "*shortcuts*"
+find -name "cron*"
+find -name "cron*" |grep 2024
+find -name "debian*"
+find -name "encode64_decode64_multiline_into_singleline_20241017.txt"
+find -name '*.txt' while read LINE; do echo "$LINE"; done
+find -name '*.txt' | while read LINE; do mv "$LINE" $(spaces-to-underscores "$LINE"); done
+find -name ddbak
+find -name debian*
+find -size +10M
+find -size +1M
+find -type d -iname "*dolg*most*"
+find -type d -iname "*tool*"
+find -type f -iname "*\.h"
+find -type f -iname "*\.h" |grep -v "OSTALO\|SCRI\|FUNC" 
+find -type f -iname "*\.h" |grep -v OSTALO
+find -type f -iname "*e*inze*"
+find -type f -iname "*qemu*txt"
+find -type f -iname "*shema*dwg"
+find -type f -iname "*shema*dwg" | grep -vE "200[0-9]"
+find -type f -iname "ROJSTNIDNEVI.txt"
+find -type f -name "debian*"
+find -type f -name *cut*
+find -type f -name *cut* | grepc [-_]cut[-_]
+find -type f -name *cut* | grepc ^cut
+find -type f -name *cut* | grepc cut[-_]
+find -type f -name *cut* | grepc cut_
+find . -name "*.txt"
+find . -name "*.txt" | while read FJL; do echo $(spaces-to-underscores "$FJL"); done
+find . -name "*.txt" | while read FJL; do echo $(spaces-to-underscores $FJL); done
+find . -name "*.txt" | while read FJL; do mv "$FJL" $(spaces-to-underscores "$FJL"); done
+find . -name "*.txt" | while read FJL; do mv $FJL $(spaces-to-underscores "$FJL"); done
+find /home/gregor.redelonghi/majstaf_en/engit/knowledgedb/* -iname "*diff*"
+find /home/gregor.redelonghi/majstaf_en/engit/knowledgedb/* -iname "*diff-*"
+fjl_info
+fjl_info | sort -nr -k2
+fjl_info_single 
+fjl_info_single .bashrc
+fm majstaf_en/support/images/dark_blue_blurred_backgrounds_20241025/
+fm support/images/dark_blue_blurred_backgrounds_20241025/
+fncs
+for FFF in "$(find -name "*.txt")"; do echo "$FFF"; done
+for FFF in "$(find -name "*.txt")"; do mv "$FFF" $(spaces-to-hypens "$FFF"); done
+for FFF in $(find * -maxdepth 0 -type f); do mv $FFF ${FFF}_en; done
+for FFF in $(find * -maxdepth 0 -type f); do softlink1-fname-to-ulb $FFF; done
+for FFF in $(find -name "*.txt"); do echo "$FFF $(spaces-to-underscores "$FFF")"; done
+for FFF in $(find -name "*.txt"); do echo "$FFF $(spaces-to-underscores "$FFF"); done
+for FFF in $(find -name "*.txt"); do echo "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in $(find -name "*.txt"); do echo mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in $(find -name "*.txt"); do mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in $(find -name "*.txt); do echo "$FFF"; done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do echo "sed -i /'Jelena Nolimal,19.11.1970'/'Jelena Nolimal,19.11.1973'/" $FFF; done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do echo "sed -i /Jelena Nolimal,19.11.1970/Jelena Nolimal,19.11.1973/" $FFF; done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do grep Jelena: done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do grep Jelena; done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do sed -i "s/Jelena Nolimal,19.11.1970/Jelena Nolimal,19.11.1973/" $FFF; done
+for FFF in *.txt; do mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in *; do echo $FFF: done
+for FFF in *; do echo $FFF; done
+for FFF in *; do echo mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in *; do echo mv $FFF $(spaces-to-underscores "$FFF"); done
+for FFF in *; do mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in *; do mv $FFF $(spaces-to-underscores "$FFF"); done
+for FFF in *; do mv $FFF $(spaces-to-underscores $FFF); done
+for FFF in ~/majstaf_en/majrcs_en/bashrc_prompt_*; do echo $(basename $FFF); done 
+for FFF in ~/majstaf_en/majrcs_en/bashrc_prompt_*; do echo $(basename $FFF); done | fzf
+for i in  0 1; do echo "${arr1[$i]}"; done
+for i in $(seq 1 ${#arr[@])); do echo $i; done
+for i in $(seq 1 ${#arr[@]); do echo $1; done
+for i in $(seq 1 ${#arr[@]); do echo $i; done
+for i in $(seq 1 ${#arr[@]}); do echo $i ${arr[$i]}; done
+for i in $(seq 1 ${#arr[@]}); do echo $i; done
+for i in 0 1 2; do echo "${arr1[$i]}"; done
+for i in 0 1 2; do echo "${arr[$i]}"; done
+for i in 0 1 2; do echo ${arr[$i]}; done
+for prg in git huh bash numpy; do ech -n "$prg: "
+free -h
+fzf -h | grep query
+fzf help | grep "query"
+get_e
+gg
+ghgl_s
+git clone "https://github.com/r-gregor/dotfiles_mdb.git"
+git clone "https://github.com/r-gregor/metsys_jbe.git"
+git clone https://github.com/ChrisTitusTech/Debian-titus.git
+git clone https://github.com/ChrisTitusTech/mybash.git
+git clone https://github.com/r-gregor/majbin_jbe.git
+git diff ghct/main main
+git diff-index --quiet HEAD --
+git diff-index HEAD --
+git help status
+git push ghct main -u
+git push ghen main -u
+git push ghgt main -u
+git push ghnct main -u
+git push ghprns main -u
+git push ghpt main -u
+git push ghrst main -u
+git push glprns main 
+git show
+git status -b
+git update-index --refresh 
+grep "^pddbak" *
+grep '64' ~/majstaf_en/seznami_en/*
+grep '\[e' *
+grep 'banner(' files/lib_linux_setup.sh 
+grep 'git diff' ~/majstaf_en/seznami_en/*
+grep -E 'cod.*64' ~/majstaf_en/seznami_en/*
+grep -E 'code64' ~/majstaf_en/seznami_en/*
+grep -lr lib_linux *
+grep -r '[e' *
+grep -r '\[e' *
+grep -r '\\[e' *
+grep -r '\\\[e' *
+grep -r '\\\\[e' *
+grep -r '\e' *
+grep -r base64 *
+grep -r nohup *
+grep -r pdd *
+grep -rl 'banner(' *
+grep -rl banner *
+grep -rl banner( *
+grep Jelen .local/bin/ROJSTNIDNEVI.txt 
+grep ROJSTN *
+grep bbc ~/majstaf_en/majrcs_en/aliases_gredelonghi_en 
+grep nohup *
+grep prompt ~/majstaf_en/majrcs_en/funclist_en 
+grep switch *
+grep xclip *
+grepc -r '\\e' * | less
+grepc -r '\e' *
+grepc -r '\e' * | less
+grepc -r base64 *
+grepc -r lib_linux *
+gs
+gsr
+gst | grep -i "aheadd"
+history > encode64_decode64_multiline_into_singleline_20241017.txt
+history | grep '64'
+history | grep base64
+history | grep rst
+history | grep rst_opt
+history | grep rst_opt >> rst_simd-stable-rust_20241114.txt 
+https://www.youtube.com/watch?v=TutfIwxSE_s
+im debian_5pp_reference_ch12-programming_20241112.txt 
+info diff
+jarrun TEST2.jar 
+jarrun TEST3.jar 
+jarrun jars/MoviesDatabase.jar
+jarrun jars/MoviesDatabase.jar 
+jarrun jars/MoviesDatabase.jar | clm
+jarrun jars/MoviesDatabase.jar | clm -t
+jarrun jars/MoviesDatabase.jar | clmn 
+jarrun jars/MoviesDatabase.jar | column
+jarrun jars/MoviesDatabase.jar | column -t
+jarrun jars/MoviesDatabase2.jar 
+jarrun jars/MoviesDatabase3.jar 
+jarrun jars/MoviesDatabase3.jar |head
+jarrun myTest.jar 
+l *.iso
+l p*
+l1 | xargs -I{} cp -v {} ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+ldane
+ln -s ${PWD}/BrthReminder_c_color.exe ~/_BRISI/brth_test2
+ln -s ${PWD}/BrthReminder_c_color.sh ~/_BRISI/brth_test
+ln -s ${PWD}/location_test.exe ~/_DOWNLOADS/location_test
+ln -s _NERAZPOREJENO/__DANES__/ __DANES__
+ln -s ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c.exe ~/_DOWNLOADS/
+ln -s ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c_color ./brth_test
+ln -s ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c_color.exe ${PWD}/brth_tteesstt
+ln -s ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c_color.exe ~/_DOWNLOADS/
+ln -s ~/majstaf_en/engit/knowledgedb/ _KNOWLEDGEBASE
+ln -s ~/majstaf_en/support/
+lxappearance
+lynxd "https://blog.ignaciobrasca.com/programming/2024/11/11/exploring-sqlite-with-go.html" go_exploring-sqlite-with-go
+lynxd "https://blogs.kde.org/2024/10/18/limit-application-memory-usage-with-systemd/" systemd_limit-application-memory-usage
+lynxd "https://idroot.us/print-2025-calendar-using-python/" ptn_print-2025-calendar
+lynxd "https://katafrakt.me/2024/11/09/booleans-are-a-trap/" booleans-are-a-trap
+lynxd "https://l-o-o-s-e-d.net/kb/polybar" polybar_on_i3_setup
+lynxd "https://linuxbuz.com/devops/create-docker-image-from-a-container" docker_create-image-from-runnig-container
+lynxd "https://linuxhandbook.com/check-bash-array-empty/" bash_check-if-array-empty
+lynxd "https://michalpitr.substack.com/p/primer-on-linux-container-filesystems" primer-on-linux-container-filesystems
+lynxd "https://pythonspeed.com/articles/optimizing-with-simd/" rst_optimizing-with-simd
+lynxd "https://pythonspeed.com/articles/simd-stable-rust/" rst_simd-stable-rust
+lynxd "https://rknight.me/blog/copy-ssh-keys-to-a-server/" ssh_howto_copy-ssh-keys-to-a-server
+lynxd "https://serverfault.com/questions/49082/can-i-run-a-cron-job-more-frequently-than-every-minute" cron_howto_run-cron-job-more-frequently-than-every-minute
+lynxd "https://stackoverflow.com/questions/16519673/cron-with-notify-send" cron_with-notify-send
+lynxd "https://stackoverflow.com/questions/37895746/how-to-update-programs-built-from-source" howto_update-programs-built-from-source
+lynxd "https://unix.stackexchange.com/questions/278564/cron-vs-systemd-timers" cron-vs-systemd-timers
+lynxd "https://unix.stackexchange.com/questions/343814/kvm-cant-access-qcow2-images-storend-on-an-external-hdd" kvm_cant-access-qcow2-images-storend-on-an-external-hdd
+lynxd "https://wiki.debian.org/DebianUpgrade" debian_upgrade
+lynxd "https://www.howtoforge.com/how-to-use-rsnapshot-for-backup-and-restore-on-linux-servers/" howto-use-rsnapshot-for-backup-and-restore
+lynxd "https://www.howtoforge.com/how-to-use-rsnapshot-for-backup-and-restore-on-linux-servers/" howto-use-rsnapshot-for-backup-and-restore-on-linux-servers/
+lynxd "https://www.iodigital.com/en/history/intracto/creating-debianubuntu-deb-packages" debian_creating-deb-packages
+lynxd "https://www.linuxjournal.com/content/how-set-debian-development-environment" debian_howto_set-development-environment
+lynxd Whttps://unix.stackexchange.com/questions/278564/cron-vs-systemd-timers cron-vs-systemd-timers
+lynxd Whttps://unix.stackexchange.com/questions/278564/cron-vs-systemd-timers" cron-vs-systemd-timers
+lynxd Whttps://unix.stackexchange.com/questions/278564/cron-vs-systemd-timersW cron-vs-systemd-timers
+mN UNZIP
+mapfile -t -O arr < <(echo -e $s2)
+md5sum MX-23.4_x64.iso && echo '9155136c5ea83179907dca55c6eb67b1'
+mkdir Chris-Titus-Tech_checkout_git_repos_20241022
+mkdir _QEMU_KVM
+mkdir backgrounds
+mkdir btisime_20241002
+mkdir cygwin_metsys
+mkdir debian_setup
+mkdir doc
+mkdir location_test
+mkdir mintty
+mkdir support
+mkdir {images,chtshts,colors,customizations}
+mkdit mintty
+mn diff
+mv *.iso __downloaded_isos_2024-10/
+mv *.txt doc/
+mv -v ./* ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+mv ./* ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+mv .bashrc.bac{,k}up_20241022 
+mv BRISIME ../majrcs_en/
+mv BrthReminder_c{,2}
+mv Chris-Titus-Tech_checkout_git_repos_20241022/ ~/_NERAZPOREJENO/
+mv KKKKKKKKKKKKKKKKKKK{,.txt} 
+mv MX-23.4_x64.iso __downloaded_isos_2024-10/
+mv _INSTALLATIONS_jbe.txt ~/_BRISI/
+mv _LINUX_SYSTEM/*-kvm-* _QEMU_KVM/
+mv _LINUX_SYSTEM/qemu_test-operating-systems-distributions_20240216.txt _QEMU_KVM/
+mv bash_check-if-array-empty_20241107.txt ~/majstaf_en/engit/knowledgedb/_BASH/
+mv bash_pattern_subst.sh ~/_BRISI/
+mv bashrc_prompt_ba{s,r}e_gredelonghi_en 
+mv booleans-are-a-trap_20241112.txt ~/_EGT/knowledgedb/_CS_and_other_PL/
+mv check_git_diffs_en.backup_20241106_0{2,3} 
+mv check_git_diffs_en.backup_20241106{,_02}
+mv check_git_diffs_en.backup{,_20241106_01}
+mv debian_* ~/_EGT/knowledgedb/_DEBIAN/
+mv debian_5pp_reference_ch12-programming_20241112.txt debian_reference_ch12-programming_5pp_20241112.txt 
+mv debian_automount_external_usb_ssd_drives-multif_20241114.txt ~/_EGT/knowledgedb/_DEBIAN/
+mv debian_{,5pp_}reference_ch12-programming_20241112.txt 
+mv docker_create-image-from-runnig-container_20241003.txt ~/_EGT/knowledgedb/_DOCKER/
+mv docs{,_en}
+mv doc{,s}
+mv encode64_decode64_multiline_into_singleline_20241017.txt ~/majstaf_en/engit/metsys_en/
+mv go_exploring-sqlite-with-go_20241114.txt ~/_EGT/knowledgedb/_GO/
+mv howto_update-programs-built-from-source_20241112.txt ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+mv i3-key-binds-from-config_20230818.txt i3_setup/
+mv i3_volpejp{e,}rsafler_setup_20230117.txt 
+mv i3{-,_}key-binds-from-config_20230818.txt 
+mv ima{h,g}emagick_howto-batch-edit-photos_20241118.txt 
+mv internal_dir_structure_20241024.txt ~/majstaf_en/metsys_en/
+mv kvm_cant-access-qcow2-images-storend-on-an-external-hdd_20241114.txt ~/_EGT/knowledgedb/_QEMU_KVM/
+mv polybar_on_i3_setup_20241023.txt ~/majstaf_en/metsys_en/i3_setup/
+mv primer-on-linux-container-filesystems_20241118.txt imagemagick_howto-batch-edit-photos_20241118.txt ~/_EGT/knowledgedb/_DOCKER/
+mv primer-on-linux-container-filesystems_20241118.txt ~/_EGT/knowledgedb/_DOCKER/
+mv ptn_print-2025-calendar_20241118.txt ~/_EGT/knowledgedb/_PYTHON/
+mv rsnapshot_howto-use-rsnapshot-for-backup-and-restore_20241114.txt rsnapshot_howto-use-for-backup-and-restore_20241114.txt 
+mv rst_optimizing-with-simd_20241114.txt ~/_EGT/knowledgedb/_RUST/
+mv rst_simd-stable-rust_20241114.txt ~/_EGT/knowledgedb/_RUST/
+mv software-pathfinding-algorithms-we-develop-software-by_20241115.txt ~/_EGT/knowledgedb/_CS_and_other_PL/
+mv staro{,_en}
+mv syncthing_linux-sync-files-between-servers_20241017.txt ~/majstaf_en/engit/knowledgedb/_LINUX_SYSTEM/
+mv {,bash_}pattern_subst.sh 
+mv {,i3_}history_20230117.txt 
+mv {,rsnapshot_}howto-use-rsnapshot-for-backup-and-restore_20241114.txt 
+mv {,txt-}fnames-from-unix2dos 
+mv ~/_EGT/knowledgedb/_AWK_SED_GREP_XARGS{,_CUT,_TR}
+mv ~/_EGT/knowledgedb/_AWK_SED_GREP_XARGS{,_CUT_TR}
+n a CGI program in C" | tr " " "_" | tr "[:upper:]" "[:lower:]"
+nifs
+nm-applet
+nohup /usr/bin/mintty -e /usr/bin/bash
+nvol commit -m "update 20241108_en"
+off='\e[0m'
+oifs
+p3 --version
+pavucontrol
+pddbak 
+prepare-fjl-for-knowledgebase ___in_20241118.txt 
+prepare-fjl-for-knowledgebase appimage_enabling_20241023.txt
+prepare-fjl-for-knowledgebase bash_check-if-array-empty_20241107.txt 
+prepare-fjl-for-knowledgebase booleans-are-a-trap_20241112.txt 
+prepare-fjl-for-knowledgebase cron-vs-systemd-timers_20241003.txt 
+prepare-fjl-for-knowledgebase cron_howto_run-cron-job-more-frequently-than-every-minute_20241003.txt 
+prepare-fjl-for-knowledgebase cron_with-notify-send_20241003.txt 
+prepare-fjl-for-knowledgebase debian_automount_external_usb_ssd_drives-multif_20241114.txt 
+prepare-fjl-for-knowledgebase debian_creating-deb-packages_20241112.txt 
+prepare-fjl-for-knowledgebase debian_howto_set-development-environment_20241112.txt 
+prepare-fjl-for-knowledgebase debian_keeping-debian-uptodate_20241112.txt 
+prepare-fjl-for-knowledgebase debian_maintainers-guide_start_20241112.txt 
+prepare-fjl-for-knowledgebase debian_reference_ch12-programming_20241112.txt 
+prepare-fjl-for-knowledgebase debian_upgrade_20241112.txt 
+prepare-fjl-for-knowledgebase docker_create-image-from-runnig-container_20241003.txt 
+prepare-fjl-for-knowledgebase go_exploring-sqlite-with-go_20241114.txt 
+prepare-fjl-for-knowledgebase howto-use-rsnapshot-for-backup-and-restore_20241114.txt 
+prepare-fjl-for-knowledgebase howto_find-hdd-ssd-serial-numbers_20241118.txt 
+prepare-fjl-for-knowledgebase howto_update-programs-built-from-source_20241112.txt 
+prepare-fjl-for-knowledgebase imagemagick_howto-batch-edit-photos_20241118.txt 
+prepare-fjl-for-knowledgebase kvm_cant-access-qcow2-images-storend-on-an-external-hdd_20241114.txt 
+prepare-fjl-for-knowledgebase polybar_on_i3_setup_20241023.txt 
+prepare-fjl-for-knowledgebase primer-on-linux-container-filesystems_20241118.txt 
+prepare-fjl-for-knowledgebase ptn_print-2025-calendar_20241118.txt 
+prepare-fjl-for-knowledgebase rsnapshot_howto-use-for-backup-and-restore_20241114.txt 
+prepare-fjl-for-knowledgebase rst_optimizing-with-simd_20241114.txt 
+prepare-fjl-for-knowledgebase rst_simd-stable-rust_20241114.txt 
+prepare-fjl-for-knowledgebase ssh_howto_copy-ssh-keys-to-a-server_20241028.txt 
+prepare-fjl-for-knowledgebase systemd_limit-application-memory-usage_20241021.txt 
+printf "\e[07m"
+printf "\u23FB - power off" 
+printf "\uf001"
+printf "\uf011"
+printf "\uf233"
+printf "\uf2db"
+prompt
+py --version
+py -m pip remove bpytop
+py3 --version
+rcho arr3
+readarray -t -O "${#arr[@]}" arr < <(echo -n $(git status))
+readarray -t -O arr < <(echo -e $s2)
+readarray -t arr < <(echo -e $s1)
+readarray -t arr1 < <(ghgl_testpush_en)
+readarray -t arr2 < <(git status)
+readarray -t arr3 < <(echo -e "$s2")
+readarray -t arr3 < <(echo -e "$sentence")
+readarray -t arr3 << <(echo -e "$s2")
+readarray -t output < <(git status)
+readarray arr1 < <(ghgl_testpush_en)
+realpath ./brth_test
+red='\e[91m'
+rsort-by-tmstmp_c
+rsort-by-tmstmp_c _LINUX_SYSTEM/
+rsort-by-tmstmp_c _LINUX_SYSTEM/ |head
+rsort-by-tmstmp_c | head
+rsort-by-tmstmp_c ~/_EGT/knowledgedb/_BASH/
+rsort-by-tmstmp_c ~/_EGT/knowledgedb/_BASH/ |head
+rsort-by-tmstmp_c ~/_EGT/knowledgedb/_BASH/ |head -n30
+s1="First sentence ... 1"
+s2 "A Decently Good Way to Create Custom Polybar Modules" """
+s2 "CHECK OUT" """
+s2 "Let's Linux #019: fonts are awesome with polybar" "https://www.youtube.com/watch?v=DK6aun1FbhM"
+s2 "SOLVED?? git status" """
+s2 "add to dmenu and rofi and bash menu" """
+s2 "indie SF movies list" """
+s2 "try in i3 ..." """
+s2="Just a2 sentence with some addds"
+s2="Second sentence ...2"
+sb
+sbc
+sbrž
+sed -i "s/'Jelena Nolimal,19.11.1970'/'Jelena Nolimal,19.11.1973'/" .local/bin/ROJSTNIDNEVI.txt 
+sed -i "s/Jelena Nolimal,19.11.1970/Jelena Nolimal,19.11.1973/" .local/bin/ROJSTNIDNEVI.txt 
+sed -i /'Jelena Nolimal,19.11.1970'/'Jelena Nolimal,19.11.1973'/ .local/bin/ROJSTNIDNEVI.txt 
+sentence="Just a sentence with some addds"
+so: git status -sb (or: -b) 
+softlink1-fname-to-ulb BrthReminder_c
+softlink1-fname-to-ulb BrthReminder_c jel
+softlink1-fname-to-ulb BrthReminder_c_color.exe 
+softlink1-fname-to-ulb engt_testpush_new 
+softlink1-fname-to-ulb txt-fnames-from-unix2dos 
+softlink1-fname-to-ulb ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c_color.exe 
+softlink1-fname-to-ulb ~/majstaf_en/majbin_en/fsplit_en 
+softlink1-fname-to-ulb ~/majstaf_en/majbin_en/fsplit_en.sh 
+softlink1-fname-to-ulb ~/majstaf_en/majbin_en/switch_prompt
+source bashrc_prompt_base_gredelonghi_en
+source ~/majstaf_en/majrcs_en/startfuncs_en 
+split -n 2 --additional-suffix="_part_" ff-en_bookmarks_20241126_01.html 
+split -n 2 --aditional-suffix=_part_ ff-en_bookmarks_20241126_01.html 
+split -n 2 -d --additional-suffix="_part_" ff-en_bookmarks_20241126_01.html 
+split -n 2 ff-en_bookmarks_20241126_01.html 
+split n2 ff-en_bookmarks_20241126_01.html 
+src/bin/BrthReminder_c
+src/bin/BrthReminder_c_color jel
+testing_gtgh_testpush_en && engt_testpush 
+tmux
+tmxnd
+touch "fahl 2.jpg"
+touch KKKKKKKKKKKKKKKKKK
+touch KOLLME
+touch _BASH/KKKKKKKKKKKKKKKKKKK
+tree -d -L 3
+tree -d -L 4
+tree -d -L 4 | less
+tree support
+tree support | less --color always
+tree support | less --color=always
+tree support | less -R
+tree support/
+tree support/ |less
+tree ~/majstaf_en/brisime_en/
+tree ~/majstaf_en/brisime_en/ >> internal_dir_structure_20241024.txt 
+txt-fnames-from-unix2dos 
+type /usr/bin/dd
+type BrthReminder_c2
+type ddbak
+type fnc
+type fsort_files 
+type sbr
+type switch_prompt 
+unset arr2
+unzip dark-blue-polygonal-background.zip 
+vi cm2feetinch_v2.c 
+vm funclist_en
+volpejprs rearrangement of dirs -- look in EN!
+vom .gitignore 
+vom leap-years-
+vp 0a_povezave/BrthReminder_color.exe ~/.local/bin/
+wget https://raw.githubusercontent.com/r-gregor/majrcs_mdb/refs/heads/main/bashrc_prompt_nerd_muadib
+which bash
+which dd
+which ddbak
+which switch_prompt 
+while IFS= read -r line <&3; do echo mv $line $(spaces-to-underscores $line); done 3< <(find -name "*.txt")
+wrd
+xs-
+yes | gadd && ghgl_push_en 
+z ~/majstaf_en/majrcs_en/
+zsh
+~/.local/bin/BrthReminder_c2
+~/.local/bin/BrthReminder_c_color2 
+~/_BRISI/BrthReminder_c_color 
+~/_BRISI/brth_test
+~/_BRISI/brth_test jel
+~/_DOWNLOADS/BrthReminder_c
+~/_DOWNLOADS/BrthReminder_c_color 
+~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c_color 
+çd ..
+čč _IN*
+ȩxit
+[200~print -z $(cat ~/Downloads/log.txt | fzf)~
+...
+./convert-fname-to-lower-with-hypens "My New File.txt"
+./fnames-from-unix2dos TESTDIR1/
+./location_test 
+./odjava_menu_en 
+./spaces-to-hypens 
+./spaces-to-underscores
+FFF=test*
+FFS="My New Filename.txt"
+Rofi (The Best App Launcher)
+alias | grep ui
+bash $(find * -type f | fzf)
+bin/struct_region_offset_v9 
+broken_symlinks_list >> ~/_BRISI/broken_symlinks_20241002_1253.txt
+broken_symlinks_list | awk '{print $1}'
+broken_symlinks_list | awk '{print $1}' | sed 's/://'
+cat _LIST | awk '{print $2}' | sed 's/.*majbin_en\/\(.*\):.*/\1/
+cat _LIST | awk '{print $2}' | sed 's/.*majbin_en\/\(.*\):.*/\1/'
+cat _LIST | awk '{print $2}' |sed 's/://'
+cat encoded enc2
+cat encoded enc2 
+cat encoded enc2 > encoded2
+cat encoded enc2 | base64 -d 
+cat encoded enc2 | base64 -d | join
+cat encoded enc2 | base64 -d | join -
+cat encoded enc2 | base64 -d | sed ':a;N;$!ba;s/\n/ /g'
+cat encoded enc2 | base64 -d | sed 's/$/, /'
+cat encoded enc2 | base64 -d | sed 's/$\n/, /'
+cat encoded enc2 | base64 -d | sed 's/$\r\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\$, /'
+cat encoded enc2 | base64 -d | sed 's/\$/, /'
+cat encoded enc2 | base64 -d | sed 's/\\\\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\\\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\n$/, /'
+cat encoded enc2 | base64 -d | sed 's/\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\r\n$/, /'
+cat encoded enc2 | base64 -d | sed 's/\r\n/, /'
+cat encoded enc2 | base64 -d | tr '\n' ', '
+cat encoded enc2 | base64 -d | tr -d '\n'
+cat encoded enc2 | base64 -d |tr '\n' ','
+cat encoded |base64 -d
+cat encoded2
+cat encoded2 |base64 -d | sed 's/$\n,/,/'
+cat encoded2 |base64 -d | sed 's/Ljubljana\n/Ljubljana/
+cat encoded2 |base64 -d | sed 's/Ljubljana\n/Ljubljana/'
+cat encoded2 |base64 -d | sed 's/\$\n,/,/'
+cat encoded2 |base64 -d | sed 's/\$\n/$/'
+cat encoded2 |base64 -d | sed 's/\$\n//'
+cat encoded2 |base64 -d | sed 's/\n,/,/'
+cat encoded2 |base64 -d | sed 's/\n//'
+cat encoded2 |base64 -d | sed tr '\n,' ','
+cat encoded2 |base64 -d | tr '\n' ' '
+cat encoded2 |base64 -d | tr '\n' ','
+cat encoded2 |base64 -d | tr '\n,' ','
+ch?v=TutfIwxSE_s
+check_git_diffs_en majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/
+check_git_diffs_en ~/majstaf_en/majrcs_en/ ~/majstaf_en/engit/majrcs_en/
+cmd=softlink1-fname-to-ulb 
+cp -i ../spaces-to-* ./staro/
+cp -i _MB/odjava_menu_en _GT/majbin_en/
+cp -i convert-fname-to-lower-with-hypens string-to-lower-with-hypens 
+cp -i hypens-to-underscores staro/
+cp -i odjava_menu_en ~/majstaf_en/engit/majbin_en/
+cp -i ~/majstaf_en/majbin_en/broken_symlinks_list ~/majstaf_en/engit/majbin_en/
+cp ../lower-to-upper .
+cp ../upper-to-lower .
+cp 4-spaces-to-tabs staro/
+cp staro/convert-linenedings-from-unix-to-dos .
+danes: 20241001:
+ddlog
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common |grep -iv .git | cut -d' ' -f3- | sed 's/: //'
+echo "${#arr}
+echo "${arr[0]}"
+echo "${arr[1]}"
+echo ", gredelonghi@gmail.com" |base64 > enc2
+echo "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana"
+echo "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana" | base64
+echo "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana" | base64 > encoded
+echo "Kva je zej $(echo -e "Mami\nOči\nsestra" |fzf) ??"
+echo "My new File.txt\nHa Ha Ha.txt" | string-to-lower-with-hypens
+echo "My new File.txt\nHa Ha Ha.txt" | string-to-lower-with-hypens -
+echo "gredelonghi@gmail.com, 00386 40 88 55 60" | base64 > enc2
+echo $(string-to-lower-with-hypens "$FFS")
+echo $names
+echo $names[@]
+echo ${names[@]}
+echo -e "Mami\nOči\nsestra" |fzf | xargs -I{} echo "Kva je zej, {}?"
+echo -e "My new File.txt\nHa Ha Ha.txt" | string-to-lower-with-hypens
+echo string-to-lower-with-hypens "$FFS"
+echo string-to-lower-with-hypens $FFS
+export FZF_DEFAULT_COMMAND="fd --type f"
+find * -maxdepth 0 -type f | grep -v '_test' |xargs -I{} softlink1-fname-to-ulb {}
+find * -type f  -name "*.txt" -o -name "*.csv" | fzf --multi --prompt "" | xargs --no-run-if-empty cat
+find * -type f  -name "*.txt" -o -name "*.csv" | fzf --multi | xargs --no-run-if-empty cat
+find * -type f | fzf
+find * -type f | fzf -e
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*inderscores*" |grep -v "engit\|testing"
+find -iname "*vodovod*"
+find -iname "BRISI*"
+find -iname "james*"
+find -iname "james*" | xargs -I{} cp -v {} ~/_DOWNLOADS/_IMAGES/
+find -name "*ddbak*"
+find -name "ff*" |grep -v html
+find -type -f name logout
+find -type f
+find -type f name logout
+find -type f | xargs -I{} cp {} staro/
+find ~ -type f | fzf -e
+for FF in "New File 1.txt" "New Book 2.txt"; do echo "$FF $(./convert-fname-to-lower-with-hypens "$FF")"; done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo "$FF --> $(./convert-fname-to-lower-with-hypens "$FF")"; done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo "$FF" --> $(./convert-fname-to-lower-with-hypens "$FF"); done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo $FF --> $(./convert-fname-to-lower-with-hypens "$FF"); done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo $FF --> $(./convert-fname-to-lower-with-hypens $FF); done
+for FF in "TESTDIR1/New File 1.txt" "TESTDIR1/New Book 2.txt"; do echo "$FF --> $(./convert-fname-to-lower-with-hypens "$FF")"; done
+for FF in "TESTDIR1/New File 1.txt" "TESTDIR1/New Book 2.txt"; do echo "$FF --> $(./string-to-lower-with-hypens "$FF")"; done
+for FFF in TES*; do ./convert-linenedings-from-unix-to-dos $FFF; done
+for FFF in TES*; do echo $FF; done
+for FFF in TES*; do echo $FFF; done
+for FFF in fname_4-spaces-to-tabs fnames-from-unix2dos hypens-to-underscores lower-to-upper spaces-to-* string-to-lower-with-hypens upper-to-lower; do $cmd $FFF; done
+for FFF in fname_4-spaces-to-tabs fnames-from-unix2dos hypens-to-underscores lower-to-upper spaces-to-* string-to-lower-with-hypens upper-to-lower; do echo $FFF; done
+for FFS in "My New Filename.txt" "Ha Ha Ha.txt"; do echo $(string-to-lower-with-hypens "$FFS"); done
+for FFS in "My New Filename.txt" "Ha Ha Ha.txt"; do echo $FFS --> $(string-to-lower-with-hypens $FFS); done
+fzf -f list
+gdt
+get_endiffs | grep 'No Such' &> _LIST
+get_endiffs | grep 'No Such' 2> _LIST
+get_endiffs | grep 'No Such' > _LIST
+get_endiffs | grep 'No Such' >> _LIST
+get_endiffs | grep 'No Such' | awk '{print $2}' | sed 's/://'
+get_endiffs | grep 'No Such' | cut -d' ' -f2  | sed 's/://'
+get_endiffs | grep 'No Such' | cut -d':' -f2
+grep -r --color "tr ' " 
+grep -r ddbak *
+kil -9 **
+ln -s ~/majstaf_en/engit/ _GT
+ln -s ~/majstaf_en/majbin_en/ _MB
+ln -s ~/majstaf_en/scripts_majbin_en _SCR
+lynxd "https://thenewstack.io/linux-sync-files-between-servers-with-syncthing/" syncthing_linux-sync-files-between-servers
+mkdir TESTDIR1
+mkdir staro
+mv $FFF ${FFF}.txt
+mv ../spaces-to-* .
+mv TEST_FILE.txt TESZT_JAJEL2.txt new-* TESTDIR1/
+mv _GT _NGT
+mv _MB{,E}
+mv _{N,E}GT
+mv convert-linenedings-from-unix-to-dos fnames-from-unix2dos
+mv encoded _BRISI
+mv list_broken_symlinks broken_symlinks_list
+mv {,fname_}4-spaces-to-tabs 
+mv {logout,odjava}_menu_en 
+ndot status
+notify
+notify-send
+nvol commit -m "update 20241001_1540_en"
+odj
+oseba=$(echo -e "Mami\nOči\nsestra" |fzf) ??"; echo "Kva je zej $oseba ??"
+oseba=$(echo -e "Mami\nOči\nsestra" |fzf); echo "Kva je zej $oseba ??"
+pddbak
+prepare-fjl-for-knowledgebase syncthing_linux-sync-files-between-servers_20241017.txt 
+print -z $(LS -1 | fzf)~
+print -z $(cat ~/Downloads/log.txt | fzf)~
+readarray -t -O "${#arr[@]}" arr < <(echo -e $s2)
+readarray -t -O "${#arr[@]}" arr < <(echo -en $(git status))
+readarray -t arr < <(echo -en $(git status))
+s2 "danes-2" """
+s2 "danes: 20241001" """
+s2 "danes: 20241001" ""2
+softlink1-fname-to-ulb broken_symlinks_list 
+softlink1-fname-to-ulb odjava_menu_en 
+softlink1-fname-to-ulb ~/majstaf_en/majbin_en/fsplit_en
+split -n 2 -d --additional-suffix="_part-" ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01.html
+split -n 2 -d --additional-sufix="_part-" ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01.html
+split -n 2 -d ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01.html
+split -n 2 -d ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01.html_part-
+split -n 2 ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01
+split ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01
+string-to-lower-with-hypens 
+tail -n5 ~/majstaf_en/majrcs_en/aliases_gredelonghi_en 
+tail ~/majstaf_en/majrcs_en/aliases_gredelonghi_en 
+touch TEST_FILE.txt
+touch TESZT_JAJEL2.txt
+tree staro/
+type logout
+type qtm
+unset
+unset **
+$pwd
+%1 fg
+%1fg
+./BrthdReminder_1.1.0_colors rede
+./TEST 
+./Ventoy2Disk.sh 
+./brth_test2 
+./build/BrthReminder_c
+./build/string_to_hex_v3 182
+./build/string_to_hex_v3 18200
+./build/string_to_hex_v3.exe 
+./build/string_to_hex_v3.exe "Gregor Redelonghi"
+./build/string_to_hex_v4
+./build/string_to_hex_v4 
+./build/string_to_hex_v4 GaGa
+./build/string_to_hex_v4 GaGafffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+./build/string_to_hex_v4 gregor
+./build/string_to_hex_v4 gregor"
+./fsplit_en.sh ff-en_bookmarks_20241126_01.html
+./fsplit_en.sh ff-en_bookmarks_20241126_01.html 4
+./lf-windows-amd64/lf 
+./pattern_subst.sh 
+./preglej.barve 
+./refresh_fjl_to_git_repo refresh_fjl_to_git_repo
+/d/RUN_backups -y
+/usr/bin/git status | grep "new file\|modified"
+Compile Code The Way Vim Intended
+DR=seznami_en
+Downloads/debian.iso
+NM="THE GORGE (2025)"
+NM="The Amateur (2025) -- Rami Malek"
+NM="Your Monster (2024)"
+TMXNS
+[ -L $PWD ]
+abrn
+alias grep --color grepc
+alias grep --color=always grepc
+alias | grep --color=always grepc
+alias | grepc grep
+bash ./refresh_fjl_to_git_repo 
+bash ./refresh_fjl_to_git_repo aliases_gredelonghi_en 
+bin/cm2feetinch_v2 186
+broken_symlinks_list | cut -d ":" -f1
+broken_symlinks_list | cut -d ':' -f1
+c _VIM/
+cat *
+cat /proc/filesystems 
+cat dotfiles/README.md 
+cat dotfiles/README.md | less
+check cygport
+check_git_diffs_en maetsys
+check_git_diffs_en maetsys_en
+check_git_diffs_en seznami_en
+check_git_diffs_en ~/majstaf_en/${MESTO}/ ~/majstaf_en/engit/${MESTO}/
+check_git_diffs_en ~/majstaf_en/majbin_en/ ~/_EGT/majbin_en/
+check_git_diffs_en ~/majstaf_en/metsys_en/ ~/_EGT/metsys_en/
+cm2feetinch 190
+contains "https://idroot.us/unzip-files-using-python/"
+cp -i ../src/BrthReminder_c_colors_v26.c .
+cp -i ../src/BrthReminder_c_v26.c .
+cp -i ../src/daysdiff_v* .
+cp -i /home/gregor.redelonghi/.minttyrc ~/_EGT/dotfiles_en/
+cp -i /home/gregor.redelonghi/majstaf_en/majrcs_en/funclist_en ~/_EGT/majrcs_en/
+cp -i 0a_povezave/ROJSTNIDNEVI.txt ~/.local/bin/
+cp -i BrthReminder_c* daysdiff.h Makefile ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/src/
+cp -i ROJSTNIDNEVI_W.txt build/
+cp -i _* ~/majstaf_en/engit/knowledgedb/_VIM/
+cp -i bashrc_gredelonghi_en funclist_en ~/_EGT/majrcs_en/
+cp -i bashrc_prompt_color_gredelonghi_en ~/_EGT/majrcs_en/
+cp -i bashrc_prompt_nerd_gredelonghi_en ~/_EGT/majrcs_en/
+cp -i daysdiff_v2.h src/
+cp -i funclist_en ~/_EGT/majrcs_en/
+cp -i logout_menu_en ~/majstaf_en/engit/majbin_en/
+cp -i ~/_BRISI/build/ROJSTNIDNEVI_W.txt ~/majstaf_en/coding2/testing/c_testing/ct_127_BrthReminder-03_20240312/working_versions_w/
+cp -i ~/majstaf_en/majrcs_en/bashrc_prompt_nerd_gredelonghi_en .
+cp -i ~/majstaf_en/majrcs_en/bashrc_prompt_nerd_gredelonghi_en ~/_EGT/majrcs_en/
+cp -r /c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs/wpps_from_linux-dabbler ~/_EGT/prenos/
+cp -r CyberChef_v10.19.4/ /d/ext_WD_usbHDD_2TB/n_bekaps/myprogs_cugr_en/
+cp -r build/ ~/_BRISI/
+cp -r ct_127{,a}_BrthReminder-03_20240312/
+cp -r v1.1 ~/_BRISI/
+cp 0a_povezave/ROJSTNIDNEVI.txt ~/.local/bin/
+cp BrthReminder_c.c src/BrthReminder_c_v26.c
+cp BrthReminder_c_color.c src/BrthReminder_c_color_v26.c
+cp BrthReminder_c_color.c src/BrthReminder_colors_c_v25.c
+cp BrthdReminder.jar ROJSTNIDNEVI.txt /c/Users/gregor.redelonghi/majstaf_en/BRISI/TEST/
+cp c_working-with-hexadecimal-values-multif_20241204.txt ~/_EGT/knowledgedb/_C_and_Cpp/
+cp daysdiff.h daysdiff_v2.h 
+cp daysdiff_v2.h src/
+cp izklop logout_menu
+cp logout_menu_en ~/majstaf_en/engit/majbin_en/
+cp src/build/* .
+cp string_to_hex_v{3,4}.c 
+cp v1.1 ~/_BRISI/
+cp ~/majstaf_en/coding2/testing/c_testing/ct_127_BrthReminder-03_20240312/ROJSTNIDNEVI.txt .
+cygpath -w $PWD
+diff --git
+diff -b /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+diff -c ct_127*
+diff -c ct_127_BrthReminder-03_20240312/ ct_127a_BrthReminder-03_20240312/
+diff -q ct_127*
+diff -q ct_127_BrthReminder-03_20240312/ ct_127a_BrthReminder-03_20240312/
+diff -q ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/ | grep -iv common |grep -iv .git | cut -d' ' -f3
+diff -wc /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+diff -wu /home/gregor.redelonghi/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/_EGT/majrcs_en/aliases_gredelonghi_en 
+diff . /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/
+dnes
+duh .cargo/
+duh /d/ext_WD_usbHDD_2TB/n_bekaps/myprogs_cugr_en/
+duh bin/
+duh registry
+echo "${arr[@]}"
+echo "[ -L $PWD ]"
+echo $(basename ${PWD})
+echo $(cf)
+echo $(cygpath -w $PWD)
+echo $PWD
+echo $appslist 
+echo $pkgs
+echo $seznam
+echo ${#arr1[@]}
+echo ${#arr3[@]}
+echo ${#pkgs[@]}
+echo ${VAR##/}
+echo ${VAR#.*}
+echo ${VAR#.}
+echo ${VAR#/}
+echo ${VAR%%*.}
+echo ${VAR%%*/}
+echo ${VAR%%.}
+echo ${VAR%%/.*}
+echo ${arr3[0]}
+echo ${pkgs[#@]}
+echo ${pkgs[0]}
+echo ${pkgs[1]}
+echo ${pkgs[@#]}
+echo ${pkgs[@]}
+echo ${seznam[1]}
+echo ${seznam[@]}
+echo &?
+echo PS1
+echo cf
+echo mmm
+engt_testpush
+exuit
+ff index.html
+ffn MustRead.html 
+fi;
+file logout
+fim ranger/rc.conf
+find * -type f -iname "*shema*dwg"
+find -iname "*.iso"
+find -name "*.toml"
+find -name "*.txt" -print0 |xargs -0 echo
+find -name "*hex*txt"
+find -name '*.txt' | while read LINE; do echo "$LINE"; done
+find -name Cargo.toml
+find -type f -iname "*kvm*" -o -iname "*qemu*"
+find -type f -iname "*kvm*txt"
+find -type f -iname "*kvm*txt" -o -iname "*qemu*txt"
+find -type f -iname "*xargs*"
+find -type f -iname "xargs*" | xargs -I{} mv -v {} _AWK_SED_GREP_XARGS/
+find -type f -iname "xargs*" | xargs -I{} mv -v{} _AWK_SED_GREP_XARGS/
+find /home/gregor.redelonghi/majstaf_en/majbin_en/* -iname "*color*" | fzf | bash -
+find ~/.config -type f -name "*conf" -o -iname "config*" | fvmp
+find ~/.config -type f -name "*conf" -o -iname "config*" | fvvmp
+find ~/.config -type f -name "*conf" -o -iname "config*" | fzvmp
+find ~/.config -type f -name "*conf" -o -iname "config*" |fzvmp
+for FFF in $(find -name "*.txt"); do echo "$FFF"; done
+for FFF in $(find -name "*.txt"); do mv "$FFF" $(spaces-to-hypens "$FFF"); done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do grep Jelena $FFF; done
+for FFF in * ; do echo $FFF; done
+for FFF in *.c ; do echo $FFF; done
+for NM in ${pkgs[@]}; do echo "Name: $NM"; done
+for exp in $(grep '()' startfuncs_en | sed 's/(.*//'); do grep $exp funclist_en; done
+for exp in $(grep '()' startfuncs_en | sed 's/(.*//'); do grep --color $exp funclist_en; done
+for i in  0 1 2; do echo "${arr1[$i]}"; done
+for i in  1 2; do echo "${arr1[$i]}"; done
+for i in $(#seznam[@]); do echo "seznam[$i] = ${seznam[$i]}"; done
+for i in $(#seznam[@]); do echo ${seznam[$i]}; done
+for i in $(#seznam[@]); do echo ${seznam[i]}; done
+for i in $(seq 0 ${#arr[@]}); do echo $i ${arr[$i]}; done
+for i in $(seq 0 ${#seznam[@]}); do echo "seznam[$i] = ${seznam[$i]}"; done
+for i in $(seq 0 ${#seznam[@]}); do echo $i; done
+for i in $(seq 0 ${#seznam[@]}; do echo $i; done
+fsort_files 
+fzf
+fzf -h
+fzf majstaf_en/majrcs_en/
+git add .gitignore 
+git clone "https://github.com/tsoding/skedudle.git"
+git clone "https://github.com/tsoding/sv.git"
+git clone https://github.com/linuxdabbler/personal-dot-files.git
+git clone"https://github.com/tsoding/skedudle.git"
+git commit -m "updated .gitignore: bin --> build 20241205_0908_en"
+git diff --cached
+git diff --caches
+git fiff
+git push ghct main 
+git push glct main 
+git statud
+git status -sb
+go build BrthdReminder_1.1.0.go 
+go build BrthdReminder_1.1.0_colors.go 
+go build help
+go build test2
+go run ./BrthdReminder_1.1.0_colors.go ./ROJSTNIDNEVI.txt 
+grefresh_fjl_to_git_repo brisime_20241213.txt 
+greo -i ignor *
+grep
+grep '()' startfuncs_en 
+grep '()' startfuncs_en | sed 's/(.*//'
+grep '()' startfuncs_en | sed 's/\(.*//'
+grep -i ignor *
+grep -r fncs *
+grep -r getDiff
+grep Jelena .local/bin/ROJSTNIDNEVI.txt
+grepc -r String *
+grepc -r String * |grep -v test
+grepc -r String * |grep -v test |less
+grepc -r fzf *
+grepc -r fzf ~/majstaf_en/majrcs_en/*
+grepc daysdiff *
+gt clone "https://github.com/tsoding/sv.git"
+gyes
+history 
+https://www.youtube.com/watch?v=vB3NT9QIXo8&t=663s
+im daysdiff_v2.h 
+jarrun ./BrthdReminder.jar "rede"
+jarrun ./BrthdReminder.jar bošt
+jarrun ./BrthdReminder.jar rede
+jarrun BrthdReminder
+jarrun BrthdReminder.jar 
+jarrun BrthdReminder.jar "rede"
+jarrun BrthdReminder.jar rede
+jarrun jars/BrthdReminder
+java --help
+java --help | less
+jrunscript jars/BrthdReminder.jar 
+less README.md 
+less current_year_setup.txt 
+less dwm.md 
+less peesena 
+lexit
+ln -s ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c.exe .
+ln -s ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c_color.exe .
+logout
+lynxd "https://idroot.us/google-search-python/" ptn_howto_google-search-python
+lynxd "https://idroot.us/google-search-python/"ptn_howto_google-search-python
+lynxd "https://idroot.us/unzip-files-using-python/" ptn_unzip-files-using-python
+lynxd "https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/" go_data-structures-as-jigs
+lynxd "https://wiki.archlinux.org/title/XDG_user_directories" xdg_user_directories
+lynxd "https://www.dzombak.com/blog/2024/02/Setting-up-KVM-virtual-machines-using-a-bridged-network.html" kvm-qemu_stting-up-kvm-virtual-machines-using-a-bridged-network
+make -f Makefile_W
+mintty --version
+mintty -e bash --init-file ~/.bashrc.ORIGINAL
+mkafmmap *.afm
+mkdir -p ~/_BRISI/__from_Downloads
+mkdir /c/Users/gregor.redelonghi/majstaf_en/BRISI/TEST
+mke
+mv  {d,g}refresh_fjl_to_git_repo 
+mv -i string_to_hex_v3.c src/
+mv -v $NM $(fname-to-lower-with-hypens_en $NM)
+mv -v '$NM' "$(fname-to-lower-with-hypens_en $NM)"
+mv ./BrthReminder_c_color{.exe,2}
+mv BrthReminder_c_colors_v26.c BrthReminder_c_v26_colors.c
+mv BrthReminder_c_colors{,2} 
+mv BrthReminder_c_color{,s}.c 
+mv BrthReminder_c_color{,s}_v26.c 
+mv BrthReminder_{c_,}v26.c 
+mv BrthReminder{_,}_c_v26.c 
+mv Makefile{,_W} 
+mv _AWK_SED_GREP{,_XARGS}
+mv ct_127{a,}_BrthReminder-03_20240312/
+mv daysdiff_v1.h src/
+mv daysdiff_v2.h daysdiff.h 
+mv daysdiff{,_v1}.h 
+mv debian*iso __downloaded_isos_2024-10/
+mv fsplit_en{.sh,} 
+mv go_data-structures-as-jigs_20241210.txt ~/_EGT/knowledgedb/_GO/
+mv kvm-qemu_setting-up-kvm-virtual-machines-using-a-bridged-network_20241206.txt ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+mv kvm-qemu_si{,e}tting-up-kvm-virtual-machines-using-a-bridged-network_20241206.txt 
+mv kvm-qemu_s{,e}tting-up-kvm-virtual-machines-using-a-bridged-network_20241206.txt 
+mv kvm-qemu_s{i,e}tting-up-kvm-virtual-machines-using-a-bridged-network_20241206.txt 
+mv logout_menu{,_en}
+mv ptn_howto_google-search-python_20241205.txt ~/_EGT/knowledgedb/_PYTHON/
+mv ptn_unzip-files-using-python_20241206.txt ~/_EGT/knowledgedb/_PYTHON/
+mv string_to_hex_v3.c src/
+mv use-data-that-looks-like-data_20241015.txt ~/_EGT/knowledgedb/_CS_and_other_PL/
+mv xdg_user_directories_20240930.txt ~/majstaf_en/engit/knowledgedb/_LINUX_SYSTEM/
+mv {,d}refresh_fjl_to_git_repo 
+mv {,g}refresh_fjl_to_git_repo 
+nvol commit -m "update 20241213_1320_en"
+nvol push ghven main -u
+nvol remote -v
+nvol remotes
+oddr
+pdd
+pddr
+prepare-fjl-for-knowledgebase go_data-structures-as-jigs_20241210.txt 
+prepare-fjl-for-knowledgebase kvm-qemu_stting-up-kvm-virtual-machines-using-a-bridged-network_20241206.txt 
+prepare-fjl-for-knowledgebase ptn_howto_google-search-python_20241205.txt 
+prepare-fjl-for-knowledgebase ptn_unzip-files-using-python_20241206.txt 
+prepare-fjl-for-knowledgebase use-data-that-looks-like-data_20241015.txt 
+prepare-fjl-for-knowledgebase wifi_howto-use-cli-to-solve-wifi-problems_20240930.txt 
+prepare-fjl-for-knowledgebase xdg_basedir-specification_20240930.txt 
+prepare-fjl-for-knowledgebase xdg_user_directories_20240930.txt 
+printf "\u23FB"
+refresh_fjl_to_git_repo refresh_fjl_to_git_repo 
+rg
+rg 'env' -tsh
+rg 'esac' -g "*.sh"
+rg 'esac' -g "test*.sh"
+rg --help
+rg gred
+rg gredelonghi
+rg help
+s1 "https://itsfoss.com/enable-fractional-scaling-ubuntu/"
+s1 "https://itsfoss.com/linux-mint-fractional-scaling/"
+s2 "CHECK DIZ AUTexit" """
+s2 "FlightRadar24 (5pp)" "https://www.flightradar24.com/4"
+s2 "New movie trailers 20240930: " """
+s2 "gnu mountpoint" """
+seznam+="AHA"
+seznam=(" ")
+softlink1-fname-to-ulb BrthReminder_c_colors.exe 
+softlink1-fname-to-ulb logout_menu_en 
+softlink1-fname-to-ulb refresh_fjl_to_git_repo 
+source ~/majstaf_en/majrcs_en/bashrc_gredelonghi_en 
+src/bin/BrthReminder_c_color 
+stat Downloads_cugr_en/
+tar -xvzf ventoy-1.0.99-linux.tar.gz 
+touch ~/majstaf_en/metsys_en/brisime_20241213.txt
+tree majconfig_en/
+tree working_versions*
+type BrthReminder_c_color
+unset arr1
+upup 1
+upup 2
+v aliases_gredelonghi_en 
+v refresh_fjl_to_git_repo
+wget "https://raw.githubusercontent.com/r-gregor/metsys_jbe/refs/heads/main/_INSTALLATIONS_jbe.txt"
+which BrthReminder_c_color 
+which logout
+y
+~/.local/bin/BrthReminder_c
+~/.local/bin/BrthReminder_c_color 
+~/_DOWNLOADS/location_test 
+¸make
+,ake
+. .bashrc.ORIGINAL2
+. .bashrc_base
+. .bashrc_v1.txt 
+. .bashrc_without_NERD_fonts 
+../risbe_join.sh 
+./__fonts_overview.sh 
+./build/string_to_hex_v2 
+./build/string_to_hex_v2 000
+./build/string_to_hex_v2 zzz
+./build/string_to_hex_v3 "aa @ aa"
+./build/string_to_hex_v3 ABBA
+./build/string_to_hex_v3 gg
+./build/string_to_hex_v3 gggggggggggggggggggggggggggggggggggggggggggggggggggg
+./build/string_to_hex_v3 ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+./build/string_to_hex_v3 gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+./build/test_hex_to_bin32 
+./build/test_hex_to_bin64
+./dec_to_bin ':'
+./dec_to_bin ';'
+./dec_to_bin '\0'
+./dec_to_bin -22
+./dec_to_bin 15000
+./dec_to_bin 150000000
+./dec_to_bin 1500000000000000
+./dec_to_bin 199
+./dec_to_bin 22
+./dec_to_bin 252
+./dec_to_bin 253
+./dec_to_bin 254
+./dec_to_bin 256
+./dec_to_bin 299
+./dec_to_bin 65
+./dec_to_bin 6500
+./dec_to_bin 65300
+./dec_to_bin 65322
+./dec_to_bin ;
+./dec_to_bin @
+./dec_to_bin AA
+./dec_to_bin F
+./dec_to_bin JJ
+./dec_to_bin NULL
+./dec_to_bin Z
+./dec_to_bin [
+./dec_to_bin o
+./dec_to_bin Ž
+./risbe_join.sh
+0a_povezave/brthdReminder_go
+0a_povezave/hex2rgb ff459a
+A=
+GET_E
+NM="Another Life (2001)"
+NM="Elevation (2024)"
+NM="Invincible (2006)"
+NM="Kaley Cuoco"
+NM="LAST BREATH (2025)"
+NM="Space Force TV Series 2020–2022"
+URL="https://www.geeksforgeeks.org/c-bitmasking/"
+URL="https://www.learn-c.org/en/Bitmasks"
+ZpDimCeviPretokHitrost 
+ZpDimCeviPretokHitrost 12 3
+ZpDimCeviPretokHitrost 12 6
+ZpDimCeviPretokHitrost 16 3
+ZpHitrostPlina 
+ZpHitrostPlina 12 33.7 3.25
+ZpHitrostPlina 6 33.7 3.25
+ZpPadec 300 300.15 75
+[ -n O ]
+\grep -Eil "define.*\(type.*\\\\" * | less
+bin/char_to_bin
+bin/char_to_bin '65'
+bin/char_to_bin 65
+bin/char_to_bin W
+bin/dec_to_bin -25
+bin/dec_to_bin -300
+bin/dec_to_bin 105
+bin/dec_to_bin 230
+bin/dec_to_bin 25
+bin/dec_to_bin 255
+bin/dec_to_bin 300
+bin/dec_to_bin 500
+bin/dec_to_bin 5000
+bin/test_hex_to_bin
+bin/test_hex_to_bin32 
+build/mynameinbinhex anna
+build/mynameinbinhex jb11
+build/mynameinbinhex jb3
+build/mynameinbinhex jbz
+build/mynameinbinhex muadib
+build/mynameinbinhex santa
+build/string_to_hex 666
+build/string_to_hex aaa
+build/string_to_hex fff
+build/string_to_hex ggg
+build/string_to_hex grf
+build/string_to_hex hhh
+build/string_to_hex jb3@z0rg
+build/string_to_hex jbe
+build/string_to_hex jbz
+build/string_to_hex kkk
+build/string_to_hex rgr
+build/string_to_hex utp
+build/string_to_hex ytp
+build/string_to_hex_v3 "gggg"
+build/string_to_hex_v3 "gggggg AAA"
+build/string_to_hex_v3 "gggggg"
+build/string_to_hex_v3 "ggggggAAA"
+build/string_to_hex_v3 "ggggggAAAAAAAAAAAAAAAAAAAAAA"
+build/string_to_hex_v3 "ggggggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+build/string_to_hex_v3 "gggggggggggggggggggggggggggggggggg"
+build/string_to_hex_v3 "gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+build/string_to_hex_v3 000
+build/string_to_hex_v3 ABBA
+build/string_to_hex_v3 abc
+build/string_to_hex_v3 gggggg
+build/string_to_hex_v3 jb3z0rg
+build/string_to_hex_v3 jbe
+build/string_to_hex_v3 mdb
+build/string_to_hex_v3 muadib
+build/string_to_hex_v3 oloid
+build/string_to_hex_v3 rgregor
+build/string_to_hex_v3 xamp
+build/string_to_hex_v3 zzz
+c d~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+cat .danes.swp 
+cat Makefile.backup 
+cat __SEZNAM >> ~/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat
+cat bash 
+cat encoded enc2 | base64 -d
+cat encoded enc2 | base64 -d | sed ':a;N;$!ba;s/\n/, /g'
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 2024
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 2024 | grepc bash
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202405 | grep -i google
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202405 |less
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202407
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202408
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 20240822
+cat rename_bin_to_build_20241203.sh 
+check_git_diffs_en dotfiles_en
+check_git_diffs_en ~/majstaf_en/majbin_en/ ~/majstaf_en/engit/majbin_en/
+chmod 755 __fonts_overview.sh 
+chmod 755 risbe_join.sh 
+chmod 755 starship.exe 
+chmos 755 __fonts_overview.sh 
+cm2feetinch 180
+cm2feetinch 185
+cm2feetinch 188
+cm2feetinch 199
+cm2feetinch 214
+contains "https://wiki.purduesigbots.com/software/general/bit-mask"
+contains "https://www.delftstack.com/howto/c/bit-masking-in-c/"
+cp -i  /home/gregor.redelonghi/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat ~/_EGT/majbin_en/lynxdump/
+cp -i .bashrc.ORIGINAL2 .bashrc_nonerd 
+cp -i .bashrc_without_NERD_fonts ~/majstaf_en/engit/dotfiles_en/
+cp -i .local/share/fish/fish_history ~/majstaf_en/engit/dotfiles_en/.local/share/fish/
+cp -i bashrc_prompt_* ~/majstaf_en/engit/majrcs_en/
+cp -i fish/functions/fish_prompt.fish ~/majstaf_en/engit/dotfiles_en/.config/fish/functions/
+cp -i fish_variables.x86_64 ~/majstaf_en/engit/dotfiles_en/.config/fish/
+cp -i get_endiffs ~/majstaf_en/engit/majbin_en/
+cp -i majstaf_en/majrcs_en/aliases_gredelonghi_en _EGT/majrcs_en/
+cp -i /home/gregor.redelonghi/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat ~/_EGT/majbin_en/lynxdump/
+cp -r c_testing{,.backup}
+cp -r ct_999_string_to_hex_20241204/ ~/majstaf_en/coding2/testing/c_testing/
+cp -r ff-en_bookmarks_20241126_01.html_part-0* ~/majstaf_en/engit/prenos/
+cp -r working_versions_w/ ~/_BRISI/
+cp -r wpps_from_dt/ /c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs/
+cp -r wpps_from_dt/ ~/_EGT/prenos/
+cp -r ~/_DOWNLOADS/figlet_fonts ~/majstaf_en/metsys_en/
+cp .bashrc .bashrc.ORIGINAL2
+cp .bashrc .bashrc_nonerd
+cp .bashrc_nonerd .bashrc_base
+cp .bashrc{,_v1.txt}
+cp INDIKATIVNE_MOCI_EL-NAPRAV_20240930.{txt,csv} 
+cp Makefile Makefile.backup
+cp Makefile Makefile_03
+cp __fonts_overview.sh ~/majstaf_en/metsys_en/figlet_fonts/
+cp get_endiffs{,.sh}
+cp get_endiffs{,.txt}
+cp get_endiffs{,_backup_20240822} 
+cp hex_to_bin.h ~/_BRISI/c_bitmasking_test_20241128/
+cp risbe_join.sh ../
+cp risbe_join.sh teksti_join.sh ~/majstaf_en/scripts_majbin_en/00_ukazi_en/
+cp string_to_hex_v2.c src/
+cp {dec,char}_to_bin.c
+cp {risbe,teksti}_join.sh 
+curl -L https://get.oh-my.fish | fish
+ddbak
+diff Makefile Makefile.backup 
+du -sh c_testing/
+duh ~/_DOWNLOADS/figlet_fonts
+echo "${#arr}"
+echo "BEERS" | base64
+echo "QkVFUlMK" |base64 -d
+echo "[ $(date +"%D %C") ]"
+echo "[ $(date +"%D %T") ]"
+echo "[ $(date +"%D" ][ $(date +"%T") ]"
+echo "[ $(date +"%D" ][$(date +%T)]"
+echo "[ $(date +%D %C) ]"
+echo "[ $(date +%D ][ $(date +%T) ]"
+echo "[ $(date +%D ][$(date +%T)]"
+echo "[ $(date +%D) ][ $(date +%T) ]"
+echo "[$(date +%D %C)]"
+echo "[$(date +%D)] [$(date +%T)]"
+echo "\[$(date +%D %C)\]"
+echo "for FFF in $(find -type f -name Makefile); do sed -i 's:/mingw6./build:/mingw6/bin:g' $FFF; done" >> rename_bin_to_build_20241203.sh 
+echo "sed -e 's:BIN:BUILD:g' -e 's:./bin:./build:g'" >> rename_bin_to_build_20241203.sh 
+echo $(date +%A)
+echo $(date +%C)
+echo $(date +%S)
+echo $(date +%T)
+echo $(date +[%D %C])
+echo $CDPATH 
+echo $FJLS
+echo $output 
+echo 'find -type f -name Makefile' >> rename_bin_to_build_20241203.sh 
+echo -e "\n---\n" >> ~/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat 
+echo [ $(date +"%D" ][ $(date +"%T") ]
+echo [ -n $O ]
+echo [ -n O ]
+echo [$(date +%D %C)]
+echo [[ -n $O ]]
+echo [[ -n O ]]
+em plot.log 
+ff README.md 
+ffn README.md 
+fg %!
+figlet
+figlet "I# config"
+figlet "I3 config"
+figlet -f chunky "I3 config"
+figlet -f chunky"I3 config"
+figlet -f doom "I3 config"
+figlet -h
+file $(which ZpPadec )
+find
+find *
+find * -type f -iname "*debian*"
+find * -type f -iname "*debian*" | fzf -m | xargs -I{} cp -v {} _DEBIAN/
+find * -type f -iname "*debian*" | fzf -m | xargs -I{} mv -v {} _DEBIAN/
+find * -type f -iname "*ranger*"
+find -iname "*debian*"
+find -iname "*maskin*"
+find -inyme "*debian*"
+find -name "*.iso"
+find -name "\.conf" -o -iname "config*"
+find -name "qtile*"
+find -name "qutile*"
+find -type -f name Makefile
+find -type d -name build
+find -type f -iname "*bit*"
+find -type f -iname "*bitw*"
+find -type f -iname "*bitw*" | cat
+find -type f -iname "*bitw*" | cat -
+find -type f -iname "*bitw*" | xargs -ro cat
+find -type f -iname "*bitw*" | xargs -ro cat >> ~/_BRISI/bitwise_bitmasking_20241128.txt
+find -type f -iname "*debian*"
+find -type f -iname "*field*" -o -iname "*mask*"
+find -type f -iname "*maski*"
+find -type f -iname "*ranger*"
+find /c -iname "ACAD.CUI"
+find /c/Users/gregor.redelonghi -iname "ACAD.CUI"
+find ~/.config -name "*\.conf*" -o -iname "config*"
+find ~/.config -name "\.conf" -o -iname "config*"
+find ~/.config -type f -name "*\.conf*" -o -iname "config*"
+find ~/.config -type f -name "*conf" -o -iname "config*" | fzf
+find ~/.config -type f -name "*conf" -o -iname "config*" | fzf -m | uimp
+find ~/.config -type f -name "*conf" -o -iname "config*" | uimp
+find ~/.congif -name "\.conf" -o -iname "config*"
+for DDD in $(find * -type d -name bin); do echo "mv -v $DDD ${DDD//bin/build}"; done
+for DDD in $(find -type d -name bin): do echo "mv -v $DDD build"; done
+for DDD in $(find -type d -name bin); do echo "mv -v $DDD ${DDD//bin/build}"; done
+for DDD in $(find -type d -name bin); do echo "mv -v $DDD build"; done
+for DDD in $(find . -type d -name bin); do echo "mv -v $DDD ${DDD//bin/build}"; done
+for DDD in $(find . -type d -name bin); do mv -v $DDD ${DDD//bin/build}; done
+for FF in $(find ~/_DOWNLOADS/figlet_fonts/ -type f); do echo $FF; done
+for FF in $(find ~/_DOWNLOADS/figlet_fonts/*); do echo $FF; done
+for FF in (find ~/_DOWNLOADS/figlet_fonts/*); do echo $FF; done
+for FF in *; do echo $FF; done
+for FF in *; do echo $FF; figlet -f $FF "Just A Test"; done |less
+for FF in *; do echo $FF; figlet -f $FF "Just A Test"; echo; done
+for FF in *; do echo $FF; figlet -f $FF "Just A Test"; echo; done | less
+for FF in *; do echo -e $FF; figlet -f $FF; done
+for FF in *; do echo -e $FF; figlet -f $FF; done |less
+for FF in *; do echo -e $FF; figlet -f $FF; echo ""; done |less
+for FF in *; do echo -e $FF; figlet -f $FF; echo "Just A Test"; done |less
+for FF in *; do echo -e $FF; figlet -f $FF; echo "Just A Test"; echo; done |less
+for FF in *; doe echo $FF; done
+for FF in ~/_DOWNLOADS/figlet_fonts/*; do echo $FF; done
+for FF in ~/majstaf_en/metsys_en/fig; do echo $FF; done
+for FFF in $(find -type f -name "*.c -o name *.h"); do echo $FFF; done
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do du $FFF; done
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do du $FFF; done | grep -v "OSTALO\|TEST" | sort -hr | less
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do du $FFF; done | sort -hr | less
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do du $FFF; done | sort -hr |head
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do echo $FFF; done
+for FFF in $(find -type f -name "*.c" -o name "*.h"); do echo $FFF; done
+for FFF in $(find -type f -name Makefile); do grep BIN $FFF; done
+for FFF in $(find -type f -name Makefile); do grep BUILD $FFF; done
+for FFF in $(find -type f -name Makefile); do grep bin $FFF; done
+for FFF in $(find -type f -name Makefile); do sed 's:/mingw6./build:/mingw6/bin:g' $FFF; done
+for FFF in $(find -type f -name Makefile); do sed -i 's:/mingw6./build:/mingw6/bin:g' $FFF; done
+for FFF in $(find -type f -name Makefile); do sed s:/mingw6./build:/mingw6/bin:g' $FFF; done
+for FFF in *; do echo "${FFF//debian_debian_/debian_"; done 
+for FFF in *; do echo "${FFF//debian_debian_/debian_}"; done 
+for FFF in *; do echo "mv {,debian_}${FFF}"; done 
+for FFF in *; do mv $FFF ${FFF//debian_deb_/debian_}; done 
+for FFF in *; do mv $FFF ${FFF//debian_debian-/debian_}; done 
+for FFF in *; do mv $FFF ${FFF//debian_debian_/debian-}; done 
+for FFF in *; do mv $FFF ${FFF//debian_debian_/debian_}; done 
+for FFF in *; do mv {,debian_}${FFF}; done 
+for URL in $(cat __SEZNAM); do contains $URL; done
+for URL in $(cat __SEZNAM); do echo $URL; done
+for URL in $(cat __SEZNAM); do echo contains $URL; done
+for URL in $(cat __SEZNAM); do echo cpntains $URL; done
+for URL in __SEZNAM; do echo $URL: done
+for URL in __SEZNAM; do echo $URL; done
+fzf help | grep -i font
+get_saved_link_address_and_name_by_timestamp 
+git clone "https://github.com/koleffel/qtile-ubuntu"
+git commit -m "update 20240821_1023_en"
+git commit -m "update 20240821_1039_en"
+git commit -m "update 20240822_1000_en"
+git statsu
+grep '\*T' *
+grep -E "define.*\\" *
+grep -E "define.*\\\\" *
+grep -ir socket
+grep -r sprintf
+grepc ' \*T' *
+grepc '\ *T' *
+grepc '\* T ' *
+grepc '\* T' *
+grepc '\*T ' *
+grepc -E "define.* T.*\\\\" * | less
+grepc -E "define.* type.*\\\\" * | less
+grepc -E "define.*T.*\\\\" * | less
+grepc -E "define.*\\\\" *
+grepc -E "define.*\\\\" * | less
+grepc -Ei "define.*(type.*\\\\" * | less
+grepc -Ei "define.*\(type.*\\\\" * | less
+grepc -i '\* T ' *
+grepc -i '\* T' *
+head -n1 great_NEW_movies_2024-25_trailers_20241011.txt 
+https://starship.rs/
+lA
+ln -snf /home/gregor.redelonghi/majstaf_en/coding2/toolbox/c_toolbox/hex2rgb/hex2rgb.exe hex2rgb 
+logout_menu_en 
+lynxd "https://blog.izissise.net/posts/env-path/" "modern-path-environment-variable"
+lynxd "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/" why-pipes-get-stuck-buffering
+lynxd "https://www.dedoimedo.com/computers/subtitles-offset-ffmpeg.html" ffmpeg_setting-subtitles-offset
+make -f Makefile_03 
+make clean
+mkdir _DEBIAN
+mkdir c_bitmasking_test_20241128
+mkdir grewgrif
+mkdir my-name-in-bin-hex
+mkdir prejsnje-verzije
+mkdir wpps_from_dt
+mv *.iso ../downloaded_isos/
+mv -i string_to_hex_v2.c src/
+mv .git .dot_got
+mv .git/ dot_git
+mv _IMAGES/*.iso downloaded_isos/
+mv bash_* ~/_EGT/knowledgedb/_BASH/
+mv bin build
+mv bitmasking_test.c test_bitmasking.c
+mv c_working-with-hexadecimal-values-multif_20241204.txt ~/__DANES__/
+mv ct_{999,137}_string_to_hex_20241204/
+mv ffmpeg_setting-subtitles-offset_20241202.txt why-pipes-get-stuck-buffering_20241202.txt ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+mv get_endiffs.sh ~/majstaf_en/scripts_majbin_en/00_ukazi_en/
+mv glog_status{,_en}
+mv glog_status{,_en}.sh 
+mv modern-path-environment-variable_20241011.txt ~/_EGT/knowledgedb/_LINUX_SYSTEM/
+mv modern-path-environment-variable_20241011.txt ~/_NERAZPOREJENO/__DANES__/
+mv my-name-in-bin-hex/ ct_999_string_to_hex_20241204
+mv mynameinbinhex.c string_to_hex.c
+mv risbe.joun.txt risbe_join.sh
+mv risbe_join.sh ~/majstaf_en/majbin_en/
+mv risbe_join{,_en} 
+mv risbe_join{,_en}.sh 
+mv risbe_join{.sh,} 
+mv string_to_hex_v1.c src/
+mv string_to_hex_v2.c src/
+mv teksti_join{,_en} 
+mv teksti_join{,_en}.sh 
+mv teksti_join{.sh,} 
+mv {,.}dot_git
+mv {,g}yes_add_commit_push 
+mv ~/majstaf_en/scripts_majbin_en/00_ukazi_en/get_{ndiffs.sh,endiffs.sh.20240822} 
+nvol commit -m "update 20241202_1645_en"
+nvol sttaus
+pdde
+piglet
+prepare-fjl-for-knowledgebase bash_customizing-the-bash-prompt_5p_20241202.txt 
+prepare-fjl-for-knowledgebase c_bit-masking_02-multif_20241203.txt 
+prepare-fjl-for-knowledgebase ffmpeg_setting-subtitles-offset_20241202.txt 
+prepare-fjl-for-knowledgebase modern-path-environment-variable_20241011.txt 
+prepare-fjl-for-knowledgebase why-pipes-get-stuck-buffering_20241202.txt 
+printf "%x\n" "0xf"
+printf "%x\n" "0xff"
+printf "%x\n" "15"
+printf "%x\n" "256"
+printf "%x\n" "f"
+printf "%x\n" 0
+printf "%x\n" f
+printf "[$(date +%D)] [$(date +%T)]"
+ps aux | grep mint
+risbe_join 
+rsort-by-tmstmp_c | head -10
+rsort-by-tmstmp_c | head -10 | cut -d' ' -f4
+rsort-by-tmstmp_c | head -10 | cut -d' ' -f5
+rsort-by-tmstmp_c | head -10 | cut -d' ' -f6
+rsort-by-tmstmp_c | head -10 | cut -d' ' -f6-
+rsort-by-tmstmp_c | head -10 | cut -d' ' -f7-
+rsort-by-tmstmp_c | head -10 | cut -d' ' -f8-
+rsort-by-tmstmp_c | head -10 | cut -d' ' -f8- | uimp
+rsort-by-tmstmp_c | head -10 | cut -f5
+rsort-by-tmstmp_c | head -5
+rsort-by-tmstmp_c | head 5
+s2 "How to Setup and Configure Rofi (The Best App Launcher)" """
+s2 "RJ-45 setups2 "$NM" "$NM"! s2 "$NM" "$NM"!
+s2 "RJ-45 setups2" "https://www.youtube.com/shorts/7McHUG1dIiQ"
+s2 "Slingshot??" "Slingshot??"
+s2 "Star-ship prompt" """
+sed -e 's:BIN:BUILD:g' -e 's:./bin:./build:g' Makefile
+snr
+softlink1-fname-to-ulb 
+softlink1-fname-to-ulb cm2feetinch.exe 
+softlink1-fname-to-ulb glog_status_en 
+softlink1-fname-to-ulb gyes_add_commit_push 
+softlink1-fname-to-ulb risbe_join 
+softlink1-fname-to-ulb risbe_join_en
+softlink1-fname-to-ulb teksti_join 
+softlink1-fname-to-ulb teksti_join_en 
+starship
+string-to-lower-with-hypens "modern path environment variable"
+teksti_join 
+toilet
+top
+touch rename_bin_to_build_20241203.sh
+tree .config/ -L 2
+upper-to-lower "Modern PATH environment variable"
+v c_working-with-hexadecimal-values-multif_20241204.txt ~/__DANES__/
+vf __DANES__/
+w3m -dump http://www.folder101.com/Control/Notes/BitMasking/BitMasking.htm
+w3md "https://www.r-bloggers.com/2024/11/mastering-linux-a-beginners-guide-to-customizing-the-bash-prompt/" bash_customizing-the-bash-prompt_5p
+whicg git
+which ZpPadec 
+which git
+while IFS= read -r line; do ./build/string_to_hex_v3 $line; done
+while IFS=' ' read -r line; do ./build/string_to_hex_v3 $line; done
+while IFS=' ' read line; do ./build/string_to_hex_v3 $line; done
+zoxide 
+./BrthReminder_c_color.sh 
+./_test.sh 
+./convert-fname-to-lower-with-hypens 
+./test_colors.sh d
+./test_names.sh d
+./testing_gtgh_testpush_en2
+./ure.sh 
+./ure.sh urr
+NM="Knox Goes Away (2023)"
+NM="Max Payne (2008)"
+NM="Mickey 17 (2025) 5+"
+NM="Mickey 17 (2025)"
+NM="THE SUBSTANCE (2024) Demi Moore"
+NM="The Lockdown (2024) -- 5pp"
+NM="Wolfs (2024) -- Brad Pitt Gorge Cloony"
+PTN="Ura"
+[A
+a+=([ime]=Gregor [priimek]=Redelonghi)
+a=([ime]=Gregor [priimek]=Redelonghi)
+a=([ime]=Gregor,[priimek]=Redelonghi)
+arr+=([ime]="Gregor" [pri]="Redelonghi")
+arr0+=([ena]=ena [dva]=dva)
+arr0=([ena]=ena [dva]=dva)
+arr2+="Mark"
+arr2+=("Mark")
+arr=([ime]="Gregor" [pri]="Redelonghi")
+bash internal_dir_structure_20241024.txt
+bb
+bbc
+bin/cm2feetinch_v1 1898
+bin/cm2feetinch_v1 200
+bin/cm2feetinch_v1 201
+bin/cm2feetinch_v1 202
+bin/cm2feetinch_v1 203
+bin/cm2feetinch_v1 204
+bin/cm2feetinch_v1 205
+bin/cm2feetinch_v1 206
+bin/cm2feetinch_v1 207
+bin/cm2feetinch_v1 208
+bin/cm2feetinch_v1 211
+bin/cm2feetinch_v1 212
+bin/cm2feetinch_v1 213,8
+bin/cm2feetinch_v1 213.5
+bin/cm2feetinch_v1 213.8
+bin/cm2feetinch_v1 215
+bin/cm2feetinch_v2 213
+bin/server 
+cat /home/gregor.redelonghi/majstaf_en/seznami_en/history-en_20240820-163140.txt
+cat encoded enc2 | base64 -d |tr '\n' ' '
+cat encoded enc2 | base64 -d |tr '\n' ', '
+chmod -R 644 *
+chmod 755 ./testing_gtgh_status_en2
+chmod 755 ghgl_testpush_en2
+chmod 755 testing_gtgh_testpush_en2 
+chmod 755 ure.sh 
+cp -i .minttyrc ~/_EGT/dotfiles_en/
+cp -r ./majstaf_en/scripts_majbin_en/list_to_fzf_tests_20240925 ~/majstaf_en/engit/prenos/
+cp -r /c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs/* .
+cp -r bash_testing_en/ ~/majstaf_en/engit/prenos/
+cp ../Makefile .
+cp 00_ukazi_en/get_public_ip.sh ~/majstaf_en/engit/prenos/
+cp cm2feetinch_v{1,2}.c 
+cp engt_testpush prejsnje-verzije/engt_testpush_20240821
+cp ghgl_testpush_en prejsnje-verzije/ghgl_testpush_en_20240821
+cp ghgl_testpush_en{,2}
+cp main.exe ~/_BRISI/
+cp testing_gtgh_status_en prejsnje-verzije/testing_gtgh_status_en_20240821
+cp testing_gtgh_testpush_en prejsnje-verzije/testing_gtgh_testpush_en_20240821
+cp testing_gtgh_testpush_en{,2}
+duh | head -n 10
+echo "$a[ime]"
+echo "${a[ime]"
+echo "${a[pri]}"
+echo "Ena\nDva\nTRi\nŠtiri" |fzf
+echo "How to run valgrind on a CGI program in C" | tr " " "_" | tr "[:upper:]" "[:lower:]
+echo "c\Users\gregor.redelonghi\AppData\Roaming\Autodesk\AutoCAD 2022\R24.1\enu\Plotters" | tr '\' '_'
+echo "c\Users\gregor.redelonghi\AppData\Roaming\Autodesk\AutoCAD 2022\R24.1\enu\Plotters" | tr '\\' '_'
+echo "c_Users_gregor.redelonghi_AppData_Roaming_Autodesk_AutoCAD 2022_R24.1_enu_Plotters" |tr ' ' '-'
+echo $FFF
+echo $cmd
+echo $smd
+echo ${VAR##*/}
+echo ${VAR##.*}
+echo ${VAR%%/}
+echo ${VAR%.}
+echo ${VAR%/*}
+echo ${arr0[dva]}
+echo ${arr0[ena])
+echo ${arr[prik]}
+echo while read FJL; do find -type f -iname "${FJL}"; done < ~/_BRISI/sends_20240926.txt 
+export PROMPT_DIRTRIM=1
+export PROMPT_DIRTRIM=2
+find * -iname "*.cui*"
+find * -iname "*.exe*"
+find * -iname "*.mn*"
+find * -iname "*.pc3"
+find * -maxdepth 3 -type d -iname "v[-_]200*"
+find * -type d -iname "*.exe*"
+find * -type f  -name "*.txt" -o -name "*.csv" | fzf --multi --prompt "" | xargs -ro cat
+find * -type f -iname "*.cui*"
+find * maxdepth 0 -type f
+find -name "*.txt" -print0 | while IFS= read -r -d '' FF; do mv "$FF" $(spaces-to-underscores "${FF}"); done
+find -name "*202408*txt"
+find -name "*202408*txt" | sort -g
+find -name "*202408*txt" | sort -n -t '.' -k1
+find -name "*202408*txt" | sort -n -t'.' -k1
+find -name "*202408*txt" | sort -n t'.' -k1
+find -name "*202408*txt" | sort -nr --debug
+find -name "*202408*txt" | sort -nr -t'.' -k ,-1
+find -name "*202408*txt" | sort -nr -t'.' -k ,1
+find -name "*202408*txt" | sort -nr -t'.' -k ,2
+find -name "*202408*txt" | sort -nr -t'.' -k -1
+find -name "*202408*txt" | sort -nr -t'.' -k 0
+find -name "*202408*txt" | sort -nr -t'.' -k 0,2
+find -name "*202408*txt" | sort -nr -t'.' -k 0.1
+find -name "*202408*txt" | sort -nr -t'.' -k 1
+find -name "*202408*txt" | sort -nr -t'.' -k 3
+find -name "*202408*txt" | sort -nr -t'.' -k 4
+find -name "*202408*txt" | sort -nr -t'.' -k 5
+find -name "*202408*txt" | sort -nr -t'.' -k 6
+find -name "*202408*txt" | sort -nr -t'.' -k,1
+find -name "*202408*txt" | sort -nr -t'.' -k-1
+find -name "*202408*txt" | sort -nr -t'.' -k0,1
+find -name "*202408*txt" | sort -nr -t'.' -k0,2
+find -name "*202408*txt" | sort -nr -t'.' -k0.1
+find -name "*202408*txt" | sort -nr -t'.' -k1,-1
+find -name "*202408*txt" | sort -t
+find -name "*202408*txt" | sort -t -k
+find -name "*202408*txt" | sort -t -k ,1
+find -name "*202408*txt" | sort -t -k -1
+find -name "*202408*txt" | sort -t -k 0,1
+find -name "*202408*txt" | sort -t -k 3
+find -name "*202408*txt" | sort -t'.' -k1
+find -name "*202408*txt" | sort -t'.' -k2
+find -name "*202408*txt" | sort -t'.' -k2 -nr
+find -name "202408*txt"
+find -name "DELETE*"
+find -type d -iname "*.c*"
+find -type d -iname "*.cui"
+find -type d -iname "*.cui*"
+find -type d -iname "v[-_]200*"
+find -type d -iname #*.cui"
+find -type f -name logout
+for FFF in $(find * -maxdepth 0 -type f); do echo $FFF; done
+gadd .
+get_endiffs | grep 'No Such'
+git remote 
+git remote ad ddghprns git@github.com:r-gregor/prenos.git
+git remote ad dghprns git@github.com:r-gregor/prenos.git
+git remote ad ghprns git@github.com:r-gregor/prenos.git
+git remote add ghprns git@github.com:r-gregor/prenos.git
+glog
+grep -r --color def ~/majstaf_en/coding2/testing/c_testing/* |less
+grep -r --color typedef ~/majstaf_en/coding2/testing/c_testing/* |less
+gst | grep -i "ahead"
+history | grep rust
+lynxd "https://ubuntuhandbook.org/index.php/2024/08/wake-up-ubuntu-pc/" "$(echo "Disable Keyboard, Mouse, or Lid from Waking up Your Ubuntu PC" | tr " " "," | tr "[:upprt:]" "[:lower:]")"
+lynxd "https://ubuntuhandbook.org/index.php/2024/08/wake-up-ubuntu-pc/" $(echo "Disable Keyboard, Mouse, or Lid from Waking up Your Ubuntu PC" | tr " " "," | tr "[:upprt:]" "[:lower:]")
+lynxd "https://ubuntuhandbook.org/index.php/2024/08/wake-up-ubuntu-pc/" $(echo "Disable Keyboard, Mouse, or Lid from Waking up Your Ubuntu PC" | tr " " "_" | tr "[:upprt:]" "[:lower:]")
+lynxd "https://ubuntuhandbook.org/index.php/2024/08/wake-up-ubuntu-pc/" $(echo "Disable Keyboard, Mouse, or Lid from Waking up Your Ubuntu PC" | tr ' ' '_' | tr "[:upper:]" "[:lower:]")
+lynxd "https://ubuntuhandbook.org/index.php/2024/08/wake-up-ubuntu-pc/" $(echo "Disable Keyboard, Mouse, or Lid from Waking up Your Ubuntu PC" | tr ' ' '_'" | tr "[:upper:]" "[:lower:]")
+lynxd "https://ubuntuhandbook.org/index.php/2024/08/wake-up-ubuntu-pc/" $(echo "Disable Keyboard, Mouse, or Lid from Waking up Your Ubuntu PC" | tr ',' '-' | tr '-' '_' |tr ' ' '_' | tr "[:upper:]" "[:lower:]")
+lynxd "https://www.pixelbeat.org/docs/numfmt.html" numfmt
+mkdir ct_999_cm_to_feet_and_inches_20240926
+mkdir from_en
+mkdir from_jbe
+mkdir from_mdb
+mv -i c_jump-tables_20240822.txt ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+mv -i numfmt_20240822.txt ~/majstaf_en/engit/knowledgedb/_LINUX_SYSTEM/
+mv -v $FFF ${FFF}.txt
+mv bash_testing_en/ list_to_fzf_tests_20240925/ from_en/
+mv cm2feetinch_v1.c src/
+mv ghgl_testpush_en{2,} 
+mv list_to_fzf_tests_20240925/ bash_testing_en/
+mv testing_gtgh_status_en{2,} 
+mv testing_gtgh_testpush_en{2,} 
+mv {,_}bash_testing_en/
+prepare-fjl-for-knowledgebase c_howto_run_valgrind_on_a_cgi_program_20240826.txt 
+prepare-fjl-for-knowledgebase c_jump-tables_20240822.txt
+prepare-fjl-for-knowledgebase c_jump-tables_20240822.txt 
+prepare-fjl-for-knowledgebase numfmt_20240822.txt 
+printf "Ena\nDva\nTRi\nŠtiri\n" |fzf
+rewrapp c_jump-tables_20240822.txt
+testing_gtgh_r
+touch TEST44
+touch from_jbe/test_jbe
+touch from_mdb/test_mdb
+touch test.txt
+touch ~/majstaf_en/coding2/testing/c_testing/DELETE.ME
+touch ~/majstaf_en/coding2/testing/c_testing/DELETE.MEt
+touch ~/majstaf_en/coding2/testing/rust_testing/DELETE.ME
+touch ~/majstaf_en/engit/metsys_en/DELETE.ME
+tree bin/
+tree jars/
+tree support | less
+type BrthReminder_c
+unix2dos TEST_FILE.txt 
+unset arr0
+ure
+wc -l cm2feetinch_v2.c src/cm2feetinch_v1.c 
+while read FJL: do find -type f -iname "${FJL}"; done < ~/_BRISI/sends_20240926.txt 
+while read FJL; do echo "searching for: $FJL"; find $HOME/* -type f -iname \"${FJL}\"; done < ~/_BRISI/sends_20240926.txt
+while read FJL; do echo "searching for: $FJL"; find -type f -iname \"${FJL}\"; done < ~/_BRISI/sends_20240926.txt
+while read FJL; do echo searching for: $FJL"; find -type f -iname \"${FJL}\"; done < ~/_BRISI/sends_20240926.txt
+while read FJL; do echo searching for: $FJL"; find -type f -iname \"${FJL}\"; done < ~/_BRISI/sends_20240926.txt 
+while read FJL; do find -type f -iname "${FJL}"; done < ~/_BRISI/sends_20240926.txt 
+xargs
+čč
+"
+. ~/.bashrc
+./CP2 
+./ZpPadec 
+./check_
+./check_for_emptyd 
+./check_for_emptyd.sh ../
+./check_for_emptyd.sh ../EMPTY/*
+./convert-fname-to-lower-with-hypens "How to implement TF-IDF in Python"
+./rsort_by_enddate_g 
+./rsort_by_enddate_g $(cygpath -w "${HOME}/majstaf_en/engit/knowledgedb/_C_and_Cpp/")
+./rsort_by_enddate_g $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/") | less
+./rsort_by_enddate_g $(cygpath -w "~/majstaf_en/engit/knowledgedb/_C_and_Cpp/")
+./rsort_by_enddate_g /home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT
+./rsort_by_enddate_g ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+./te
+./test_colors.sh
+./ure.sh uRE
+./zp_padec 
+/c/Users/gregor.redelonghi/.cargo/bin/cargo
+/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/.cargo/bin/rustc
+/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/.cargo/bin/rustc --version
+/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/.cargo/bin/rustup update
+/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/.cargo/rustc
+/d/RUN_backups -ap
+/d/RUN_backups -p
+/e/RUN_backups -ap
+/e/RUN_backups -p
+/e/RUN_backups -y
+:w
+FJL=get_public_ip
+GIT DIFF head
+PDDR
+bin/ncrs_win_test_v05 
+c rst_OSTALO/
+c3c
+c3c compile test.c3 
+c3c help
+cargo build --release --locked
+cat pdtk_20220418.txt 
+cat ~/majstaf_en/seznami_en/* | grep -i 'git diff'
+chc=$(printf "D\nE" | fzf); echo $chc
+chmod 755 check_for_emptyd 
+chmod 755 check_for_emptyd.sh 
+chmod 755 ~/majstaf_en/majbin_en/get_public_ip
+contains "https://tecadmin.net/10-simple-steps-to-clean-your-ubuntu-system/"
+cp -i .bashrc ~/majstaf_en/engit/dotfiles_en/
+cp -i check_for_emptyd ~/majstaf_en/engit/majbin_en/
+cp -i get_public_ip ~/majstaf_en/engit/majbin_en/
+cp -i ~/majstaf_en/engit/majrcs_en/aliases_gredelonghi_en ~/majstaf_en/majrcs_en/
+cp -i ~/majstaf_en/majbin_en/contains ~/majstaf_en/engit/majbin_en/
+cp -i ~/majstaf_en/majbin_en/contains ~/majstaf_en/scripts_majbin_en/00_ukazi_en/contains.sh 
+cp -i ~/majstaf_en/majrcs_en/bashrc_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+cp -r Brother_DCP-L3520CDW ~/majstaf_en/engit/metsys_en/
+cp -r Brother_DCP-L3520CDW ~/majstaf_en/metsys_en/
+cp -r ct_135_cm_to_feet_and_inches_20240926/ ~/majstaf_en/coding2/toolbox/c_toolbox/
+cp -r ct_999_cm_to_feet_and_inches_20240926/ ~/majstaf_en/coding2/testing/c_testing/
+cp -r ct_999_handles_20240819/ ~/majstaf_en/coding2/testing/c_testing/
+cp -r ~/majstaf_en/coding2/testing/c_testing/ct_127_BrthReminder-03_20240312/*.c .
+cp -r ~/majstaf_en/coding2/testing/c_testing/ct_127_BrthReminder-03_20240312/*.h ./src/
+cp -r ~/majstaf_en/coding2/testing/c_testing/ct_127_BrthReminder-03_20240312/Makefile ./src/
+cp CHECKOUT_nix_apps_20240925.txt ~/majstaf_en/engit/metsys_en/
+cp ZpPadec.c Makefile ~/majstaf_en/coding2/toolbox/c_toolbox/zp_padec/
+cp ct_999_cm_to_feet_and_inches_20240926/ ~/majstaf_en/coding2/testing/c_testing/
+cp hex2rgb_v3.c Makefile ~/majstaf_en/coding2/toolbox/c_toolbox/hex2rgb/src/
+cp rsort_by_enddate_g.exe ~/_BRISI/
+cp test_names.sh test_colors.sh
+cp tui_5P_14-great-tips-to-make-amazing-cli-applications_20240828.txt ~/majstaf_en/engit/knowledgedb/_CS_and_other_PL/
+cp tui_5P_14-great-tips-to-make-amazing-cli-applications_20240828.txt ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+cp ~/.bashrc ~/majstaf_en/engit/dotfiles_en/
+cp ~/majstaf_en/engit/majrcs_en/aliases_gredelonghi_en ~/majstaf_en/majrcs_en/
+cp ~/majstaf_en/majbin_en/$FJL ~/majstaf_en/scripts_majbin_en/00_ukazi_en/${FJL}.sh
+diff rsort_by_enddate_g.exe rsort_by_enddate_V3.go 
+du -sh $(which go)
+du -sh /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/go1.19.windows-amd64
+duh -h
+duh -n15
+duh 15
+duh n15
+duh | head
+echo " ena dva tri" | cut -d' ' -f1
+echo " ena dva tri" | cut -d' ' -f2
+echo " ena dva tri" | tr ' ' ':'
+echo " ena dva tri" | tr ' ' ':' | cut -d':' -f2
+echo " ena dva tri" | xargs | tr ' ' ':' | cut -d':' -f1
+echo "$( [ -Z $PWD ] )"
+echo ":: D :: \n:: E ::" | fzf
+echo "[ -Z $PWD ]"
+echo "ena dva tri" | cut -d' ' -f0
+echo "ena dva tri" | cut -d' ' -f1
+echo "ena dva tri" | cut -d' ' -f3
+echo $PATH
+echo $PATH |grepc cargo
+echo ${#arr[0]}
+ffn _SALSA_PREPLESAVANJA.html 
+file /c/Users/gregor.redelonghi/.cargo/bin/rustc
+file /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/.cargo/bin/rustc
+find * -maxdepth 0 -type f | grep -v '_test'
+find -iname "*.txt" | xargs -I{} grep -s -Hn $my_URL {}
+find -iname "*double*"
+find -iname "*dual*"
+find -iname "*ncur*" | fzvmr
+find -iname dual
+find -name '*rust-analyzer*'
+find -name rust-analyzer
+find -type f -iname "*ctag*"
+find -type f -iname "*ctag*" | fzvmp
+find -type f -iname "*ctag*" | uimp 
+find -type f -iname "*tag*"
+find N-30280_22403_PO_prestavitev_Pregljeva_PZI -type d
+find N-30280_22403_PO_prestavitev_Pregljeva_PZI -type d | tr 'PZI' 'DGD' |xargs -I{} mkdir -vp {}
+find N-30280_22403_PO_prestavitev_Pregljeva_PZI -type d | tr 'PZI' 'PID'
+find N-30280_22403_PO_prestavitev_Pregljeva_PZI -type d | tr 'PZI' 'PID' |xargs -I{} mkdir -vp {}
+find ~/majstaf_en/engit/knowledgedb/ -name "tui*"
+fzf --help | grep mov
+fzf --help | less
+fzf help
+git clone https://github.com/r-gregor/prenos.git
+git clone https://github.com/sxyazi/yazi.git
+git commit -m "update 20240820_1041_en"
+git commit -m "update 20240820_1602_en"
+git diff HEAD
+git diff ghen/main 
+git help remote
+git remote add ghprns git@github.com/r-gregor/prenos.git
+go --version
+go -version
+go run ./rsort_by_enddate_g $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/") | less
+go run rsort_by_enddate_V3.go 
+go run rsort_by_enddate_V3.go $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/")
+go run rsort_by_enddate_V3.go $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/") | less
+go run rsort_by_enddate_V3.go $(cygpath -w "~/majstaf_en/engit/knowledgedb/_GIT/")
+go run rsort_by_enddate_V3.go ../
+go run rsort_by_enddate_V3.go ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+go run rsort_by_enddate_V3.go ~/majstaf_en/engit/knowledgedb/_GIT
+go run rsort_by_enddate_V3.go ~/majstaf_en/engit/knowledgedb/_GIT/
+go run rsort_by_enddate_V3.go ~/majstaf_en/engit/knowledgedb/_GO/
+go run rsort_by_enddate_g $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/") | less
+gor run rsort_by_enddate_V3.go 
+gor run rsort_by_enddate_V3.go ../
+grep 'go1.19.windows' *
+grep 'map(' *
+grep -i rust *
+grep -r 'map(' *
+grep rust *
+grep rust ./.*
+grepc -r 'map' *
+grepc -r 'map(' *
+grepc -r 'map[' *
+grepc -r 'map\[' *
+grepc -r 'map\[' * | less
+grepc -rh 'map\[' * | less
+grepc -rh 'map\[f' * | less
+grepc -rh 'map\[i' * | less
+history | grep 'git diff'
+histroy
+if [ -z $PWD ]; then echo "emptyprepare-fjl-for-knowledgebase ffmpeg_convert-hd-video-gif_20240826.txt 
+l | less
+lynxd "https://dev.to/wesen/14-great-tips-to-make-amazing-cli-applications-3gp3" tui_14-great-tips-to-make-amazing-cli-applications
+lynxd "https://hamatti.org/posts/branch-out-with-pattern-matching/" ptn_branch-out-with-pattern-matching
+lynxd "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/" nas_howto-setup-minimal-zfs-nas-without-truenas
+lynxd "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/" rst_linux-pipes-are-slow
+lynxd "https://tecadmin.net/10-simple-steps-to-clean-your-ubuntu-system/" 10-simple-steps-to-clean-ubuntu
+lynxd "https://www.dedoimedo.com/computers/ffmpeg-convert-hd-video-gif.html" ffmpeg_convert-hd-video-gif
+lynxd "https://www.networkworld.com/article/3489040/how-to-work-with-substrings-on-linux.html" bash_howto-work-with-substrings
+mkdir ../EMPTY
+mkdir ShrinkHalf
+mkdir __DANES__
+mkdir _podatki_skupno
+mkdir batcat
+mkdir hex2rgb
+mkdir hex2rgb.exe 
+mkdir rst_RUST_BOOK_PROJECTS
+mkdir zp_padec
+mv "Brother DCP-L3520CDW" "Brother_DCP-L3520CDW"
+mv *.c src/
+mv -i 10-simple-steps-to-clean-ubuntu_20240902.txt ~/majstaf_en/engit/knowledgedb/_LINUX_SYSTEM/
+mv -i c_dealing-with-time_20240820.txt ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+mv -i c_howto-wrap-cc_20240829.txt ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+mv -i find_howto-exclude-directories_20240820.txt ~/majstaf_en/engit/knowledgedb/_LINUX_SYSTEM/
+mv -i rst_* ~/majstaf_en/engit/knowledgedb/_RUST/
+mv -n bash_howto-work-with-substrings_20240827.txt ~/majstaf_en/engit/knowledgedb/_BASH/
+mv -n c_* ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+mv 20240925_brisi/ list_to_fzf_tests_20240925
+mv Makefile src/
+mv ZpPadec.c Makefile src/
+mv ZpPadec.c zp_padec.c
+mv bin/cm2feetinch_v2.exe .
+mv check_for_emptyd.sh ~/majstaf_en/scripts_majbin_en/00_ukazi_en/
+mv check_for_emptyd{.sh,} 
+mv cm2feetinch.c src/
+mv cm2feetinch{_v2,}.c 
+mv cm2feetinch{_v2,}.exe 
+mv ct_135_cm_to_feet_and_inches_20240926/ cm2feetinch
+mv ct_{999,132}_handles_20240819/
+mv ct_{999,135}_cm_to_feet_and_inches_20240926
+mv disable_keyboard_mouse_or_lid_from_waking_up_your_ubuntu_pc_20240826.txt c_howto_run_valgrind_on_a_cgi_program_20240826.txt __DANES__/
+mv handles{,_v1}.c 
+mv hex2rgb.exe hex2rgb
+mv list_to_fzf_tests_20240925.tgz{,.txt} 
+mv list_to_fzf_tests_20240925/ ~/majstaf_en/scripts_majbin_en/
+mv ptn_branch-out-with-pattern-matching_20240826.txt ~/majstaf_en/engit/knowledgedb/_PYTHON/
+mv test.sh test_names.sh
+mv tui_{,_5P_}14-great-tips-to-make-amazing-cli-applications_20240828.txt 
+mv tui_{_,}5P_14-great-tips-to-make-amazing-cli-applications_20240828.txt 
+mv zp_padec.exe ZpPadec.exe zp_padec/
+mv ~/_DOWNLOADS/Brother{\ ,}DCP-L3520CDW/
+my_URL="https://"
+nc
+nc --help
+nc -h | less
+nnn
+prepare-fjl-for-knowledgebase 10-simple-steps-to-clean-ubuntu_20240902.txt 
+prepare-fjl-for-knowledgebase bash_howto-work-with-substrings_20240827.txt 
+prepare-fjl-for-knowledgebase c_dealing-with-time_20240820.txt 
+prepare-fjl-for-knowledgebase c_differences-between-macros-functions_20240827.txt
+prepare-fjl-for-knowledgebase c_differences-between-macros-functions_20240827.txt 
+prepare-fjl-for-knowledgebase c_howto-wrap-cc_20240829.txt 
+prepare-fjl-for-knowledgebase c_pointer-to-function_20240827.txt 
+prepare-fjl-for-knowledgebase disable_keyboard_mouse_or_lid_from_waking_up_your_ubuntu_pc_20240826.txt
+prepare-fjl-for-knowledgebase ffmpeg_convert-hd-video-gif_20240826.txt 
+prepare-fjl-for-knowledgebase find_howto-exclude-directories_20240820.txt 
+prepare-fjl-for-knowledgebase nas_howto-setup-minimal-zfs-nas-without-truenas_20240826.txt 
+prepare-fjl-for-knowledgebase ptn_branch-out-with-pattern-matching_20240826.txt 
+prepare-fjl-for-knowledgebase rst_linux-pipes-are-slow_20240828.txt 
+prepare-fjl-for-knowledgebase tui_14-great-tips-to-make-amazing-cli-applications_20240828.txt 
+prepare-fjl-for-knowledgebase �.
+printf ":: D :: \n:: E ::" | fzf
+printf ":: D :: \n:: E ::" | fzf --prompt="Chose ext HDD"
+printf "D\nE" | fzf
+printf "D\nE" | fzf --prompt="Chose ext USB HDD"
+printf "D\nE" | fzf --prompt=#
+printf "D\nE" | fzf --prompt=''
+printf "D\nE" | fzf --prompt='<'
+printf "D\nE" | fzf --prompt='>'
+printf "D\nE" | fzf --prompt=->
+printf "D\nE" | fzf --prompt=<
+printf "D\nE" | fzf --promt "Chose ext USB HDD"
+printf "D\nE" | fzf --promt="Chose ext USB HDD"
+printf "D\nE" | fzf --promt_"Chose ext USB HDD"
+py msvc_build_libraries.py 
+qit diff HEAD^ HEAD
+rename1-fname "How to implement TF-IDF in Python"
+rename2-and-clean-fname "How to implement TF-IDF in Python"
+rustc
+rustc --version
+rustup component add rust-analyzer
+s1 "https://thevaluable.dev/practical-guide-fzf-example/"
+s1 "https://www.xda-developers.com/thread/ubuntu-tip-of-the-day/"
+softlink1-fname-to-ulb check_for_emptyd 
+tar -tvzf list_to_fzf_tests_20240925.tgz 
+tar tzvf fzf_tests.tar.gz 
+target/debug/csvtutor
+testing_gtgh_s
+tmxns 
+touch TEST_from_EN_20240926
+tree 
+tree ct_135_cm_to_feet_and_inches_20240926/
+tustup
+type c3c
+type p3
+type py
+type rustc
+type rustup
+type t-gremdomov
+underscores-to-hypens-en "How to implement TF-IDF in Python"
+vf ShrinkHalf
+walk
+wget "https://www.codeproject.com/KB/Articles/5264475/ShrinkHalf_Demo.zip"
+which p3
+which rustup
+wq
+p
+. peesena 
+./BrthReminder_c
+./BrthdReminder_1.1.0
+./BrthdReminder_1.1.0_colors
+./build/BrthReminder_c_color 
+./build/string_to_hex_v3
+./refresh_fjl_to_git_repo 
+cargo doc --open
+cargo new data_types
+cargo new guessing_game
+cargo new quessing_game
+cargo new variables
+cat > ~/.bash_history 
+cat Cargo.lock 
+cat Cargo.lock | less
+cat DELETEME 
+cat TEST_20240919.txt 
+cat colors 
+cat colors | fzf -m | xargs echo
+cat colors | fzf | echo
+cat colors | fzf | echo -
+cat history-en_20240819-164000.txt 
+cat history-en_20240819-164356.txt 
+cat history-en_20240819-164623.txt 
+cat ~/.bash_history2 
+cat ~/majstaf_en/seznami_en/history-en_20240819-164000.txt
+cf
+check_git_diffs_en majrcs
+chmod 755 refresh_fjl_to_git_repo 
+contains ""https://thenewstack.io/linux-create-and-connect-to-an-nfs-share/"
+contains https://thenewstack.io/linux-create-and-connect-to-an-nfs-share/
+cp -i /home/gregor.redelonghi/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat ~/_EGT/majbin_en/lynxdump/
+cp -rn _from_EN/* _from_energetika_20240426/
+dd
+del DELETEME 
+diff -q . /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/ | grep -vi common
+diff _from_EN/ _from_energetika_20240426/
+done
+duh _PDF/
+duh _PDF/ |head
+echo $HISTFILE
+echo $PS1
+echo ${VAR#*/}
+echo ${VAR%%/*}
+echo ${VAR%.*}
+echo ${VAR}
+echo ${arr2[1]}
+find -iname "*qtile*"
+find -iname "*rofi*"
+find -type d -name target
+find -type f -iname "xargs*"
+find /home/gregor.redelonghi/majstaf_en/majbin_en/* -iname "*color*"
+fm 0_converted_to_PDF/
+fnc
+for FFF in *.c ; do echo sed "s/daysdiff.h/daysdiff_v1.h/g" $FFF; done
+for FFF in *.c ; do sed -i "s/daysdiff.h/daysdiff_v1.h/g" $FFF; done
+get_
+get_wn
+git add _PDF
+git clone "https://github.com/mylinuxforwork/dotfiles.git"
+git remote
+go run BrthdReminder_1.1.0_colors.go 
+grefresh_fjl_to_git_repo grefresh_fjl_to_git_repo 
+grep --color fzf *
+grep -r HIST *
+grep HIST .bash*
+grepc -C5 fzf ~/majstaf_en/majrcs_en/funclist_en 
+gst 
+history > ~/majstaf_en/seznami_en/history-en_20240819-164000.txt
+lynxd "https://thenewstack.io/linux-create-and-connect-to-an-nfs-share/" nfs_create-and-connect-to-nfs-share
+lynxd "https://ubuntuhandbook.org/index.php/2024/08/wake-up-ubuntu-pc/" $(echo "Disable Keyboard, Mouse, or Lid from Waking up Your Ubuntu PC" | tr ',' ' ' | tr ' ' '_' | tr "[:upper:]" "[:lower:]")
+mkdir 20240925_brisi
+mount
+mv -v "$NM" "$(fname-to-lower-with-hypens_en $NM)"
+mv -v ~/_NERAZPOREJENO/__DANES__/cs_always-use-enum-for-status-field_20240924.txt _CS_and_other_PL/
+mv New_Build_System_in_C___Part_1_transscript.txt ../_C_and_Cpp/
+mv _PDF/ ../
+mv disable_keyboard__mouse__or_lid_from_waking_up_your_ubuntu_pc_20240826.txt disable_keyboard_mouse_or_lid_from_waking_up_your_ubuntu_pc_20240826.txt 
+mv nfs_create-and-connect-to-nfs-share_20240924.txt ~/majstaf_en/engit/knowledgedb/_LINUX_SYSTEM/
+prepare-fjl-for-knowledgebase nfs_create-and-connect-to-nfs-share_20240924.txt 
+qtm
+rg 'esac' -tsh
+touch DELETEME
+touch brisime
+type hst
+wget -qO - icanhazip.com
+which BrthReminder_c
+which hst
+~/_BRISI/brth_test jele
+¸¸pddr
+ key short-cuts
+-cuts
+. .bashrc
+./convert-fname-to-lower-with-hypens "My New File"
+./convert-linenedings-from-unix-to-dos TEST_FILE.txt 
+/e/RUN_backups 
+NM="Survive (2024)"
+NM="The Substance (2024)"
+NM=spremeni_geslo_en 
+bash "$(head -n1 sort_files_by_chapter_in_header_20240913.txt)"
+bash $(head -n1 sort_files_by_chapter_in_header_20240913.txt)
+cargo --version
+cargo build --release
+cargo check
+cargo run --release
+cargorun
+cat encoded2 |base64 -d
+cat sort_files_by_chapter_in_header_20240913.txt 
+check4emptyd ~/_NERAZPOREJENO
+check_git_diffs_en metsys
+chmod 755 ~/majstaf_en/majbin_en/crq
+cm2feetinch 
+cp $NM ~/majstaf_en/scripts_majbin_en/00_ukazi_en/$NM.sh
+cp -i bashrc_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+cp -i ~/.bashrc ~/majstaf_en/engit/dotfiles_en/
+cp -i ~/majstaf_en/majrcs_en/funclist_en ~/majstaf_en/engit/majrcs_en/
+cp bashrc_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+cp crq ~/majstaf_en/engit/majbin_en/
+cp majstaf_en/majbin_en/spremeni_geslo_en ~/majstaf_en/engit/majbin_en/
+cp psswdchange-en spremeni_geslo_en
+cqr
+echo "$(head -n1 sort_files_by_chapter_in_header_20240913.txt)"
+echo $(head -n1 sort_files_by_chapter_in_header_20240913.txt)[B
+echo 'grep -r -H chapter * | sort -n -k 4' > sort_files_by_chapter_in_header_20240913.txt
+engt_testpush_new 
+eval "$(head -n1 sort_files_by_chapter_in_header_20240913.txt)"
+exot
+file psswdchange-en 
+find ~/.config -type f -name "*conf" -o -iname "config*"
+ghgl_p
+head -n1 sort_files_by_chapter_in_header_20240913.txt
+head -n1 sort_files_by_chapter_in_header_20240913.txt 
+head -n1 sort_files_by_chapter_in_header_20240913.txt | bash -
+mkdir 20240919
+mkdir dereferencing_cloning_test
+mkdir rst_projects_20240903
+mv rst_20240919 rst_999_dereferencing_cloning_test_20240919
+mv rst_999_dereferencing_cloning_test_20240919/ ~/majstaf_en/coding2/testing/rust_testing/
+mv rst_{999,007}_dereferencing_cloning_test_20240919/
+mv src/ target/ Cargo.* dereferencing_cloning_test/
+mv {,rst_}20240919
+om/watch?v=PHGyKqY75Hg
+softlink1-fname-to-ulb spremeni_geslo_en 
+softlink1-fname-to-ulb ~/majstaf_en/majbin_en/crq
+touch BRISIME
+type psswdchange-en 
+./build/mynameinbinhex 
+./build/string_to_hex_v3 "aa@aa"
+./build/string_to_hex_v3 gggggggggggggggggggggggggggggggggg
+./dec_to_bin 
+./dec_to_bin 0
+./dec_to_bin 255
+./dec_to_bin 300
+./dec_to_bin a
+./fsplit_en.sh 
+KOPILAB1 "Naročilo: 20240923_1413_N-30280_22403_PO_prestavitev_Pregljeva_DGD"
+NM="The Departed (2006)"
+ZpPadec 
+[ -n $O ]
+\grep -Eil "define.*\(type.*\\\\" *
+\grep -Eil "define.*\(type.*\\\\" * | uimp
+bash rename_bin_to_build_20241203.sh 
+bin/cm2feetinch_v2 185
+br
+build/mynameinbinhex jbe
+build/mynameinbinhex ooo
+build/mynameinbinhex rgregor
+build/string_to_hex 
+build/string_to_hex iii
+build/string_to_hex jjj
+build/string_to_hex zzz
+build/string_to_hex_v3
+build/string_to_hex_v3 "ggggggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+build/string_to_hex_v3 "ggggggggggggggggggggggggggggggggggggggggggggg"
+cargo new functions
+cat Makefile
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202405
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202406
+cat vv
+check_git_diffs_en ~/majstaf_en/$DR ~/_EGT/$DR
+cim src/main.rs 
+cp -i $FJL ~/majstaf_en/engit/majbin_en/
+cp -i $FJL ~/majstaf_en/scripts_majbin_en/00_ukazi_en/
+cp -i ../HLWRLD/main.* .
+cp -r rst_book_projects_2024090{3,4}
+cp rst_20240919.exe ~/_BRISI/
+cp rst_book_projects_2024090{3,4}
+cp rst_ptn_intro-rust-python-extensions_20240920.txt ptn_rst_intro-rust-python-extensions_20240920.txt 
+echo "How to run valgrind on a CGI program in C" | tr " " "_" | tr "[:upper:]" "[:lower:]"
+echo "Visual guide to SSH tunneling and port forwarding" | spaces-to-hypens 
+echo "Visual guide to SSH tunneling and port forwarding" | tr ' ' '-' | tr ':upper:' ':lower'
+echo "Visual guide to SSH tunneling and port forwarding" | tr ' ' '-' | tr '[:upper:]' '[:lower:]'
+echo "Visual guide to SSH tunneling and port forwarding" | tr ' ' '-' | tr '[:upper:]' '[:lower]'
+echo $O
+echo ${VAR##*.}
+echo ${VAR#*.}
+echo ${VAR%%.*}
+export PROMPT_DIRTRIM=3
+fd
+find * -maxdepth 0 -not -name "*branches*"
+find * -maxdepth 0 -not -name "*functions*"
+find * -not -name "*functions*"
+find * -type f |grep -v .git
+find -not -name "*functions*"
+find -not name "*functions*"
+find -type f -name Makefile
+for FF in *; do echo $FF; figlet -f $FF "Just A Test"; done
+for FFF in $(find -type f); do grep "https://thenewstack.io/linux-create-and-connect-to-an-nfs-share/" $FFF; done
+git diff 2f8483 d9bd66
+git diff 2f8483 d9bd66 rst_007_dereferencing_cloning_test_20240919/dereferencing_cloning_test/src/main.rs
+git diff 2f8483 d9bd66 src/main.rs
+git diff 2f848c d9bd66e
+git diff 2f848ce d9bd66e
+git diff 2f848ce...d9bd66e
+git diff 2f848ce..d9bd66e
+git diff b40ff3 1d8953 rst_007_dereferencing_cloning_test_20240919/dereferencing_cloning_test/src/main.rs
+git diff b40ff3 2f8483 rst_007_dereferencing_cloning_test_20240919/dereferencing_cloning_test/src/main.rs
+git diff b40ff3 d9bd66 rst_007_dereferencing_cloning_test_20240919/dereferencing_cloning_test/src/main.rs
+git staus
+gitadd .
+glog_status_en | cat -
+glog_status_en | head
+glog_status_en | head -n15
+grep -Hr 'chapter' *
+grep -Lrn 'chapter' *
+grep -Lrn chapter *
+grep -ln chapter *
+grep -lrn chapter *
+grep -r sprintf *
+grep -r use *
+grep -rH --color 'print!' *
+lynxd "https://jmduke.com/posts/post/enums/" cs_always-use-enum-for-status-field 
+lynxd "https://ptomato.wordpress.com/2024/09/23/its-like-cp-r-but-for-your-gui/" c_its-like-cp-r-but-for-your-gui
+lynxd "https://pythonspeed.com/articles/intro-rust-python-extensions/" rst_ptn_intro-rust-python-extensions
+lynxd "https://www.maketecheasier.com/create-extract-rar-files-on-linux/" rar_howto_create-extract-rar-files
+lynxd "https://www.zdnet.com/article/how-to-set-up-a-linux-nfs-server-on-your-home-network-and-why/" nfs_howto-set-up-nfs-server-and-why
+mkdir downloaded_isos
+mkdir majtests
+mkdir newvv
+mv nfs_howto-set-up-nfs-server-and-why_20240920.txt rar_howto_create-extract-rar-files_20240920.txt ~/majstaf_en/engit/knowledgedb/_LINUX_SYSTEM/
+mv ptn_rst_intro-rust-python-extensions_20240920.txt ~/majstaf_en/engit/knowledgedb/_PYTHON/
+mv rst_ptn_intro-rust-python-extensions_20240920.txt ~/majstaf_en/engit/knowledgedb/_RUST/
+mv rst_{,book_}projects_20240903/
+mv vv.tar newvv/
+narocilo_KOPILAB 
+prepare-fjl-for-knowledgebase c_its-like-cp-r-but-for-your-gui_20240924.txt 
+prepare-fjl-for-knowledgebase cs_always-use-enum-for-status-field_20240924.txt 
+prepare-fjl-for-knowledgebase nfs_howto-set-up-nfs-server-and-why_20240920.txt 
+prepare-fjl-for-knowledgebase rar_howto_create-extract-rar-files_20240920.txt 
+prepare-fjl-for-knowledgebase rst_ptn_intro-rust-python-extensions_20240920.txt 
+printf "%x\n" "255"
+rar help
+roken_symlinks
+rustup doc --book
+s1 "https://www.TEST.net/Just.TEST_20240919.html"
+s1 "https://www.TEST.net/Just/just_TEST_20240919.html"
+s1 "https://www.delo.si/magazin/potovanja/s-kolesi-2000-metrov-nad-morjem"
+s1 "https://www.delo.si/magazin/zanimivosti/festival-pohodnistva-v-dolini-soce-praznik-narave-in-tradicije-pohodnistva"
+s2 "Check up" """
+s2 "Very cool" """
+tar --help
+tar -h
+tar -t -f vv.tar
+tar -t vv.tar
+tar -tf vv.tar
+tar -xvf vv.tar 
+tree branches/
+type fncs
+unrar help
+,d
+./am_I_being_piped_to.sh 
+./divc_test 
+./load_local_rust_book_into_browser 
+./target/debug/mut_ref_test
+20240329/test 
+CD
+FJL="load_local_rust_book_into_browser" 
+NM="This Is the End (2013)"
+bin/check_for_hex_digits_v1 
+bin/check_for_hex_digits_v2 
+bin/str 
+cargo build src/test.rs 
+cargo help build
+cargo init 20240905_rust_testing
+cargo init rust_strings_testing_20240905/
+cargo new methods
+cargo new structs
+cargo ru
+cargo run --bin src/bin/
+cargo run --bin src/bin/test
+cargo run --bin src/bin/test.rs 
+cargo run --bin src/main.rs 
+cargo run --bin src/main.rs test
+cat .gitignore 
+cat OUTPUT 
+cat src/main.rs > src/test.rs 
+cat src/main.rs src/test.rs 
+cat structs/src/struct_test_print.rs >> methods/src/main.rs 
+check4emptyd ~/_NERAZPOREJENO/__DANES__/
+check_for_emptyd .
+chmod 644 *.txt
+chmod 755 build_struct_test_print.sh 
+chmod 755 load_local_rust_book_into_browser.sh 
+chmod 755 ~/majstaf_en/majbin_en/list_broken_symlinks
+chmod load_local_rust_book_into_browser.sh 
+cless
+cless --syntax sh funclist_en 
+cless current_year_setup.txt 
+cless funclist_en 
+cp -i .minttyrc ~/majstaf_en/engit/dotfiles_en/
+cp -i bin/hex_to_rgb_v3.exe ~/majstaf_en/coding2/toolbox/c_toolbox/hex_to_rgb 
+cp -i danes_check check4emptyd ~/majstaf_en/engit/majbin_en/
+cp -i funclist_en ~/majstaf_en/engit/majrcs_en/
+cp -i list_broken_symlinks ~/majstaf_en/engit/majbin_en/
+cp -r c_999_check_for_hex_digits_20240911/ ~/majstaf_en/coding2/testing/c_testing/
+cp -r ~/_BRISI/20240905_rust_testing/ _NERAZPOREJENO/__DANES__/
+cp ./* ~/majstaf_en/metsys_en/
+cp bin/test.rs .
+cp check_for_hex_digits_v{2,3}.c 
+cp check_for_hex_digits{,_v1}.c 
+cp check_for_hex_digits{,_v2}.c 
+cp check{_for_,4}emptyd 
+cp main.rs main.rs.backup
+cp src/mut_ref_test.rs src/bin/
+danes_
+danes_check | sed -n /\/.* /p
+danes_shrani 
+echo "---" >> ~/update_from_en_20240912.txt
+echo "DOOM" | ./am_I_being_piped_to.sh 
+echo $(cygpath -w "target/doc/methods/index.html") 
+echo $(cygpath -w $(realpath "target/doc/methods/index.html"))
+echo ${#arr[@]}
+ffn $(cygpath -w "target/doc/methods/index.html") 
+ffn $(cygpath -w $(realpath "target/doc/methods/index.html"))
+ffn $(cygpath -w $PWD)
+ffn target/doc/methods/index.html 
+find -type d -name "danes*"
+find -type f -iname "*cargo*html"
+find /c/Users/gregor.redelonghi/ -type f -name "rename_basenames*"
+find /home/gregor.redelonghi/majstaf_en/scripts_majbin_en/ -type d -iname "*pipe*"
+find ~/majstaf_en/coding2/testing/rust_testing/ -type f
+find ~/majstaf_en/coding2/testing/rust_testing/ -type f |grep mut
+find ~/majstaf_en/coding2/testing/rust_testing/ -type f |grepc mut
+fit status
+git sttaus
+go help build | less
+grep --color -H chapter *
+grep -r --color -H chapter *
+grep -r -H chapter *
+grep -r -H chapter * | sort -n -k 4,1
+grep -r -H chapter * | sort -n -k 4.1
+grep -r -H chapter * | sort -n -k3
+grep -r -H chapter * | sort -n -k5
+grep -r -H chapter * | sort -n -k6
+grep -r danes *
+grep -r mut ~/majstaf_en/coding2/testing/rust_testing/*
+grep check *
+grep danes *
+hex_to_rgb ffffff
+hex_to_rgb ffffffg
+hex_to_rgb fffxff
+l | head
+lf
+lynxd "https://konstantintutsch.com/blog/compile-java-from-multiple-source-files/" jv_compiling-from-multiple-source-files
+lynxd "https://linuxbuz.com/devops/cherry-pick-a-commit-in-git-a-definitive-guide" git_cherry-pick-commit-definitive-guide
+lynxd "https://ntietz.com/blog/rust-references-vs-pointers/" rst_references-vs-pointers
+majbin/struct_test_print 
+mkdir -p src/bin
+mkdir 20240905_rust_testing
+mkdir 20240912
+mkdir bash_testing
+mkdir bash_toolbox
+mkdir c_999_check_for_hex_digits_20240911
+mkdir majbin
+mv -nv rust_strings_testing_20240905 rst_003_strings_testing_20240905
+mv 20240905_rust_testing rust_strings_testing_20240905
+mv bash_test_if_piped_to_20240605/ bash_testing/
+mv bash_testing/ ~/majstaf_en/scripts_majbin_en/
+mv bash_testing{,_en}
+mv build_{,and_run_}struct_test_print.sh 
+mv build_{and_run_}struct_test_print.sh 
+mv check_for_hex_digits_v1.c src/
+mv check_for_hex_digits_v2.c src/
+mv ct_134_hex_to_rgb_202409{09,11}
+mv ct_13{3,4}_hex_to_rgb_20240909/
+mv c{_999,t_133}_check_for_hex_digits_20240911/
+mv divc_test.c ~/majstaf_en/coding2/testing/c_testing/ct_OSTALO/
+mv git_cherry-pick-commit-definitive-guide_20240912.txt ~/majstaf_en/engit/knowledgedb/_GIT/
+mv load_local_rust_book_into_browser{.sh,} 
+mv main.rs.backup main.rs
+mv mut_ref_test.rs src/
+mv rename_basenames_in_filenames.sh.txt ~/majstaf_en/coding2/toolbox/bash_toolbox/
+mv rename_basenames_in_filenames.sh{,.txt} 
+mv rst_003_strings_testing_20240905/ ~/majstaf_en/coding2/testing/rust_testing/
+mv rst_references-vs-pointers_20240905.txt ~/majstaf_en/engit/knowledgedb/_RUST/
+mv str_test.c ~/majstaf_en/coding2/testing/c_testing/ct_OSTALO/string_test1.c
+mv test.rs struct_test_print.rs 
+mv ~/_NERAZPOREJENO/bash_test_if_piped_to_20240605/ .
+mv ~/_NERAZPOREJENO/bash_test_if_piped_to_20240605/.
+prepare-fjl-for-knowledgebase git_cherry-pick-commit-definitive-guide_20240912.txt 
+prepare-fjl-for-knowledgebase jv_compiling-from-multiple-source-files_20240909.txt 
+prepare-fjl-for-knowledgebase rst_references-vs-pointers_20240905.txt 
+rustc --help |grep verbo
+rustc --verbose -o src/bin/struct_test_print src/struct_test_print.rs 
+rustc -C src/bin/ src/test.rs 
+rustc -o src/bin/ src/test.rs 
+rustc help
+rustc src/test.rs 
+s2 "new app" """
+softlink1-fname-to-ulb check4emptyd 
+softlink1-fname-to-ulb ~/majstaf_en/majbin_en/list_broken_symlinks
+tree bin
+type ffn
+which danes_shrani 
+which highlight
+ļl
+*256*
+./BrthReminder
+./BrthReminder gre
+./build/string_to_hex_v4 
+./hex2rgb 
+./testing_gtgh_status_en 
+0a_povezave/BrthReminder gre
+0a_povezave/hex_to_rgb 
+0a_povezave/hex_to_rgb aaffcc
+NM="2 Guns (2013)"
+PTN="UrE"
+PTN="Ure"
+alias
+bin/cm2feetinch_v1 192
+bin/cm2feetinch_v1 209
+bin/cm2feetinch_v1 210
+bin/cm2feetinch_v1 214
+bin/cm2feetinch_v2 193
+bin/hex2rgb_v3 
+bin/hex2rgb_v3 ffdd5
+bin/hex2rgb_v3 ffdd59
+bin/hex2rgb_v3 ffdd5t
+bin/hex_to_rgb_v3 AABBFF
+bin/hex_to_rgb_v3 AACCff
+bin/hex_to_rgb_v3 AACCfg
+bin/hex_to_rgb_v3 aac9b8aa
+bin/hex_to_rgb_v3 aac9b8t
+cat _LIST 
+cp -i .bashrc ~/_EGT/dotfiles_en/
+cp -i show_subdirs_tree ~/majstaf_en/engit/majbin_en/show_trees_of_subdirs 
+cp bin/hex2rgb_v3.exe ~/majstaf_en/coding2/toolbox/c_toolbox/
+cp bin/hex_to_rgb_v3.exe ~/_NERAZPOREJENO
+cp ~/_NERAZPOREJENO/hex_to_rgb_v3.exe .
+echo "${a[priimek]}"
+echo $PTN
+echo ${arr0[ena]}
+echo ${arr2[3]}
+echo ${arr[0]}
+echo ${arr[ime]}
+echo ${exarr[pri]}
+fg
+find * -iname "*.cu*"
+find * -type d
+find -name "*202408*txt" | sort -nr
+find -name "*202408*txt" | sort -nr -t'.'
+find -name "*202408*txt" | sort -nr -t'.' -k1
+find -name "*202408*txt" | sort -nr -t'.' -k2
+find -type d
+find -type d *
+find -type d -iname "*c*book*"
+find -type f -iname "*c*book*"
+find -type f -name "*hex*"
+find . -print0 | xargs -0 file | grep -i "broken symbolic link"
+glog_status 
+grepc -ir color *
+hex2rgb 
+ln -s ~/0a_povezave/hex2rgb $PWD/hex2rgb.exe 
+ln -s ~/majstaf_en/coding2/toolbox/c_toolbox/hex2rgb.exe ~/0a_povezave/hex2rgb
+ln -s ~/majstaf_en/coding2/toolbox/c_toolbox/hex_to_rgb.exe .
+ln -snf ~/majstaf_en/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c.exe BrthReminder
+lynxd "https://linuxbuz.com/devops/git-add-update-submodule" git_add-update-submodule
+lynxd "https://linuxbuz.com/devops/how-to-fix-a-git-detached-head-state" git_howto-fix-detached-head-state
+make -f Makefile_W 
+make -f Makefile_W clean 
+mv /home/gregor.redelonghi/majstaf_en/coding2/toolbox/c_toolbox/hex_to_rgb{.exe,}
+mv git_* ~/majstaf_en/engit/knowledgedb/_GIT/
+mv hex2rgb{_v3,}.exe 
+mv hex_to_rgb{.exe,} 
+mv hex_to_rgb{_v3,}.exe 
+mv jv_compiling-from-multiple-source-files_20240909.txt ~/majstaf_en/engit/knowledgedb/_JAVA/
+prepare-fjl-for-knowledgebase git_add-update-submodule_20240909.txt 
+prepare-fjl-for-knowledgebase git_howto-fix-detached-head-state_20240909.txt 
+show_trees_of_subdirs 
+softlink1-fname-to-ulb gaddacomm 
+softlink1-fname-to-ulb grefresh_fjl_to_git_repo 
+softlink1-fname-to-ulb hex_to_rgb.exe 
+softlink1-fname-to-ulb show_subdirs_tree 
+touch ~/majstaf_en/engit/majrcs_en/DELETE.ME
+tree build/
+/e/RUN_backups -x
+NM="The Matrix Resurrections (2021)"
+bin/handles_v1 
+cp -i .bashrc* _EGT/dotfiles_en/
+cp gaddacomm gda
+dc
+en_g
+hex_to_rgb aaccff
+mv _C_and_Cpp/c_colour-converter_20240910{__UNEDITED,}.txt 
+sbrb
+./BrthReminder_c_color 
+./check_for_emptyd.sh ../EMPTY
+./rst_20240919 
+./test_names.sh f
+./ure.sh UrE
+./ure.sh uRe
+bin/cm2feetinch_v2 214
+cat ShrinkHalf_src.zip 
+cat ShrinkHalf_src.zip | grepc -i shrinkhalf
+check_for_emptyd ~/_NERAZPOREJENO/EMPTY/
+chmod 755 test.sh 
+cp -i ~/majstaf_en/majrcs_en/bashrc_prompt_nerd_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+duh . 15
+echo " ena dva tri" | tr ' ' ':' | cut -d':' -f1
+find -iname "*double*" | fzvmp
+find -iname "*dual*" | fzvmr
+git remote -v
+go
+nc -h
+unset arr
+unzip ShrinkHalf_src.zip 
+which rustc
+~/majstaf_en/majbin_en/get_public_ip
+. .bashrc_nonerd 
+./test 
+0a_povezave/BrthReminder_color 
+bin/char_to_bin 
+build/mynameinbinhex 
+build/string_to_hex_v3 "gggggggggggggggg"
+check_git_diffs_en
+d
+echo -e $choises | fzf
+ffn index.html 
+fish
+make && bin/bitmasking_test 
+mxks
+risbe_join_en 
+./main 
+./scales
+ami_en/history-en_$(date +'%Y%m%d-%H%M%S').txt"
+ands from HISTORY to ${gPth}"
+bin/BrthReminder_c_color 
+bin/cm2feetinch_v2 
+cargo update
+cat /proc/partitions 
+cat Cargo.toml 
+cat colors | fzf | xargs echo
+echo ${#seznam[@]}
+echo ${arr[1]}
+grep daysdiff *
+grepc fzf ~/majstaf_en/majrcs_en/*
+history -w
+nvol commit -a
+print256colours 
+rustc main.rs 
+ry > /home/gregor.redelonghi/majstaf_en/seznami_en/history-en.dat_20240130-112933'
+seznam=()
+source bashrc_prompt_color_gredelonghi_en 
+0a_povezave/hex2rgb 
+:exit
+fg %1
+find * -maxdepth 0 -type f
+source ./bashrc_prompt_base_gredelonghi_en
+tree -d
+~/majstaf_en/majbin_en/lynxdump/lynx-multi-dump-fromlist-en 
+bin/cm2feetinch_v1 198
+bin/cm2feetinch_v1 213
+bin/cm2feetinch_v2 188
+c
+cargo run --quiet
+echo $(head -n1 sort_files_by_chapter_in_header_20240913.txt)
+echo ${exarr[ime]}
+find -name "DELETE.ME"
+go help build
+neofetch 
+q
+spremeni_geslo_en 
+cargo run |less
+cp -i string_to_hex_v3.c src/
+grep -r -H chapter * | sort -n -k 4
+prompt_switch 
+./dec_to_bin 'A'
+./refresh_fjl_to_git_repo aliases_gredelonghi_en 
+[Aexit
+build/string_to_hex_v3 
+build/string_to_hex_v3 gggggg AAA
+cargo new majtests
+echo $?
+find -type d -name bin
+for FFF in $(find * -type f |grep -v .git); do grep "https://thenewstack.io/linux-create-and-connect-to-an-nfs-share/" $FFF; done
+for N in 1 2 3 4 5 6 7 8 9; do touch "My new Fname $N.txt"; done
+git diff
+git help diff
+which cargo
+./check_for_emptyd.sh ../EMPTY/
+./ure.sh uRa
+./ure.sh ure
+color10bit 
+danes
+go version
+rustup update
+target/debug/majtests
+wget "https://www.codeproject.com/KB/Articles/5264475/ShrinkHalf_src.zip"
+./src/bin/struct_test_print 
+./src/bin/test 
+bin/check_for_hex_digits_v3 
+cargo doc
+check4emptyd 
+grep -r -H chapter * | sort -n -k7
+mkdir src/bin
+rustc --help
+softlink1-fname-to-ulb hex2rgb.exe 
+type danes_shrani 
+mc
+:wq
+bin/cm2feetinch_v1 189
+bin/hex_to_rgb_v3 aac9b8
+check_git_diffs_en majrcs_en
+echo "${a[ime]}"
+echo $HSTLP
+hex_to_rgb 
+mv show_trees_of_subdirs show_subdirs_tree
+softlink1-fname-to-ulb hex_to_rgb 
+./dec_to_bin A
+./risbe_join.sh 
+0a_povezave/BrthReminder
+LP,
+check_for_emptyd 
+cp -i ~/majstaf_en/majrcs_en/aliases_gredelonghi_en ~/majstaf_en/engit/majrcs_en/
+cp -i ~/.bashrc ~/_EGT/dotfiles_en/
+git diff HEAD^ HEAD
+tree src/
+./check_for_emptyd.sh
+./refresh_fjl_to_git_repo refresh_fjl_to_git_repo 
+./test.sh 
+echo ${seznam[0]}
+./build/string_to_hex_v3 
+cargo init .
+fzf --help
+./dec_to_bin
+bin/cm2feetinch_v1 187
+check_git_diffs_en ~/majstaf_en/metsys_en/ ~/majstaf_en/engit/metsys_en/
+glog_status_en | head -n30
+grep --color -Hr 'chapter' *
+abr
+gPth="$HOME/majstaf_en/seznami_en/history-en_$(date +'%Y%m%d-%H%M%S').txt"
+gadd
+history >> ${gPth}
+switch_prompt 
+grep -r 'print!' *
+cp ~/majstaf_en/coding2/testing/c_testing/Makefile .
+"""
+./build/string_to_hex_v3 gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+contains $URL
+./testing_gtgh_status_en2 
+check_git_diffs_en metsys_en
+xs
+nvol add .
+check_for_emptyd ~/_NERAZPOREJENO/__DANES__/
+bin/dec_to_bin 
+cargo run | less
+cat ~/.bash_history
+bin/cm2feetinch_v1 185
+my
+./build_struct_test_print.sh && ./src/bin/struct_test_print 
+odjava_menu_en 
+crq
+mkdir src
+sbrn
+./test_colors.sh 
+bin/hex_to_rgb_v3 
+./logout_menu_en 
+LL
+bin/cm2feetinch_v1 188
+broken_symlinks_list 
+./ure.sh Ura
+l1
+list_broken_symlinks 
+xit
+duh
+./build_struct_test_print.sh 
+rustc -o src/bin/test src/test.rs 
+./test_colors.sh f
+which go
+nvol status
+gaddacomm 
+git commit -a
+check_git_diffs_en 
+build/string_to_hex_v3 "ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+git status 
+r
+./build_and_run_struct_test_print.sh 
+:q
+check_majbin_git_diffs_en 
+bin/bitmasking_test 
+testing_gtgh_testpush_en 
+bin/cm2feetinch_v1 
+rustc -o src/bin/struct_test_print src/struct_test_print.rs 
+./test_names.sh 
+./check_for_emptyd.sh 
+bin/test_bitmasking 
+IMAGES-remove-pics-from-Downloads 
+history
+engt_testpush 
+testing_gtgh_status_en 
+./ure.sh Ure
+yes_add_commit_push 
+cargo build
+cargo clean
+gyes_add_commit_push 
+glog_status_en 
+
+fm
+./mut_ref_test 
+s2 "$NM" "$NM"
+engt_status 
+make clean 
+danes_check 
+ghgl_testpush_en 
+/e/RUN_backups -a
+rustc mut_ref_test.rs 
+/d/RUN_backups -a
+git add .
+/e/RUN_backups -c
+bin/check_for_hex_digits 
+/d/RUN_backups -c
+tmxns
+tmxks
+/home/gregor.redelonghi/majstaf_en/majbin_en/BrthReminder/BrthReminder_c_color.exe
+gst
+tree
+l
+get_endiffs 
+ghgl_push_en 
+sbr
+git status
+make
+exit
+cargo run

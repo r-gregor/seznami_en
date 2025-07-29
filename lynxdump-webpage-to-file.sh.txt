@@ -1,0 +1,17 @@
+
+###  EN-proxy ...
+# prx_ip=172.17.3.64
+prx_ip=10.91.8.21
+export http_proxy=http://${prx_ip}:80/
+export ftp_proxy=ftp://${prx_ip}:8021/
+export https_proxy=http://${prx_ip}:80/
+
+gr_weburl="$1"
+gr_fjl="$PWD/c_programming_3w-howtoforge_20190517.txt"
+
+echo -n "Inserting ${gr_weburl} into ${gr_fjl} ... "
+echo -e "${gr_weburl}\n\n" >> ${gr_fjl}
+lynx -dump -width=110 ${gr_weburl} >> ${gr_fjl}
+echo -e "\n\n---\n" >> ${gr_fjl}
+
+echo ' [OK].'

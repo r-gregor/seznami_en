@@ -1,0 +1,3462 @@
+      1  or BIOS on Linux
+      1  yet.
+      1  | sort -hr | less'
+      1 $(cygpath -w $PWD)/MM
+      1 $(cygpath -w $PWD)\MM
+      1 $(cygpath -w $PWD)\\MM
+      1 -e "\33[8"
+      1 ./data
+      1 ./dates_20180131.py 
+      1 ./file-delta_V1_20180112.py 
+      1 ./my_textcolors.py 
+      1 ./print_table.py 
+      1 BRISI/apt-cyg remove ed
+      1 BRISI/apt-cyg remove joe
+      1 COL_GREEN="$(tput setaf 2)"
+      1 COL_NORM="$(tput setaf 9)"
+      1 COL_RED="$(tput setaf 1)"
+      1 Manifest
+      1 Manifest-version
+      1 URL=https://dzone.com/articles/composition-vs-inheritance
+      1 apt-cyg --version
+      1 apt-cyg -h
+      1 apt-cyg remove joe
+      1 base64
+      1 base64 -d "YUhSMGNEb3ZMMk55WldWd2VXMW9jR2RwWW5ObGQzSXViMjVwYjI0dmRHaGxaMkZ6YldGemF5NW9kRzFzSUMwdFoyOXZaQ0JxYjJJPQ=="
+      1 cat ../Manifest.txt >> MANIFEST.MF 
+      1 cat ../Manifest.txt >> META
+      1 cat META-INF/MANIFEST.MF
+      1 cat Manifest.txt 
+      1 cat Manifest.txt >> META-INF/MANIFEST.MF 
+      1 cat __VT2.txt_20180228.txt >> VT100_escape_codes_20180228.txt 
+      1 cat cqrsync_backups_20180411.sh dqrsync_backups_20180411.sh hqrsync_backups_20180411.sh qrsync_backups_20180411.sh 
+      1 cat d2utmp*
+      1 cat ~/bin/lynxdump/lynxdump_webpage_to_file.sh 
+      1 ch?v=1k4c87HEOAQ
+      1 ch?v=74znyxVyQAE
+      1 ch?v=BhveDBCBvjQ
+      1 ch?v=HO0hjU5Vmuo
+      1 ch?v=Li4F954M59k
+      1 ch?v=edGvNqy-4y8
+      1 ch?v=jCiIzxLXPeE
+      1 ch?v=q3m6UbZy-5M
+      1 ch?v=sMHXxNqKd_E
+      1 cle/18/5/pandoc-cheat-sheet
+      1 cp -r src/* tests/
+      1 cp -r ~/bin/JAVA_en/JAVA_en_RUT/func_list_en common/
+      1 cp BRISI/apt-cyg /usr/local/bin/apt-cyg
+      1 cp backups_wrapper_2018041{1,7}.sh 
+      1 cp funcl.java  ../
+      1 cp jv_ptn_howto-organize-coding-project-multif_20180905.txt ../_JAVA/
+      1 cp ~/bin/oneliners_en/* A_SRC/
+      1 crtice
+      1 cygpatgh -w $PWD
+      1 cygpath -u $PWD
+      1 cygpath -w $PAD
+      1 cygstart "/c/Users/gregor.redelonghi/AppData/Local/Google/Chrome/Application/chrome.exe http://www.google.com"
+      1 cygstart "/c/Users/gregor.redelonghi/AppData/Local/Google/Chrome/Application/chrome.exe www.google.com"
+      1 cygstart "/c/Users/gregor.redelonghi/AppData/Local/Google/Chrome/Application/chrome.exe" www.google.com
+      1 cygstart /c/Users/gregor.redelonghi/AppData/Local/Google/Chrome/Application/chrome.exe http://www.google.com
+      1 cygstart /c/Users/gregor.redelonghi/AppData/Local/Google/Chrome/Application/chrome.exe www.google.com
+      1 dbojž
+      1 e."
+      1 echo "It's ${COL_RED}red${COL_NORM} and ${COL_GREEN}green${COL_NORM} - have you seen?"
+      1 echo "TPUT is a $(tput setaf 2)nice$(tput setaf 9) and $(tput setaf 5)user friendly$(tput setaf 9)
+      1 echo "YUhSMGNEb3ZMMk55WldWd2VXMW9jR2RwWW5ObGQzSXViMjVwYjI0dmRHaGxaMkZ6YldGemF5NW9kRzFzSUMwdFoyOXZaQ0JxYjJJPQ==" | base64 -d
+      1 echo "aHR0cDovL2NyZWVweW1ocGdpYnNld3Iub25pb24vdGhlZ2FzbWFzay5odG1sIC0tZ29vZCBqb2I=" | base 64 -d
+      1 echo "aHR0cDovL2NyZWVweW1ocGdpYnNld3Iub25pb24vdGhlZ2FzbWFzay5odG1sIC0tZ29vZCBqb2I=" | base64 -d
+      1 echo -e "\33[0;7BB"
+      1 echo -e "\33[0;7mBB"
+      1 echo -e "\33[7"
+      1 echo -e "\a"
+      1 echo ggggggggggggggggggggggggggggg printf "\33[[1K"
+      1 echo ggggggggggggggggggggggggggggg; printf "\33[[2K"
+      1 ep-ubuntu-system-clean/
+      1 er"
+      1 fffff
+      1 file padec.py --mime-encoding
+      1 file plot.log --mime-encoding
+      1 file repl_bash_en_V1_20180109.sh --mime-encoding
+      1 file repl_en_V5_20180109.py --mime-encoding
+      1 file swap_func.py --mime-encoding
+      1 file text_colors.py --mime-encoding
+      1 find 
+      1 find -iname "*e*fu"
+      1 find -iname "*e*fu*"
+      1 find -iname "*efu*"
+      1 find -iname "*fu*"
+      1 find -maxdepth 2 -type d -iname "*stari*trg*"
+      1 find -maxdepth 3 -type d -iname "*stari*trg*"
+      1 find -name "*201809*"
+      1 find -type d -iname "*Dravlje*"
+      1 find | sed 's/\.\//'
+      1 find | sed 's/\.\///'
+      1 find | sed 's/\.\///' >> META-INF/MANIFEST.MF 
+      1 find | tr '.*' ' '
+      1 find | tr '.*' ''
+      1 find | tr './' ' '
+      1 for FFF in $(grep -rl 'HOME/bin/' ./*); do echo $FFF; done
+      1 for FFF in $(grep -rl 'HOME/bin/' ./*); do echo sed 's:/\$
+      1 ggggggggggggggggggggggggggggg printf "\33[[1K"
+      1 ggggggggggggggggggggggggggggg; printf "\33[[1K"
+      1 gregor.redelonghi/bin/
+      1 grep "https://www.javaworld.com/article/2076814/core-java/inheritance-versus-composition--which-one-should-you-choose-.html" ./*
+      1 grep $URL ./*
+      1 grep '"#"*' ./*
+      1 grep '"="*'./*
+      1 grep '"="\*'./*
+      1 grep '###' ./*
+      1 grep '###'./*
+      1 grep '#' ./*
+      1 grep '#'./*
+      1 grep '$HOME/bin/ ./*
+      1 grep '\"=\"\*'./*
+      1 grep '\#'./*
+      1 grep '\$HOME/bin/' ./*
+      1 grep 'ghi/bin/' ./*
+      1 grep -r 'bin/' ./*
+      1 grep -r 'bin/' ./* | grep "HOME\|redelonghi"
+      1 grep -r 'gregor.redelonghi/bin/' ./*
+      1 grep -r 'gregor.redelonghighi/bin/' ./*
+      1 grep -rl 'gregor.redelonghi/bin/' ./* | grep -v pyc
+      1 grep IOE ../../*
+      1 grep IOE ../../../*
+      1 grep fubction ~/.bashrc
+      1 grep function ~/.bashrc
+      1 history | grep "java\|jar"
+      1 infocmp
+      1 jar -xvf META-INF/MANIFEST.MF
+      1 java -cp . Dictionary_20180901 
+      1 java -cp datetime_20180816/ TMS 
+      1 java -cp datetime_20180816/ TimeStamp_V3 
+      1 java GetDateAsString_V3
+      1 java TimeStamp
+      1 javac --help
+      1 javac common/func_list_en/funcl.java 
+      1 javac engine/*.java food/*.java living/*.java
+      1 lee p3_dict-to-bar-graph_2018022
+      1 lee p3_dict-to-bar-graph_20180221.onl.txt 
+      1 less ./tst.py
+      1 less 20170614_test_3_stack_recur.py 
+      1 less FilesList_V5---ImgDimsSorted_V5---GetDirList.txt 
+      1 less MANIFEST-2.MF 
+      1 less args_20170203.py 
+      1 less main_s.py 
+      1 less test-2.py 
+      1 less tst.py 
+      1 lg
+      1 lg PRENOSI
+      1 lidtulb
+      1 loads/pandoc-cheat-sheet
+      1 lynx -dump "https://www.csie.ntu.edu.tw/~r92094/c++/VT100.html" |less
+      1 lynx -dump "https://www.programmergate.com/create-executable-jar-java/"
+      1 lynx -dump "https://www.programmergate.com/create-executable-jar-java/" >> jv_running-jar-file-from-cli_20180828.txt 
+      1 lynx -dump --width=110 "https://www.programmergate.com/create-executable-jar-java/" >> jv_running-jar-file-from-cli_20180828.txt 
+      1 lynxd "https://tag1consulting.com/blog/building-api-django-20-part-i" python_building-api-django-part-1
+      1 lynxd "https://www.dummies.com/programming/java/turning-standard-oracle-java-into-android-java/" jv_turning-standard-oracle-java-into-android-java
+      1 lynxd "https://www.quora.com/Whats-an-easy-code-to-learn/answer/Richard-Kenneth-Eng" Whats-an-easy-code-to-learn
+      1 mkdir -p {bin,src}/{plg_name_1, pkg_name_2}
+      1 mkdir A_SRC B_DST
+      1 mkdir META-INF
+      1 mkdir PROJECT
+      1 mkdir _staro
+      1 mkdir app_name
+      1 mkdir common
+      1 mkdir pkg_name_1 pkg_name_2
+      1 mkdir test_packages-and-jar_20180828
+      1 mkdir tests
+      1 mv MANIFEST.MF META-INF/
+      1 mv META-INF/MANIFEST.MF ./
+      1 mv META-INF/MANIFEST.MF ./MANIFEST-2.MF
+      1 mv java_packages-and-jar_en_20180828.tar.gz{,.txt} 
+      1 mv pkg_name_* app_name/
+      1 name1
+      1 namei
+      1 namei -l .
+      1 namei -l ./*
+      1 namei .
+      1 namei ./*
+      1 namei ./* UKAZI
+      1 ns/windows/panes at once?
+      1 pagesnum jv_ptn_howto-organize-coding-project-multif_20180905.txt 
+      1 pip -h
+      1 pip search dateutil
+      1 print -e "\33[7"
+      1 print -e "\a"
+      1 printf "\33[0
+      1 printf "\33[0;8"
+      1 printf "\33[0;8m"
+      1 printf "\33[11"
+      1 printf "\33[33;7mBB"
+      1 printf "\33[3;7mBB"
+      1 printf "\33[3mBB"
+      1 printf "\33[7"
+      1 printf "\33[8"
+      1 printf "\33[[31m"
+      1 printf "\33[[?25h"
+      1 printf "\33[[?25l"
+      1 python3 -V
+      1 python3 data.py
+      1 quit
+      1 rewrap /c/Users/gregor.redelonghi/Dropbox/SKUPNI/Slovenija_vs_ZDA_20180521.txt 
+      1 rsync -rltDv --info=name0,stats1,progress0 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name0,stats1,progress1 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name0,stats1,progress2 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name0,stats2,progress0 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name0,stats2,progress2 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name0,stats3,progress2 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name1 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name1,misc3,stats0 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name1,stats2 A_SRC/ B_DST/
+      1 rsync -rltDv --info=name1,stats3 A_SRC/ B_DST/
+      1 rsync -rltDv --info=namw1,misc3,stats0 A_SRC/ B_DST/
+      1 rsync -rltDv --progress A_SRC/ B_DST/
+      1 rsyync --info=help
+      1 s1 "https://vitux.com/how-to-change-your-ubuntus-default-applications/"
+      1 s2 "VT escape codes" "https://www.vt100.net/docs/vt102-ug/chapter5.html"
+      1 s2 "du1 (from EN)" """
+      1 s2 "https://www.vt100.net/" "https://www.vt100.net/"
+      1 sd PYTHON_en_testing/
+      1 touch Machine.java
+      1 touch app_1.java
+      1 tput setaf 0
+      1 tput setaf 1
+      1 tput setaf 1; echo "GGGGGG"
+      1 tput setaf1
+      1 tree ../JAVA_en_testing/test_packages-and-jar_20180828/
+      1 tree PROGRAM/
+      1 tree src
+      1 type crtice 
+      1 type danes_shrani 
+      1 type phome 
+      1 ver'
+      1 w3m -dump "https://www.csie.ntu.edu.tw/~r92094/c++/VT100.html" |less
+      1 w3md "https://www.csie.ntu.edu.tw/~r92094/c++/VT100.html" VT100_escape_codes
+      1 windows/sessions at once?
+      1 ~/bin/fnd/get_filenames_by_word_files
+      1 ~/bin/fnd/get_filenames_by_word_files -h
+      1 ~/bin/fnd/get_filenames_by_word_files -o json django
+      1 ~/bin/fnd/get_filenames_by_word_files -o json django Tow
+      1 ~/bin/fnd/get_filenames_by_word_files -o json django Tow tow
+      1 ~/bin/fnd/get_filenames_by_word_files -o json django [tT]ow
+      1 ~/bin/fnd/get_filenames_by_word_files -o json django num
+      1 ~/bin/fnd/get_filenames_by_word_files -o json django numPy
+      1 ~/bin/fnd/get_filenames_by_word_files -o json django numpy
+      1 ~/bin/fnd/get_filenames_by_word_files -o json django turtle
+      1 ~/bin/fnd/get_filenames_by_word_files -s django
+      1 ~/bin/fnd/get_filenames_by_word_files -s json
+      2                                                                               │
+      2               ] ĺŻ†ç  [                    ]
+      2             ] [ĺ…¨é¨ç±»ĺ«        ] []
+      2  PDF file to learn more about how they work.
+      2  distribution:
+      2  w Dreads
+      2 "$((24 x 22))"
+      2 $((24 x 22))
+      2 $(24 x 22
+      2 ((24 x 22))
+      2 -----------------------------------------------------
+      2 --------------------------------------------------------------------------------
+      2 ./java --version
+      2 ./javac -v
+      2 ./povezave/HvarIzracun_jar_run.sh 
+      2 ./povezave/hvar_2018_izracun.py 
+      2 ./re.py 
+      2 ./tuple_to_dict_
+      2 ./tuple_to_dict_20180829.py 
+      2 /
+      2 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -P python3-libxml2-2.9.4-2
+      2 /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-11/bin/java Test
+      2 /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-11/bin/java TimeStamp_V3
+      2 /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-11/bin/javap TimeStamp_V3
+      2 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py "rename_movie_fnames_20180322/FAJLS"
+      2 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py "rename_movie_fnames_20180322/FAJLS/"
+      2 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py FAJLS/
+      2 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py rename_movie_fnames_20180322/FAJLS
+      2 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py rename_movie_fnames_20180322/FAJLS/
+      2 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.pyggg
+      2 0 seconds
+      2 0A_povezave/hvar_2018_izracun.py 
+      2 0a_povezave/HvarIzracun_jar_run.sh 
+      2 0a_povezave/hvar_2018_izracun.py 
+      2 0}'\b${pat}'
+      2 1 Bandana, 10 ways to wear it!
+      2 6733/
+      2 :13
+      2 @cygwin.com
+      2 Bob hadn’t got either one yet.
+      2 CHANGES
+      2 Check if you are using UEFI or BIOS on Linux
+      2 DESCRIPTION
+      2 EADGEAR - DUBAI and ABU DHABI STYLE
+      2 ECIT
+      2 FF = FAJEL-1.txt 
+      2 FF=FAJEL-1.txt 
+      2 HOMEPAGE
+      2 Howto create RaspberryPi NAS server with external USB HDD (SSD?)
+      2 LLC
+      2 Latest upstream release
+      2 QPDF includes support for merging and splitting PDFs through the ability to copy objects from one PDF file
+      2 SAR with GHUTRA | SHEMAGH Tutorial
+      2 URL="https://docs.oracle.com/javase/tutorial/java/data/converting.html"
+      2 Versions 8.0.2-1 of
+      2 W3M -dump "https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/" | less
+      2 Za:         cygwin-announce@cygwin.com
+      2 \cp --force --backup=numberd $FF $FF
+      2 \cp --force --backup=numbered --suffix '_' $FF $FF
+      2 \cp --force --backup=numbered --suffix='+' $FF $FF
+      2 \cp --force --backup=numbered --suffix='_' $FF $FF
+      2 \cp --force --backup=numbered --sufix '_' $FF $FF
+      2 \cp --force --backup=numbered --sufix="_" $FF $FF
+      2 \cp -u -v FAJEL-1.txt FAJEL-2.txt 
+      2 ] [ĺżč®°ĺŻ†ç ]
+      2 a
+      2 and maintain.
+      2 are a lot older than previously thought.
+      2 as a HEADWRAP or HAT
+      2 bash ./java
+      2 bash ./javac --version
+      2 cat /usr/local/bin/rewrapp 
+      2 cat FAJEL-1.txt
+      2 cat Fuel.java 
+      2 cat WIN7-cmd_extend-PATH-variable_en_20180508.txt 
+      2 cat ___insert.txt >> jv_jackson_reading-writing-java-properties-files-multif_20180924.txt 
+      2 cat __init__.py 
+      2 cat camp_in.txt 
+      2 cat camp_out.txt 
+      2 cat movies.properties 
+      2 cat sklop1.properties 
+      2 cat sklop2.properties 
+      2 cat ~/.bashrc
+      2 cbot
+      2 ch?v=1EbQeRhY_eM
+      2 ch?v=2sjwaxnXjpU
+      2 ch?v=3GZnOJ1aIuQ
+      2 ch?v=B1hSP9UWV7M
+      2 ch?v=BKEW7V3iylk
+      2 ch?v=Lw8TGbZMU78
+      2 ch?v=UgJ3eJlB2Fk
+      2 ch?v=XzPnPKhbwvw
+      2 ch?v=c9BugUy_xB0
+      2 ch?v=dsKGiAqtMck
+      2 ch?v=fhcIb4-qSYo
+      2 ch?v=h0e60l0BR58
+      2 ch?v=hKXyKUEGYRc
+      2 ch?v=m98F641jqFE
+      2 ch?v=tH9mIgDjf-4
+      2 chmod 755 clean_fnames_en_20180326.py 
+      2 chmod 755 re.py 
+      2 clean_fnames_en_20180326.py
+      2 cp --force --backup=number $FF $FF
+      2 cp --force -u -v FAJEL-1.txt FAJEL-2.txt 
+      2 cp -r Dictionary_20180901/ MapExport_20180902/ ~/JAVA_en_testing/
+      2 cp -r bin/JAVA_en/JAVA_en_testing/jv_func_list_en bin/JAVA_en/JAVA_en_RUT/
+      2 cp -r hvar_izracun_en_V3_20180830/ PYTHON_en_testing/
+      2 cp -r ~/sorsi/jdk-10 ./
+      2 cp -rf -vvv CNG* /c/Users/gregor.redelonghi/2018/_Letaliska_CNG_LNG/20180320/
+      2 cp /c/Users/gregor.redelonghi/Downloads/Map-and-Dict_d_20180902.tar.gz.txt ./
+      2 cp /c/Users/gregor.redelonghi/Downloads/serverjre-10_windows-x64_bin.tar.gz ./
+      2 cp disp_syst_props.* ../UNSORTED/
+      2 cp funcs.java funcs_2.java 
+      2 cp funcs_2.java disp_syst_props.java
+      2 cp openjdk-11_windows-x64_bin.zip /c/Users/gregor.redelonghi/majstaf/myprogs/
+      2 cp regex_clean_movie_fnames_20180320.py ~/_PYTHON_en_testing/
+      2 cp rewrapp.sh ~/BRISI/rewrapp.sh.txt
+      2 cp serverjre-10_linux-x64_bin.tar.gz ~/sorsi/
+      2 cp ~/sorsi/jdk-10 ./
+      2 cygwin-announce-owner@cygwin.com; v imenu; Marco Atzeri <marco.atzeri@gmail.com>
+      2 d 30 seconds
+      2 d/top/tz.swf)
+      2 dc $PYTHONPATH
+      2 dcutter-quickly-trim-and-join-video-clips/
+      2 diff -q FAJEL-1.txt FAJEL-1.txt.~1~ 
+      2 diff FAJEL-1.txt FAJEL-1.txt.~1~ 
+      2 dos2unix jv_avoid-getters-and-setters-multif_20181015.txt 
+      2 droid-file-transfer-for-linux/
+      2 du -h ./AppData/Local/Microsoft/Outlook
+      2 du -h ./AppData/Local/Microsoft/Outlook/gregor.redelonghi@energetika.si.ost
+      2 du -sh ./AppData/Local/Microsoft/Outlook
+      2 du -sh /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-1*
+      2 du -sh sorsi/jdk-10/
+      2 du ./AppData/Local/Microsoft/Outlook/gregor.redelonghi@energetika.si.ost
+      2 du sorsi/jdk-10/
+      2 e
+      2 echo "24*22" | bc
+      2 echo "89+135+43" | bc -l
+      2 echo "Casting and Converting Objects and Primitive Types" | tr ' ' '-'
+      2 echo "Casting and Converting Objects and Primitive Types" | tr ' ' '-' | tr [[:upper:]] [[:lower:]]
+      2 echo $((86+135+43))
+      2 echo $((89+135+43))
+      2 echo $(cygpath -w $PWD) 
+      2 echo $(cygpath -w $PWD/PROGRAM) 
+      2 echo $(cygpath -w .) 
+      2 echo $(cygpath -w ./PROGRAM)
+      2 echo $(cygpath -w PROGRAM)
+      2 echo $(realpath ~/povezave/HvarIzracun.jar)
+      2 echo $FF
+      2 echo 'export PATH=$PATH:/home/gregor.redelonghi/RUT/home/myprograms/jdk-10/bin' >> ~/.bashrc
+      2 echo ggggggggggggggggggggggggggggg; printf "\33[[1K"
+      2 er'
+      2 erging and splitting PDFs through the ability to copy objects from one PDF file
+      2 ess space;
+      2 export PATH=$PATH:/home/gregor.redelonghi/RUT/home/myprograms/jdk-10/bin
+      2 f... Fes, Morocco
+      2 file /usr/local/bin/rewrapp 
+      2 find -iname "*41804*"
+      2 find -iname "*\.jar"
+      2 find -iname "*jar"
+      2 find -maxdepth 1 -type f -exec mv -v {} UNSORTED/ \;
+      2 find -maxdepth 2 -type d -iname "*cng*"
+      2 find -mtime -15 -type d
+      2 find -name "*date*"
+      2 find -name "*dtae*"
+      2 find -name *.java
+      2 find -newerstrtm "2018-04-08"
+      2 find -newertm "2018-04-08"
+      2 find -newrtfm "2018-03-20"
+      2 find -size +100M
+      2 find -size +10M
+      2 find -size +1M
+      2 find -size +500M
+      2 find -type d -iname "Dravlje*"
+      2 find ./ --maxdepth 1 ! -type d
+      2 find ./ -maxdepth 1 ! -type d
+      2 find / -type d -name "*profile*"
+      2 find / -type d -name "\.*profile*"
+      2 find / -type f -iname "libxml2*"
+      2 fmt --width=110 -s jv_avoid-getters-and-setters-multif_20181015.txt | less
+      2 for FFF in $(grep -l Working ./*); do echo $FFF; done
+      2 for FFF in $(grep -l Working ./*); do echo -n "$FFF -- "; sed 's/echo "Working ..."/echo -n "Syncing ...  "/g' $FFF ; done
+      2 for FFF in $(grep -l Working ./*); do echo -n "$FFF -- "; sed 's/echo "Working ..."/echo -n "Syncing ...  "/g' $FFF ; done | grep -C2 Sync
+      2 for FFF in $(grep -l Working ./*); do echo -n "$FFF -- "; sed 's/echo "Working ..."/echo -n "Syncing ...  "/g' $FFF ; done | grep Sync
+      2 for FFF in $(grep -l Working ./*); do echo -n "$FFF -- "; sed -n '/Working/p' $FFF ; done
+      2 for FFF in $(grep -l Working ./*); do echo sed -i 's/echo "Working ..."/echo -n "Syncing ...  "/g' $FFF ; done
+      2 getp_filename_by_word -s packag
+      2 greo Working ./*
+      2 grep "$0" 02_rbckp_cgr_en_2018.sh 
+      2 grep "\$0" 02_rbckp_cgr_en_2018.sh 
+      2 grep $0 02_rbckp_cgr_en_2018.sh 
+      2 grep '$HOME/bin/' ./*
+      2 grep 'HOME/bin/' ./*
+      2 grep -ir entry ./*
+      2 grep -ir system ./*
+      2 grep -ir system ./* | grep -v 'out.println'
+      2 grep -ir system ./* | grep -v 'out.println' | grep -i system
+      2 grep -ir system ./* | grep -v 'out.ptintln'
+      2 grep -ir system ./* | grep -vi 'system.out' | grep -i system
+      2 grep -ir system ./* | less
+      2 grep -l Sync ./*
+      2 grep -r jdk /etc/*
+      2 grep -r tms ./*
+      2 grep -ri longe ./*
+      2 grep -sl Sync ./*
+      2 grep Sync ./*
+      2 grep Working ./*
+      2 grep jdk *
+      2 grep jdk ./*
+      2 grep jdk /etc/*
+      2 grep just ./*
+      2 grep ljust ./*
+      2 grep longe ./*
+      2 grep rjust ./*
+      2 grep tee 01_rbckp_cgr_en.sh 
+      2 grep tmxs ./*
+      2 h
+      2 he address space. A 32-bit system has 4GB of address space; a 64-bit system has 17,592,186,044GB of address space.
+      2 hemagh / keffiyeh / pashmina
+      2 history | greo newer
+      2 history | grep './'
+      2 history | grep '\./'
+      2 history | grep 'jar '
+      2 history | grep 'jar *e'
+      2 history | grep 'jar +e'
+      2 history | grep 'jar -c'
+      2 history | grep 'python3 '
+      2 history | grep newer
+      2 http://www.linuxjournal.com/content/getting-started-ncurses
+      2 http://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/
+      2 https://www.fossmint.com/keep-ubuntu-system-clean/
+      2 info javac
+      2 info:
+      2 is-the-most-creative-thing-you-have-ever-come-across-or-done
+      2 jar --help | less
+      2 java --version
+      2 java --versuion
+      2 java -cp . funcs_V3
+      2 java -vesrion
+      2 java ./Main
+      2 java ./MapImport_V2_d
+      2 java CliArgsTest
+      2 java CliArgsTest foo bar 123
+      2 java Dictionary
+      2 java MapImport_V2_d
+      2 java Padec2
+      2 java StDelovnihUr
+      2 java StDelovnihUr Januar
+      2 java StDelovnihUr_V1
+      2 java StDelovnihUr_V1.
+      2 java disp_syst_props
+      2 java fubcs_2
+      2 java funcs_20180903/funcs
+      2 java funcs_V2
+      2 java funcs_v3.java
+      2 java main
+      2 javac -v funcs*.java
+      2 javac -version
+      2 javac StDelovnihUr_V1.java 
+      2 javac app_name/common/func_list_en/funcl.java 
+      2 javac engine/Strom.java 
+      2 javac food/Food.java 
+      2 javac func_list_en/func_list.java 
+      2 javac func_list_en/func_list_V2.java 
+      2 javac funcs*.java
+      2 joe
+      2 l capabilities to developers of PDF-producing software or for people who just want
+      2 l povezave/
+      2 les on or off
+      2 less /usr/share/doc/libxml2/README 
+      2 less 02_rbckp_cgr_en_2018.sh 
+      2 less 04_rbckp_h_en_drpbx.sh 
+      2 less README.html 
+      2 less bekap_en.log 
+      2 less ptn_datetime-module-tutorial_20180111.txt 
+      2 less release 
+      2 listlb | grep bak
+      2 listulb | grep bak
+      2 lmn -snf backups_wrapper_20180315.sh 00_backups_wrapper 
+      2 ln -s funcs_V2.java funcs_2.java
+      2 ln -snf CQRB cqrsync_backups.sh 
+      2 ln -snf DQRB dqrsync_backups.sh 
+      2 ln -snf backups_wrapper_20180315.sh 00_backups_wrapper 
+      2 ln -snf backups_wrapper_20180417.sh 00_backups_wrapper 
+      2 ln -snf cqrsync_backups.sh CQRB 
+      2 ln -snf cqrsync_backups_20180315.sh CQRB 
+      2 ln -snf dqrsync_backups.sh DQRB 
+      2 ln -snf dqrsync_backups_20180315.sh DQRB 
+      2 ln -snf hqrsync_backups.sh HQRB 
+      2 ln -snf hqrsync_backups_20180315.sh HQRB 
+      2 ln -snf qrsync_backups.sh QRB_ALL 
+      2 ln -snf qrsync_backups_20180315.sh QRB_ALL 
+      2 lynx -dump "https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/" | less
+      2 lynx -dump -width=110 "https://www.baeldung.com/java-string-conversions" >> jv_converting-strings-to-other-types_20180925.txt 
+      2 lynx -dump -width=110 $URL >> jv_converting-strings-to-other-types_20180925.txt 
+      2 lynxd "https://docs.python.org/3/library/datetime.html#module-datetime" ptn_datetime-module_python-docs
+      2 lynxd "https://julien.danjou.info/blog/2018/scaling-python-application-threads" python_scaling-application-threads
+      2 lynxd "https://opensource.com/article/18/1/parsing-html-python" python_parsing-html
+      2 lynxd "https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html" jv_why-extends-is-evil
+      2 lynxd "https://www.mkyong.com/java/java-read-a-file-from-resources-folder/" jv_read-a-file-from-resources-folder
+      2 lynxd "https://www.redips.net/linux/create-fat32-usb-drive/" howto_create-fat32-usb-drive
+      2 m scratch.
+      2 m3w -dump "https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/" | less
+      2 mkdir ./{src,bin}
+      2 mkdir BIB2
+      2 mkdir JAVA_d_20180903
+      2 mkdir NEWPROG2
+      2 mkdir PROGRAM
+      2 mkdir Pdec
+      2 mkdir UNSORTED
+      2 mkdir _STARO
+      2 mkdir funcs_20180903
+      2 mkdir myprograms
+      2 mkdir rename_movie_fnames_20180322
+      2 mkshortcut.exe -h
+      2 mount | column -t
+      2 mpare a 64-bit system to a 32-bit system, does the 64-bit system have:
+      2 much address space as the 32-bit system?
+      2 mv ./* ../
+      2 mv 0A_povezave/ 0a_povezave/
+      2 mv Map-and-Dict_d_20180902.tar.gz{.txt,} 
+      2 mv Padec2* Padec/
+      2 mv Pdec/ Padec
+      2 mv StDelovnihUr.java StDelovnihUr_V1.java 
+      2 mv backups_wrapper_2018031{4,5}.sh 
+      2 mv cqrsync_backups_20180{2,3}15.sh 
+      2 mv dqrsync_backups_20180{2,3}15.sh 
+      2 mv func_clean_movie_fnames_20180321.py regex-func_clean_movie_fnames_20180321.py rnmfnm.py rename_movie_fnames_20180322/
+      2 mv func_clean_movie_fnames_20180321.py rename_movie_fname_20180322.py
+      2 mv funcs.* funcs_20180903/
+      2 mv funcs_{,V}2.java 
+      2 mv hqrsync_backups_20180{2,3}15.sh 
+      2 mv hqrsync_backups{_20180411,}.sh 
+      2 mv jv_func_list_en.java jv_func_list_en/
+      2 mv jv_func_list_en/{jv_func_list_en,func_list}.java
+      2 mv povezave/ 0A_povezave/
+      2 mv properties_2018092{0,4}
+      2 mv qrsync_backups_20180{2,3}15.sh 
+      2 mv qrsync_backups{_20180411,}.sh 
+      2 mv re.py regex.py
+      2 mv regex.py regex_clean_movie_fnames_20180320.py
+      2 mv st_dur_V1{-,_}d_20181014
+      2 mv st_dur_d_20181014 st_dur_V1-d_20181014/
+      2 mv st_dur_d_20181014/ st_dur_V2_en_20181015
+      2 mv {jv_,}func_list_en/
+      2 mv ~/BRISI/jv* ./
+      2 n.com; v imenu; Marco Atzeri <marco.atzeri@gmail.com>
+      2 nop HvarIzracun.java 
+      2 pace;
+      2 pagesnum ../_PYTHON/python_parsing-html_20180131.txt 
+      2 pagesnum RPi_as_linux_backup_server-multif_20180131.txt 
+      2 pagesnum jv_avoid-getters-and-setters-multif_20181015.txt 
+      2 pagesnum tmp_jv_avoid-getters-and-setters-multif_20181015.
+      2 pagesnum v_avoid-getters-and-setters-multif_20181015.txt 
+      2 pddbak
+      2 pip show lxml
+      2 pip show pandaS
+      2 pip show pandas
+      2 pip3 show lxml
+      2 pip3 show pandas
+      2 printf "\33[0;7mBB"
+      2 printf "\33[0mBB"
+      2 printf "\33[31m"
+      2 printf "\33[33m"
+      2 printf "\33[33mBB"
+      2 python3 pp.py 
+      2 python3 re.py 
+      2 python3 tuple_to_dict_20180829.py 
+      2 python3 tuple_to_dict_V2_20180830.py 
+      2 qck
+      2 r) $f ON $b $attr $(tput sgr0)"; done; done; done
+      2 re.search(r'[.-_]\[.*\]', 'Movie.fname.2.720p.[YTS-AG].mp4')
+      2 re.search(r'[.-_]\[.*\]', 'Movie.fname.2.720p.[YTS-AG].mp4').group()
+      2 re.search(r'[.-_]\[\w*.\w*\]', 'Movie.fname.2.720p.[YTS-AG].mp4')
+      2 re.search(r'[.-_]\[\w*[.-_]\w*\]', 'Movie.fname.2.720p.[YTS-AG].mp4')
+      2 rewrapp ___insert.txt 
+      2 rewrapp jv_avoid-getters-and-setters-multif_20181015.
+      2 rsync --help
+      2 rsync -rltDv --info=name1,stats0 A_SRC/ B_DST/
+      2 rsync -rltDv --info=name1,stats1 A_SRC/ B_DST/
+      2 rver'
+      2 s space; or
+      2 s1 "https://www.dedoimedo.com/computers/mx-17.html"
+      2 s1 "https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update"
+      2 s1 "https://www.quora.com/When-are-imaginary-numbers-used-in-real-life-What-practical-applications-do-they-have"
+      2 s1 "https://www.quora.com/Which-channel-tutorial-on-YouTube-is-best-for-learning-algorithms-or-data-structures"
+      2 s1 "https://www.quora.com/Which-group-or-country-has-the-highest-number-of-Neanderthal-genes"
+      2 s1 "https://www.zurnal24.si/svet/nori-posnetki-neurja-s-snegom-iz-alp-cesta-sedem-metrov-pod-snegom-303221"
+      2 s2 "RPi NAS" '''
+      2 s2 "check out" '''
+      2 sed 's/tms; echo "Starting $0 ..."/echo "[ $(date +%Y%m%d_%H%M%S) ] -- Starting $0 ... " | tee -a ${gr_LOGF}/' 02_rbckp_cgr_en_2018.sh 
+      2 sed -e 's/tms; echo "Starting $0 ..."/echo "[ $(date +%Y%m%d_%H%M%S) ] -- Starting $0 ... " | tee -a ${gr_LOGF}/' -e 's/tms; echo "$0 done in $((dT2-dT1)) seconds!"/echo "[ $(date +%Y%m%d_%H%M%S) ] --$0 done in $((dT2-dT1)) seconds!" | tee -a  ${gr_LOGF}/' 02_rbckp_cgr_en_2018.sh | less
+      2 sed -i -e 's/tms; echo "Starting $0 ..."/echo "[ $(date +%Y%m%d_%H%M%S) ] -- Starting $0 ... " | tee -a ${gr_LOGF}/' -e 's/tms; echo "$0 done in $((dT2-dT1)) seconds!"/echo "[ $(date +%Y%m%d_%H%M%S) ] --$0 done in $((dT2-dT1)) seconds!" | tee -a  ${gr_LOGF}/' 02_rbckp_cgr_en_2018.sh | less
+      2 sed -i -e 's/tms; echo "Starting $0 ..."/echo "[ $(date +%Y%m%d_%H%M%S) ] -- Starting $0 ... " | tee -a ${gr_LOGF}/' -e 's/tms; echo "$0 done in $((dT2-dT1)) seconds!"/echo "[ $(date +%Y%m%d_%H%M%S) ] --$0 done in $((dT2-dT1)) seconds!" | tee -a  ${gr_LOGF}/' 03_rbckp_cgr_en_drpbx.sh 
+      2 sed -i -e 's/tms; echo "Starting $0 ..."/echo "[ $(date +%Y%m%d_%H%M%S) ] -- Starting $0 ... " | tee -a ${gr_LOGF}/' -e 's/tms; echo "$0 done in $((dT2-dT1)) seconds!"/echo "[ $(date +%Y%m%d_%H%M%S) ] --$0 done in $((dT2-dT1)) seconds!" | tee -a  ${gr_LOGF}/' 04
+      2 sed -i -e 's/tms; echo "Starting $0 ..."/echo "[ $(date +%Y%m%d_%H%M%S) ] -- Starting $0 ... " | tee -a ${gr_LOGF}/' -e 's/tms; echo "$0 done in $((dT2-dT1)) seconds!"/echo "[ $(date +%Y%m%d_%H%M%S) ] --$0 done in $((dT2-dT1)) seconds!" | tee -a  ${gr_LOGF}/' 04_rbckp_h_en_drpbx.sh 
+      2 sed -n "/\[[[:digit:]]\{1,\}\][^:]/p" ptn_datetime-module_python-docs_20180326.txt |grep -E "\[..\]"
+      2 sed -n "s/\[[[:digit:]]\{2,\}\]//g" ptn_datetime-module_python-docs_20180326.txt
+      2 sed -n "s/\[[[:digit:]]\{2,\}\]//g" ptn_datetime-module_python-docs_20180326.txt | grep "\[[[:digit:]]\{2,\}\]"
+      2 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep "$[^^^]"
+      2 tail -n 20 /j/bekaps/bekap_en.log /d/bekaps/bekap_en.log | less
+      2 tar -tvzf openjdk-11_linux-x64_bin.tar.gz 
+      2 tar -tvzf openjdk-11_linux-x64_bin.tar.gz | less
+      2 tar -xvzf Map-and-Dict_d_20180902.tar.gz 
+      2 tar -xvzf serverjre-10_linux-x64_bin.tar.gz 
+      2 tar -xvzf serverjre-10_windows-x64_bin.tar.gz 
+      2 to look at the innards of a PDF file to learn more about how they work.
+      2 torial | Learn Best Turban Style Parna
+      2 touch MapToProps.java
+      2 touch fnc2.java
+      2 tput setaf 1; tput setab 2; echo "GGGGGG"
+      2 unzip openjdk-11_windows-x64_bin.zip 
+      2 vdir
+      2 w3m "http://www.dayid.org/comp/tm.html"
+      2 w3m -dump "http://www.dayid.org/comp/tm.html" | less
+      2 w3md "https://itsfoss.com/swap-size/" swap-size
+      2 w3md "https://www.howtogeek.com/73178/what-file-system-should-i-use-for-my-usb-drive/" file-system-for-usb-drive
+      2 watch
+      2 which /usr/local/bin/rewrapp 
+      2 which/usr/local/bin/rewrapp 
+      2 wn
+      2 you to create PDF files from scratch.
+      2 ~/0a_povezave/HvarIzracun_jar_run.sh 
+      2 ~/bin/fnd/get_filenames_by_word_files_en_20171027.py 
+      2 ~/bin/fnd/get_filenames_by_word_files_en_20171027.py -h
+      2 ~/bin/fnd/get_filenames_by_word_files_en_20171027.py -o fat '32 ' | grep "fat\|32 "
+      2 ~/bin/fnd/get_filenames_by_word_files_en_20171027.py -o fat 32
+      2 ~/bin/fnd/get_filenames_by_word_files_en_20171027.py -o fat 32 | grep "fat\|32"
+      2 ��‡äą¦
+      2 ��¨čŻ˘
+      2 ��ĺż
+      2 ��ĺ¸
+      2 �ćś¬
+      2 �ł•ĺľ‹ĺ’¨čŻ˘
+      2 �äľ‹
+      2 �śç´˘
+      2 �°é—»
+      2 �‡č§„
+      2 �
+      2 �¬
+      2 �‹ć•…
+      2 �
+      2 �‘ç‰Śĺ©šĺ§»ĺľ‹ĺ¸ 13129990293 ĺ˝“ĺ€Ľä¸“ĺ®¶
+      2 �şĺŠˇ
+      2 �şć–‡
+      2 �‰
+      2 �ĺ·žé»”ä¸śĺŤ—
+      2 �ĺş­
+      2 �¸čŻ†
+      2 �ĺ’¨čŻ˘]
+      2 �…Ąć‚¨çš„é—®é˘ďĽŚ]
+      2 �˘ç˝‘çš„logo
+      2 �‰č®Ľ
+      2 �čľ˝ĺ®ĺ¤§čżž
+      2 
+      2  çş·
+      2 §ćť
+      2 ±±ä¸śćµŽĺŤ—
+      2 ¸\cp --force --backup=number $FF $FF
+      2 çd
+      2 çd /g/
+      2 ć¦ś
+      2 ćł•ĺľ‹ĺ’¨čŻ˘ć‰ľĺľ‹ĺ¸ĺľ‹ĺ¸ĺś¨çşżćł•ć˛»čµ„č®Żćł•ĺľ‹ćł•č§„ćł•ĺľ‹čµ„ć–™ćł•ĺľ‹ć–‡äą¦ 110ćł•ĺľ‹ĺľ®ç˝‘ â—Ź
+      2 ćŹ´ĺŠ©ç­çşż 15110110110 ĺ˝“ĺ€Ľä¸“ĺ®¶
+      2 čess 02_rbckp_cgr_en_2018.sh 
+      2 ĺŠˇĺľ‹ĺ¸
+      2 ĺ’¨čŻ˘ĺ›žĺ¤Ťćł•ĺľ‹ĺ’¨čŻ˘ĺŠ ĺ…Ąć”¶č—Ź
+      2 łĺŚş
+      2 śĺ±±ä¸śéť’ĺ˛›
+      2 ŤĺŚ—äş¬ćśťéłĺŚş
+      2 Žĺ®‰ĺľ˝čŠśćą–
+      2 –ĺ¸­ćł•ĺľ‹ä¸“ĺ®¶ 15366195799 ĺ˝“ĺ€Ľä¸“ĺ®¶
+      2 †ćž
+      2 †čµ”
+      2 †čż
+      2 ‡ćŤ˘ĺ†ç«™]
+      2 •ĺľ‹
+      2 ‹ć•…
+      3 $(realpath HvarIzracun.jar)
+      3 $f; \
+      3 ../clean_movie_dname_en_V5_20180312.py 
+      3 ../hvar_izracun_en_V3_20180830/
+      3 ./bin/lynxdump/lynx_multi_dump_fromlist_en_20141218.sh 
+      3 ./clean_movie_dirname_en_V2_20180105.py 
+      3 ./elektrika.sh 1 2 3 4 5 6 7 8
+      3 ./elektrika.sh 1 2 3 4 6 7 
+      3 ./elektrika.sh 5 6
+      3 ./elektrika.sh 5 6 8
+      3 ./elektrika.sh 5 6 88 7 9
+      3 ./hvar_izracun_d_V7_20180917.py 
+      3 ./names_from_dicts_20180917.py 
+      3 ./pdtk_V3.jar 
+      3 ./pdtk_en_V2_20180425.py 
+      3 ./project.py 
+      3 ./st_dni_OOP_20181011.py |less
+      3 ./st_dni_OOP_V2_20181011.py "Avgust" 5
+      3 ./st_dni_OOP_V2_20181011.py "Februar" 4
+      3 ./st_dni_OOP_V4_20181012.py "Avgust" 3
+      3 ./st_dni_OOP_V4_20181012.py Avgust 3
+      3 ./st_dni_OOP_V4_20181012.py Februar 7
+      3 ./st_dni_OOP_V5_20181013.py AvGuSt
+      3 ./st_dni_OOP_V5_20181013.py AvGuSt 5
+      3 ./st_dni_OOP_V5_20181013.py Avgust
+      3 ./st_dni_OOP_V5_20181013.py December 5
+      3 ./st_dni_OOP_V5_20181013.py December 7
+      3 ./st_dni_OOP_V5_20181013.py Februagr
+      3 ./st_dni_OOP_V5_20181013.py Februagr 5
+      3 ./st_dni_OOP_V5_20181013.py Februar 5
+      3 ./st_dni_OOP_V5_20181013.py Februar 8
+      3 ./st_dni_OOP_V5_20181013.py Februar PO
+      3 ./st_dni_OOP_V5_20181013.py avgust 12
+      3 ./st_dni_OOP_V5_20181013.py avgust 4
+      3 ./st_dni_OOP_V5_20181013.py avgust kk
+      3 ./st_dni_OOP_V5_20181013.py janua
+      3 ./st_dni_OOP_V5_20181013.py januar 55
+      3 ./st_dni_OOP_V5_20181013.py januar 8
+      3 ./st_dni_OOP_V5_20181013.py janukar 8
+      3 ./st_dni_OOP_V5_20181013.py jjanuar
+      3 ./st_dni_OOP_V5_20181013.py kk 5
+      3 .sbr
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe --help > cygwin_setup_cli-options_20180201.txt
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe --help | grep only
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -P e2fsprogs-1.42.12-2
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -P libxml2-2.9.4-2
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -Y -P e2fsprogs-1.42.12-2
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -p http://172.17.3.64:80 -P libxml2-2.9.4-2
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -P e2fsprogs
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -W -P libxml2-2.9.4-2
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -Y -P e2fsprogs
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -Y -P e2fsprogs-1.42.12-2
+      3 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -p http://172.17.3.64:80 -P libxml2-2.9.4-2
+      3 1
+      3 Check out News ...
+      3 Cygwin --help
+      3 OPNW
+      3 PYTHON_en_testing/repl_en_V5_20180109.py 
+      3 TRM= dialog
+      3 TRM=dialog
+      3 [ -n "$attr" ] && tput $attr) $f ON $b $attr $(tput sgr0)"; done; done; done
+      3 [sub1]
+      3 \zip --help
+      3 _PYTHON_en_testing/filedelta_20180111/main_s.py 
+      3 apt-cyg instal procps-ng
+      3 awk 'FNR == 1{ print FILENAME } ' /etc/hosts
+      3 awk '{ print FILENAME } ' /etc/hosts
+      3 bash elektrika.sh 
+      3 bash elektrika.sh 5 
+      3 bash elektrika.sh 5 5 14 8
+      3 blog/2018/scaling-python-application-threads
+      3 c src/
+      3 cat -v Pdtkd.java| less
+      3 cat -v src/Pdtkd.java | less
+      3 cat -vE src/Pdtkd.java | less
+      3 cat ./HvarIzracun_jar_run.sh
+      3 cat /c/Users/gregor.redelonghi/2018/TABELA_STRUKTURA_20181010.csv 
+      3 cat AMIS.net_moj-racun.txt 
+      3 cat F.txt 
+      3 cat HvarIzracun_jar_run.sh 
+      3 cat MANIFEST.MF 
+      3 cat PIP1
+      3 cat PIPE1
+      3 cat Pdtkd.java
+      3 cat Pdtkd.java| less
+      3 cat TableOut.txt 
+      3 cat elektrika.sh 
+      3 cat funcs_knjiznica_en.py 
+      3 cat gregor.redelonghi\@cygwin-en 
+      3 cat jv_build_from_src_to_bin* | less
+      3 cat named-pipes-tutorial_20151118.txt why-named-pipes_20180202.txt |less
+      3 cat p1
+      3 cat pq
+      3 cat sklop*
+      3 cat src/Pdtkd.java | less
+      3 cat ~/seznami/*
+      3 cat ~/seznami/* | grep "jar "
+      3 cat ~/seznami/* | grep "jar -"
+      3 cat ~/seznami/* | grep ^jar
+      3 cat ~/seznami/history-en.dat_20180* | grep apt-cyg
+      3 caz p1
+      3 chmod 644 TABELA_STRUKTURA_20181010.csv 
+      3 chmod 644 ~/DROPBOX/ODPRTO/_JAVA/*
+      3 chmod 755 ./*
+      3 chmod 755 elektrika.sh 
+      3 chmod 755 elektrika_V1_en.py 
+      3 chmod 755 hvar_izracun_d_V7_20180917.py 
+      3 chmod 755 pdtk_V3.jar 
+      3 chmod 755 regex_01.py 
+      3 chmod 755 regex_20180313.py 
+      3 chmod 755 st_dni_20181011.py 
+      3 chmod 755 times_20180326.py 
+      3 chnod 644 TABELA_STRUKTURA_20181010.csv 
+      3 cl
+      3 cp -r elektrika_V3_en_20180925/ ~/JAVA_en_testing/
+      3 cp -r elektrika_en_2018100{8,9}
+      3 cp -r main sources application/
+      3 cp -r main sources src/
+      3 cp -r sources/ main/
+      3 cp -r src/elektrika application/
+      3 cp -r ~/JAVA_en_testing/elektrika_en_20181009/application/elektrika/* elektrika/
+      3 cp -r ~/JAVA_en_testing/elektrika_en_20181009/application/elektrika/sources ./
+      3 cp ../clean_movie_dirname_en_V5_20180312.py ./
+      3 cp ./st_dni_OOP_V5_20181013.py ~/PYTHON_en_testing/
+      3 cp .tmux_1_conf .tmux_2_conf 
+      3 cp Elektrika.jar ~/BRISI
+      3 cp Elektrika_V4_en_2017.java Elektrika_V5_en_2017.java
+      3 cp PYTHON_d_testing/clean_movie_dirname_d_V5_20180312.py ~/bin/PYTHON_en/
+      3 cp PYTHON_en_testing/clean_movie_dirname_en_V5_20180312.py ~/bin/PYTHON_en/
+      3 cp Pdtkd_V2.java Pdtkd_V3.jaja
+      3 cp Pdtkd_V3.java Pdtkd.java 
+      3 cp backups_wrapper_20180308.sh backups_wrapper_20180314.sh 
+      3 cp backups_wrapper_20180329.sh{,.txt} 
+      3 cp bckpbin_d_20180311_200147.tar.gz ~/RUT/home/rgregor/
+      3 cp clean_movie_dirname_d_V5_20180312.py PYTHON_en_testing/
+      3 cp clean_movie_dirname_en_V3_20180312.py clean_movie_dirname_d_V5_20180312.py
+      3 cp clean_movie_fname_d_V5_20180312.py ~/bin/PYTHON_en/
+      3 cp clean_movie_fname_d_V5_20180312.py ~/bin/PYTHON_en/PYTHON_en_testing/
+      3 cp elektrika.sh /c/Users/gregor.redelonghi/2018/
+      3 cp elektrika_en_2018100{8,9}
+      3 cp sources/2017/E2017.properties ./
+      3 cp sources/2018/E2018.properties ./
+      3 cp st_dni_20181011.py st_dni_OOP_20181011.py 
+      3 curl cli.fyi/"great britain"
+      3 curl cli.fyi/"united states of america"
+      3 curl cli.fyi/"united\ states\ of\ america"
+      3 curl cli.fyi/'grat britain'
+      3 curl cli.fyi/'great britain'
+      3 curl cli.fyi/'united states of america'
+      3 curl cli.fyi/'united\ states\ of\ america'
+      3 curl cli.fyi/'unitedstatesofamerica'
+      3 curl cli.fyi/195.230.121.37
+      3 curl cli.fyi/8.8.8.8
+      3 curl cli.fyi/Denmark
+      3 curl cli.fyi/GB
+      3 curl cli.fyi/america
+      3 curl cli.fyi/americas
+      3 curl cli.fyi/amerika
+      3 curl cli.fyi/britain
+      3 curl cli.fyi/c
+      3 curl cli.fyi/c++
+      3 curl cli.fyi/cpp
+      3 curl cli.fyi/django
+      3 curl cli.fyi/gb
+      3 curl cli.fyi/gn
+      3 curl cli.fyi/great britain
+      3 curl cli.fyi/gredelonghi@gmail.com
+      3 curl cli.fyi/hrrps://www.google.com
+      3 curl cli.fyi/https://www.google.com
+      3 curl cli.fyi/india
+      3 curl cli.fyi/java
+      3 curl cli.fyi/javascript
+      3 curl cli.fyi/me
+      3 curl cli.fyi/mongodb
+      3 curl cli.fyi/mysql
+      3 curl cli.fyi/nicaragua
+      3 curl cli.fyi/perl
+      3 curl cli.fyi/php
+      3 curl cli.fyi/python
+      3 curl cli.fyi/ruby
+      3 curl cli.fyi/rusia
+      3 curl cli.fyi/russia
+      3 curl cli.fyi/rust
+      3 curl cli.fyi/slovakia
+      3 curl cli.fyi/slovenia
+      3 curl cli.fyi/sql
+      3 curl cli.fyi/uas
+      3 curl cli.fyi/united states of america
+      3 curl cli.fyi/united\ states\ of\ america
+      3 cygwin --help
+      3 dd if=/c/Users/gregor.redelonghi/Downloads/xubuntu-18.04-beta1-desktop-amd64.iso of=/dev/sdb bs=4k
+      3 dd if=/c/Users/gregor.redelonghi/Downloads/xubuntu-18.04-beta1-desktop-amd64.iso of=/dev/sdb/ bs=4k
+      3 dd if=/c/Users/gregor.redelonghi/Downloads/xubuntu-18.04-beta1-desktop-amd64.iso of=/dev/sdb/ bs=4m
+      3 dialog
+      3 diff -y ptn_datetime-module_python-docs_20180326.txt ptn_datetime-module_python-docs_20180326_02.txt 
+      3 diff -y ptn_datetime-module_python-docs_20180326.txt ptn_datetime-module_python-docs_20180326_03.txt | less 
+      3 diff . /j/bekaps/bekap_cygwin_en_home_gregor.redelonghi/
+      3 diff . /j/bekaps/bekap_cygwin_en_home_gregor.redelonghi/ | grep only
+      3 diff ptn_datetime-module_python-docs_20180326.txt ptn_datetime-module_python-docs_20180326_02.txt 
+      3 do -sxh
+      3 du -sh . /j/bekaps/bekap_cygwin_en_home_gregor.redelonghi/
+      3 du -sh ./
+      3 du -sh home/gregor.redelonghi/
+      3 du -sh seznami/
+      3 du -sxh
+      3 du -sxh ./*
+      3 du -sxh ./* | sort -h
+      3 du -sxh ./* | sort -rh | head
+      3 du .sh ./
+      3 du .sh ./*
+      3 du1
+      3 e2fsprogs
+      3 echo "$(cygpath -w $(realpath ./elektrika_en_20181008/main))"
+      3 echo "$foo" | grep "$(printf '\302\240')"
+      3 echo "$foo" | grep "$(printf '\u00a0')"
+      3 echo "$foo" | grep $'\xc2\xa0'
+      3 echo "$foo" | sed -n 'l' | grep '\\302\\240'
+      3 echo "${line[$*]}"
+      3 echo "${line[*]}" | xargs -I{} echo "cool {}"
+      3 echo "${line[@]}" | xargs -I{} echo "cool {}"
+      3 echo "AB"
+      3 echo "BEGIN" > F.txt 
+      3 echo "BYE!" > ~/_BRISI/F.txt 
+      3 echo "GG g"
+      3 echo "Hy!" > p1
+      3 echo "Why is lifting weights better than cardio?" | tr ' ' '_'
+      3 echo "filename: $fjl" >> $fjl
+      3 echo "https://sites.google.com/site/easylinuxtipsproject/alternative" >> $fjl
+      3 echo $(cygpath -w $(realpath ./elektrika_en_20181008/))
+      3 echo $(cygpath -w $(realpath HvarIzracun.jar))
+      3 echo $(cygpath -w $(realpath elektrika_en_20181008/))
+      3 echo $(cygpath -w $(realpath povezave/HvarIzracun.jar))
+      3 echo $(cygpath -w $(realpath./elektrika_en_20181008/))
+      3 echo $(cygpath -w ./elektrika_en_20181008/)
+      3 echo $(cygpath -w elektrika_en_20181008/)
+      3 echo $(realpath HvarIzracun.jar)
+      3 echo $DBOT
+      3 echo $JAVA*
+      3 echo $JAVACP
+      3 echo $JAVA_HOME
+      3 echo $line
+      3 echo $line[@]
+      3 echo ${line[$@]}
+      3 echo ${line[*]}
+      3 echo ${line[*]} | xargs -I{} echo "cool {}"
+      3 echo ${line[0]}
+      3 echo ${line[1]}
+      3 echo ${line[@]} | xargs -I{} echo "cool {}"
+      3 echo ${line[@]}"
+      3 env | grep -i java
+      3 expr $(seq -s " + " 111 121)
+      3 expr `seq -s " + " 111 121`
+      3 file $(which apt-cyg)
+      3 file $(which rewrapp)
+      3 find -iname "*cht*"
+      3 find -iname "*javafx*"
+      3 find -iname "clean*"
+      3 find -maxdepth 0 -name "*-*"
+      3 find -maxdepth 1 -name "*-*"
+      3 find -myxdepth 1 -type f
+      3 find -name "*-*"
+      3 find -name "*exe"
+      3 find -name "*jar"
+      3 find -name "*java"
+      3 find -type d -iname "*zale*"
+      3 find -type f -name "*.java"
+      3 find -type f -name "R14_Pragersko-PGD.zip"
+      3 find -type f -size +10M
+      3 find -type f -size +20M -size -21M
+      3 find -type f -size +20M -size -25M
+      3 find -type f -size +20M -size -50M
+      3 find -type f -size +500M
+      3 find -type f -size +50M -100M
+      3 find -type f -size +50M -size -100M
+      3 find . -iname "*dimen*txt"
+      3 find . -iname "*gum*"
+      3 find iname "clean*"
+      3 fjl="turn-ubuntu-into-xubuntu_20180201.txt"
+      3 fm
+      3 fncs
+      3 foo=$(echo 123 456 has a NBSP, 123 456 does not)
+      3 foo=$(echo 123 456has a NBSP, 123 456 does not)
+      3 foo=$(echo 123456 has a NBSP, 123 456 does not)
+      3 for F in $(find ./ -name "sklop*"); do echo $F
+      3 for F in $(find ./ -name "sklop*"); do echo $F; done
+      3 for FFF in $(find -type f -size +20M); do du -h $FFF; done | sort -hr | grep -v 'du:'
+      3 for N in {1..100}; do echo $N; done
+      3 for N in {1..100}; do echo $N; done > PIPE1
+      3 for N in {1..100}; echo $N; done
+      3 for item in $(echo ${line[$*]}); do echo "COOL: $item"; done
+      3 for item in $(echo ${line[$@]}); do echo "COOL: $item"; done
+      3 for item in $(echo ${line[1]} ${line[0]}); do echo "COOL: $item"; done
+      3 for item in $(echo ${line[1]}); do echo "COOL: $item"; done
+      3 getp_filename_by_word -f -s pipe
+      3 getp_filename_by_word -h
+      3 getp_filename_by_word -s pipe
+      3 getp_filename_by_word -t f -s pipe
+      3 grep "https://www.quora.com/Is-it-possible-to-create-an-array-of-objects-in-Java" ./*
+      3 grep -E "dd.*bs=" ./* | less
+      3 grep -Er 'D.*seconds\.' ./*
+      3 grep -Er 'DONE.*seconds\.' ./*
+      3 grep -r '/bin/' ./*
+      3 grep -r 'DONE*seconds' ./*
+      3 grep -r 'seconds' ./*
+      3 grep -r prop ./*
+      3 grep -r seconds ./*
+      3 grep -ri nifs ./*
+      3 grep -ri nifs ~/*
+      3 grep -riw nifs ./*
+      3 grep -riw nifs ~/*
+      3 grep -rl 'gregor.redelonghi/bin/' ./*
+      3 grep SIGUSR! ./*
+      3 grep V3 ./*
+      3 grep coding ./*
+      3 grep export ~/.bashrc
+      3 grep proxy ~/.bashrc
+      3 grep seconds ./*
+      3 grep tms ./*
+      3 head -n15 ../hvar_izracun_en_V3_20180830/camp_cene_V3.py 
+      3 history | grep -i cygwin
+      3 history | grep ^jar
+      3 https://itsfoss.com/popcorn-time-ubuntu-linux/
+      3 https://www.fossmint.com/
+      3 https://www.fossmint.com/android-file-transfer-for-linux/
+      3 https://www.fossmint.com/vidcutter-quickly-trim-and-join-video-clips/
+      3 https://www.youtube.com/watch?v=1k4c87HEOAQ
+      3 https://www.youtube.com/watch?v=74znyxVyQAE
+      3 https://www.youtube.com/watch?v=BhveDBCBvjQ
+      3 https://www.youtube.com/watch?v=HO0hjU5Vmuo
+      3 https://www.youtube.com/watch?v=Li4F954M59k
+      3 https://www.youtube.com/watch?v=edGvNqy-4y8
+      3 https://www.youtube.com/watch?v=jCiIzxLXPeE
+      3 https://www.youtube.com/watch?v=q3m6UbZy-5M
+      3 https://www.youtube.com/watch?v=sMHXxNqKd_E
+      3 jar --help | grep -i zip
+      3 jar -tvf Elektrika.jar 
+      3 jar -tvzf Elektrika.jar 
+      3 java -cp "$(cygpath -w $(realpath ./elektrika_en_20181008/main))" Elektrika_V5_en_2017
+      3 java -cp "./elektrika_en_20181008" main.Elektrika_V5_en_2017
+      3 java -cp "./elektrika_en_20181008/main" Elektrika_V5_en_2017
+      3 java -cp ".\elektrika_en_20181008" main.Elektrika_V5_en_2017
+      3 java -cp "elektrika_en_20181008" main.Elektrika_V5_en_2017
+      3 java -cp $(cygpath -w $(realpath ../elektrika_en_20181008/)) elektrika_en_20181008/main/Elektrika_V5_en_2017
+      3 java -cp $(cygpath -w $(realpath ./elektrika_en_20181008/)) main.Elektrika_V5_en_2017
+      3 java -cp $(cygpath -w $(realpath elektrika_en_20181008/)) main/Elektrika_V5_en_2017
+      3 java -cp $(cygpath -w ./elektrika_en_20181008/) main/Elektrika_V5_en_2017
+      3 java -cp $(cygpath -w elektrika_en_20181008/) main/Elektrika_V5_en_2017
+      3 java -cp $JAVACP/elektrika_V4_en_20180925/main/ Elektrika_V4_en_2018
+      3 java -cp $JAVACP/elektrika_V4_en_20180925/main/Elektrika_V4_en_2018
+      3 java -cp %CLASSPATH%\atetime.Test
+      3 java -cp %CLASSPATH%\datetime.Test
+      3 java -cp . Elektrika_2017
+      3 java -cp . Elektrika_2017 1 5 8
+      3 java -cp . main.Elektrika_V5_en_2017
+      3 java -cp . main/Elektrika_V4_en_2017
+      3 java -cp . main/Elektrika_V5_en_2017 7
+      3 java -cp ./elektrika_en_20181008 main.Elektrika_V5_en_2017
+      3 java -cp ./elektrika_en_20181008 main/Elektrika_V5_en_2017
+      3 java -cp ./elektrika_en_20181008 main/Elektrika_V5_en_2017 7
+      3 java -cp ./elektrika_en_20181008/ main/Elektrika_V5_en_2017
+      3 java -cp ./elektrika_en_20181008/ main/Elektrika_V5_en_2017 7
+      3 java -cp ./elektrika_en_20181008/main main.Elektrika_V5_en_2017
+      3 java -cp ./main Elektrika_V5_en_2017
+      3 java -cp ./main main/Elektrika_V5_en_2017
+      3 java -cp .\elektrika_en_20181008 main.Elektrika_V5_en_2017
+      3 java -cp elektrika_en_20181008/ main.Elektrika_V5_en_2017
+      3 java -cp main Elektrika_2017 5
+      3 java -cp main Elektrika_2017 5 2 1 7 8
+      3 java -cp main Elektrika_2018
+      3 java -cp main/ -cp sources/ Elektrika_V4_en_2017
+      3 java -cp main/ Elektrika_V3_en_2018
+      3 java -cp main/ main/Elektrika_V4_en_2017
+      3 java -cp main/ sources/ Elektrika_V4_en_2017
+      3 java -cp main/, sources/ Elektrika_V4_en_2017
+      3 java -cp main/,sources/ Elektrika_V4_en_2017
+      3 java -cp main/:sources/ Elektrika_V4_en_2017
+      3 java -cp main/;sources/ Elektrika_V4_en_2017
+      3 java -cp runj/ Pdtkd
+      3 java -jar $(cygpath -w $PWD)\HvarIzracun.jar
+      3 java -jar $(cygpath -w $PWD)\\HvarIzracun.jar
+      3 java -jar $(cygpath -w BRISI/Elektrika.jar) 
+      3 java -jar $(realpath HvarIzracun.jar) 
+      3 java -jar ./BRISI/Elektrika.jar 5 6
+      3 java -jar ./Elektrika.jar 
+      3 java -jar BRISI/Elektrika.jar 
+      3 java -jar Elektrika.jar  5 6
+      3 java -jar Elektrika.jar 5 6 78 12 45 6 8
+      3 java -jar Elektrika.jar 5 6 8
+      3 java -jar HvarIzracun.jar 
+      3 java -jar Pdtkd.jar Mark EMSO
+      3 java -jar elektrika.Elektrika.jar 5 6 78 12 45 6 8
+      3 java -jar elektrika/Elektrika.jar 5 6 78 12 45 6 8
+      3 java -jar main/Elektrika_V5_en_2017
+      3 java -jar pdtk.jar 
+      3 java -jar pdtk.jar GregOr
+      3 java -jar pdtk.jar Tadeja
+      3 java -jar pdtk_V3.jar AlL
+      3 java -jar pdtk_V3.jar Mark
+      3 java -jar pdtk_V3.jar SpeLa
+      3 java -jar pdtk_V3.jar Tadeja
+      3 java -jar pdtk_V3.jar ¸Mark
+      3 java -jar povezave/HvarIzracun.jar 
+      3 java -jar ticket_price.jar 
+      3 java -jar ~/BRISI/Elektrika.jar 
+      3 java -pc main Elektrika_2017
+      3 java Chatroom.
+      3 java Elektrika_V2_d_2017 5 6
+      3 java Elektrika_V2_d_2017 5 6 11 88 4028564 12
+      3 java Elektrika_V2_d_2017 5 6 13
+      3 java Elektrika_V2_d_2017 5 6 156 88 9994 12
+      3 java Elektrika_V2_d_2017 5 6 156 88 9994 12.5
+      3 java Elektrika_V2_d_2017.java 
+      3 java Elektrika_V2_en_2017 1 6 8 9
+      3 java Elektrika_V2_en_2017 2 5 6 11
+      3 java Elektrika_V3_en_2017 1 3 5 8 12
+      3 java Elektrika_V3_en_2017 1 3 5 88 9 2358 4 11 12 13
+      3 java Elektrika_V3_en_2017 12 11 8
+      3 java Elektrika_V3_en_2018 5 6 8 7 12 99 12 4 5 8
+      3 java Elektrika_V4_en_2018 8
+      3 java Elektrika_V4_en_2018 8 7 6
+      3 java Pdtk
+      3 java Pdtkd_V2
+      3 java cp . main/Elektrika_V5_en_2017
+      3 java cp ./main Elektrika_V5_en_2017
+      3 java elektrika_V4_en_20180925.main.Elektrika_V4_en_2017
+      3 java elektrika_en_20181008.main.Elektrika_V5_en_2017
+      3 java elektrika_en_20181008/main/Elektrika_V5_en_2017
+      3 java main.Elektrika_2017
+      3 java main.Elektrika_V4_2017
+      3 java main.Elektrika_V4_en_2017 5 6
+      3 java main.Elektrika_V5_en_2018
+      3 java main/Elektrika_V5_en_2017 5 78 12 4 56
+      3 java tickets/TicketPrice
+      3 java tree
+      3 javac -Xlint:deprecation Elektrika_V2_d_2017.java 
+      3 javac -cp main/ Elektrika_V3_en_2018.java
+      3 javac -ourcepath src/ -d runj/ src/Pdtkd.java 
+      3 javac -sourcepath src/ -d runj/ Pdtkd_V2.java
+      3 javac -sourcepath src/ -d runj/ runj/Pdtkd_V2.java
+      3 javac -sourcepath src/ -d runj/ src/Pdtkd_V2.java
+      3 javac ./*.java
+      3 javac Elektrika_V2-d_2017.java 
+      3 javac Elektrika_V3_en_2017.java 
+      3 javac Elektrika_V4_en_201*.java
+      3 javac Elektrika_V4_en_2018.java 
+      3 javac Props.java -Xlint:deprecation
+      3 javac Props.java | less
+      3 javac datetime/TimeStamp.java 
+      3 javac elektrika_V4_en_20180925/main/Elektrika_V4_en_2017.java
+      3 javac elektrika_V4_en_20180925/main/Elektrika_V4_en_2017.java 
+      3 javac living/Living.java 
+      3 javac main/Elektrika_V3_en_2018.java
+      3 javac main/Elektrika_V4_en_2017.java 
+      3 javac tickets/TicketPrice.java 
+      3 javapackager
+      3 ktnux
+      3 l1 *.iso
+      3 l1 *iso
+      3 l1 -l *.iso
+      3 l1 -lh *.iso
+      3 less /proc/partitions
+      3 less GetDateAsString.java 
+      3 less PIPE1
+      3 less TimeStamp.
+      3 less TimeStamp.java 
+      3 less elektrika.sh 
+      3 less test.properties 
+      3 less which-dev-is-USB_20160915.onl.txt 
+      3 line=(Gregor Redelonghi)
+      3 listulb | grep repl
+      3 listulb | grep w
+      3 ln -s /home/gregor.redelonghi/bin/JAVA_en/JAVA_en_testing/hvar_izracun_d_20180830/HvarIzracun.jar /home/gregor.redelonghi/povezave/HvarIzracun.jar
+      3 ln -s /home/gregor.redelonghi/bin/PYTHON_en/PYTHON_en_testing/Hvar_izracun_en_20180830/camp_cene_V3.py /home/gregor.redelonghi/povezave/hvar_2018_izracun.py
+      3 logname
+      3 lynd "https://www.ostechnix.com/prevent-files-folders-accidental-deletion-modification-linux/" chattr_prevent-files-folders-accidental-deletion-modification
+      3 lynx -dump "https://sites.google.com/site/easylinuxtipsproject/alternative" >> $fjl
+      3 lynx -dump "https://sites.google.com/site/easylinuxtipsproject/first-xubuntu" >> $fjl
+      3 lynx -dump "https://sites.google.com/site/easylinuxtipsproject/first-xubuntu" | less
+      3 lynx -dump -width=110 "https://en.wikipedia.org/wiki/.properties"
+      3 lynx -dump -width=110 "https://en.wikipedia.org/wiki/.properties" >> jv_properties-multif_20180917.txt 
+      3 lynx -dump width=110 "https://en.wikipedia.org/wiki/.properties"
+      3 lynx -source rawgit.com/transcode-open/apt-cyg/master/apt-cyg > apt-cyg
+      3 lynxd "http://www.linuxjournal.com/content/using-named-pipes-fifos-bash" named-pipes-fifos
+      3 lynxd "http://www.shsu.edu/~csc_tjm/cs278/javaprogstruct.html" "jv_fundamental_java_programming_structures
+      3 lynxd "http://www.shsu.edu/~csc_tjm/cs278/javaprogstruct.html" "jv_fundamental_java_programming_structures"
+      3 lynxd "https://askubuntu.com/questions/192914/how-run-a-jar-file-with-a-double-click" jv_howto_run-a-jar-file-with-double-click
+      3 lynxd "https://github.com/AppImage/AppImageKit/wiki/Bundling-Java-apps" jv_AppImage_bundling-java-apps
+      3 lynxd "https://medium.com/prodsters/how-to-build-a-desktop-application-with-java-a34ee9c18ee3" jv_howto_build-a-desktop-application
+      3 lynxd "https://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address/74428#74428" RPi_setup-networking-wifi-static-ip-address
+      3 lynxd "https://www.cyberciti.biz/faq/how-to-print-filename-with-awk-on-linux-unix/" awk_how-to-print-filename-with-awk
+      3 lynxd "https://www.cyberciti.biz/tips/linux-unix-download-accelerator.html" lftp_as-download-accelerator
+      3 lynxd "https://www.geeksforgeeks.org/differences-jdk-jre-jvm/" jv_java-structure_jdk-jre-jvm
+      3 lynxd "https://www.javacodegeeks.com/2012/11/packing-your-java-application-as-one-or-fat-jar.html" jv_packing-application-as-one-or-fat-jar
+      3 lynxd "https://www.linuxjournal.com/content/bash-arrays" bash_arrays
+      3 lynxd "https://www.networkworld.com/article/3251853/linux/why-use-named-pipes-on-linux.html" why-named-pipes
+      3 lynxd "https://www.networkworld.com/article/3262045/linux/checking-your-network-connections-on-linux.html" ip_checking-your-network-connections
+      3 lynxd "https://www.ostechnix.com/prevent-files-folders-accidental-deletion-modification-linux/" chattr_prevent-files-folders-accidental-deletion-modification
+      3 mc ../sources/ ./
+      3 mkdir -p Tickets_project/tickets
+      3 mkdir ./{src,application}
+      3 mkdir BIN
+      3 mkdir DOMA_20180919
+      3 mkdir Movies
+      3 mkdir PDF_s
+      3 mkdir REGEX
+      3 mkdir REGEXFNAME
+      3 mkdir elektrika
+      3 mkdir hvar_izracun_en_V4_20180917
+      3 mkdir main
+      3 mkdir ostalo
+      3 mkdir povezave
+      3 mkdir project_20181010
+      3 mkdir properties_20180920
+      3 mkdir st-delovnih-ur-v-mesecu_20181013
+      3 mkdir target
+      3 mkfifo p1
+      3 mv -v padec-py_ver_20151106.txt padec.py_ver_20151106.txt 
+      3 mv ../sources/ ./
+      3 mv Converting\ a\ Java\ Program\ into\ an\ Android\ App* PDF_s/
+      3 mv DOMA_201809{19,25}
+      3 mv E201* main/
+      3 mv E201* ostalo/
+      3 mv Elektrika_2017.* ostalo/
+      3 mv Elektrika_V5_en_2017.java Elektrika_V4_en_2017.java  Elektrika_V4_en_2018.java main/
+      3 mv Elektrika_V{2,3}* ostalo/
+      3 mv GetCurDir.* UNSORTED/
+      3 mv PDTK_20180913/ pdtk_en_20180913/
+      3 mv PYTHON_en/ptn_os-module_chtsht{_20180109,}.txt 
+      3 mv PYTHON_en/p{ython3,tn}_os-module_chtsht_20180109.txt 
+      3 mv Pdtkd.java Pdtkd_V1.java
+      3 mv Pdtkd_V3.ja{j,v}a 
+      3 mv STARO/ sources
+      3 mv Test2.java GetCurDir.java
+      3 mv TicketPrice.java Tickets_project/tickets/
+      3 mv Tickets_project{,_20180914}
+      3 mv _pycache_/ __pycache__
+      3 mv awk_how{-,}to-print-filename-with-awk_20180205.txt 
+      3 mv clean_movie_dirname_V5_20180312.tar.gz{,.txt} 
+      3 mv clean_movie_dirname_d_V4_20180312.py ../
+      3 mv clean_movie_dirname_en_V5_20180312.py ../PYTHON_en_testing/
+      3 mv clean_movie_dirname_en_V{3,5}_20180312.py 
+      3 mv clean_movie_d{ir,}name_en_V5_20180312.py 
+      3 mv clean_movie_firname_d_V5_20180312.py clean_movie_fname_d_V5_20180312.py 
+      3 mv clean_movie_fname_V1.sh BIN/
+      3 mv clean_movie_fname_d_V5_20180312.py{,.txt}
+      3 mv clean_movies_dirname_en_V3_20180312.py clean_movie_dname_en_V3_20180312.py 
+      3 mv druzina{-,.}onl.txt 
+      3 mv elektrika_V2_en_20180925/ elektrika_V3_en_20180925/
+      3 mv elektrika_V3_en_20180925/ elektrika_V4_en_20180925/
+      3 mv elektrika_V4_en_20180925 elektrika_en_20181008
+      3 mv elektrika_project_20180924 elektrika_project_V2_en_20180925/
+      3 mv elektrika_project_V2_en_20180925/ elektrika_V2_en_20180925/
+      3 mv hvar_izracun_en_V4_20180917.py names_from_dista_20180917.py hvar_izracun_en_V4_20180917
+      3 mv main/ elektrika
+      3 mv names_from_di{sta,cts}_20180917.py 
+      3 mv pdtk_2018091{3,4}
+      3 mv pdtk_V3.jar ../
+      3 mv sources/ STARO
+      3 mv st_dni_* st-delovnih-ur-v-mesecu_20181013/
+      3 mv st_dur_20181011.py st_dur_nonOOP_20181011.py
+      3 mv st_dur_{,V0_}nonOOP_20181011.py 
+      3 mv st_dur_{OOP,V1}_20181011.py 
+      3 mv testing/{main,sources} ./
+      3 nt
+      3 ouch "The.American.Satan.2017.720p.h264.[YTS-AM].mp4" "The.European.Satan.2015.1080p.h264.[YTS.AD].mp4" "Cool.movie.and.script.2009-[YTS.AM].avi"
+      3 oython3
+      3 pagesnum "ptn_datetime-module_python-docs_20180326.txt"
+      3 pdr
+      3 pffr
+      3 povezave/hvar_2018_izracun.py 
+      3 printf "\33[0m"
+      3 ps grep dd
+      3 python3 ../hvar_izracun_en_V3_20180830/camp_cene_V3.py 
+      3 python3 names_from_dicts_20180917.py 
+      3 rewrapp howto_adjust-monitor-brightness-from-cli_20181004.txt 
+      3 s2 "Do good software developers work faster, or just produce better code?" '''
+      3 s2 "Intro to Julia PL" "https://lwn.net/Articles/764001/"
+      3 s2 "KAGGLE" "https://www.kaggle.com/c/titanic"
+      3 s2 "KEEP UBUNTU CLEAN" '''
+      3 s2 "Link: Dropbox/Valmeinier_2018(M)" "https://www.dropbox.com/l/scl/AADYjWR2sE5zzRkHjqUSL-qNRHCBhYCAfZQ"
+      3 s2 "SP v JUDU v BAKUJU od 20.09 naprej" """
+      3 s2 "Sending test2 with second line" "TEST\nTEST\nTEST"
+      3 s2 "Sending test\nwith second line" '''TEST'''
+      3 s2 "Stron/Statoc typing in Python" "https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b"
+      3 s2 "bash color test script" "http://gilesorr.com/bashprompt/howto/c333.html"
+      3 s2 "check if UEFI or BIOS" '''
+      3 s2 "http://www.codeblocks.org/" "http://www.codeblocks.org/"
+      3 s2 "https://uappexplorer.com/snaps - list" "https://uappexplorer.com/snaps"
+      3 s2 "new snaps" "https://snapcraft.io/musescore?_ga=2.73355795.1476163594.1536917753-1540133734.1517399020"
+      3 s2 "unicode characters" "http://graphemica.com/unicode/characters"
+      3 s2 "www.micrography.org" "http://www.micrography.org/"
+      3 s2 'Check Out: POPCORN TIME NEWS ...' '''
+      3 s2 BioDomes $L
+      3 sed "s/\[[[:digit:]]\{1,\}\]//g" ptn_datetime-module_python-docs_20180326.txt >> ptn_datetime-module_python-docs_20180326_03.txt 
+      3 sed "s/\[[[:digit:]]\{1,\}\][^:]//g" ptn_datetime-module_python-docs_20180326.txt
+      3 sed "s/\[[[:digit:]]\{1,\}\][^:]//g" ptn_datetime-module_python-docs_20180326.txt >> ptn_datetime-module_python-docs_20180326_02.txt 
+      3 seq -f "%02g" 6
+      3 seq -s, 1 9
+      3 seq -s. 1 9
+      3 seq -s. 1, 9
+      3 seq 1 2 100
+      3 seq 1 2 100 >> ~/_BRISI/F.txt 
+      3 seq 1 2 9
+      3 seq 3 8
+      3 seq 8
+      3 setup --help
+      3 tadEja
+      3 tail -f F.txt 
+      3 tail -n10 PIPE1
+      3 tar -tvzf clean_movie_dirname_V5_20180312.tar.gz 
+      3 tar -xvzf bckpbin_d_20180311_200147.tar.gz 
+      3 telnet mapscii.me
+      3 tmux -2 -f ~/.tmux_2_conf attach
+      3 tmx2s
+      3 tmxs2
+      3 touch "The.American.Satan.2017.720p.h264.[YTS-AM]" "The.European.Satan.2015.1080p.h264.[YTS.AD]" "Cool.movie.and.script.2009-[YTS.AM]"
+      3 touch $(seq -f "file%g" 1 10)
+      3 touch $FJL
+      3 touch F.txt
+      3 touch Props.java
+      3 touch regex_20180313.py
+      3 touch st_dni_20181011.py
+      3 tree left_right/
+      3 tree project1/
+      3 type $(which apt-cyg)
+      3 type --help
+      3 type -P sdnf_p
+      3 type -a sbr
+      3 type -a t_gremdomov
+      3 type -a tgd
+      3 type -a tmxs
+      3 type -p sdnf_p
+      3 type -t sbr
+      3 type -t sdnf_p
+      3 type -t tmxs
+      3 type chattr
+      3 type up
+      3 type upup
+      3 up
+      3 up 3
+      3 wdu
+      3 which Elektrika.jar 
+      3 which apt-cyg
+      3 which chattr
+      3 which e2fsprogs
+      3 which rewrapp
+      3 which up
+      3 which upup
+      3 zip -r pdtk_V3_20180914.zip pdtk_20180914
+      3 ~/bin/PYTHON_en/PYTHON_en_testing/clean_movies_dirname_en_V3_20180312.py 
+      3 čč
+      4                                                                                                          │
+      4 " ORIGINAL
+      4 "$((24 x 22))" | bc
+      4 "24 x 22" | bc
+      4 (a) Twice as much address space;
+      4 (b) Four times as much address space;
+      4 (c) 16 times as much address space; or
+      4 (d) 4,294,967,296 times as much address space as the 32-bit system?
+      4 )
+      4 --------------------------------------------------------------------
+      4 -en [/home/gregor.redelonghi]
+      4 ./elektrika_V2_en.py
+      4 ./elektrika_V2_en.py 10
+      4 ./elektrika_V2_en.py 11
+      4 ./elektrika_V2_en.py 12
+      4 ./elektrika_V2_en.py 3
+      4 ./elektrika_V2_en.py 3 5 6
+      4 ./elektrika_V2_en.py 3 5 6 5 8 12 44
+      4 ./elektrika_V2_en.py 3 5 6 5 8 12 44 144 -12
+      4 ./elektrika_V2_en.py 5
+      4 ./elektrika_V2_en.py 9
+      4 ./kopiraj_a0_v_risbe.sh 
+      4 ./regex
+      4 ./regex_clean_movie_dirnames_20180320.py 
+      4 ./regex_clean_movie_fnames_20180320.py 
+      4 ./text_colors.py 
+      4 /h/2017
+      4 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py rename_movie_fnames_20180322/
+      4 17
+      4 236
+      4 7Z | LESS
+      4 7z
+      4 7z -e Ponudbeni\ predračun.7z 
+      4 ;5~;5~pddr
+      4 =238
+      4 CMD="lynx -dump -width=110 "
+      4 DIRS
+      4 EXITĐ
+      4 Every bit you add doubles the address space. A 32-bit system has 4GB of address space; a 64-bit system has 17,592,186,044GB of address space.
+      4 F10 or +:       Volume Up
+      4 F9 or – :       Volume Down
+      4 F:              Fast Forward
+      4 Left arrow:     Jump back 30 seconds
+      4 Quick question: when you compare a 64-bit system to a 32-bit system, does the 64-bit system have:
+      4 R:              Rewind
+      4 Right arrow:    Jump forward 30 seconds
+      4 S1 "http://www.techradar.com/vpn/the-best-vpn-for-linux"
+      4 S2 "5P Foundation Building - Maintaining Symmetry" "https://www.youtube.com/watch?v=PAQFC8kbRwI"
+      4 S2 "Initiating a carving turn in alpine skiing" "https://www.youtube.com/watch?v=6yDslDtJ_qs"
+      4 S2 "SKI lessons 20180209" '''
+      4 T:              Turn subtitles on or off
+      4 The correct answer is (d).
+      4 This s2 TEST, ...
+      4 URL="---
+      4 URL=https://ehmatthes.github.io/pcc/cheatsheets/README.html
+      4 X:              Stop
+      4 Z7
+      4 \cp --force --backup=number $FF $FF
+      4 \cp --force --backup=numbered $FF $FF
+      4 \cp --force --backup=numbered --suffix + $FF $FF
+      4 \cp --force --backup=numbered --suffix=_ $FF $FF
+      4 akrn 1
+      4 akrn 2
+      4 alias | less
+      4 apt-cyg --help | less
+      4 apt-cyg remove enscript
+      4 bash create_JAVA_project_structure.sh 
+      4 bash ~/_BRISI/fnc.sh 
+      4 bot
+      4 cat $2
+      4 cat $f2 | grep $(head -n1 $f1)
+      4 cat $f2 | grep $(head -n1 4f1)
+      4 cat ./ | grep strf
+      4 cat ./*
+      4 cat ./* | grep http
+      4 cat ./* | grep str
+      4 cat ./* | grep strf
+      4 cat ./* | grep time
+      4 cat /etc/services 
+      4 cat Main3.java
+      4 cat bekap_en.log | grep "8020.?_"
+      4 cat bekap_en.log | grep "8020?_"
+      4 cat bekap_en.log | grep -E "8020.?_"
+      4 cat bekap_en.log | grep 8020*
+      4 cat bionic-desktop-amd64_MD5SUMS.txt 
+      4 cat map3.properties 
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep "[[:digit:]\{2,\}]"
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep "[[[:digit:]]]\{2,\}]"
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep "\[[:digit:]\{2,\}\]"
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep "\[[[:digit:]]\{2,\}\]"
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep -E "[[[:digit:]]\{2,\}]"
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep -E "[[[:digit:]]]\{2,\}]"
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep -E "\[[:digit:]\{2,\}\]"
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep -E "\[[[:digit:]]\]\{2,\}]"
+      4 cat pipenv_python-devs-should-use_20180301.txt |  grep -E "\[[[:digit:]]\{2,\}\]"
+      4 cat seznami/history-en.dat_2018* | cut -d' ' -f 4-
+      4 cat seznami/history-en.dat_2018* | cut -d' ' -f 6- | less
+      4 cat seznami/history-en.dat_2018* | cut -d' ' -f 7- | less
+      4 cat seznami/history-en.dat_20181004-114410
+      4 cat seznami/history-en.dat_20181004-114410 | cut -c 26-
+      4 cat seznami/history-en.dat_20181004-114410 | cut -c 26- | less
+      4 cat seznami/history-en.dat_20181004-114410 | cut -c 27-
+      4 cat seznami/history-en.dat_20181004-114410 | cut -c 28- | less
+      4 cat seznami/history-en.dat_20181004-114410 | cut -c 28- | sort | uniq -c
+      4 cat seznami/history-en.dat_20181004-114410 | cut -c 28- | uniq
+      4 cat seznami/history-en.dat_20181004-114410 | cut -d' ' -f 7- | less
+      4 cat seznami/history-en.dat_20181004-114410 | grep -E "^ *[[:digit:]]+"
+      4 cat seznami/history-en.dat_20181004-114410 | grep -E "^ *[[:digit:]]+" | cut -d ' ' -f 4-
+      4 cat seznami/history-en.dat_20181004-114410 | grep -E "^ *[[:digit:]]+" | cut -d ' ' -f 5-
+      4 cat seznami/history-en.dat_20181004-114410 | grep -E "^ *[[:digit:]]+" | cut -d ' ' -f 6-
+      4 cat seznami/history-en.dat_20181004-114410 | grep -E "^ *[[:digit:]]+" | cut -d ' ' -f 6- | less
+      4 cat seznami/history-en.dat_20181004-114410 | grep -E "^ *[[:digit:]]+" | less
+      4 convert
+      4 cp -r sources/ ~/PYTHON_en_testing/
+      4 cp -u -v FAJEL-1.txt FAJEL-2.txt 
+      4 cp ./* ../BEKAP_LAST_20180105/
+      4 cp .mytmuxconf ~/.tmux_1_conf
+      4 cp jv_access_modifiers-multif_20181002.txt jv2_access_modifiers-multif_20181002.txt 
+      4 cp ~/DROPBOX/ODPRTO/_JAVA/jv_access_modifiers-multif_20181002.txt ./
+      4 curl $URL
+      4 curl -A ubuntu.com
+      4 curl -a ubuntu.com
+      4 curl https://docs.oracle.com/javase/tutorial/java/IandI/index.html
+      4 curl https://docs.oracle.com/javase/tutorial/java/IandI/index.html | grep https
+      4 curl ubuntu.com
+      4 cygrinsrv -L
+      4 dc ..
+      4 dc ../_JAVA/
+      4 dc JAVA_en_testing/instances_as_list_members_20181002/
+      4 diff --suppress-common-lines pipenv_python-devs-should-use_20180301.txt pipenv_python-devs-should-use_20180301_2.txt 
+      4 diff --supress-common-lines pipenv_python-devs-should-use_20180301.txt pipenv_python-devs-should-use_20180301_2.txt 
+      4 diff -y pipenv_python-devs-should-use_20180301.txt pipenv_python-devs-should-use_20180301_2.txt 
+      4 diff 02_51_R14_Pragersko_PGD_V2_TEKSTI.docx 02_51_R14_Pragersko_PGD_V3_TEKSTI.docx 
+      4 diff R14_Pragersko-PGD_V2_risbe/ R14_Pragersko-PGD_V2_risbe/
+      4 diff R14_Pragersko-PGD_V2_teksti/ CeDe/R14_Pragersko-PGD_teksti/
+      4 diff pipenv_python-devs-should-use_20180301.txt pipenv_python-devs-should-use_20180301_2.txt 
+      4 dn
+      4 du -sh
+      4 du -sh /c/Users/gregor.redelonghi/Downloads/
+      4 du -sh bekap_c_gregor.redelonghi_Downloads/
+      4 ebot
+      4 echo "835251/816" | bc -l
+      4 echo "Shared Storage with NFS and SSHFS" | tr ' ' '-' | tr [[:upper:]] [[:lower:]]
+      4 echo "filename.ext" | sed '/.*.\./p'
+      4 echo "filename.ext" | sed 's/\(.*\)[._-].*/\1/'
+      4 echo "filename.ext" | sed 's/\(.*\)[._-]/\1/'
+      4 echo "filename.ext" | sed -n '/.*.\./p'
+      4 echo "filename.ext" | sed -n '/.*\./\1p'
+      4 echo "filename.ext" | sed -n '/.*\./p'
+      4 echo "filename.ext" | sed -n '/\(.*\)./\1p'
+      4 echo "filename.ext" | sed -n '/\(.*\).\./\1p'
+      4 echo "filename.ext" | sed -n '/\(.*\).\./p\1'
+      4 echo "filename.ext" | sed -n '/\(.*\)\./\1/p'
+      4 echo "the sky is ${color:-"blue"}"
+      4 echo $(cygpath -w PROGRAM/)
+      4 echo $CAR
+      4 echo $CDNG
+      4 echo $CMD
+      4 echo $DISPLAY
+      4 echo $URL
+      4 echo $f1
+      4 echo ${CAR:-"Ford"}
+      4 echo https://www.youtube.com/watch?v=IODxDxX7oi4
+      4 export LC_ALL=C
+      4 exr_C
+      4 exr_CD
+      4 f2=~/.tmp/LL.txt
+      4 filename: $FJL
+      4 find ! -type d
+      4 find -iname "*ext_CD*"
+      4 find -iname "*p3*"
+      4 find -iname "*p3*" | grep p3
+      4 find -iname "*tmux*"
+      4 find -iname "*tmux*" | xargs grep 2days
+      4 find -maxdepth 0 ! -type d
+      4 find -maxdepth 1 ! -type d -exec mv {} 00_ostalo/
+      4 find -maxdepth 1 ! -type d -exec mv {} 00_ostalo/ \;
+      4 find -mtime -1 -type d
+      4 find -name "20??"
+      4 find -type d -iname "*trubar*" 
+      4 find -type f -iname "*.java"
+      4 find -type f | grep google
+      4 find -type f | xargs grep "cygstart.*chrom" --color
+      4 find -type f | xargs grep chrom --color
+      4 find -type f | xargs grep google
+      4 find -type f | xargs grep google --color
+      4 find / -name tmux.conf
+      4 find /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-10/ -name "*jar*"
+      4 find /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-10/ -name "*java*.jar*"
+      4 find /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-10/ -name "*mail*"
+      4 find /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-10/ -name "java*.jar"
+      4 find /c/Users/gregor.redelonghi/majstaf/myprogs/jdk-10/ -name "javaee.jar"
+      4 fmt --width=110 jv_avoid-getters-and-setters-multif_20181015.txt | less
+      4 for DD in "20??"; do echo $DD; done
+      4 for DD in "20??"; do echo find $DD -type d -iname "*trubar*"; done
+      4 for DD in $(find -maxdepth 1 -name "20??"); do echo find $DD -type d -iname "*trubar*"; done
+      4 for DD in $(find -maxdepth 1 -name "20??"); do find $DD -type d -iname "*trubar*"; done
+      4 for DD in $(find -name "20??"); do echo find $DD -type d -iname "*trubar*"; done
+      4 for DD in iname "20*"; do echo $DD; done
+      4 for DD in iname "20??"; do echo $DD; done
+      4 ftp_access_en 
+      4 getfacl youtube_dl.exe 
+      4 getp_filename_by_word -t f -a rec _2017 | grep "rec\|_2017"
+      4 getp_filename_by_word -t f -a rec _2017 | grep "rescu\|_2017"
+      4 getp_filename_by_word -t f -a rescu _2017 | grep "rescu\|_2017"
+      4 getp_filename_by_word -t f -o recover
+      4 getp_filename_by_word -t f -o recover delete | grep "recover\|delete"
+      4 getp_filename_by_word -t f -o recover restore | grep "recover\|restore"
+      4 getp_filename_by_word -t f -o recover retreve
+      4 getp_filename_by_word -t f -o recover undelete
+      4 getp_filename_by_word -t f -o recover undelete | grep "recover\|undelete"
+      4 getp_filename_by_word -t f -o rescu
+      4 getp_filename_by_word -t f -o rescu 2017
+      4 getp_filename_by_word -t f -o rescu _2017
+      4 getp_filename_by_word -t f -o rescu _2017 | grep "rescu\|_2017"
+      4 getp_filename_by_word -t f -o rescu _2017 | grep rescu\|_2017
+      4 getp_filename_by_word -t f -o rescu | grep "0*15\|16\|17"
+      4 getp_filename_by_word -t f -o rescu | grep "015\|016\|017"
+      4 getp_filename_by_word -t f -o rescu | grep "15\|16\|17"
+      4 getp_filename_by_word -t f -o rescu | grep 201[45678]
+      4 getp_filename_by_word -t f -o rescu | grep 201[567]
+      4 getp_filename_by_word -t f -o rescu | grep 201[56]
+      4 getp_filename_by_word -t f -o rescu | grep 201[678]
+      4 getp_filename_by_word -t f -o rescu | grep 201\(5\|6\)
+      4 getp_filename_by_word -t f -o rescu | grep 201{5,6]
+      4 getp_filename_by_word -t f -o rescu | grep 201{5,6}
+      4 getp_filename_by_word -t f -o rescu | grep rescu
+      4 getp_filename_by_word -t f -s paral
+      4 grep "https://www.mkyong.com/java/javamail-api-sending-email-via-gmail-smtp-example/" ./*
+      4 grep 'How to use argparse to parse python scripts parameters' ./*
+      4 grep -E 'sed.*\[' ~/seznami/*
+      4 grep -r "& wait" ./*
+      4 grep -r "; *wait" ./*
+      4 grep -r ";.*wait" ./*
+      4 grep -r ";.*žwait" ./*
+      4 grep -r "wait" ./*
+      4 grep -r 'ghi/bin/' ./*
+      4 grep -r CLASS ./.* 
+      4 grep -r paral ./*
+      4 grep -r paral ~/bin/*
+      4 grep -rE "&.*wait" ./*
+      4 grep -sl Working ./*
+      4 grep dump ~/bin/lynxdump/lynxdump_webpage_to_file.sh 
+      4 grep python3 ./*
+      4 head -n1 $f1
+      4 head bash_arrays_20180917.txt 
+      4 head bash_arrays_20181004.txt 
+      4 history | grep dtrf
+      4 history | grep google
+      4 https://f-droid.org/en/
+      4 https://lwn.net/Articles/746733/
+      4 jar --help
+      4 java -cp pdtk/ Test
+      4 java -cp pdtk/ Test MM
+      4 java -cp pdtk/ TestMM
+      4 java -jar $(cygpath -w $(realpath HvarIzracun.jar))
+      4 java Elektrika_2017
+      4 java Elektrika_2017 2 5 8
+      4 java Main "Tadeja Mali Redelonghi" "Valvasorjeva ulica 5, 1000 Ljubljana" 1959
+      4 java Main "Tadeja Mali Redelonghi" "Valvasorjeva ulica 5, 1000 Ljubljana" 1970
+      4 java Main2
+      4 java Main¸3
+      4 java Test GuGu
+      4 java Test GuGu hh kk
+      4 java disp_syst_props | less
+      4 java funcs_20180903.funcs
+      4 java funcs_20180903.funcs_2
+      4 java funcs_V3
+      4 java funcs_V3 caca | less
+      4 java hvar/HvarIzracun
+      4 java hvar/camp/CampIzracun
+      4 java pdtk.Pdtk go ga na
+      4 java pdtk.Pdtk goga
+      4 java pdtk/Pdtk PL
+      4 java pdtk/Pdtk.
+      4 javac -cp pdtk/ Test.java
+      4 javac MapToProps.java
+      4 javac TEST.java 
+      4 javac disp_syst_props.java 
+      4 javac funcs
+      4 javac funcs_20180903/funcs_2.java 
+      4 javac hvar/HvarIzracun.java 
+      4 javac hvar/camp/CampIzracun.java 
+      4 javac jv_func_list_en/func_list.java 
+      4 javac jv_func_list_en/jv_func_list_en.java 
+      4 javac pdtk/Test.java
+      4 joba
+      4 kp
+      4 l1 /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/*tmux*
+      4 l1 PYTHON_en/
+      4 les seznami/history-en.dat_20181004-114410 
+      4 less .lesshst 
+      4 less /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/tmux*
+      4 less 00_bin_metsys_en/
+      4 less Main3.java 
+      4 less func_list_en/funcl.java 
+      4 less pipenv_python-devs-should-use_20180301.txt 
+      4 less seznami/history-en.dat_20181004-114410 
+      4 listulb > ~/.tmp/LL.txt
+      4 listulb | grep $(head -n1 $f1)
+      4 listulb | grep 30najv
+      4 listulb | grep p3
+      4 listulb | grep rsync
+      4 listulb | grep send
+      4 listulb | grep send_mail
+      4 ln -s /home/gregor.redelonghi/ /c/Users/gregor.redelonghi/majstaf/r.gregor.en/
+      4 ln -s PYTHON_en/PYTHON_en_testing/get_filenames_by_word_en_V2_20171027.py ./
+      4 ln -s PYTHON_en/text_colors.py ./
+      4 ln -s get_filenames_by_word_en_V2_20171027.py ../../
+      4 ln -s text_colors.py ../
+      4 ln -snf /home/gregor.redelonghi /c/Users/gregor.redelonghi/majstaf/r.gregor.en/gregor.redelonghi
+      4 locale
+      4 lors=0
+      4 lq
+      4 lynx -dump -width=110 "https://docs.oracle.com/javase/tutorial/java/IandI/interfaceDef.html"
+      4 lynxd "https://dzone.com/articles/java-8-how-to-create-executable-fatjar-without-ide" jv_java-8-how-to-create-executable-jar
+      4 lynxd "https://linuxconfig.org/how-to-use-arrays-in-bash-script" bash_arrays
+      4 lynxd "https://linuxhint.com/return-string-bash-functions/" bash_return-string-functions
+      4 lynxd "https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-design-principles-part-6-b78e2b9da023" object-oriented-analysis-and-design-design-principles-part-6
+      4 lynxd "https://opensource.com/article/18/2/why-python-devs-should-use-pipenv" pipenv_python-devs-should-use
+      4 lynxd "https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design" SOLID-the-first-five-principles-of-OO-design
+      4 lynxd "https://www.baeldung.com/maven-directory-structure" jv_maven-directory-structure
+      4 lynxd "https://www.includehelp.com/java-programs/write-and-read-a-JSON-File.aspx" jv_write-and-read-a-JSON-file
+      4 lynxd "https://www.mkyong.com/java/javamail-api-sending-email-via-gmail-smtp-example/" jv_javamail-api-sending-email-via-gmail-smtp
+      4 lynxd "https://www.quora.com/Is-it-possible-to-create-an-array-of-objects-in-Java" jv_array-of-objects
+      4 mcm
+      4 md5sum.exe bionic-desktop-amd64.iso 
+      4 mkdir -p projectName/src/main/java/appname/package1
+      4 mkdir -p projectName/src/main/java/appname/package2
+      4 mkdir -p projectName/src/main/resources
+      4 mkdir BEKAP_LAST_20180105
+      4 mkdir PDF
+      4 mkdir PDTK_20180913
+      4 mkdir TR
+      4 mkdir __DELETE__
+      4 mkdir elektrika_V1_en_20180925
+      4 mv ../_TXT/jv_oracle-docs_interfaces-and-inheritance-multif_20181003.txt ./
+      4 mv DOMA_2018092{5,7}
+      4 mv JAVA_metsys/ JAVA_en_metsys/
+      4 mv __krneki/ Instances_as_list_members_20181002
+      4 mv bionic-desktop-amd64.iso /c/Users/gregor.redelonghi/Downloads/
+      4 mv cqrsync_backups{_20180411,}.sh 
+      4 mv dqrsync_backups{_20180411,}.sh 
+      4 mv instances_as_list_members_20181002/ JAVA_d/JAVA_d_testing/
+      4 mv lynx_multi_dump_fromlist_en_20141218.sh lynx_multi_dump_fromlist_en.sh 
+      4 mv sources/ elektrika_V1_en_20180925/
+      4 mv tmux_conf-and-customisation\[D\[D\[D\[D\[D\[D\[D\[D\[D\[D\[D\[D\[D\[D\[D\[D\[Dsettings-\[C\[C\[C\[C\[C\[C\[C\[Cs-multif_20180302.txt tmux_conf-and-customisations-multif_20180302.txt 
+      4 mv tmux_conf-{,settings-}and-customisations-multif_20180302.txt 
+      4 mv w3m_multi_dump_fromlist_en_20160928.sh w3m_multi_dump_fromlist_en.sh 
+      4 mv {,ptn_}pipenv_python-devs-should-use_20180301.txt 
+      4 mv {I,i}nstances_as_list_members_20181002/
+      4 pagesnum jv_avoid-getters-and-setters-multif_20181015.txt
+      4 pagesnum jv_oracle-docs_interfaces-and-inheritance-multif_20181003.txt 
+      4 pagesnum ptn_pipenv_python-devs-should-use_20180301.txt 
+      4 pagesnum tmp_jv_avoid-getters-and-setters-multif_20181015.txt 
+      4 pagesnum tmux_conf-settings-and-customisations-multif_20180302.txt 
+      4 pddbak && pddlog 
+      4 pdelbak
+      4 ped
+      4 povezave/HvarIzracun_jar_run.sh 
+      4 printenv
+      4 printenv | grep -i coding
+      4 printenv | grep -i gredel
+      4 printenv | grep -i redel
+      4 printenv | grep -iw gredelonghi
+      4 printenv | grep -iw redelonghi
+      4 printenv | less
+      4 pushd
+      4 pushd .
+      4 pushd /c/Users/gregor.redelonghi/
+      4 python2
+      4 python3 elektrika_V1_en.py 
+      4 python3 fname_list_test.py 
+      4 pytpe ext_CD
+      4 qmkdir PDF
+      4 rewrapp jv_avoid-getters-and-setters-multif_20181015.txt
+      4 s1 "https://opensource.com/article/18/2/variables-data-types-libreoffice-basic"
+      4 s1 "https://www.quora.com/What-is-the-dark-side-of-living-in-South-Korea-I-have-heard-from-multiple-people-that-the-country-has-a-huge-dark-side"
+      4 s1 "https://xubuntu.org/news/testing-for-xubuntu/"
+      4 s2 "Cygwin anounce" '''
+      4 s2 "Delo: Argentina" "http://www.rtvslo.si/tureavanture/kje-je-jan/kraji-na-katerih-si-oko-spocije/447792"
+      4 s2 "Improving POSTURE" "https://www.youtube.com/watch?v=CqTtScFQ5-c"
+      4 s2 "carving "$url"
+      4 s2 "carving" "https://www.youtube.com/watch?v=XrvPbEM523Q"
+      4 s2 "carving" "https://www.youtube.com/watch?v=_Z1fB3hotfM"
+      4 s2 "perfect pushups" "https://www.youtube.com/watch?v=IODxDxX7oi4"
+      4 screen
+      4 script
+      4 sed 's/\[.\{1,3\}\]//g' pipenv_python-devs-should-use_20180301.txt > pipenv_python-devs-should-use_20180301_2.txt 
+      4 sed 's/\[.\{2,3\}\]//g' pipenv_python-devs-should-use_20180301.txt
+      4 sed -i "/\[[[:digit:]]\{1,\}\][^:]/g" pipenv_python-devs-should-use_20180301.txt
+      4 sed -n "/\[[[:digit:]]\{1,\}\]/p" pipenv_python-devs-should-use_20180301.txt
+      4 sed -n "/\[[[:digit:]]\{1,\}\][^:]/p" pipenv_python-devs-should-use_20180301.txt
+      4 sed -n "/\[[[:digit:]]\{1,\}\][^:]/p" ptn_datetime-module_python-docs_20180326.txt 
+      4 sed -n "/\[[[:digit:]]\{2,\}\]/p" pipenv_python-devs-should-use_20180301.txt 
+      4 sed -n "s/\[[[:digit:]]\{1,\}\]//gp" pipenv_python-devs-should-use_20180301.txt
+      4 sed -n "s/\[[[:digit:]]\{2,\}\]//g" pipenv_python-devs-should-use_20180301.txt | grep "\[[[:digit:]]\{2,\}\]"
+      4 sed -n "s/\[[[:digit:]]\{2,\}\]//gp" pipenv_python-devs-should-use_20180301.txt | grep "\["
+      4 sed -n "s/\[[[:digit:]]\{2,\}\]//gp" pipenv_python-devs-should-use_20180301.txt | grep "\[[[:digit:]]\{2,\}\]"
+      4 sed -n "s/\[[[:digit:]]\{2,\}\]//p" pipenv_python-devs-should-use_20180301.txt | grep "\[[[:digit:]]\{2,\}\]"
+      4 sed -n '/\[..\]/p' pipenv_python-devs-should-use_20180301.txt 
+      4 sed -n '/\[.\{1,3\}\]/p' pipenv_python-devs-should-use_20180301.txt
+      4 sed -n '/\[.\{1,3\}\]/p' pipenv_python-devs-should-use_20180301.txt | wc -l
+      4 sed -n '/\[.\{2,3\}\]/p' pipenv_python-devs-should-use_20180301.txt
+      4 sed -n '/\[.\{2,3\}\]/p' pipenv_python-devs-should-use_20180301.txt 
+      4 sed -n '/\[.\{2,3\}\]/p' pipenv_python-devs-should-use_20180301.txt | grep -E "\[.\{2,3\}\]"
+      4 sed -n '/\[.\{2,3\}\]/p' pipenv_python-devs-should-use_20180301.txt | grep -E "\[.{2,3}\]" | less
+      4 sed -n '/\[.\{2,3\}\]/p' pipenv_python-devs-should-use_20180301.txt | less | grep -E "\[.{2,3}\]"
+      4 sed -n '/\[.\{2,3\}\]/p' pipenv_python-devs-should-use_20180301.txt | wc -l
+      4 sed -n '/\[.\{2\}\]/p' pipenv_python-devs-should-use_20180301.txt | grep -E "\[.{2,3}\]"
+      4 sed -n '/\[.\{3\}\]/p' pipenv_python-devs-should-use_20180301.txt | grep -E "\[.{2,3}\]"
+      4 sed -n '\[...\]/p' pipenv_python-devs-should-use_20180301.txt 
+      4 sed -n 's/\[.\{1,3\}\]//gp' pipenv_python-devs-should-use_20180301.txt
+      4 sed -n 's/\[.\{1,3\}\]//gp' pipenv_python-devs-should-use_20180301.txt > pipenv_python-devs-should-use_20180301_2.txt 
+      4 sed -n 's/\[.\{2,3\}\]//gp' pipenv_python-devs-should-use_20180301.txt
+      4 sed -n 's/\[.\{2\}\]//gp' pipenv_python-devs-should-use_20180301.txt
+      4 sed -n 's/\[.\{3\}\]//gp' pipenv_python-devs-should-use_20180301.txt
+      4 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep "$[^^^^]"
+      4 ss
+      4 stat .
+      4 stat ./*
+      4 t
+      4 tar -tvzf bckpbat_en_20180206_151625.tar.gz | grep MET
+      4 tar -tvzf bckpbin_en_20180206_151625.tar.gz | grep MET
+      4 tar -tvzf bckpbrc_en_20180206_151625.tar.gz | grep MET
+      4 tar -tvzf bckpdocs_en_20180206_151625.tar.gz | grep MET
+      4 tar -tvzf bckpfau_en_20180206_151625.tar.gz | grep MET
+      4 tar -tvzf bckpszn_en_20180206_151625.tar.gz | grep MET
+      4 tmuf -f .mytmuxconf 
+      4 tmux -f .mytmuxconf 
+      4 tmux -f .mytmuxconf attach
+      4 tmux -f .tmux_1_conf 
+      4 tmx
+      4 tmx1
+      4 tmx_1
+      4 touch FAJEL-1.txt
+      4 touch Pdtk.java
+      4 touch elektrika_V1_en.py
+      4 type /etc/services 
+      4 type ext_CD
+      4 tytpe ext_CD
+      4 url=""
+      4 url="https://www.youtube.com/watch?v=FhKen0s9Po8"
+      4 url="https://www.youtube.com/watch?v=rNH3994DRpU"
+      4 vc
+      4 w17
+      4 which convert
+      4 wrapoff 
+      4 yes
+      4 ze
+      4 zrl="https://www.youtube.com/watch?v=rNH3994DRpU"
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -files -s "attr"
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -s "attr"
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -s attr
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -s cheat
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s "attr"
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s cheat
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s cheat | grep cheat --color
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s env
+      4 ~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s pyen
+      4 ~/bin/lynxdump/lynxdump_USERAGENT_webpage_to_file.sh "https://linuxhint.com/return-string-bash-functions/" bash_return-string-functions
+      4 ļl
+      5 $((58/117))
+      5 $((end-start))
+      5 (for DD in {1..100..10}; do echo $DD; done)
+      5 (for DD in {1..100..9}; do echo $DD; done)
+      5 (for DD in {2..10..10}; do echo $DD; done)
+      5 (for DD in {2..100..10}; do echo $DD; done)
+      5 (for N in {1..10}; do print $N; done)
+      5 (for NN in {1..10}; do echo $NN; done)
+      5 (for NN in {1..10}; do echo $NN; done) & (for DD in {1..100..9}; do echo $DD; done)
+      5 (for NN in {1..10}; do echo $NN; done) & (for DD in {1..100..9}; do echo $DD; done) &
+      5 (for NN in {1..10}; do echo $NN; done) & (for DD in {2..10..10); do echo $DD; done)
+      5 (for NN in {1..10}; do echo $NN; done) & (for DD in {2..10..10}; do echo $DD; done)
+      5 (sleep 15; echo "done 15") & (sleep 16; echo "done 16") &
+      5 (sleep 15; echo -e "done 15\n") & (sleep 16; echo "done 16\n") &
+      5 (sleep 2; echo first finished) & (sleep 3; echo second finished) &
+      5 ./LLists_20180424.py 
+      5 ./LLists_en_V4_20180426.py SampleCSVFile_119kb.csv >> TableOut.txt
+      5 ./LLists_en_V4_20180426.py SampleCSVFile_11kb.csv 
+      5 ./LLists_en_V4_20180426.py SampleCSVFile_2kb
+      5 ./LLists_en_V4_20180426.py SampleCSVFile_2kb.csv 
+      5 ./data.py
+      5 ./data.py | grep 040
+      5 ./data.py | grep [Mm]ali
+      5 ./data.py | grep [Vm]al[id]
+      5 ./data.py | grep [Vm]ali
+      5 ./data.py | grep [m]ali
+      5 ./data.py | grep [tm]a[id]e
+      5 ./data.py | grep [tm]al[id]
+      5 ./data.py | grep [tm]al[id]e
+      5 ./data.py | grep edel
+      5 ./listulb
+      5 ./listulb.sh 
+      5 ./obesenec_20171006.py 
+      5 ./obesenec_2_20171006.py 
+      5 ./regex_01.py 
+      5 ./timedelta_V1_20180112.py 
+      5 ./times_20180326.py 
+      5 /c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/
+      5 /usr/bin/tmux.exe 
+      5 Bedouin Gutra Tying in Nubia
+      5 Check out:
+      5 D(); seq 1 1000; D()
+      5 D(); seq 1 1000; T2=D(); echo "$T1, $T2"
+      5 EXT_A
+      5 FJL=SampleCSVFile_2kb.csv; sed -e ':a' -e 's/\("[^"]*\),\([^"]*"\)/\1~\2/;ta' -e 's/,/;/g' -e 's/"//g' -e 's/~/,/g' $FJL
+      5 HOW TO TIE ARABIC EMIRATI HEADGEAR - DUBAI and ABU DHABI STYLE
+      5 HOW TO tie a SHEMAGH scarf as a HEADWRAP or HAT
+      5 How to Tie a Bandana
+      5 How to Tie a Turban
+      5 How to Wear A Gutra
+      5 How to tie Parna | Parna Tutorial | Learn Best Turban Style Parna
+      5 How to tie a Bandana (5p)
+      5 How to tie a men's headscarf... Fes, Morocco
+      5 How to wear a keffiyeh
+      5 How to wrap a Tagelmust / Shemagh / keffiyeh / pashmina
+      5 LSS
+      5 PAT="clone shrin"
+      5 PAT="clone sri ubuntu"
+      5 RM ADA
+      5 T1=$(date +"%s")
+      5 T1=$(date +%H%M%S) && echo $T1; for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S) && echo $T2
+      5 T1=$(date +%H%M%S) && for n in {1..10000}; do echo $n; done && T2=$(date +%H%M%S); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%H%M%S); for n in {1..100000}; do echo $n; done && T2=$(date +%H%M%S); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done && T2=$(date +%H%M%S); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S) && echo "$T1 -- $T2"
+      5 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S)&& echo -e "\n$T1\n$T2"
+      5 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S); "$T1 -- $T2"
+      5 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S); echo "$(($T2-$T1))"
+      5 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S); echo $(("$T2-$T1))"
+      5 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S); echo $(($T2-$T1))
+      5 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%M%S); for n in {1..10000}; do echo $n; done && T2=$(date +%M%S); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); for n in {1..10000}; do echo $n; done && T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); for n in {1..10000}; do echo $n; done; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); for n in {1..10}; do echo $n ; sleep 1; done && T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); for n in {1..30000}; do echo $n; done; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); seq 1 10000; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); seq 1 1000; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); seq 1 100; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); seq 1 15000; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); {for n in seq(1 30000); do echo $n; done}; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); {for n in seq(1..30000); do echo $n; done}; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=$(date +%s); {for n in {1..30000}; do echo $n; done}; T2=$(date +%s); echo -e "\n$T1\n$T2"
+      5 T1=D(); seq 1 1000; T2=D(); echo "$T1, $T2"
+      5 T1=D; seq 1 1000; T2=D; echo "$T1, $T2"
+      5 T2=$(date +"%s")
+      5 TRY!
+      5 The Shapeshifter Bandana - 1 Bandana, 10 ways to wear it!
+      5 _BRISI/pcs1.sh 
+      5 _BRISI/pcs2.sh 
+      5 _BRISI/pcs2.sh & _BRISI/pcs2.sh &
+      5 _BRISI/pcs2.sh & _BRISI/pcs2.sh & :&
+      5 alias | grep tmux
+      5 bin/PYTHON_en/PYTHON_en_testing/LList_20180424/
+      5 bin/get_filenames_by_word_en_V2_20171027.py
+      5 bin/get_filenames_by_word_en_V2_20171027.py 
+      5 bin/get_filenames_by_word_en_V2_20171027.py -t
+      5 bin/get_filenames_by_word_en_V2_20171027.py -t dirs -s ff
+      5 bin/get_filenames_by_word_en_V2_20171027.py -t dirs -s ff | grep ff
+      5 bin/get_filenames_by_word_en_V2_20171027.py -t files
+      5 bin/get_filenames_by_word_en_V2_20171027.py -t files -a ffi
+      5 bin/get_filenames_by_word_en_V2_20171027.py -t files -a ffi | grep ffi
+      5 cat
+      5 cat $fjl
+      5 cat .bashrc
+      5 cat /c/Users/gregor.redelonghi/majstaf/myprogs/staro_cygwin64/etc/fstab
+      5 cat /cygdrive/c/Users/gregor.redelonghi/majstaf/myprogs/staro_cygwin64/etc/fstab
+      5 cat /d/bekaps/bekap_en.log 
+      5 cat /proc/mounts
+      5 cat 02*
+      5 cat 02_rbckp_cgr_en.sh 
+      5 cat << EOF >> $fjl
+      5 cat <<< EOF
+      5 cat <<<EOF
+      5 cat META-INF/MANIFEST.MF 
+      5 cat SampleCSVFile_11kb.csv
+      5 cat SampleCSVFile_2kb.csv
+      5 cat SampleCSVFile_2kb.csv 
+      5 cat ZAMENJAJ_bin_TO_coding.txt 
+      5 cat data.txt 
+      5 cat ~/_BRISI/UZ.txt | while read line; do cp -vr $line ~/_BRISI/UZ/; done
+      5 cat ~/_BRISI/UZ.txt | while read line; do echo $LINE; done
+      5 cat ~/_BRISI/UZ.txt | while read line; do echo $line; done
+      5 cat ~/bin/oneliners_en/timing_processes_20180215.onl.txt 
+      5 chmod 644 ./*
+      5 chmod 644 samostojni-URL-naslovi_BoB_20171211.txt 
+      5 chmod 755 _BRISI/pcs*
+      5 chmod 755 tst.py data.py 
+      5 cp -rv /c/Users/gregor.redelonghi/majstaf/myprogs/staro_cygwin64/home/gregor.redelonghi/* ./
+      5 cp -v .* ORIGINALI_20180907/
+      5 cp -v /c/Users/gregor.redelonghi/majstaf/myprogs/staro_cygwin64/home/gregor.redelonghi/.bash* ./
+      5 cp -vr /c/Users/gregor.redelonghi/majstaf/myprogs/staro_cygwin64/home/gregor.redelonghi/.* ./
+      5 cp ./.* ORIGINALI_20180907/
+      5 cp .tmxdb_1 .mytmuxconf ~/
+      5 cp /c/Users/gregor.redelonghi/Dropbox/ODPRTO/bckp_hp_rgregor_doma/bckpfau_d_20180228_202113.tar.gz 
+      5 cp /c/Users/gregor.redelonghi/Dropbox/ODPRTO/bckp_hp_rgregor_doma/bckpfau_d_20180228_202113.tar.gz ./
+      5 cp /c/Users/gregor.redelonghi/Dropbox/ODPRTO/bckp_hp_rgregor_doma/bckpszn_d_20180228_202113.tar.gz ./
+      5 cp App_name.jar /c/Users/gregor.redelonghi/majstaf/BRISI/
+      5 cp bckpb* ~/RUT/home/rgregor/
+      5 cp data_prety_print_en_20180423.tar.gz{,.txt} 
+      5 cp get_filenames_by_word_en_V2_20171027.py ../get_filenames_by_word_en_V2_20171027.py
+      5 cp get_filenames_by_word_en_V{2_20171027,3_20180301}.py 
+      5 cp ~/_BRISI/SampleCSVFile_* ./
+      5 cp ~/_BRISI/data* ./
+      5 curl --head "http://www.gaogle.com"
+      5 curl --head "http://www.google.com"
+      5 curl --head --fail "http://www.gaogle.com"
+      5 curl --head --fail "http://www.google.com"
+      5 curl --head --fail --silent "http://www.google.com"
+      5 curl --head --fail -s "http://www.google.com"
+      5 curl --silent --head --fail "http://www.gaoogle.com"
+      5 curl --silent --head --fail "http://www.gaoogle.com"; echo $#
+      5 curl --silent --head --fail "http://www.google.com"
+      5 curl --silent --head --fail "http://www.google.com"; echo $#
+      5 cygstart /c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/bin/Dropbox.exe
+      5 cygstart /c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/bin/Dropbox.exe --help
+      5 cygstart /c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/bin/Dropbox.exe -h
+      5 date +%s
+      5 db
+      5 db1
+      5 dc JAVA_en_testing
+      5 du -s /d/bekaps/
+      5 du -sh /c/Users/gregor.redelonghi/myprogs/cygwin64
+      5 duf -sh bin/
+      5 echo "$T1 $T2"
+      5 echo "1 2 3" | xargs -I{} echo "File-{}.txt"
+      5 echo "1, 2, 3" | xargs -I{} echo "File-{}.txt"
+      5 echo "138/158" | bc -l
+      5 echo "23/44" | bc -l
+      5 echo "58/117" | bc
+      5 echo "58/117" | bc -n
+      5 echo "http://www.enricozini.org/blog/2018/debian/detect-a-uefi-partition/"
+      5 echo "{1..3}" | xargs -I{} echo "File-{}.txt"
+      5 echo $((23/44))
+      5 echo $((23/44)) | bc -l
+      5 echo $((T2-T1)
+      5 echo $((T2-T1))
+      5 echo $(date +"%s")
+      5 echo $PAT | sed 's: :\\|:g'
+      5 echo $PAT | tr ' ' '\\ \|'
+      5 echo $PAT | tr ' ' '\\\\\|'
+      5 echo $PAT | tr ' ' '\\\\|'
+      5 echo $PAT | tr ' ' '\\|'
+      5 echo $PAT | tr ' ' '\|'
+      5 echo $PAT | tr ' ' '|'
+      5 echo $PAT | tr ' ' r'\|'
+      5 echo $ST1
+      5 echo $edn1
+      5 echo $end1
+      5 echo $st1
+      5 echo -e "1\n2\n3" | xargs -I{} echo "File-{}.txt"
+      5 echo -e "\n\n---\n" >> $fjl
+      5 echo {1..3} | xargs -I{} echo "File-{}.txt"
+      5 echo=$(date +"%s")
+      5 ed /etc/fstab
+      5 end=$(date +"%s")
+      5 exit
+      5 export LC_ALL=C; gr_CURDT=20180213
+      5 fg %2
+      5 fhl=python_scaling_apps_20180213.txt
+      5 file java
+      5 file jvc
+      5 file tmux
+      5 file tmxs
+      5 find -maxdepth ! -tipe d
+      5 find -maxdepth 1 ! -type d -exec cp -dv {} _staro2/ \;
+      5 find -maxdepth 1 ! -type d -exec cp -v -d {} _staro2/ \;
+      5 find -maxdepth 1 ! -type d | xargs cp -v -d _staro2/
+      5 find -maxdepth 1 -tipe d
+      5 find -maxdepth 1 -type f
+      5 find -maxdepth 2 -type d -iname "*tribuna*"
+      5 find -maxdepth 3 -type d -iname "*tribuna*"
+      5 find -name "*.sh" | xargs grep -r --color gremdomov
+      5 find -name "*.sh" | xargs grep -r gremdomov
+      5 find -name "python_*"
+      5 find -name "python_*" | sed 's!^python_!ptn_!'
+      5 find -name "python_*" | sed 's/^python_/ptn_/'
+      5 find -name "python_*" | sed 's/python_/ptn_/'
+      5 find -name "python_*" | sed's!^python_!ptn_!'
+      5 find -type f --maxdepth 1 ! -name "ptn_*"
+      5 find -type f -iname "*.sh"
+      5 find -type f -iname "*.sh" -exec chmod 755 {} \;
+      5 find -type f -iname "*ngo*doc*"
+      5 find -type f -maxdepth 1 ! -name "ptn_*"
+      5 find -type f -maxdepth 1 ! -name "ptn_*" | sed 's:\./::'
+      5 find / -name "tmux*"
+      5 find / -name tmux
+      5 fjl=python_scaling_apps_20180213.txt
+      5 for B in {0..255}; do tput setab $B; echo "COLOR: $B"; done
+      5 for B in {0..255}; do tput setab $B; echo "COLOR: $B"; tput setab 0; done
+      5 for B in {0..255}; do tput setab $B; echo "COLOR: $B"; tput setab 9; done
+      5 for B in {0..255}; do tput setab $B; echo "COLOR: $B\n"; tput setab 9; done
+      5 for B in {0..255}; do tput setab $B; echo -n "COLOR: $B"; done; tput setab 9
+      5 for B in {0..255}; do tput setab $B; echo -n "COLOR: $B"; done; tput setab 9;
+      5 for B in {0..255}; do tput setab $B; echo -n "COLOR: $B"; done; tput setab 9; echo -e "\n"
+      5 for B in {0..255}; do tput setab $B; echo -n "COLOR: $B"; done; tput setab 9;:
+      5 for B in {0..255}; do tput setab $B; echo -n "COLOR: $B"; tput setab 9; done
+      5 for LL in A D H CD; do echo "ln -s ~/bin/00_ukazi/ext_${LL}_bekap.sh /usr/local/bin/ext_${LL}"; done
+      5 for LL in A D H CD; do ln -s ~/bin/00_ukazi/ext_${LL}_bekap.sh /usr/local/bin/ext_${LL}; done
+      5 for N in {1..10}; do echo "This ins line number: $N" >> SED_test_20180521.txt; done
+      5 for N in {1..10}; do print $N; done
+      5 for NN in {1..10}; do echo $NN; done
+      5 for b in {0..7} 9; do for f in {0..7} 9; do for attr in "" bold; do echo -e "$(tput setab $b; tput setaf
+      5 for ff in $(find -type f -maxdepth 1 ! -name "ptn_*"); do echo $ff; done
+      5 for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do echo $ff; done
+      5 for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do echo mv -v $ff ${ff//.\//.\/ptn_}; done
+      5 for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do echo mv -v $ff ${ff//^ /ptn_}; done
+      5 for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do echo mv -v $ff ${ff//^/ptn_}; done
+      5 for ff in $(find -type f -maxdepth 1 ! -name "ptn_*txt"); do mv -v $ff ${ff//.\//.\/ptn_}; done
+      5 for i in {0..255}; do printf "\x1b[38;5;${i}mcolor%-5i\x1b[0m" $i ; if ! (( ($i + 1 ) % 8 )); then echo ; fi ; done
+      5 for n in {1..100}; do echo $n; done
+      5 for n in {1..100}; echo $n; done
+      5 function D() { T=$(date +%s); echo $T }
+      5 function D(); { T=$(date +%s); echo $T }
+      5 function D(); { T=$(date +%s); echo $T };
+      5 function D(){ T="date +%s"; echo $T; } 
+      5 function D(){ T=$(date +%s); echo $T }; 
+      5 function D(){ echo "date +%s" } ; 
+      5 function D(){ echo "date +%s"; } 
+      5 function D(){ echo $(date +%s); } 
+      5 function D(){T=$(date +%s); echo $T}
+      5 getp_filename_by_word -t f -o $(echo $PAT) | grep $PAT
+      5 getp_filename_by_word -t f -o $PAT | grep "clone\|shr"
+      5 getp_filename_by_word -t f -o $PAT | grep $(echo $PAT | sed 's: :\\|:g')
+      5 getp_filename_by_word -t f -o $PAT | grep $(echo $PAT | tr ' ' '\\\|')
+      5 getp_filename_by_word -t f -o $PAT | grep $(echo $PAT | tr ' ' '\|')
+      5 getp_filename_by_word -t f -o $PAT | grep $PAT
+      5 getp_filename_by_word -t f -o clone ahr | grep $PAT
+      5 getp_filename_by_word -t f -o clone shr
+      5 getp_filename_by_word -t f -o clone shr | grep "clone\|shr"
+      5 getp_filename_by_word -t f -o clone shr | grep $(echo $PAT)
+      5 getp_filename_by_word -t f -o clone shr | grep $PAT
+      5 getp_filename_by_word -t f -o dd clon | grep clon
+      5 getp_filename_by_word -t f -o dd clone
+      5 getp_filename_by_word -t f -o dd clone | grep clone
+      5 getp_filename_by_word -t f -o process thread | wc -l
+      5 getp_filename_by_word -t f -o process thred
+      5 getp_filename_by_word -t f -o process | wc -l
+      5 getp_filename_by_word -t f -s math
+      5 getp_filename_by_word -t f -s penv
+      5 getp_filename_by_word -t f -s pip
+      5 getp_filename_by_word -t file -s math
+      5 grep "https://www.linuxjournal.com/content/multiprocessing-python" ./*
+      5 grep "https://zinovyev.net/blog/ssh-client-configuration-tricks" ./*
+      5 grep '/bin' ./*
+      5 grep 'E/bin' ./*
+      5 grep 'bin' ./*
+      5 grep 'bin/'
+      5 grep 'bin/' ./*
+      5 grep 'etc/' ./*
+      5 grep 'redelonghi/bin' ./*
+      5 grep '~/bin' ./*
+      5 grep '~/bin/' ./*
+      5 grep -i rar ~/seznami/*
+      5 grep -r '/usr/local/bin' ./*
+      5 grep -r 'rsync ' ./*
+      5 grep -r '~/bin/' ./*
+      5 grep -r central ./*
+      5 grep -r centralna ./* 
+      5 grep -r centralna ./.* 
+      5 grep -r exit PYTHON_en/* 
+      5 grep -r gremdomov ./*
+      5 grep -r rsync ./*
+      5 grep -rl 'HOME/bin/' ./*
+      5 grep -rl '~/bin/' ./* >> ZAMENJAJ_bin_TO_coding.txt
+      5 grep 02 ./*
+      5 grep 256 tmux*
+      5 grep central ./*
+      5 grep jdk ./.*
+      5 gunzip usagov_bitly_data2012-03-16-1331923249.gz 
+      5 history | grep -i rar
+      5 history | grep exclude
+      5 hostory | grep exclude
+      5 http://www.linuxandubuntu.com/home/git-basics-git-series-part-1
+      5 http://www.linuxandubuntu.com/home/how-to-backup-and-restore-sd-card-for-raspberry-pi
+      5 http://www.linuxandubuntu.com/home/notepadqq-an-alternative-to-notepad-for-linux
+      5 http://www.linuxandubuntu.com/home/raspberry-pi-vs-arduino
+      5 https://opensource.com/article/18/5/pandoc-cheat-sheet
+      5 https://opensource.com/downloads/pandoc-cheat-sheet
+      5 https://www.e-education.psu.edu/geog485/node/141
+      5 https://www.e-education.psu.edu/geog485/sites/www.e-education.psu.edu.geog485/files/data/gps_track.txt
+      5 https://www.quora.com/What-is-the-most-creative-thing-you-have-ever-come-across-or-done
+      5 https://www.youtube.com/watch?v=1EbQeRhY_eM
+      5 https://www.youtube.com/watch?v=2sjwaxnXjpU
+      5 https://www.youtube.com/watch?v=3GZnOJ1aIuQ
+      5 https://www.youtube.com/watch?v=B1hSP9UWV7M
+      5 https://www.youtube.com/watch?v=BKEW7V3iylk
+      5 https://www.youtube.com/watch?v=Lw8TGbZMU78
+      5 https://www.youtube.com/watch?v=UgJ3eJlB2Fk
+      5 https://www.youtube.com/watch?v=XzPnPKhbwvw
+      5 https://www.youtube.com/watch?v=c9BugUy_xB0
+      5 https://www.youtube.com/watch?v=dsKGiAqtMck
+      5 https://www.youtube.com/watch?v=fhcIb4-qSYo
+      5 https://www.youtube.com/watch?v=h0e60l0BR58
+      5 https://www.youtube.com/watch?v=hKXyKUEGYRc
+      5 https://www.youtube.com/watch?v=m98F641jqFE
+      5 https://www.youtube.com/watch?v=tH9mIgDjf-4
+      5 java -jar $(cygpath -w $(realpath povezave/HvarIzracun.jar))
+      5 java Dictionary_20180901
+      5 java MyJavaTest 
+      5 java SimpCalc
+      5 java SimpCalc 
+      5 java Strings_V2 | less
+      5 java Test_1
+      5 java Test_2
+      5 java cp . app_name/App_name
+      5 java left.Left
+      5 java rut/Main
+      5 javac -cp . app_name/App_name
+      5 javac engine/Machine.java 
+      5 jobd
+      5 jobs /dev/pty0
+      5 jobs /dev/tty0
+      5 jv
+      5 jv Test_2
+      5 jvc
+      5 less /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/p1
+      5 less /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/pi
+      5 less /home/gregor.redelonghi/.tmp/sendhomelist_20180511.txt 
+      5 less README 
+      5 less pdtk.csv
+      5 less samostojni-URL-naslovi_BoB_20171211.txt 
+      5 less usagov_bitly_data2012-03-16-1331923249.txt 
+      5 listulb | grep bigg
+      5 listulb | grep getp
+      5 listulb | grep sh
+      5 ln -s /home/gregor.redelonghi/bin/PYTHON_en/get_filenames_by_word_en_V2_20171027.py /usr/local/bin/getp_filename_by_word
+      5 ln -sfn /home/gregor.redelonghi/bin/PYTHON_en/get_filenames_by_word_en_V3_20180301.py /usr/local/bin/getp_filename_by_word 
+      5 ln -sfn backups_wrapper_20180215.sh 00_backups_wrapper 
+      5 ln -sfn cqrsync_backups_20180215.sh CQRB 
+      5 ln -sfn dqrsync_backups_20180215.sh DQRB 
+      5 ln -sfn hqrsync_backups_20180215.sh HQRB 
+      5 ln -sfn qrsync_backups_20180215.sh QRB_ALL 
+      5 lynx -dump -width=110 "https://julien.danjou.info/blog/2018/scaling-python-application-threads"
+      5 lynx -dump -width=110 "https://julien.danjou.info/blog/2018/scaling-python-application-threads" >> $fjl
+      5 lynx -dump -width=110 $url >> $fjl
+      5 lynx -dump width=110 "https://julien.danjou.info/blog/2018/scaling-python-application-threads"
+      5 lynxd "https://linoxide.com/linux-how-to/setup-ufw-ubuntu/" ufw_setup
+      5 lynxd "https://linuxconfig.org/introduction-to-python-web-scraping-and-the-beautiful-soup-library" ptn_web-scraping-and-the-beautiful-soup-library
+      5 lynxd "https://www.howtoforge.com/reverse-ssh-tunneling" ssh_reverse-ssh-tunneling
+      5 lynxd "https://www.linuxjournal.com/content/multiprocessing-python" ptn_multiprocessing-python
+      5 lynxd "https://www.linuxuprising.com/2018/04/gksu-removed-from-ubuntu-heres.html" gksu_removed-from-ubuntu-18-04
+      5 lynxd "https://www.maketecheasier.com/nohup-and-uses/" nohup-uses
+      5 lynxd "https://www.tecmint.com/change-console-fonts-in-ubuntu-server/#" console-fonts
+      5 lynxd "https://zinovyev.net/blog/ssh-client-configuration-tricks" ssh_client-configuration-tricks
+      5 mintty
+      5 mintty -p 160,30 -s 210,60
+      5 mintty -p 200,100 -s 210,60
+      5 mintty -p 200,100 -s 210,60 &
+      5 mintty -p 200,30 -s 210,60
+      5 mintty -p 200,40 -s 210,60
+      5 mintty -p 200,80 -s 210,60
+      5 mintty -p 30,160 -s 210,60
+      5 mkdir ORIGINALI_20180907
+      5 mkdir STRINGS_en_20180912
+      5 mkdir data_prety_print_20180423
+      5 mkdir ~/_BRISI/UZ
+      5 mp
+      5 mv /usr/local/bin/t{-,_}gremdomov 
+      5 mv /usr/local/bin/v{,_}gremdomov 
+      5 mv /usr/local/bin/v{-,}gremdomov 
+      5 mv backups_wrapper_201{71012,80215}.sh 
+      5 mv cqrsync_backups_201{71012,80215}.sh 
+      5 mv data* tst.py data_prety_print_20180423/
+      5 mv data_prety_print_20180423/ ~/bin/PYTHON_en/PYTHON_en_testing/
+      5 mv dqrsync_backups_201{71012,80215}.sh 
+      5 mv hqrsync_backups_201{71012,80215}.sh 
+      5 mv qrsync_backups_201{71012,80215}.sh 
+      5 mv tests/src/app_name/ tests/
+      5 mv tests2 ../
+      5 mv usagov_bitly_data2012-03-16-1331923249{,.txt} 
+      5 no tmux_shortcuts-and-cheatsheat_20180216.txt 
+      5 oddr
+      5 pat="~0"; echo -e ''$_{1..80}'\b${pat}'
+      5 pip -V
+      5 pip3 -V
+      5 pip3 check json
+      5 pip3 search json
+      5 pip3 search json | grep '^json '
+      5 pip3 search json | grep '^json-'
+      5 pip3 search json | grep ^json
+      5 pip3 show json
+      5 pip3 show numpy
+      5 printf "%10s %15s %50s %10s %20s" "Gregor" "Redelonghi" "Valvasorjeva ulica 5, 1000 Ljubljana" "040/88-55-60" "gregor.redelonghi@gmail.com"
+      5 printf "%10s %15s %50s %10s %20s" "Name" "Surname" "Address" "Mobile" "E-mail\n" "Gregor" "Redelonghi" "Valvasorjeva ulica 5, 1000 Ljubljana" "040/88-55-60" "gregor.redelonghi@gmail.com"
+      5 ps aux
+      5 ps aux -w 
+      5 ps | grep bash
+      5 ps | grep rsync
+      5 python3 ~/_BRISI/data.py 
+      5 rsync
+      5 rsync -a --progress tests/app_name/ src/app_name/
+      5 rsync -n --progres tests/app_name/App_name.java src/app_name/
+      5 rsync -n --progress tests/app_name src/app_name
+      5 rsync -n --progress tests/app_name src/app_name/
+      5 rsync -n --progress tests/app_name/ src/app_name/
+      5 rsync -n --progress tests/app_name/App_name.java src/app_name/
+      5 rsync -na --progress tests/app_name src/app_name
+      5 rsync -na --progress tests/app_name/ src/app_name/
+      5 rue
+      5 s1 "http://www.enricozini.org/blog/2018/debian/detect-a-uefi-partition/"
+      5 s1 "https://problemsolversbike.com/products/brakes/travel_agents_-_6416"
+      5 s1 "www.test.com/some/strange/url/getMyLifeBack.html"
+      5 s2 "
+      5 s2 "Checkout" "https://www.fossmint.com/"
+      5 s2 "DONT FORGET" """
+      5 s2 "How to put on skis in difficult conditions" "https://www.youtube.com/watch?v=d5qn62g5sDw"
+      5 s2 "Network Security Toolkit (NST 26)" "http://www.networksecuritytoolkit.org/nst/index.html"
+      5 s2 "Selfie Drone" "https://www.youtube.com/watch?time_continue=16&v=7NSidBbXuGg"
+      5 s2 "carving" "https://www.youtube.com/watch?v=2meM_g2BY-8"
+      5 s2 "carving" "https://www.youtube.com/watch?v=ZCIsLaS287A"
+      5 s2 "checkout" "WIRESHARK"
+      5 s2 "civic data -data.gov (USA)" "https://www.data.gov/local/"
+      5 s2 "cool tmux conf" "https://github.com/gpakosz/.tmux/blob/master/README.md"
+      5 s2 "csv python module and GPS tracks file parsing" '''
+      5 s2 "tmux theme pack" "https://github.com/jimeh/tmux-themepack/blob/master/README.md"
+      5 s2 "www.test.com/some/strange/url/getMyLifeBack.html" """
+      5 sed '/7/,/9/p'
+      5 sed '/7/,/9/p' SED_test_20180521.txt 
+      5 sed 's/ins/is/' SED_test_20180521.txt 
+      5 sed -e ':a' -e 's/\("[^"]*\),\([^"]*"\)/\1~\2/;ta' -e 's/,/;/g' -e 's/"//g' -e 's/~/,/g' SampleCSVFile_2kb.csv 
+      5 sed -e ':a' -e 's/\("[^"]*\),\([^"]*"\)/\1~\2/;ta' -e 's/,/;/g' -e 's/"//g' -e 's/~//g' SampleCSVFile_2kb.csv 
+      5 sed -e ':a' -e 's/\("[^"]*\),\([^"]*"\)/\1~\2/;ta' -e 's/,/;/g' -e 's/"//g' SampleCSVFile_2kb.csv 
+      5 sed -e ':a' -e 's/\("[^"]*\),\([^"]*"\)/\1~\2/;ta' -e 's/,/;/g' SampleCSVFile_2kb.csv 
+      5 sed -e ':a' -e 's/\("[^"]*\),\([^"]*"\)/\1~\2/;ta' SampleCSVFile_2kb.csv 
+      5 sed -i 's/ins/is/' SED_test_20180521.txt 
+      5 sed -n '/".*,.*"/p' SampleCSVFile_2kb.csv 
+      5 sed -n '/7/&p' SED_test_20180521.txt 
+      5 sed -n '/7/,$p' SED_test_20180521.txt 
+      5 sed -n '/7/,&p' SED_test_20180521.txt 
+      5 sed -n '/7/,/9/p' SED_test_20180521.txt 
+      5 sed -n '^,/7/p' SED_test_20180521.txt 
+      5 seq 1 10
+      5 sh1l "http://www.ubuntubuzz.com/2018/05/20-recommended-programs-for-ubuntu-1804.html"
+      5 snap refresh
+      5 st1=$(date +"%s")
+      5 start=$(date +"%s")
+      5 t-gremdomov 
+      5 tar -tvzf bckpbrc_d_20180228_202113.tar.gz |less
+      5 tar -tvzf bckpfau_d_20180228_202113.tar.gz | less
+      5 tar -tvzf bckpszn_d_20180228_202113.tar.gz | less
+      5 tar -xvzf bckpbin_d_20180228_202113.tar.gz 
+      5 tar -xvzf bckpbrc_d_20180228_202113.tar.gz 
+      5 tar xvzf bckpfau_d_20180228_202113.tar.gz -C ../
+      5 time (for n in {1..10000}; do echo $n; done)
+      5 time for n in {1..10000}; do echo $n; done
+      5 tmsx
+      5 tmux -V
+      5 touch SED_test_20180521.txt
+      5 touch Strings.java
+      5 tput 
+      5 tput fields
+      5 tput lines
+      5 tput rows
+      5 tree tests
+      5 type ext_C
+      5 type jv
+      5 type jvc
+      5 unrar
+      5 unrar e "Tlorisi brez varnosti.rar" 
+      5 unrar e 07-02-2018\ E2.rar 
+      5 unrar e 07-02-2018\ E3.rar 
+      5 url="https://julien.danjou.info/blog/2018/scaling-python-application-asyncio"
+      5 watc -d -n1 "jobs"
+      5 watch -d -n1 "jobs"
+      5 watch -n1 jobs
+      5 watcj -d -n1 "jobs"
+      5 while read FILE; do echo $FILE; done <ZAMENJAJ_bin_TO_coding.txt 
+      5 wrapoff
+      5 ~/bin/PYTHON_en/PYTHON_en_testing/LList_20180424/LLists_en_V4_20180426.py SampleCSVFile_2kb.csv 
+      5 ~/bin/PYTHON_en/PYTHON_en_testing/LList_20180424/LLists_en_V4_20180426.py data.csv 
+      5 ~/bin/PYTHON_en/PYTHON_en_testing/LList_20180424/LLists_en_V4_20180426.py data2.csv 
+      5 ~/bin/PYTHON_en/PYTHON_en_testing/LList_20180424/LLists_en_V4_20180426.py pdtk.csv 
+      5 ~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s tmux
+      6 ../clean_movie_dirname_d_V4_20180312.py 
+      6 ../clean_movie_dirname_en_V3_20180312.py 
+      6 ./clean_movie_firname_d_V5_20180312.py 
+      6 ./dict_test.py 
+      6 ./elektrika.sh 5 6 8 9
+      6 ./elektrika_V1_en.py 
+      6 ./elektrika_V2_en.py 
+      6 ./javac --version
+      6 ./names.py 
+      6 ./p3_dict-to-bar-graph_20180221.onl.txt 
+      6 ./p3_dict-to-bar-graph_201802226.py 
+      6 ./print_table_V2.py 
+      6 ./psswdchange_en.sh 
+      6 ./st_dni_OOP_20181011.py 
+      6 ./st_dni_OOP_V2_20181011.py
+      6 ./st_dni_OOP_V3_20181011.py 
+      6 ./st_dni_OOP_V4_20181012.py
+      6 ./st_dni_OOP_V4_20181012.py "Avgust"
+      6 ./st_dni_OOP_V4_20181012.py Avgust
+      6 ./st_dni_OOP_V5_20181013.py 
+      6 ./st_dni_OOP_V5_20181013.py 5
+      6 ./st_dni_OOP_V5_20181013.py avgust
+      6 ./st_dni_OOP_V5_20181013.py januar
+      6 ./st_dni_OOP_V5_20181013.py januar kk
+      6 ./st_dni_OOP_V5_20181013.py kk
+      6 ./tuple_to_dict_V2_20180830.py 
+      6 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe --help
+      6 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py rename_movie_fnames_20180322
+      6 00_ostalo/unrar.exe 
+      6 00_ostalo/unrar.exe /c/Users/gregor.redelonghi/majstaf/BRISI/VojkoT/*
+      6 00_ostalo/unrar.exe e "/c/Users/gregor.redelonghi/majstaf/BRISI/VojkoT/A6 plin.rar" 
+      6 00_ostalo/unrar.exe e "/c/Users/gregor.redelonghi/majstaf/BRISI/VojkoT/A7 plin.rar" 
+      6 00_ostalo/unrar.exe e /c/Users/gregor.redelonghi/majstaf/BRISI/VojkoT/*
+      6 C:\Users\gregor.redelonghi\Dropbox\ODPRTO\_TXT\zip-and-7zip-tutorial-multif_20170109.txt
+      6 C:\Users\gregor.redelonghi\myprogs\cygwin64\home\gregor.redelonghi\bin\JAVA_en\JAVA_en_testing\test_packages_20180709
+      6 C:\Users\gregor.redelonghi\myprogs\cygwin64\home\gregor.redelonghi\youtube_dl.exe
+      6 CD /H
+      6 FG %1
+      6 LESS UZ.txt
+      6 MAN TMUX
+      6 Na SP v Bakuju 13 Slovencev
+      6 Python3
+      6 R LOCATION"
+      6 apt-cyg 
+      6 bash elektrika.sh 5 6
+      6 cal
+      6 cat $(tail -n1 ~/.profile) >> ~/.bash_profile 
+      6 cat /proc*partitions
+      6 cat FAJEL-2.txt 
+      6 cat SED_test_20180521.txt | grep "\d"
+      6 cat SED_test_20180521.txt | grep -E "/d"
+      6 cat SED_test_20180521.txt | grep -E "[[:digit:]]"
+      6 cat SED_test_20180521.txt | grep -E "\/d"
+      6 cat SED_test_20180521.txt | grep -E "\B"
+      6 cat SED_test_20180521.txt | grep -E "\S"
+      6 cat SED_test_20180521.txt | grep -E "\W"
+      6 cat SED_test_20180521.txt | grep -E "\b"
+      6 cat SED_test_20180521.txt | grep -E "\s"
+      6 cat SED_test_20180521.txt | grep -E "\w"
+      6 cat SED_test_20180521.txt | grep -E \D
+      6 cat curl_cli.fyi_treminal-capture_20180327.txt 
+      6 cat most-sensuous-movies_quora_20180508.txt 
+      6 cat seznam_2.txt 
+      6 cat ~/.profile 
+      6 cat ~/.profile | \grep CLASS
+      6 cat ~/.profile | \grep CLASS | putclip
+      6 chmod 755 apt-cyg 
+      6 chmod 755 re_show.py 
+      6 clip
+      6 cp -r -v /j/00_SKI_lessons ./
+      6 cp -r JAVA_en_testing/test_packages_20180709/rut/* JAVA_en_RUT/project_1/
+      6 cp -r app_name/ src/
+      6 cp -r datetime_20180705 ../JAVA_en_RUT/
+      6 cp -r tests/ tests2
+      6 cp /usr/local/bin/apt-cyg BRISI/
+      6 cp Left.java subleft/SubLeft.java
+      6 cp apt-cyg /usr/local/bin/
+      6 cp cyg* seznami/
+      6 cp pkg_name_1/app_1.java pkg_name_2/app_2.java
+      6 cp rut/left/Left.java rut/right/
+      6 cp ~
+      6 cp ~/BRISI/DANES_20180710.txt 
+      6 cp ~/BRISI/DANES_20180710.txt ./
+      6 cr
+      6 curl cli.fyi/usa
+      6 cygpath -w $(pwd) | putclip
+      6 cygpath -w $(realpath.exe multiboot_usb_with_syslinux_chainloading_20180203.txt)
+      6 cygpath -w $PWD |putclip
+      6 cygrunsrv -L
+      6 cygsheck -p ed
+      6 cypath -w $PWD
+      6 dboz
+      6 dc -
+      6 dcc 
+      6 dd if=/j/bekaps/bekap_c_gregor.redelonghi_Downloads/MX-17_x64.iso of=/dev/sdc bs=4M
+      6 dmesg
+      6 echo "$foo" | grep "["$'\xc2\xa0'"]"
+      6 echo "${line[*]}"
+      6 echo "160/60" | bc -l
+      6 echo "267/60" | bc -l
+      6 echo "GGG"
+      6 echo "GGG" | tee -a | putclip
+      6 echo "GGG" | tee | putclip
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | grep -E ".\s{3}."
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | grep -E "\b\s{3}."
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | grep -E "\b\s{3}\b"
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | grep -E "\s{3}"
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\b\s\{2,3\}\b/|||/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{2,3\}.+/|||/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{2,3\}.\+/|||/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{2,3\}/^^^/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{2,3\}/|\{3\}/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{3\}/.../g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{3\}/^^^/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{3\}/|||/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\w\s\{2,3\}\w/|||/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed -e 's/\s\{3\}/^^^/g' -e 's/\s\{2\}/^^/g'
+      6 echo "Gregor Redelonghi.   Valvasorjeva  5.\tggg" | sed -e 's/\s\{3\}/^^^/g' -e 's/\s\{2\}/^^/g'
+      6 echo "Gregor Redelonghi.   \nValvasorjeva  5.ggg" | sed -e 's/\s\{3\}/^^^/g' -e 's/\s\{2\}/^^/g'
+      6 echo $(abspath $PWD)
+      6 echo $(cygpath -w $PWD)
+      6 echo $(cygpath -w $PWD)\\app_name
+      6 echo $(realpath $PWD)
+      6 echo $(relpath $PWD)
+      6 echo $HOME
+      6 echo ${line[$*]}
+      6 echo ${line[@]}
+      6 fg %1
+      6 file $(which java)
+      6 file clip
+      6 file clip.exe
+      6 file d
+      6 file pddr
+      6 find -iname "*.java" | sed 's/rut/left_right/g'
+      6 find -iname "*.java" | xargs -I{} sed 's/rut/left_right/g' {}
+      6 find -iname "*.java" | xargs -I{} sed -i 's/rut/left_right/g' {}
+      6 find -iname "*.java" | xargs -I{} sed -n 's/rut/left_right/gp' {}
+      6 find -iname "*rar*"
+      6 find -iname "*unrar*"
+      6 find -size +1G | xargs du -h
+      6 find -size +1G | xargs du -h | sort -hr
+      6 find -type -f -iname "*.png" -o -iname "*.jp*g"
+      6 find -type d -iname "*Smartin*"
+      6 find -type d -iname "*Smartinska-c*"
+      6 find -type d -iname "*Tribuna*"
+      6 find -type d -iname "*tribuna*"
+      6 find -type f -iname "*.java" | xargs cp -a src/
+      6 find -type f -iname "*.png" -o -iname "*.jp*g"
+      6 find -type f -iname "*conf*"
+      6 find -type f -iname "*conf*" | grep
+      6 find -type f -iname "*conf*" | grep "En"
+      6 find -type f -iname "*conf*" | grep En
+      6 find -type f -iname "*jdk*"
+      6 find -type f -iname "*postavk*"
+      6 find -type f -iname "*teh*doc*"
+      6 find -type f -iname "*txt*" | xargs grep -s SIGUSR
+      6 find -type f -iname "*txt*" | xargs grep SIGUSR
+      6 find -type f -size +100M
+      6 find -type f -size +20M
+      6 find -type f -size +50M
+      6 find -type f | grep "En"
+      6 find -type f | xargs grep "SIGUSR1"
+      6 find app_name/ -type f -iname "*.java"
+      6 find app_name/ -type f -iname "*.java" | xargs -I{} cp -a {} src/
+      6 find app_name/ -type f -iname "*.java" | xargs -I{} cp -r {} src/
+      6 find app_name/ -type f -iname "*.java" | xargs -I{} cp -ra {} src/
+      6 foo=$(echo 123456 has a NBSP, 123 456 does not)
+      6 for DDD in $(find -type d -iname "*Smartinska-c*"); do echo "$DDD --> ${DDD//PGD/DGD}"; done
+      6 for DDD in $(find -type d -iname "*Smartinska-c*"); do echo "mv -v$DDD ${DDD//PGD/DGD}"; done
+      6 for DDD in $(find -type d -iname "*Smartinska-c*"); do echo $DDD; done
+      6 for DDD in $(find -type d -iname "*Smartinska-c*"); do mv -v $DDD ${DDD//PGD/DGD}; done
+      6 for DDD in $(find -type f -iname "*Smartinska-c_PGD*"); do mv -v $DDD ${DDD//PGD/DGD}; done
+      6 for FF in $(find -type f -iname "*txt"); do grep 'SIGUSR1' $FF; done
+      6 for FFF in $(grep -l Working ./*); do sed -i 's/echo "Working ..."/echo -n "Syncing ...  "/g' $FFF ; done
+      6 for N in {1..100}; do echo $N; done > PIP1
+      6 for item in $(echo ${line[@]}); do echo "COOL: $item"; done
+      6 getp_filename_by_word -t f -s jv
+      6 getp_filename_by_word -t f -s packag
+      6 getp_filename_by_word -t f -s package
+      6 grep 'dd -if' ./*
+      6 grep 'dd if' ./*
+      6 grep 'i/bin' ./*
+      6 grep -E "htm.*packa" ./*
+      6 grep -Er 'DONE.*seconds' ./*
+      6 grep -i bin ./*
+      6 grep -i coding ./*
+      6 grep -r "/En" ./*
+      6 grep -r "/En/" ./*
+      6 grep -r "En" ./*
+      6 grep -r ' /home/gregor.redelonghi/bin/'
+      6 grep -r 'i/bin' ./*
+      6 grep -r 'i/bin' ./* | less
+      6 grep -r -C 5 Entry ../*
+      6 grep -r Entry ../*
+      6 grep -r rut ./*
+      6 grep -r t_gremdomov ./*
+      6 grep -r void ./* | grep -v "main"
+      6 grep -r void ./* | grep -v --color main
+      6 grep -rl ' /home/gregor.redelonghi/bin' >> seznam_2.txt
+      6 grep -rl ' /home/gregor.redelonghi/bin/'
+      6 grep -s SIGUSR .
+      6 grep -s SIGUSR ./*
+      6 grep CLAS ./.*
+      6 grep PATH ./.*
+      6 grep TMS ./*
+      6 grep data -A10 curl_cli.fyi_treminal-capture_20180327.txt 
+      6 grep data -A11 curl_cli.fyi_treminal-capture_20180327.txt 
+      6 grep data -A13 curl_cli.fyi_treminal-capture_20180327.txt 
+      6 grep data -A15 curl_cli.fyi_treminal-capture_20180327.txt 
+      6 grep data -A3 curl_cli.fyi_treminal-capture_20180327.txt 
+      6 grep data -A5 curl_cli.fyi_treminal-capture_20180327.txt 
+      6 grep dd ./*
+      6 grep import ./*
+      6 grep proxy .bashec
+      6 grep proxy .bashrc >> BRISI/apt-cyg 
+      6 grep regex
+      6 grep regex ./*
+      6 grep void ./* | grep -v main
+      6 history grep java
+      6 history grep jre
+      6 java -cp $(cygpath -w $(realpath ../elektrika_en_20181008/)) main/Elektrika_V5_en_2017
+      6 java -cp $(cygpath -w $(realpath ./elektrika_en_20181008/)) main/Elektrika_V5_en_2017
+      6 java -cp $CLASSPATH\\datetime.Test
+      6 java -cp $JAVACP/elektrika_V4_en_20180925/main/ Elektrika_V4_en_2017
+      6 java -cp . Main
+      6 java -cp . app_name.pkg_name_1.App_1 
+      6 java -cp . app_name.pkg_name_2.App_2 
+      6 java -cp . app_name.pkg_name_2.app_2 
+      6 java -cp . elektrika_en_20181008/main/Elektrika_V5_en_2017
+      6 java -cp . left_right.Main 
+      6 java -cp . left_right.main
+      6 java -cp . left_right/left/subleft/SubLeft
+      6 java -cp . rut.Main
+      6 java -cp . rut.left.Left 
+      6 java -cp ./elektrika_en_20181008/main Elektrika_V5_en_2017
+      6 java -cp /home/gregor.redelonghi/bin/JAVA_en/JAVA_en_testing/test_packages_20180709 rut.Main
+      6 java -cp app_name.App_name
+      6 java -cp bin/JAVA_en/JAVA_en_RUT left_right.Main
+      6 java -cp bin/JAVA_en/JAVA_en_RUT left_right.right.Right
+      6 java -cp bin/JAVA_en/JAVA_en_RUT/ left_right.Main 
+      6 java -cp bin/JAVA_en/JAVA_en_testing/test_packages_20180709 rut.Main
+      6 java -cp bin/JAVA_en/JAVA_en_testing/test_packages_20180709/ rut.Main 
+      6 java -cp bin/JAVA_en/JAVA_en_testing/test_packages_20180709/ rut.left.Left 
+      6 java -cp bin/JAVA_en/JAVA_en_testing/test_packages_20180709/ rut.left.subleft.SubLeft 
+      6 java -cp elektrika_en_20181008/main Elektrika_V5_en_2017
+      6 java -cp main Elektrika_2017
+      6 java -cp main Elektrika_V4_en_2017
+      6 java -cp main Elektrika_V5_en_2017
+      6 java -cp myprogs/cygwin64/home/gregor.redelonghi/bin/JAVA_en/JAVA_en_testing/test_packages_20180709/ rut.Main 
+      6 java -cp runj/ Pdtkd_V2
+      6 java -cp runj/ Pdtkd_V2 Mark
+      6 java -cp runj/ runj/Pdtkd_V2
+      6 java -cp ~/bin/JAVA_en/JAVA_en_testing/test_packages_20180709 rut.Main
+      6 java -cp ~/bin/JAVA_en/JAVA_en_testing/test_packages_20180709/ rut.Main
+      6 java -jar Pdtkd.jar 
+      6 java -jar Pdtkd.jar Mark
+      6 java -restart
+      6 java Elektrika_V2_d_2017 5 6 11
+      6 java Elektrika_V2_en_2017 1 2 88 12 78919 11
+      6 java Elektrika_V2_en_2017 1 6 8 12
+      6 java Elektrika_V3_en_2017
+      6 java Elektrika_V3_en_2018 1 12 8 5 4 7 6
+      6 java Elektrika_V4_en_201
+      6 java Family
+      6 java GetCurDir
+      6 java GetDateAsString 
+      6 java Info
+      6 java Left 
+      6 java List 
+      6 java List4
+      6 java Main 
+      6 java Me
+      6 java ObjTest1 ObjTest2
+      6 java Props > TEST.txt
+      6 java TEST
+      6 java Test1
+      6 java Test2
+      6 java app_name/App_name
+      6 java datetime.TMS
+      6 java datettime.Test
+      6 java funcs_2 | less
+      6 java funcs_V2 | less
+      6 java funcs_V3 | less
+      6 java hvar/pot/PotIzracun
+      6 java left.Left 
+      6 java left_right.Main 
+      6 java left_right/left/subleft/SubLeft
+      6 java main.Elektrika_V4_en_2017
+      6 java rut.left.subleft.Subleft
+      6 java rut.left.subleftSubLeft
+      6 java rut.main
+      6 java | grep start
+      6 javac *
+      6 javac -cp . left_right/Main.java 
+      6 javac -cp . left_right/left/Left.java 
+      6 javac -cp . left_right/right/Right.java 
+      6 javac -cp main/ main/Elektrika_V3_en_2018.java
+      6 javac -d $(cygpath $PWD)\\bin\ src/*
+      6 javac -d $(cygpath $PWD)\\bin\ src/*.java
+      6 javac -d $(cygpath $PWD)\\bin\\app_name src/*
+      6 javac -d $(cygpath $PWD)\\bin\\app_name src/*.java
+      6 javac -d $(cygpath $PWD)\\bin\\app_name tests/src/*
+      6 javac -d $(cygpath $PWD)\\bin\\app_name tests/src/*.java
+      6 javac -d $(cygpath -w $PWD)\\bin\\ $(cygpath -w $PWD)\\tests\\src\\*
+      6 javac -d $(cygpath -w $PWD)\\bin\\app_name $(cygpath -w $PWD)\\tests\\src\\*
+      6 javac -d $(cygpath -w $PWD)\\bin\\app_name $(cygpath -w $PWD)\\tests\\src\\*.java
+      6 javac -d $(cygpath -w $PWD)\\bin\\app_name $(cygpath -w $PWD)\\tests\\src\\app_name\\*
+      6 javac -d bin/ src/*
+      6 javac -d bin/ src/app_name/*
+      6 javac -d bin/ src/app_name/*.java
+      6 javac -sourcepath src -d bin2 src\\app_name\\App_name.java
+      6 javac -sourcepath src/ -d runj/ src/Pdtkd.java 
+      6 javac -verbose rut/Main.java 
+      6 javac GetCurDir.java 
+      6 javac ObjTest1.java 
+      6 javac ObjTest1.java ObjTest2.java 
+      6 javac Test2.java 
+      6 javac TimeStamp_V3.java 
+      6 javac app_name/*
+      6 javac app_name/pkg_name_2/app_2.java 
+      6 javac datetime/GetDateAsString.java 
+      6 javac datetime/TMS.java 
+      6 javac datetime/Test.java 
+      6 javac engine/Fuel.java 
+      6 javac func_list_en/funcl.java 
+      6 javac funcs_20180903/funcs.java 
+      6 javac hvar/pot/PotIzracun.java 
+      6 javac left_right/Main.java
+      6 javac left_right/right/Right.java 
+      6 javac src/*
+      6 javac src/*java
+      6 javac src/app_name/*
+      6 jyvyc Point.java 
+      6 l1 *.txt
+      6 l1 -d VN*
+      6 l1 -d VN* | wc -l
+      6 l1 VN*
+      6 left_right.Main
+      6 les UZ.txt 
+      6 less howto_progress-of-running-cp_multif_20160622.txt 
+      6 listul
+      6 ln -snf /c/Users/gregor.redelonghi/Downloads DOWNLOADS
+      6 lq | column -c 200
+      6 lynxd "https://hackernoon.com/chroot-the-magical-healing-powers-of-the-original-linux-virtualization-tool-9aa4c3928711" chroot_the-magical-healing-powers
+      6 lynxd "https://linoxide.com/linux-how-to/exodus-tool-safely-copy-linux-binaries/" exodus_safely-copy-linux-binaries
+      6 lynxd "https://opensource.com/article/18/7/network-attached-storage-Raspberry-Pi" RPi_NAS_1
+      6 lynxd "https://opensource.com/article/18/8/automate-backups-raspberry-pi" RPi_NAS_2
+      6 lynxd "https://www.ostechnix.com/add-line-numbers-text-files-linux/" howto_numbering-lines-in-txt-file
+      6 lynxd "https://www.ostechnix.com/list-useful-bash-keyboard-shortcuts/" bash_useful-keyboard-shortcuts
+      6 lynxd "https://www.rosehosting.com/blog/linux-crontab/" crontab
+      6 lynxd "https://www.vitavonni.de/blog/201802/2018021501-disable-web-notification-prompts.html" howto_disable-web-notification-prompts
+      6 mail
+      6 mailx
+      6 mc
+      6 mc bin/ BIN
+      6 mkdir -p JAVA_en_RUT/project_1
+      6 mkdir -p rut/{left/subleft,right}
+      6 mkdir -p ~/JAVA_en_testing/datetime_20180705
+      6 mkdir JAVA_metsys
+      6 mkdir Java_en_RUT
+      6 mkdir _20180227_ptn
+      6 mkdir bin2
+      6 mkdir majprogs
+      6 mkdir project1
+      6 mkdir test_3_20180522
+      6 mkdir test_packages_20180709
+      6 mkdir {bin,src}
+      6 mkfifo PIP1
+      6 mv Java_en_RUT/ JAVA_en_RUT
+      6 mv Left.java Right.java
+      6 mv ObjTest{,1}.java 
+      6 mv app_name/ src/
+      6 mv app_name/ tests/
+      6 mv bash_parameter-substitution-2_20180221.txt /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/
+      6 mv bin/ BIN
+      6 mv datetime_20180705 datetime_20180816
+      6 mv datetime{_20180705,}
+      6 mv left.java Left.java
+      6 mv p3_dict-to-bar-graph_2018022{26,7}.py 
+      6 mv project_1/ left_right
+      6 mv src/app_name/ ../
+      6 mv src/app_name/ ./
+      6 mv {o,O}bjTest.java 
+      6 oifs
+      6 pagesnum RPi-as-print-scan-server-epson-multif_20180220.txt 
+      6 pagesnum jv_packages_arragement_01-multif_20180706.txt 
+      6 path_disp GGG
+      6 path_disp RPi-as-print-scan-server-epson-multif_20180220.txt 
+      6 path_disp plot.log
+      6 path_disp plot.log 
+      6 path_disp zip-and-7zip-tutorial-multif_20170109.txt 
+      6 pip help
+      6 pip show
+      6 pip3 --help
+      6 pip3 -h
+      6 print("Kva je zej")
+      6 print("Kva je zej".ljust(20))
+      6 print("Kva je zej".ljust(20, '.'))
+      6 print("Kva je zej".rjust(20, ','))
+      6 print('Kva je zej'.rjust(20, ',')
+      6 print('Kva je zej'.rjust(20, ','))
+      6 printf "Gregor Redelonghi.   \nValvasorjeva  5.ggg" | sed -e 's/\s\{3\}/^^^/g' -e 's/\s\{2\}/^^/g'
+      6 printf "Gregor Redelonghi.   \tValvasorjeva  5.ggg" | sed -e 's/ \{3\}/^^^/g' -e 's/ \{2\}/^^/g' -e 's/\t/<TAB>/g'
+      6 printf "Gregor Redelonghi.   \tValvasorjeva  5.ggg" | sed -e 's/\s\{3\}/^^^/g' -e 's/\s\{2\}/^^/g'
+      6 printf "Gregor Redelonghi.   \tValvasorjeva  5.ggg" | sed -e 's/\s\{3\}/^^^/g' -e 's/\s\{2\}/^^/g' -e 's/\t/<TAB>/g'
+      6 ps -aux -W | grep java
+      6 ps -w
+      6 ps aux -W
+      6 ps aux -W | grep java
+      6 ps aux grep java
+      6 python2 hvar_izracun_en_V4_20180917.py 
+      6 python3 OOP_test-1.py 
+      6 python3 names.py 
+      6 python3 regex_20180313.py 
+      6 qc
+      6 realpath.exe multiboot_usb_with_syslinux_chainloading_20180203.txt 
+      6 rewrap /c/Users/gregor.redelonghi/Downloads/Detachement_20180226.txt 
+      6 rewrapp jv_avoid-getters-and-setters-multif_20181015.txt 
+      6 rsync --info=help
+      6 rut.Main
+      6 rype d
+      6 s1 "http://www.TEST.si/Gremo-mi-po-svoje_TEST.html"
+      6 s1 "http://xmodulo.com/usb-network-printer-and-scanner-server-debian.html"
+      6 s1 "https://www.howtogeek.com/169679/how-to-add-a-printer-to-your-raspberry-pi-or-other-linux-computer/"
+      6 s1 "https://www.makeuseof.com/tag/set-up-use-kodi-beginners/"
+      6 s1 "https://www.quora.com/What-are-some-useful-Python-libraries-or-frameworks-in-2017"
+      6 s1 "https://www.quora.com/Which-is-faster-while-or-for-loops"
+      6 s1 "https://www.tecmint.com/scan-linux-for-malware-and-rootkits/"
+      6 s2 "COOL" '''
+      6 s2 "CoolANSWER" """
+      6 s2 "KODI keyboard shortcuts" '''
+      6 s2 "NEW: CROSSHAIR CURSOR LOCATION /02 (UPDATED)" '''
+      6 s2 "REALLY COOL: MX17 REVIEW" "https://www.youtube.com/watch?time_continue=65&v=QhQT7Aws_yk" 
+      6 s2 "Robin Tunney nude" "Robin Tunney nude"
+      6 s2 "SP v JUDU v BAKUJU od 20.09 naprej" '''
+      6 s2 "TEST" "TEST"
+      6 s2 "https://www.quora.com/Which-is-faster-while-or-for-loops" 
+      6 s3
+      6 sed '1i This is line number: 0' SED_test_20180521.txt 
+      6 sed -e 's/ \{3\}/^^^/g' -e 's/ \{2\}/^^/g' -e 's/\t/<TAB>/g' zip-and-7zip-tutorial-multif_20170109.txt 
+      6 sed -i '1i This is line number: 0' SED_test_20180521.txt 
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt 
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | awk '{print $2}'
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | cut -d2
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | cut -f -2
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | cut -f-2
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | cut -f1
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | cut -f2-
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | cut f2-
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | sed 's/.*\/\///'
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | sed 's/.*\/\///' | sed '/\.quora\./!d'
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | sed 's/.*\/\///' | sed '/quora/!d'
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | sed 's/.*\/\///' | sed '/quora\.com/!d'
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | sed 's/.*\/\///' | sed '/topics/d'
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | sed 's/.*\/\///' | sed '/topics\|goo/d'
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | sed 's/.*\/\///' | sed '/topics\|goo\imdb/d'
+      6 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | sed 's/.*\/\///' | sed '/topics\|goo\|imdb/d'
+      6 sed -n '/[!^]http/p' most-sensuous-movies_quora_20180508.txt 
+      6 sed -n '/\B/p' SED_test_20180521.txt 
+      6 sed -n '/\W/p' SED_test_20180521.txt 
+      6 sed -n '/\b/p' SED_test_20180521.txt 
+      6 sed -n '/\d/p' SED_test_20180521.txt 
+      6 sed -n '/\w/p' SED_test_20180521.txt 
+      6 sed -n '/data/-3 p' curl_cli.fyi_treminal-capture_20180327.txt 
+      6 sed -n '/data/N3 p' curl_cli.fyi_treminal-capture_20180327.txt 
+      6 sed -n '/http/p' most-sensuous-movies_quora_20180508.txt 
+      6 sed -n '7,$' SED_test_20180521.txt 
+      6 sed -n '7,$p' SED_test_20180521.txt 
+      6 sed -n -e 's/ \{3\}/^^^/g' -e 's/ \{2\}/^^/g' -e 's/\t/<TAB>/g' zip-and-7zip-tutorial-multif_20170109.txt 
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt 
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep $[^^^^]
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep '<TAB>
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep '<TAB>'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep '[^^^^]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep '^[ ^^^]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep '^[^.]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep '^[^{3}]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep '^^^'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep -E ! '[ ^^^]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep -E '[ ^^^]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep -E '[^^^]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep -E '^[ ^^^]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep -E '^[^^^]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep -E -v '[ ^^^]'
+      6 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep -E -v '[^^^]'
+      6 seq -f "%02g" 16
+      6 seq -s', ' 1 9
+      6 set
+      6 svn --force export http://apt-cyg.googlecode.com/svn/trunk/ /bin/
+      6 tail -f /d/bekaps/bekap_en.log 
+      6 tail -n1 ~/.profile
+      6 tail ~/.bash_profile 
+      6 tail ~/.profile
+      6 tail ~/.profile 
+      6 tar -cf bin.tar
+      6 tar -tvf bin.tar
+      6 tar -tvf bin.tar 
+      6 tar -tvf bin.tar.gz
+      6 tar -tvf bin.tar.gz '' 
+      6 tar -xvf bin.tar -C ../bin/
+      6 tar -xvf bin.tar -C bin/
+      6 time java ObjTest2
+      6 tmux --help
+      6 tmux -2
+      6 tmux -h
+      6 touch List3.java
+      6 touch MyArrayTest.java
+      6 touch ObjTest2.java
+      6 touch app_name/app_name.java
+      6 touch left.java
+      6 touch objTest.java
+      6 tree -f -a
+      6 type $(which java)
+      6 type apr-cyg
+      6 type clip
+      6 type clip.exe
+      6 type d
+      6 wget https://rawgit.com/transcode-open/apt-cyg/master/apt-cyg
+      6 xclip -o
+      6 zip --help
+      6 ~/bin/00_ukazi/psswdchange_en.sh 
+      6 ~/bin/get_filenames_by_word_en_V2_20171027.py -t files -s multib
+      6 �çş·
+      6 çd app_name/
+      7 $> echo $(yes '-' | head -n80)
+      7 5
+      7 GC
+      7 L
+      7 N=0
+      7 N=0; while $N<10; do echo $N; let N=$N+1; done
+      7 U1="http://www.troubleshooters.com/linux/xargs.htm"
+      7 apt-cyg
+      7 apt-cyg --help
+      7 c ..
+      7 cat > ponjave_slike_jv_20180703.html 
+      7 cat TEST.
+      7 cat TEST.txt 
+      7 cat __insert_20180703.txt >> jv_sort-map-by-value_multif_20180703.txt 
+      7 cat __insert_20180703.txt jv_sort-map-by-value_multif_20180703.txt 
+      7 cat lynxd | grep dump
+      7 cp -r ponjave_2018 ~/JAVA_en_testing/
+      7 dbox "https://www.geeksforgeeks.org/swap-exchange-objects-java/" jv_swap-exchange-objects
+      7 du -sh .
+      7 du -sh ~/RUT/
+      7 echo "$(yes '-' | head -n80)"
+      7 echo "157/37" | bc -l
+      7 echo "Hy There!" >> TEST.txt 
+      7 echo $(yes '-' | head -n80)
+      7 echo $U1
+      7 echo $x{0..10}"TEST"
+      7 echo ${(l:80::+:)}
+      7 echo -e "'$_{1..80}'\b#"
+      7 echo -n "$(yes '-' | head -n80)"
+      7 echo -n $(yes '-' | head -n80)
+      7 echo -nE "$(yes '-' | head -n80)"
+      7 echo U1 >> ~/bin/lynxdump/_multi_dump_list.dat 
+      7 fc -l 1 100
+      7 fc -l 2470
+      7 fc -l 2488
+      7 fc -l 2488 2503
+      7 fc -l 88 100
+      7 find -maxdepth 1 -type d -print0 | xargs -0 wc -l
+      7 find -name "*\.bak"
+      7 find -type d -iname "*cng*"
+      7 find -type d -iname "*jarse*" -o -iname "*J*O*S*"
+      7 find -type d -iname "*jarse*" -o -iname "*J-O-S*"
+      7 find -type d -iname "*obri*" -o -iname "*J-O-S*"
+      7 find -type f -iname "*reber*"
+      7 find bin/ -iname "*gb*"
+      7 find bin/ -type f -ianme "*gb*"
+      7 find bin/ -type f -iname "*gb*"
+      7 find bin/ -type f -inme "*gb*"
+      7 for N in {0..100..2}; do echo "This is number: ${N}!"; done
+      7 for N in {0..100..2}; do echo "This is number: ${N}" >> TEST.txt; sleep 1; done
+      7 for N in {0..100..2}; do echo "This is number: ${N}"; sleep 2; done
+      7 for N in {0..100..2}; do echo $N; done
+      7 for N in {0..104..4}; do echo "This is number: ${N}" >> TEST.txt; done
+      7 for N in {1..100..2}; do echo $N; done
+      7 for N in {1..102..2}; do echo $N; done
+      7 for i in {1..100}; do (echo $i; if $i -eq 50; then break); done
+      7 for i in {1..100}; do echo $1; done
+      7 for i in {1..100}; do echo $N; done
+      7 for i in {1..100}; do echo $i; done
+      7 for i in {1..100}; do echo $i; if $i -eq 50; then break; done
+      7 getp_filename_by_word -t f -s sort
+      7 getp_filename_by_word -t f -s xarg
+      7 grep "https://shapeshed.com/unix-xargs/" ./*
+      7 grep "https://www.cyberciti.biz/faq/linux-unix-bsd-xargs-construct-argument-lists-utility/" ./xarg*
+      7 grep -i java ./.*
+      7 grep -i java ./.b*
+      7 grep -i java ./.bashr*
+      7 grep -ir javax ./*
+      7 grep dump /home/gregor.redelonghi/bin/lynxdump/lynxdump_webpage_to_file.sh
+      7 grep python ./*
+      7 history | grep java
+      7 java FilesList_V5
+      7 java ImgDimsSorted_V4 | grep "0e5"
+      7 java TimeStamp_V3
+      7 java pdtk/Pdtk
+      7 javac GetDirList.java 
+      7 javac ImgDimsSorted_V5.java 
+      7 javac engine/*.java
+      7 less p3_dict-to-bar-graph_20180221.onl.txt 
+      7 listulb | grep -i gi
+      7 listulb | grep 30
+      7 listulb | grep disp
+      7 listulb | grep file
+      7 lymxd "http://pragmaticnotes.com/2017/08/10/benchmarking-approaches-to-sort-java-map-by-value/" __insert
+      7 lynxd "http://pragmaticnotes.com/2017/08/10/benchmarking-approaches-to-sort-java-map-by-value/" __insert
+      7 lynxd "https://opensource.com/article/17/5/understanding-datetime-python-primer" ptn_understanding-datetime-timezones
+      7 lynxd "https://www.geeksforgeeks.org/list-interface-java-examples/" jv_list-interface-java-examples
+      7 lynxd "https://www.geeksforgeeks.org/swap-exchange-objects-java/" jv_swap-exchange-objects
+      7 lynxd "https://www.java-forums.org/java-awt/9365-how-get-image-size-java.html" jv_get-image-size
+      7 lynxd "https://www.networkworld.com/article/3284105/linux/linux-control-sequence-tricks.html" linux-cli_control-sequence-tricks
+      7 no dirList.java 
+      7 no jv_sort-map-values_20180703.txt 
+      7 nop jv_list-interface-java-examples_20180613.txt 
+      7 pat="~0""; echo -e ''$_{1..80}'\b${pat}'
+      7 pat="~0"; echo -e "'$_{1..80}'\b${pat}"
+      7 pat="~0"; echo -e "\"$_{1..80}\"\b${pat}"
+      7 pat="~0; "echo -e ''$_{1..80}'\b${pat}'
+      7 pip3
+      7 ppddr
+      7 rewrap monogamy-vs-polygamy_20180626.txt 
+      7 s1l "https://www.youtube.com/watch?v=jYsHlqQUyhc"
+      7 s2 "Cool Street ART" """
+      7 s2 "How to tie ..." """
+      7 s2 "OpenSource Benefit" """
+      7 s2 "Tega in prejsnjega SNETIs1l "https://www.youtube.com/watch?v=jYsHlqQUyhc"" "https://www.youtube.com/watch?v=QhNPu5lt-Rs"
+      7 s2 "enako kot prej ..." "https://www.youtube.com/watch?v=7N_abojQVT0"
+      7 set | grep -i java
+      7 tar -tvzf bckprut_d_20180705_073846.tar.gz | less
+      7 touch dirList.java
+      7 touch ponjave_slike_jv_20180703.html
+      7 while true; do (echo $N; let N=$N+1); done | 
+      7 while true; do (echo $N; let N=$N+1); done | if $N -eq 50; then break;
+      7 while true; do (echo $N; let N=$N+1); done; if $N -eq 50; then break
+      7 while true; do (echo $N; let N=$N+1; $(if $N -eq 50; break)); done
+      7 while true; do (echo $N; let N=$N+1; done | if $N -eq 50; then break
+      7 while true; do (echo $N; let N=$N+1; done; if $N -eq 50; then break
+      7 while true; do (echo $N; let N=$N+1; if $N -eq 50 then break); done
+      7 while true; do (echo $N; let N=$N+1; if $N -eq 50; break); done
+      7 while true; do (echo $N; let N=$N+1; if $N -eq 50; break;); done
+      7 while true; do (echo $N; let N=$N+1; if $N -eq 50; then break); done
+      7 while true; do (echo $N; let N=$N+1; if $N=50 break); done
+      7 while true; do echo $N; let N=$N+1; done
+      7 while true; do echo $N; let N=$N+1; if $N=50 break; done
+      7 while true; do echo $N; let N=$N+1; if $N=50; break
+      7 while true; do echo $N; let N=$N+1; if ($N=50); break; done
+      7 while true; do echo $N; let N=$N+1; if N=50; break; done
+      7 while true; do {echo $N; let N=$N+1; if $N -eq 50; break} done
+      7 while true; do {echo $N; let N=$N+1; if $N -eq 50; break}; done
+      7 while true; do {echo $N; let N=$N+1; if $N=50 break}; done
+      7 while true; do {echo $N; let N=$N+1}; done
+      7 çd JAVA_en_testing/ponjave_2018/
+      8 "
+      8 " 20170504 ------------------------------------------------------------------------------------
+      8 $> gregor.redelonghi@cygwin-en [/home/gregor.redelonghi]
+      8 ./LLists_en_V4_20180426.py 
+      8 ./regex_20180313.py 
+      8 7Z
+      8 7z e Ponudbeni\ predračun.7z 
+      8 cat $f1
+      8 cat seznami/history-en.dat_20181004-114410 | cut -c 28-
+      8 cat seznami/history-en.dat_20181004-114410 | less
+      8 curl URL
+      8 diff -c pipenv_python-devs-should-use_20180301.txt pipenv_python-devs-should-use_20180301_2.txt 
+      8 echo "filename.ext" | sed -n '/\(.*\)\./\1p'
+      8 enscript
+      8 filename: $fjl
+      8 find -type d -iname "trubar*" 
+      8 for F in $(find ./ -name "sklop*"); do cat $F; echo; done
+      8 for fj in $(find -type f); do grep strf $fj; done
+      8 grep -r "& *wait" ./*
+      8 grep -r 'HOME/bin/' ./*
+      8 history | grep cygstart
+      8 history | grep strf
+      8 htop
+      8 java -version
+      8 java MapToProps
+      8 java pdtk.Pdtk Gregor
+      8 java pdtk.Pdtk Tadeja Tadeja
+      8 javac GetInfo.java 
+      8 javac funcs_V2.java 
+      8 javac funcs_V3.java 
+      8 ktmix
+      8 less JAVA_PROJECT_STRUCTURE_20180926.txt 
+      8 less pipenv_python-devs-should-use_20180301_2.txt 
+      8 let g:indent_guides_auto_colors=0
+      8 lynx -dump -width=110 $URL >> jv_interfaces_jenkov-com_20180927.txt 
+      8 lynxd "https://docs.python-guide.org/shipping/packaging/#packaging-your-code-ref" ptn_packaging-your-code
+      8 lynxd "https://www.codeproject.com/Articles/567768/Object-Oriented-Design-Principles" Object-Oriented-Design-Principles
+      8 mkdir pdtk
+      8 pddlog 
+      8 popd
+      8 sed -n "/\[[[:digit:]]\{2,\}\]/p" pipenv_python-devs-should-use_20180301.txt | grep "\[[[:digit:]]\{2,\}\]"
+      8 sed -n "s/\[[[:digit:]]\{2,\}\]//gp" pipenv_python-devs-should-use_20180301.txt
+      8 touch $fjl
+      8 while read LN; do cat $f2 | grep $LN; done < $f1
+      8 �é—®é˘çš„ĺ…łé”®ĺ­—ďĽŚç„¶ĺŽç‚ąĺ‡»ćśç´˘                        ] []
+      9 ./st_dni_20181011.py 
+      9 ./st_dni_OOP_V4_20181012.py 
+      9 ./st_dni_OOP_V4_20181012.py September 1
+      9 ./st_dni_OOP_V5_20181013.py December
+      9 ./st_dni_OOP_V5_20181013.py januar 5
+      9 30najvecjih 
+      9 cat .tmux_1_conf 
+      9 cat test.properties 
+      9 du -s
+      9 echo "$foo"
+      9 echo "$foo" | grep -P "\xa0"
+      9 for FFF in $(find -type f -size +20M); do du -h $FFF; done | sort -hr
+      9 grep SIGUSR1 ./*
+      9 java -cp ./main Elektrika_V4_en_2017
+      9 java -cp elektrika_en_20181008 main.Elektrika_V5_en_2017
+      9 java -cp elektrika_en_20181008 main/Elektrika_V5_en_2017
+      9 java -cp main/ Elektrika_V4_en_2017
+      9 java -jar pdtk_V3.jar 
+      9 java AddUsers.java 
+      9 java Elektrika_V2_d_2017
+      9 java Elektrika_V2_en_2017 1 5 12
+      9 java Elektrika_V2_en_2017 1 6 8 12 444 7
+      9 java Elektrika_V4_2017
+      9 java Pdtkd_V2 Mark
+      9 java datetime.GetDateAsString
+      9 java left_right.right.Right
+      9 javac Elektrika_V5_en_2017.java 
+      9 javac Pdtkd_V2.java 
+      9 listulb | grep ext
+      9 nifs
+      9 pdelbak 
+      9 python3 hvar_izracun_en_V4_20180917.py 
+      9 type apt-cyg
+      9 which tmux
+      9 wrapon
+     10 (sleep 15; echo -e "done 15\n") & (sleep 16; echo -e "done 16\n") &
+     10 ./LLists_en_V4_20180426.py SampleCSVFile_119kb.csv 
+     10 ./camp_cene_V4.py 
+     10 /c/Users/gregor.redelonghi/majstaf/myprogs/Cygwin_setup-x86_64_20180109.exe -q -P libxml2-2.9.4-2
+     10 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py 
+     10 :q
+     10 D; seq 1 1000; D
+     10 T1=$(date +%H%M%S); for n in {1..10000}; do echo $n; done; T2=$(date +%H%M%S); echo "$T1 -- $T2"
+     10 bin/get_filenames_by_word_en_V2_20171027.py -h
+     10 bin/get_filenames_by_word_en_V2_20171027.py -t files -a ff
+     10 cat << EOF
+     10 cat >>> EOF
+     10 cat ada
+     10 cat ada 
+     10 cygpath -w $(pwd)
+     10 cygpath -w $PWD
+     10 du -sh /c/Users/gregor.redelonghi/myprogs/cygwin64/
+     10 du -sh bin/
+     10 echo "58/117" | bc -l
+     10 echo $((end-start))
+     10 echo $PAT
+     10 echo $PAT | sed 's: :\\|:'
+     10 echo $PAT | sed 's: :\|:'
+     10 echo $PAT | tr ' ' '\\\|'
+     10 echo $end
+     10 echo ada > ada
+     10 find ! -name "ptn_*"
+     10 find -maxdepth 1 -type d
+     10 find -size +1G
+     10 for N in {1..10}; do echo $N; done
+     10 for n in {1..10000}; do echo $n; done
+     10 getp_filename_by_word -t f -o $PAT | grep $(echo $PAT | sed 's: :\\|:')
+     10 getp_filename_by_word -t f -o process thread
+     10 getp_filename_by_word -t f -s env
+     10 grep '/usr/local/bin' ./*
+     10 grep 'HOME/bin' ./*
+     10 grep -r "https://www.omgubuntu.co.uk/2018/04/font-finder-google-fonts-desktop-app" ./*
+     10 grep -r centr ./* 
+     10 grep -rl '~/bin/' ./*
+     10 grep -rl centr ./* 
+     10 java -cp . app_name.pkg_name_1.app_1 
+     10 java -cp . app_name/App_name
+     10 java -jar App_name.jar 
+     10 javac --version
+     10 kopiraj_a0 
+     10 mkdir _staro2
+     10 mkdir src
+     10 ps -e | grep rsync
+     10 python3 data.py 
+     10 python3 ~/_BRISI/tst.py 
+     10 s2 "CHECK OUT!" '''
+     10 touch TEST.txt
+     10 tty
+     10 uname -a
+     10 which jvc
+     10 which pddr
+     10 ~/bin/PYTHON_en/PYTHON_en_testing/LList_20180424/LLists_en_V4_20180426.py SampleCSVFile_11kb.csv 
+     11 ./elektrika_V2_en.py 8
+     11 CD ..
+     11 cat SED_test_20180521.txt
+     11 cat SED_test_20180521.txt 
+     11 ext_C
+     11 find -iname "*.java"
+     11 mkdir bin
+     11 ps -W
+     11 tmuxs
+     11 type lynxd
+     11 which java
+     12 " 20180216 cursor "CROSSHAIR LOCATION"
+     12 ../hvar_izracun_en_V3_20180830/camp_cene_V3.py 
+     12 ./st_dni_OOP_V2_20181011.py 
+     12 /home/gregor.redelonghi/RUT/home/rgregor/BIN/PYTHON_d/clean_movie_dirname_d_V4_20180312.py 
+     12 EOF
+     12 GGG
+     12 \grep CLASS ~/.profile
+     12 apt-cyg | less
+     12 cat $f2
+     12 cat JAVA_PROJECT_STRUCTURE_20180926.txt 
+     12 cat SED_test_20180521.txt | grep -E "/\d"
+     12 cat SED_test_20180521.txt | grep -E "\D"
+     12 cat SED_test_20180521.txt | grep -E "\\d"
+     12 cat seznami/history-en.dat_20181004-114410 | cut -c 28- | sort | uniq
+     12 echo "$foo" | od -c
+     12 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{3\}/@@@/g'
+     12 ed
+     12 find -mtime -1 -type f
+     12 find -type f -iname "*color*"
+     12 for DDD in $(find -type d -iname "*Smartinska-c*"); do echo mv -v $DDD ${DDD//PGD/DGD}; done
+     12 for DDD in $(find -type f -iname "*Smartinska-c*"); do echo $DDD; done
+     12 for DDD in $(find -type f -iname "*Smartinska-c_PGD*"); do echo $DDD; done
+     12 getclip
+     12 go
+     12 grep -l Working ./*
+     12 grep -r SIGUS ./*
+     12 grep -rl ' /home/gregor.redelonghi/bin'
+     12 grep proxy .bashrc
+     12 https://julien.danjou.info/blog/2018/scaling-python-application-threads
+     12 java -cp . main/Elektrika_V5_en_2017
+     12 java -cp /home/gregor.redelonghi/bin/JAVA_en/JAVA_en_testing/test_packages_20180709 rut.left.Left 
+     12 java -cp bin/JAVA_en/JAVA_en_testing/test_packages_20180709 rut.left.Left 
+     12 java -jar Elektrika.jar 5 6
+     12 java ObjTest*
+     12 java elektrika_V4_en_20180925/main/Elektrika_V4_en_2017
+     12 java fnc2
+     12 java left_right.main
+     12 java main.Elektrika_V3_en_2018
+     12 java main/Elektrika_V3_en_2018
+     12 java pdtk.Pdtk Tadeja
+     12 java pdtk/Pdtk Mark Priimek
+     12 java rut.left.subleft.SubLeft
+     12 java rut.right.Right
+     12 javac *.java
+     12 javac -d bin/ src/*.java
+     12 javac GetDateAsString_V3.java 
+     12 javac ObjTest3
+     12 javac app_name/app_name.java 
+     12 javac fnc2.java 
+     12 javac rut/right/Right.java 
+     12 less bekaps/bekap_en.log 
+     12 ln -snf backups_wrapper_20180314.sh 00_backups_wrapper 
+     12 path_disp plot.log | xclip
+     12 path_disp youtube_dl.exe 
+     12 path_disp youtube_dl.exe | xclip
+     12 pddbak 
+     12 printenv | grep -i java
+     12 pwd | putclip
+     12 python
+     12 q
+     12 s2 "carving" "$url"
+     12 sed -n '/.http/p' most-sensuous-movies_quora_20180508.txt | cut -f2
+     12 sed -n '/\[.\{2,3\}\]/p' pipenv_python-devs-should-use_20180301.txt | grep -E "\[.{2,3}\]"
+     12 sed -n '/data/p' curl_cli.fyi_treminal-capture_20180327.txt 
+     12 sed -n '1,$p' SED_test_20180521.txt 
+     12 sed -n '1,/5/p' SED_test_20180521.txt 
+     12 sed -n -e 's/ \{3\}/^^^/gp' -e 's/ \{2\}/^^/gp' -e 's/\t/<TAB>/gp' zip-and-7zip-tutorial-multif_20170109.txt | grep '^[^^^]'
+     12 set cursorcolumn
+     12 set cursorline
+     12 set | grep CLASS
+     12 tail -n1 ~/.profile 
+     12 tail -n3 ~/.profile
+     12 tmxk
+     12 touch "The.American.Satan.2017.720p.h264.[YTS-AM].mp4" "The.European.Satan.2015.1080p.h264.[YTS.AD].mp4" "Cool.movie.and.script.2009-[YTS.AM].avi"
+     12 tree JAVA_en_RUT/
+     12 w18
+     13 cat 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+     13 grep -r void ./*
+     13 grep -r void ./* | grep -v main
+     13 grep void ./*
+     13 java
+     13 lp,
+     13 ne
+     13 ~/bin/get_filenames_by_word_en_V2_20171027.py -h
+     14 . .bashrc
+     14 ./regex.py 
+     14 echo -e ''$_{1..80}'\b#'
+     14 echo -e ''$_{1..80}'\b+'
+     14 fc --help
+     14 fc -l
+     14 find -name "*\.log"
+     14 java FilesList_V5 
+     14 java ImgDimsSorted_V4 | grep '\['
+     14 java dirList 
+     14 javac FilesList_V5.java 
+     14 javac MapToProps.java 
+     14 javac dirList.java 
+     14 less h
+     14 tail -f /j/bekaps/bekap_en.log 
+     14 tail -f TEST.txt 
+     14 tmux list-windows
+     14 which tmxs
+     14 while true; do (echo $N; let N=$N+1); done | if $N -eq 50; then break
+     14 while true; do echo $N; let N=$N+1; if $N=50; break; done
+     15 ./st_dni_OOP_V5_20181013.py
+     15 D
+     15 echo $end2
+     15 echo $start
+     15 file /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/p1
+     15 java Elektrika_V3_en_2018
+     15 java datetime.TimeStamp
+     15 java left_right.left.subleft.SubLeft
+     15 javac Elektrika_V4_en_2017.java 
+     15 mount --change-cygdrive-prefix /
+     15 pip3 list
+     15 type tmxs
+     16 ./HvarIzracun_jar_run.sh 
+     16 c
+     16 cygstart /c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/bin/Dropbox.exe tmux_conf-settings-and-customisations-multif_20180302.txt
+     16 dirs
+     16 grep -r "; wait" ./*
+     16 java -cp bin/ app_name.App_name 
+     16 java pdtk/Pdtk Mark
+     16 javac -verbose -sourcepath src -d bin src\\app_name\\App_name.java
+     16 tmux -f .tmux_1_conf attach
+     17 cat bekap_en.log 
+     17 dc
+     17 tree app_name/
+     17 type pddr
+     18 ./LLists_en_V4_20180426.py data.csv 
+     18 cat SED_test_20180521.txt | grep -E "\d"
+     18 cat bekaps/bekap_en.log 
+     18 du
+     18 echo "Gregor Redelonghi.   Valvasorjeva  5" | sed 's/\s\{2,3\}/|||/g'
+     18 echo $PATH
+     18 history
+     18 java -cp . app_name.app_name 
+     18 java -cp . left_right.Main
+     18 java -cp . rut.Main 
+     18 java Elektrika_V2_d_2017 5 6 12
+     18 java funcs
+     18 java main.Elektrika_V5_en_2017
+     18 java main/Elektrika_V4_en_2017
+     18 java rut.left.subleft.SubLeft 
+     18 java rut.right.Right 
+     18 javac List.java 
+     18 javac ObjTest2.java 
+     18 javac TMS.java 
+     18 javac app_name/common/func_list_en/Funcl.java 
+     18 javac funcs.java 
+     18 javac left_right/left/subleft/SubLeft.java 
+     18 javac rut/left/subleft/SubLeft.java 
+     18 sed -n '1,5p' SED_test_20180521.txt 
+     18 xclip
+     19 tree bin/
+     20 ./LLists_en_V4_20180426.py pdtk.csv 
+     20 ./data.py 
+     20 cat /proc/partitions
+     20 echo $st2
+     20 find -iname "*[ -_]p3*" | grep p3
+     20 java pdtk.Pdtk Goga
+     20 pip3 help
+     21 d
+     21 grep $U1 ./*
+     21 java Elektrika_V4_en_2017
+     21 java Elektrika_V4_en_2018
+     21 java FilesList
+     21 java ImgDimsSorted 
+     21 java left_right.left.Left
+     21 javac Elektrika_V2_d_2017.java 
+     21 javac ImgDimsSorted.java 
+     21 javac elektrika_en_20181008/main/Elektrika_V5_en_2017.java 
+     21 javac main/Elektrika_V5_en_2017.java 
+     21 mount
+     21 tmux -f ~/.mytmuxconf attach
+     22 /home/gregor.redelonghi/RUT/home/pbin/rename/clean_fnames_en_20180326.py
+     22 java Test
+     22 l
+     23 ./tst.py 
+     23 \tmux
+     24 \grep CLASS ~/.profile | putclip
+     24 find -maxdepth 1 ! -type d
+     24 find -maxdepth 3 -type d -iname "*cng*"
+     24 grep SIGUS ./*
+     24 java -jar Elektrika.jar 
+     24 java Elektrika_V5_en_2017
+     24 java datetime.Test
+     24 javac app_name/pkg_name_1/App_1.java 
+     24 javac left_right/left/Left.java 
+     24 javac project1/Main.java 
+     24 javac rut/left/Left.java 
+     24 s2 "tmux settings 20180216" '''
+     24 tree -d
+     27 ../BIN/clean_movie_firname_d_V5_20180312.py 
+     27 ../BIN/clean_movie_fname_V1.sh 
+     27 duh
+     27 echo $CLASSPATH
+     27 java main/Elektrika_V5_en_2017
+     27 javac Elektrika_V3_en_2018.java 
+     27 javac app_name/App_name.java 
+     27 javac app_name/pkg_name_2/App_2.java 
+     28 ./LLists_en_V4_20180426.py data2.csv 
+     28 CD
+     28 echo $U1 >> ~/bin/lynxdump/_multi_dump_list.dat 
+     28 l1 -t | head -n15
+     28 while true; do (echo $N; let N=$N+1); done
+     30 """
+     30 java AddUsers
+     30 java ObjTest 
+     30 java ObjTest1
+     30 java Props
+     30 java rut.left.Left
+     30 javac ObjTest.java 
+     30 tree src/
+     32 ...
+     32 fnc
+     33 ./elektrika.sh 
+     33 ./hvar_izracun_en_V4_20180917.py 
+     33 EXIT
+     33 java Main
+     33 javac Elektrika_V2_en_2017.java 
+     33 javac app_name/pkg_name_1/app_1.java 
+     34 ./main_s.py 
+     35 java ImgDims 
+     35 java ImgDimsSorted_V4 | less
+     35 javac ImgDims.java 
+     35 l1
+     36 java Elektrika_V2_en_2017
+     36 javac AddUsers.java 
+     39 javac Props.java 
+     39 listulb 
+     40 LL
+     40 pwd
+     40 ~/bin/lynxdump/lynx_multi_dump_fromlist_en_20141218.sh 
+     42 cat ~/bin/lynxdump/_multi_dump_list.dat
+     42 clear && java rut.Main 
+     42 java ObjTest2
+     42 java Point 
+     42 javac Point.java 
+     43 PDDR
+     44 java funcs_2
+     44 java pdtk.Pdtk Mark
+     45 ext_A
+     45 ps
+     46 javac funcs_2.java 
+     48 java List3 
+     48 java project1.Main
+     48 java rut.left.Left 
+     48 javac GetDateAsString.java 
+     49 java -cp . app_name.App_name 
+     50 java Strings
+     50 javac Strings.java 
+     51 java Chatroom
+     53 ktmx
+     54 javac Chatroom.java 
+     55 javac Strings_V2.java 
+     60 javac List3.java 
+     61 my
+     63 java Strings_V2
+     63 javac FilesList_V2.java 
+     65 listulb
+     67 tmxs
+     70 java FilesList_V2 
+     70 szp
+     72 javac rut/Main.java 
+     75 javac Test.java 
+     78 javac TimeStamp.java 
+     84 java rut.Main 
+     88 java pdtk/Pdtk Mark PL
+     89 dbop
+     91 top
+     93 '''
+     94 java Test 
+    102 java MyArrayTest 
+    102 javac MyArrayTest.java 
+    103 a17
+    106 LP,
+    108 javac Main3.java 
+    108 jobs
+    110 java rut.Main
+    112 tmux
+    114 java TimeStamp 
+    115 java left_right.Main
+    120 dboj
+    124 java Main3
+    124 java pdtk.Pdtk
+    126 java List2
+    132 javac List2.java 
+    140 java FilesList 
+    140 javac FilesList.java 
+    143 clear
+    144 java ObjTest3
+    144 javac ObjTest3.java 
+    157 ext_CD
+    164 javac pdtk/Pdtk.java
+    164 javac pdtk/Pdtk.java 
+    176 sbr
+    180 java List4 
+    186 javac List4.java 
+    195 python3
+    204 ktmux
+    231 java ImgDimsSorted_V4
+    259 
+    259 javac ImgDimsSorted_V4.java 
+    302 tree
+    656 pddr

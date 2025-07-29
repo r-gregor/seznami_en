@@ -1,0 +1,7 @@
+filename: clean_seznami-commands-list_awk-cut-sed-combo_20161202.onl.txt
+
+FJL="seznami/commands-history-list_by_20161202.txt"
+awk '{$1=""; print $0}' $FJL | cut -d ' ' -f2-
+awk '{$1=""; print $0}' $FJL | cut -d ' ' -f2- > __tmp && mv __tmp $FJL
+sed -n '/^vnp\|^pnp\|^qck\|^snd.*\|^hstl\|^aaa\|^biggest.*\|^bkpall\|^cd\|^dbot\|^less\|^lynx.*\|^opnu\|^man\|^ll\|^llc\|^lss\|^snd.*\|^sh1l/p' $FJL
+sed -i '/^vnp\|^pnp\|^qck\|^snd.*\|^hstl\|^aaa\|^biggest.*\|^bkpall\|^cd\|^dbot\|^less\|^lynx.*\|^opnu\|^man\|^ll\|^llc\|^lss\|^snd.*\|^sh1l/d' $FJL

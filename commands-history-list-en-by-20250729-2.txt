@@ -1,0 +1,1739 @@
+[200~echo -e "empID,empName,empDesig\n101,Anees,Author\n102,Asghar,Manager\n103,Damian,CEO" > mte.csv
+      https://github.com/typecraft-dev/crucible
+      https://www.youtube.com/watch?v=62mygqukbYk
+  #RottenTomatoes #SciFi #ScienceFiction
+ Summer
+"
+$((36*365+11))
+./send-2args-yh "TEST from en/yh 20250428" "Juat a test ..."
+./send-2args-yy "TEST from en/yh 20250428" "Juat a test ..."
+./show-aliases.sh | grep fzf
+./show-aliases.sh | grep java
+/d/RUN_backups -
+/d/RUN_backups -p
+/e/RUN_backups -C
+/e/ext_SANDISK_USB_128G/
+01 - 'Dune' by Frank Herbert
+01 - MURDERBOT
+01 - The Accountant 2
+02 - Karate Kid: Legends
+02 - TRON:ARES
+03 - 'The Stars My Destination / Tiger! Tiger!' by Alfred Bester
+03 - M3GAN 2.0
+03 - THE LAST SPARK OF HOPE
+04 - REBIRTH: HOME SWEET HOME
+04 - The Naked Gun
+05 - One Battle After Another
+05 - PRIMITIVE WAR
+06 - ALL THE LOST ONES
+06 - Five Nights at Freddy’s 2
+07 - 'Norstrilia' by Cordwainer Smith
+07 - Fountain of Youth
+07 - THE ASSESSMENT
+08 - 'City' by Clifford D. Simak
+08 - Primitive War
+08 - WATCH THE SKIES
+09 - 'Hothouse' by Brian Aldiss
+09 - Shadow Force
+09 - THE SHROUDS
+10 - MARSHMALLOW
+11 - 'Blood Music' by Greg Bear
+11 - The Hunger Games: Sunrise on the Reaping
+12 - 'The Dying Earth' by Jack Vance
+12 - Elio
+13 - Hurry Up Tomorrow
+14 - 'A Fire Upon the Deep' by Vernor Vinge
+14 - Final Destination 6: Bloodlines
+15 - 'Blindsight' by Peter Watts
+15 - Salvable
+16 - Sketch
+17 - Fight or Flight
+18 - Drop
+19 - Fog of War
+20 - Bring Her Back
+21 - Together
+22 - Truth & Treason
+23 - The Last Rodeo
+24 - Watch the Skies
+25 - Grand Prix of Europe
+26 - Zero A.D.
+27 - Rust
+28 - Rosario
+29 - The Ugly Stepsister
+30 - Kryptic
+31 - Materialists
+32 - The Ritual
+33 - Don't Let's Go to the Dogs Tonight
+34 - Sneaks
+6:43
+:02
+Best Upcoming Movies 2025:
+BrthReminder-c-colors Rede
+BrthReminder-c-colors o | less
+BrthReminder-c-colors po
+BrthReminder-c-colors rede
+FFF=send-config-d.py 
+FFF=send-config-d.sh 
+IMDb
+Justice | 6:41
+Ll
+MOVIES 2025 (Trailers) -- (20250728):
+NAME="Gregor"
+NEW MOVIE TRAILERS 20250407:
+NM="2 Guns (2013) -- denzel washington and mark wahlberg"
+NM="Alien Resurrection (1997)"
+NM="Boss Level (2020) ???"
+NM="Clean (2021) ??? Adrian Brody -- Assasin"
+NM="Fat Man and Little Boy
+NM="Fat Man and Little Boy (1989)"
+NM="From Paris with Love (2010) -- 5p: John Travolta & Jonathan Rhys Meyers"
+NM="Homefront (2013)"
+NM="Jerry and Marge Go Large (2022)" && 
+NM="Jerry and Marge Go Large (2022)" && s2 "$NM" "$NM"
+NM="Lady in the Water (2006)" && s2 "$NM" "$NM"
+NM="Magnum Force (1973)"
+NM="Person of Interest
+NM="Person of Interest - TV Series (2011–2016)" && s2 "$NM" "$NM"
+NM="Secondhand Lions (2003)"
+NM="Taraji P. Henson ND"
+NM="The Lone Ranger (2013)"
+NM="They Live (1988)"
+NM="Thunderbolts* (2025)"
+NM="francesca neri ND"
+NM="meryl streep ND"
+Peace | 19:58
+Phantom Menace | 2:53
+THE BEST NEW SCI-FI MOVIES (2025) Trailers:
+bat
+bin/obletnica-c
+bin/obletnica-c 
+bin/obletnica-c 2050
+bin/ubuild 
+broken-symlinks-list | cut -d ' ' -f1
+broken-symlinks-list | cut -d ':' -f1
+c d..
+cargo run
+cat .SCRTS_*
+cat .SCRTS_yh
+cat /proc/devices 
+cat /proc/mounts 
+cat /proc/partitions 
+cat > bekap_en.log 
+cat _DOWNLOADED_MOVIES.txt | sort -r
+cat _DOWNLOADED_MOVIES.txt | sort -r | uniq -c | grep ' [234]'
+cat _DOWNLOADED_MOVIES.txt | sort -r | uniq -c | grep -e '^ *[234]'
+cat _______in-2-20250411.txt >> ___in-20250411.txt 
+cat ___in-20250411.txt >> zig_howto-build-and-use-packages-20250411.txt 
+cat ___in-20250416.txt >> zig-reading-json-config-20250416.txt 
+cat ___in-20250513.txt >> grobi-x11-monitor-autoconfig-20250513.txt 
+cat bekap_en.log 
+cat mteData.txt 
+cat narocilo_20250429_1132.txt 
+cat show-aliases-en 
+cat ~/majstaf/majrcs/aliases-gredelonghi-en | sed '/^#/d'
+cat ~/majstaf/majrcs/aliases-gredelonghi-en | sed -e '/^#/d' -e '/^$/d'
+cat ~/majstaf/seznami/* | grep 'git diff'
+cate .SCRTS_*
+ch?v=ORhyWVLWPTg&list=PLSM9kl8LlQw9cr-MsLFXGdYj98ujkIuzI
+check-git-diffs-en majrcs
+check-git-diffs-en metsys
+chmod +x *
+chmod +x make-dir-structure.sh 
+chmod -x *.txt
+contains "https://mattfreire.blog/posts/how-to-build-and-use-zig-packages"
+contains "https://rednafi.com/go/capture_console_output/"
+contains "https://www.openmymind.net/Reading-A-Json-Config-In-Zig/"
+cp $DOWNLOADS/GoboLinux-017.01-x86_64.iso /d/ext_WD_usbHDD_2TB/n_bekaps/Downloads_cugr_en/__downloaded_isos/
+cp $EPRNS/*repo*setup .
+cp -r $BRISI/send-from-gmail .
+cp -r $MBIN/lynxdump/ $MBIN/w3mdump/ .
+cp -r /e/rgregor-* .
+cp -r ~/majstaf/majbin/* .
+cp -r ~/majstaf/majscripts/ext_backups_metsys_en/ .
+cp -r ~/majstaf/metsys/ext_backups_metsys_en/ext_* .
+cp -rfv ~/majstaf/metsys/* ~/majstaf/engit/metsys_en/
+cp -rv ~/majstaf/metsys/* .
+cp -v $(fzf -e) $BRISI/20250415
+cp RUN_backups $EGT/metsys_en/ext_backups_metsys_en/
+cp RUN_backups /d/
+cp RUN_backups /e/
+cp ff-en-passwords-20250430.csv ms-edge-passwords-20250430.csv /e/gregor-redelonghi-en/
+cp fname-underscores-to-hypens-* $EPRNS 
+cp main.zig main.zig.backup.20250415
+cp majstaf/majconfig/centralna-en.conf ~/majstaf/majrcs/
+cp make-dir-structure.sh $BRISI/WD-testing/
+cp send-2args-gg{,-proxy}
+cp ssh-bash-adventure-20250416.txt $KNOWLEDGEDB/_BASH/
+cp ssh-bash-adventure-20250416.txt $KNOWLEDGEDB/_LINUX_SYSTEM/
+cp w3mdump-webpage-to-file w3md
+cp zig-* $KNOWLEDGEDB/_ZIG/
+cp ~/.SCRTS_* .
+cp ~/.SCRTS_gg .
+cpi $MRCS/centralna-en.conf $EMRCS 
+cpi .bashrc $EGT/dotfiles_en/.bashrc
+cpi /home/gregor.redelonghi/majstaf/majbin/lynxdump/lynxd $EMBIN/lynxdump/
+cpi /home/gregor.redelonghi/majstaf/majrcs/funclist-en $EMRCS/
+cpi RUN_backups /d/
+cpi aliases-gredelonghi-en $EMRCS/aliases-gredelonghi-en 
+cpi src/main.zig ~/majstaf/coding2/toolbox/zig_toolbox/obletnica-z/build/obletnica-z/src/
+cpi zig-out/bin/obletnica-z.exe ~/majstaf/coding2/toolbox/zig_toolbox/obletnica-z/
+cpi zig-what-is-string-literal-20250407.txt $KNOWLEDGEDB/_ZIG/
+cpi ~/.bashrc $EDTFJLS 
+cpi ~/.bashrc $EGT/dotfiles_en/
+cpi ~/majstaf/coding2/toolbox/zig_toolbox/obletnica-z/build/obletnica-z/src/
+cpi ~/majstaf/majrcs/funclist-en $EMRCS 
+curl -X GET https://fake-coffee-api.vercel.app/api
+curl -X GET https://fake-coffee-api.vercel.app/api | grep -i id
+curl -X GET https://fake-coffee-api.vercel.app/api | grepc -i id
+curl -X GET https://fake-coffee-api.vercel.app/api | grepc DATA
+curl -X GET https://fake-coffee-api.vercel.app/api | jq
+curl https://fake-coffee-api.vercel.app/api | grepc DATA
+cut -b 1-3 mte.csv
+cut -c 1,8 mte.csv
+cut -d',' -f1 mte.csv --complement
+cut -d',' -f1 mte.csv --complementwho
+cut -d',' -f1-3 --output-delimiter='-' mte.csv
+cut -d',' -f2 mte.csv
+d film critics are no exception — so we're gonna forgive them for getting it so wrong with these sci-fi movies.
+dc ..
+dec
+dialog
+dialog "This is INSANE!" 200 300
+dialog --help
+dialog --infobox "Hy There!" 5 30
+dialog --infobox "Hy There" 5 30
+dialog --infobox "This is INSANE!" 200 300
+dialog --infobox "This is INSANE" 200 300
+dialog --msgbox "Hy There!" 5 30
+dialog --msgbox "Hy There" 5 30
+dialog --msgbox "Hy There\!" 10 20
+dialog --msgbox "Hy There\!" 5 30
+dialog --pause "Waiting for 5 secs ..." 10 30 5
+dialog --pause "Waiting for 5 secs ..." 15 20 5
+dialog --pause "Waiting for 5 secs ..." 15 40 5
+dialog --pause "Waiting for 5 secs ..." 5 30 5
+dialog --pause "Waiting for 5 secs ..." 6 30 5
+dialog --pause "Waiting for 5 secs ..." 7 30 5
+dialog --pause "Waiting for 5 secs ..." 7 40 5
+dialog --pause "Waiting for 5 secs ..." 8 40 5
+dialog --pause "Waiting for 5 secs ..." 9 40 5
+dialog --text "This is INSANE!" 200 300
+diff .bashrc $EGT/dotfiles_en/.bashrc
+diff CUGR.backup.txt CUGR.txt 
+diff aliases-gredelonghi-en $EMRCS/aliases-gredelonghi-en 
+diff aliases-gredelonghi-en aliases-muadib 
+diff send-mail-scrts-jbe/send-1url-d send-mail-scrts-mdb/send-1url-d 
+diff send-mail-scrts-jbe/send-2args-d send-mail-scrts-mdb/send-2args-d 
+diff ~/majstaf/metsys/ ~/majstaf/engit/metsys_en/
+direnv
+dislog --help | less
+echo "HOLA!" | AT time now + 1 minute
+echo "HOLA!" |at now + 1 minute
+echo $(((16<<20)/1000))
+echo $(((16<<20)/1000000))
+echo $((1370/60))
+echo $((16<<20))
+echo $((36*365+11))
+echo $((44*365+11))
+echo $((4>>1))
+echo $((4>>2))
+echo $((4>>4))
+echo $((61*365+15))
+echo $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025)
+echo $DANES
+echo $DOWNLOADS 
+echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]'
+echo $PSSWD_SCRTS_YH 
+echo $_ZD_DATA_DIR
+echo $_ZD_ECHO
+echo $_ZD_FZF_OPTS
+echo -e "empID,empName,empDesig\n101,Anees,Author\n102,Asghar,Manager\n103,Damian,CEO" > mte.csv
+echo 16<<20
+echo mv "$FJL" $(echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
+echo mv $FJL $(echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
+echo rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+engt-status
+engt-status sta
+er soluton ptoviders to check out ...
+eve | 21:00
+exi
+fd
+fd-find
+find * -maxdepth 0 -name "*.ido"
+find * -maxdepth 0 -type d 
+find * -maxdepth 0 -type f
+find * -maxdepth 0 -type f -not -name "_*"
+find * -maxdepth 0 -type f -not -name "_*" | clm
+find * -maxdepth 0 -type f -not -name "_*" | less
+find * -type d -iname "*back*" -o -type d -iname "*bek*"
+find * -type d -iname "*backu*" -o -type d -iname "*beka*"
+find * -type d -name '.zig-cache'
+find * -type d -name 'zig-out'
+find * -type d -name bin
+find -executable
+find -iname "*bosch*"
+find -iname "*pvc*"
+find -size +10M
+find -size +25M
+find -size +2G
+find -type -d -iname "\.git"
+find -type d -iname "*back*" -o -iame "*beka*" -o -iname "*bck*"
+find -type d -iname "*back*" -o -iname "*bek*"
+find -type d -iname "*rclone*"
+find -type d -name "\.git"f
+find -type d -name "ext*"
+find -type f -iname "*_*" | grep cs
+find -type f -iname "*_*" | grepc cs
+find -type f -iname "*_*" | wc -l
+find ~/majstaf/ -name "*ext*"
+find ~/majstaf/ -name "*ext[-_]*"
+fname-underscores-to-hypens-en centralna_en.conf 
+fname-underscores-to-hypens-en jv_multi-dimensional-array_20250409.txt 
+fname-underscores-to-hypens-en zig_what-is-string-literal_20250407.txt 
+for DDD in majbin majrcs metsys; do check-git-diffs-en $DDD; done
+for FFF in $(find -name "*rclon*"); do mv $FFF _RCLONE/; done
+for FFF in $(grep -l n_bekaps *); do sed -i 's/n_bekaps/bekaps_en/g' $FFF; done
+for FFF in $(grep -l n_bekaps *); do sed -i 's/n_bekaps/en_bekaps/g' $FFF; done
+for FFF in *
+for FFF in *; do fname-underscores-to-hypens-en $FFF; done
+for FFF in *; do mv "$FFF" "${FFF// /-}"; done
+for FFF in 0*; do echo $FFF; done
+for FFF in 0*; do echo sed "'s/-rltD/rltDW/g'" $FFF; done
+for FFF in 0*; do echo sed 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -F rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -H rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -n rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc rltD
+for FFF in 0*; do sed -i 's/-rltD/-rltD/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltD/-rltDW/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltDWW/-rltDW/g' $FFF; done
+for FFFin $(grep -l n_bekaps *); do sed -i 's/n_bekaps/bekaps_en/g' $FFF; done
+for MM in 01 02 03 04 05 06 07 08 09 10 11 12; do for DD in 01 08 12 15 22 28; do touch filename-add-2025${MM}${DD}.txt; done; done
+for MM in 02 03 06 07 08 09 10 ; do for DD in 01 08 12 15 22 28; do touch filename-add-2024${MM}${DD}.txt; done; done
+from: How to use BASH to Automate Linux!
+fst
+fvm
+fvmp
+gdt
+ghgl-push-en 
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs push ghven main
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs push glven main
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs remote -v
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs remote-v
+git --git-dir=~/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs status
+git add .
+git add ct_OSTALO
+git branch
+git clone https://github.com/r-gregor/metsys_en
+git commit -a
+git diff .bashrc
+git diff .bashrc HEAD ~HEAD
+git diff .bashrc HEAD~ HEAD
+git diff 2de44 0b73d
+git diff HEAD^ HEAD .bashrc
+git log --oneline
+git log --oneline |tee -
+git log --oneline |tee - | head
+git push --set-upstream ghmts main
+git push -f ghprns main 
+git push -f glprns  main 
+git remote
+git remote add ghmts git@github.com:r-gregor/metsys_en.git
+github repo:
+glog
+go --version
+go version
+grel rl *
+grep "BASH_SOURCE" *
+grep '^alias' $MRCS/aliases-gredelonghi-en
+grep '^alias' $MRCS/aliases-gredelonghi-en 
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' -f1
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' -f2
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' printf -f1
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed 's/alias //'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed 's/alias //' |sed 's/=/\t\t/'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/ --> /'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t/'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t\t/'
+grep 'metsys_' *
+grep 'n_bekaps *
+grep 'n_bekaps' *
+grep 'n_bekaps' * | cut -d' ' -f2
+grep 'n_bekaps' * | cut -d':' -f1
+grep -ilr "region\|arena" *
+grep -ilr "region\|arena" * | grep -v OSTAL
+grep -ilr "region\|arena" * | grep -v OSTAL | grep -E "*.\.c"
+grep -ilr "region\|arena" * | grep -v OSTAL | grep -E ".*\.c"
+grep -ir "pass"
+grep -ir "pss"
+grep -ir "region\|arena" *
+grep -irE "prehodni.*pvc" *
+grep -l "BASH_SOURCE" *
+grep -l ' en_bekaps' *
+grep -l ' n_bekaps' *
+grep -l 'en_bekaps' *
+grep -l vol *
+grep -r '.zig-' *
+grep -r 'majstaf_' *
+grep -r 'metsys_' *
+grep -rl 'majstaf_' *
+grep -rl 'majstaf_' * |grep -v prej
+grep rl *
+grep sh *
+grep support *
+grep vol
+grep vol *
+grepc -r 'majstaf_' *
+grepc -r assert *
+grepc sh *
+gstl
+head -n 2 mte.csv | cut -d ',' -f2,3
+https://www.youtube.com/watch?v=x1pKd5j0MDU
+iecho rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+im mteData1.txt
+im zig_howto-build-and-use-packages-multif-20250411.txt 
+jarrun $DOWNLOADS/myTest.jar 
+jarrun myTest.jar 
+l -t
+l majstaf
+l | grep -i hex
+l | head -n20
+less MAJNIKI_MOVIES.txt 
+lynxd 
+lynxd "https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/" ipv4_ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6
+lynxd "https://borretti.me/article/my-backup-infrastructure-2025-edition" new-backup-infrastructure-2025-edition
+lynxd "https://bumbershootsoft.wordpress.com/2025/01/11/linked-lists-and-typed-arenas/" c-linked-lists-and-typed-arenas
+lynxd "https://forums.unraid.net/topic/59807-solved-best-way-to-back-up-files-to-an-external-disk/" rclone-best-way-to-back-up-files-to-an-external-disk
+lynxd "https://herecomesthemoon.net/2025/04/pipelining/" pipelining
+lynxd "https://keithp.com/blogs/sanitizer-fun/" c-sanitizer-fun
+lynxd "https://linuxhandbook.com/docker-port-mapping/" docker-port-mapping
+lynxd "https://mattfreire.blog/posts/how-to-build-and-use-zig-packages" zig_howto-build-and-use-packages
+lynxd "https://mcyoung.xyz/2025/04/21/go-arenas/" go-arenas
+lynxd "https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/" grobi-x11-monitor-autoconfig
+lynxd "https://rednafi.com/go/capture_console_output/" go-capture-console-output
+lynxd "https://thenewstack.io/multi-dimensional-array-java/" jv_multi-dimensional-array
+lynxd "https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/" ___in
+lynxd "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurBuildProcedures" ___in
+lynxd "https://webtechie.be/post/2025-04-09-javafx-combobox-with-objects/" jv-javafx-combobox-with-objects
+lynxd "https://www.bradcypert.com/adding-dependencies-to-your-zig-project-with-zig-fetch/" zig-adding-dependencies-to-project-with-zig-fetch
+lynxd "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync" rclone-4x-faster-network-file-sync-rclone-vs-rsync
+lynxd "https://www.jwz.org/blog/2025/05/y2232-bug/" y2232-bug
+lynxd "https://www.openmymind.net/Reading-A-Json-Config-In-Zig/" zig-reading-json-config
+lynxd "https://www.openmymind.net/Zigs-std-json-Parsed/" ___in
+lynxd "https://www.opensourceforu.com/2025/04/nlp-text-summarisation-with-python/" ptn-nlp-text-summarisation
+lynxd "https://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/" check-hdd-bad-sectors-bad-blocks
+lynxd "https://www.tecmint.com/delete-files-except-certain-file-extensions/" bash-delete-files-except-certain-file-extensions
+lynxd "https://zig.news/kristoff/what-s-a-string-literal-in-zig-31e9" zig_what-is-string-literal
+lynxd "https://ziggit.dev/t/how-to-compile-an-external-library-using-build-zig-zon-or-simply-cli/2910/6" zig-howto-compile-external-library-using-build-zig-zon-or-simply-cli
+lynxd _______in-2
+lype prompt-switch
+lyxd "https://www.jwz.org/blog/2025/05/y2232-bug/" y2232-bug
+m lynxdump-multi-webpages-to-file 
+make clean
+mkdir $BRISI/20250415
+mkdir -p $BRISI/WD-testing
+mkdir 20250508_DELETEME
+mkdir 20250509_BACKUPTEST
+mkdir TTEESSTT
+mkdir _RCLONE
+mkdir bekaps_en
+mkdir compare
+mkdir ext_SANDISK_USB_128GB
+mkdir support_engit
+mv "$FJL" $(echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
+mv $FJL $(echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
+mv $FJL $(string-spaces-to-hypens-en $FJL | string-upper-to-lower-en )
+mv $FJL $(string-spaces-to-hypens-en $FJL | string-upper-to-lower-en -)
+mv $FJL $(string-spaces-to-hypens-en $FJL | xargs -I{} string-upper-to-lower-en "{}")
+mv $FJL $(string-upper-to-lower-en $(string-spaces-to-hypens-en $FJL))
+mv $FJL string-upper-to-lower-en $(string-spaces-to-hypens-en $FJL)
+mv $KNOWLEDGEDB/_JS{,_CSS}
+mv * $KNOWLEDGEDB/_LINUX_SYSTEM/
+mv *.txt support_engit/
+mv *2023_v05* _STARO/
+mv -iv zig-what-is-string-literal-20250407.txt $KNOWLEDGEDB/_ZIG/
+mv -nv MX-23.4_x64.iso __downloaded_isos/
+mv -nv debian-12.9.0-i386-DVD-1.iso __downloaded_isos/
+mv -nv debian-live-12.10.0-amd64-kde.iso __downloaded_isos/
+mv -nv debian-live-12.10.0-amd64-xfce.iso __downloaded_isos/
+mv -nv linuxmint-22-xfce-64bit.iso __downloaded_isos/
+mv -nv lmde-6-cinnamon-64bit.iso __downloaded_isos/
+mv -nv systemrescue-12.00-amd64.iso __downloaded_isos/
+mv -nv void-live-i686-20240314-xfce.iso __downloaded_isos/
+mv -nv void-live-x86_64-20250202-xfce.iso __downloaded_isos/
+mv -nv zig-what-is-string-literal-20250407.txt $KNOWLEDGEDB/_ZIG/
+mv _JS{,_CSS}
+mv _SALSA_PREPLESAVANJA.html SALSA-PREPLESAVANJA.html 
+mv aliases-muadib $MRCS 
+mv bash-delete-files-except-certain-file-extensions-20250416.txt $KNOWLEDGEDB/_BASH/
+mv check-hdd-bad-sectors-bad-blocks-20250416.txt $KNOWLEDGEDB/_LINUX_SYSTEM/
+mv cs_bit-shifting-why-is-this-code-using-24-16-and-8-right-shift-20250422.txt $KNOWLEDGEDB/_CS_and_other_PL/
+mv css-background-image-opacity-20250410.txt $KNOWLEDGEDB/_JS_CSS/
+mv c{d,s}_bit-shifting-why-is-this-code-using-24-16-and-8-right-shift-20250422.txt 
+mv dname-rename-to-underscores-{to,with}-hypens-en 
+mv dname-rename-{,to-}underscores-to-hypens-en 
+mv dname-{,rename-}underscores-to-hypens-en 
+mv docker-port-mapping-20250410.txt $KNOWLEDGEDB/_DOCKER/
+mv engit/support_engit .
+mv go-arenas-20250423.txt $KNOWLEDGEDB/_GO/
+mv go-capture-console-output-20250418.txt $KNOWLEDGEDB/_GO/
+mv go-prevent-struct-copies-20250424.txt $KNOWLEDGEDB/_GO/
+mv gpsu.sh support_engit/
+mv ipv4_ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6-20250512.txt $KNOWLEDGEDB/_CS_and_other_PL/
+mv jv-javafx-combobox-with-objects-20250411.txt $KNOWLEDGEDB/_JAVA/
+mv jv-multi-dimensional-array-20250409.txt $KNOWLEDGEDB/_JAVA/
+mv new-backup-infrastructure-2025-edition-20250414.txt $KNOWLEDGEDB/_LINUX_SYSTEM/
+mv personal-programs-setup-multif-20250417.txt $KNOWLEDGEDB/_LINUX_SYSTEM/
+mv pipelining-20250424.txt $KNOWLEDGEDB/_CS_and_other_PL/
+mv rclone-* $KNOWLEDGEDB/
+mv rclone-* $KNOWLEDGEDB/_RCLONE/
+mv rclone-* _RCLONE/
+mv send-from-gmail{,-en-20250425}
+mv show-aliases-en ~/majstaf/majbin/
+mv show-aliases{.sh,-en} 
+mv ssh-{,bash-}adventure-20250416.txt 
+mv y2232-bug-20250509.txt $KNOWLEDGEDB/_CS_and_other_PL/
+mv zig-reading-json-config-20250416.txt $KNOWLEDGEDB/_ZIG/
+mv zig_howto-build-and-use-packages{,-multif}-20250411.txt 
+mv zig{_,-}howto-build-and-use-packages-multif-20250411.txt 
+mv {fname,string}-to-lower-with-hypens-en 
+mv {jbe,en}git-multiple-repos-setup 
+mv {jbe,en}git-single-repo-setup 
+n are:
+ng | 22:01
+nvol add .
+nvol log
+oddr
+oon | 7:44
+p3 
+prepare-fjl-for-knowledgebase 
+prepare-fjl-for-knowledgebase _______in-2-20250411.txt 
+prepare-fjl-for-knowledgebase ___in-20250411.txt 
+prepare-fjl-for-knowledgebase ___in-20250416.txt 
+prepare-fjl-for-knowledgebase ___in-20250417.txt 
+prepare-fjl-for-knowledgebase ___in-20250513.txt 
+prepare-fjl-for-knowledgebase ___in_20250407.txt 
+prepare-fjl-for-knowledgebase ___in_20250408.txt 
+prepare-fjl-for-knowledgebase bash-delete-files-except-certain-file-extensions-20250416.txt 
+prepare-fjl-for-knowledgebase bash_howto-get-directory-script-from-within-script-itself-multif_20201027
+prepare-fjl-for-knowledgebase bash_howto-get-directory-script-from-within-script-itself-multif_20201027.txt 
+prepare-fjl-for-knowledgebase c-linked-lists-and-typed-arenas-20250416.txt 
+prepare-fjl-for-knowledgebase c-sanitizer-fun-20250416.txt 
+prepare-fjl-for-knowledgebase check-hdd-bad-sectors-bad-blocks-20250416.txt 
+prepare-fjl-for-knowledgebase cs
+prepare-fjl-for-knowledgebase cs_bit-shifting-why-is-this-code-using-24-16-and-8-right-shift-20250422.txt 
+prepare-fjl-for-knowledgebase css-background-image-opacity-20250410.txt 
+prepare-fjl-for-knowledgebase docker-port-mapping-20250410.txt 
+prepare-fjl-for-knowledgebase go-arenas-20250423.txt 
+prepare-fjl-for-knowledgebase go-capture-console-output-20250418.txt 
+prepare-fjl-for-knowledgebase grobi-x11-monitor-autoconfig-20250513.txt 
+prepare-fjl-for-knowledgebase ipv4_ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6-20250512.txt 
+prepare-fjl-for-knowledgebase jv-javafx-combobox-with-objects-20250411.txt 
+prepare-fjl-for-knowledgebase new-backup-infrastructure-2025-edition-20250414.txt 
+prepare-fjl-for-knowledgebase personal-programs-setup-multif-20250417.txt 
+prepare-fjl-for-knowledgebase pipelining-20250424.txt 
+prepare-fjl-for-knowledgebase ptn-nlp-text-summarisation-20250410.txt 
+prepare-fjl-for-knowledgebase rclone-4x-faster-network-file-sync-rclone-vs-rsync-20250508.txt 
+prepare-fjl-for-knowledgebase rclone-best-way-to-back-up-files-to-an-external-disk-20250508.txt
+prepare-fjl-for-knowledgebase rclone-best-way-to-back-up-files-to-an-external-disk-20250508.txt 
+prepare-fjl-for-knowledgebase rclone-csif-backing-up-files-20250509.txt 
+prepare-fjl-for-knowledgebase ssh-adventure-20250416.txt 
+prepare-fjl-for-knowledgebase y2232-bug-20250509.txt 
+prepare-fjl-for-knowledgebase zig-adding-dependencies-to-project-with-zig-fetch-20250411.txt 
+prepare-fjl-for-knowledgebase zig-howto-compile-external-library-using-build-zig-zon-or-simply-cli-20250411.txt 
+prepare-fjl-for-knowledgebase zig-reading-json-config-20250416.txt 
+prepare-fjl-for-knowledgebase zig_howto-build-and-use-packages-20250411.txt 
+prepare-fjl-for-knowledgebase zig_what-is-string-literal_20250407.txt 
+printf "%-20s" "$NAME" 
+printf "%20s" "$NAME" 
+prompt-switch 
+prs 
+python3 -m this
+python3 -m this | grep e-
+rclone abour mega_gren
+rclone abour mega_gren:
+rclone about meg_en:
+rclone about mega_en:
+rclone about mega_gren:
+rclone about meganz:
+rclone help | grep remote
+rclone remotes
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGEIKA/Tehnicne-zahreve_2025
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGETIKA/Tehnicne-zahreve_2025
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGETIKA/Tehnicne-zahteve_2025
+rewrapp rclone-best-way-to-back-up-files-to-an-external-disk-20250508.txt
+rsort-by-tmstmp-c | grep ssh
+rsort-by-tmstmp-c | head
+rsort-by-tmstmp-c |clm
+s2 " " """
+s2 "$NM" "$NM"s
+s2 "..." """
+s2 "10 Action Movies That Are So Good, They’re Almost Too Perfect!" """
+s2 "20250508: update jbegit-mult... and mdbgit-mult..." "Add 'dotfiles' to folders list in jebgit-mult... and mdbgit-mult..."
+s2 "Insta
+s2 "S'parta (TV Series 2018)" """
+s2 "SCANDALOUS, SHOCKING & F*CKED UP Sci-Fi Flicks... and they're freei" """
+s2 "Spin Gravity Compared - VERY COOL" """
+s2 "Stick It (2006)" """
+s2 "THE BEST NEW SCI-FI MOVIES (2025) Trailers" """
+s2 "THE BEST UPCOMING THRILLER MOVIES 2025 (Trailers) -- (20250728)" """
+s2 "The Substitute movies ..." """
+s2 "goes wit thw previous one: SCANDALOUS, SHOCKING & F*CKED UP Sci-Fi Flicks... and they're free" """
+schtasks --help
+schtasks -h
+schtasks /?
+schtasks /h
+schtasks \h
+sdu
+sed 's/ /,/g' mteData1.txt | cut -d ',' -f1,3
+show-aliases-en 
+show-aliases-en fzf
+show-aliases-en fzf java
+softlink1-fname-to-ulb engit-multiple-repos-setup 
+softlink1-fname-to-ulb engit-single-repo-setup 
+softlink1-fname-to-ulb lynx-multi-dump-fromlist-en 
+softlink1-fname-to-ulb show-aliases-en 
+softlink1-fname-to-ulb string-to-lower-with-hypens-en 
+softlink1-fname-to-ulb w3m-multi-dump-fromlist-en 
+softlink1-fname-to-ulb w3md
+source ../.SCRTS_gg
+source .SCRTS_yh
+string-lower-to-upper-en "Obnova plinovoda N18000 - odsek Cesta v Rožno dolino - Bleiweissova cesta"
+string-to-lower-with-hypens-en "How I solve the configure memory problem"
+string-upper-to-lower-en $(string-spaces-to-hypens-en $FJL)
+t .
+t gred
+tenTomatoes
+terious death of a teacher, a grizzled detective gets caught up in the world of a high-stakes virtual reality game.
+testing-gtgh-status-en
+testing-gtgh-status-ensta
+testing-gtgh-testpush-en 
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "./RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w ".RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first --ignore-checksum $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first --ignore-checksum -u $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first -u $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first ~/majstaf/engit/knowledgedb/ RCLONETD/
+time rclone sync -vP --transfers=1 --order-by name --check-first ${HOME}/majstaf/engit/knowledgedb/ ${PWD}/RCLONETD/
+time rclone sync -vP --transfers=1 --order-by name --check-first ~/majstaf/engit/knowledgedb/ RCLONETD/
+todays-knowledgedb-files-en 20250407
+todays-knowledgedb-files-en 20250410 1
+touch NOT-EMPTY.txt
+touch fname-rename-to-lower-with-hypens
+tree RUUT/
+tree TRII/
+tree doc
+type at
+type prompt-switch
+type qtm
+v go-capture-console-output-20250418.txt
+v-brc 
+v-ro go-capture-console-output-20250418.txt
+v-sfjl-git-repo 
+v-vrc 
+vf
+vf -
+vf obletnica-z/
+view-sfjl-fzf 
+vm RUN_backup_cygwin.sh 
+vom obletnica-c.c 
+vum uconcat.c 
+vview-sfjl-fzf
+w3m-multi-dump-fromlist-en
+w3m-multi-dump-fromlist-en 
+w3m-multi-dump-fromlist-en seznam
+wget https://raw.githubusercontent.com/r-gregor/majrcs_mdb/refs/heads/main/aliases-muadib
+which qtm
+which schtasks 
+whiptail
+who
+who | cut -c 1-5
+xit
+z -V
+z -v
+z ./z 007
+z .co
+z /007
+z 007
+z 007*/
+z KNOW
+z __DA
+z __DANES__
+z add .
+z c
+z c_tes
+z c_test
+z en pre
+z git p
+z git pren
+z greg
+z majbi
+z majstf
+z metsy
+z metsys/
+z metsys_en
+z z
+z z 007
+z z _t zt 007
+z z _t zt_007
+z z_t
+z zi
+z zi _t
+z zi_t
+z zig
+z zig_tes
+z zig_testing
+z zt_007
+z__DA
+zi foo
+zi z
+zig run main.zig 2033
+zoxide -V
+zoxide init
+zoxide query .config
+zoxide query c
+zoxide query c*
+zoxide query c_
+zoxide query zig
+zz .
+ Welcome to Johnny's Software Lab! - Johnny's Software Lab
+./build_and_run.sh 
+./send-2args-gg "TEST from en/gg 20250428" "Juat a test ..."
+./send-2args-gg-proxy "TEST" "TEST"
+/d/RUN_backups
+01 - "Dune" by Frank Herbert
+03 - "The Stars My Destination / Tiger! Tiger!" by Alfred Bester
+07 - "Norstrilia" by Cordwainer Smith
+08 - "City" by Clifford D. Simak
+09 - "Hothouse" by Brian Aldiss
+11 - "Blood Music" by Greg Bear
+12 - "The Dying Earth" by Jack Vance
+14 - "A Fire Upon the Deep" by Vernor Vinge
+15 - "Blindsight" by Peter Watts
+BrthReminder-c
+BrthReminder-c-colors o
+BrthReminder-c-colors2 redel
+Digital Grove | Ryan Fleury | Substack
+Finch – blog archive contents
+Programming/comments/16e7thg/what_are_some_good_blogs_on_programming_in_c_you/ | What are some good blogs on programming in C? (You can post your own) : r/C_Programming
+Programming/comments/ljqw83/favourite_blogs_preferably_about_c/ | Favourite Blogs (preferably about C) : r/C_Programming
+are-the-sites-and-blogs-to-study-C-programming-which-I-should-visit-for-knowledge | What are the sites and blogs to study C programming which I should visit for knowledge? - Quora
+at
+bin/for_each_file_in_dir 
+bin/obletnica-c 2033
+bin/timediff-v1
+blogspot.com/p/home-page.html | Introduction to Programming: Home Page
+cat _DOWNLOADED_MOVIES.txt | sort -r | uniq -c
+cat changed-files-mdb-20250417.txt 
+cat mte.csv 
+cat mteData.txt | tr -s ' ' | cut -d ' ' -f1-2
+cat mteData1.txt
+ch?client=firefox-b-d&q=c+programming+blogs | c programming blogs - Google Search
+check-git-diffs-en 
+chmod +x show-aliases.sh 
+chmod 644 *
+cp show-aliases-en $EMBIN 
+cp show-aliases-en $EPRNS 
+cp timediff-v* src/
+cp timediff{,_v1}.c
+cp timediff{,_v2}.c
+cp ~/majstaf/coding2/testing/c_testing/Makefile .
+cpi .bashrc $EDTFJLS 
+cpi aliases-gredelonghi-en funclist-en $EMRCS 
+cpi majstaf/majbin/show-aliases-en $EMBIN 
+cpi show-aliases-en $EPRNS 
+cut -c 1-8 mte.csv
+echo "Hey! Geeks Welcome to Maketecheasier.com" | cut -d ' ' -f 5
+edit-sfjl-efzf 
+engit-multiple-repos-setup 
+engt-testpush 
+et/ | Eli Bendersky's website
+find '*' -maxdepth 4 -type d -iname "*emonika*"
+find * -maxdepth 3 -type d -iname "*emonika*"
+find * -maxdepth 4 -type d -iname "*emonika*" 
+find -name "*rclon*"
+find -size +100M
+find -size +1G
+find -size +50M
+find -type d -iname "*back*" -o -iname "*beka*" -o -iname "*bck*"
+find -type d -iname "*emonika*"
+find -type f -iname "*_*"
+find -type f -iname "*zenity*"
+find . -maxdepth 4 -type d -iname "*emonika*"
+fname-underscores-to-hypens-en multi_dump_list.dat 
+for FFF in *; do yes | fname-underscores-to-hypens-en $FFF; done
+for FFF in 0*; do sed -i 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed -i 's/rltD/-rltD/g' $FFF; done
+fzf_aliases 
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs status
+git clone https://github.com/r-gregor/majbin_mdb
+git clone https://github.com/r-gregor/majrcs_mdb
+git show
+git show 
+git show HEAD~3
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t\t/' |less
+grep fzf $MRCS/aliases-gredelonghi-en 
+grep n_bekaps *
+im timediff-v2.c 
+ing-blogs/ | Some programming blogs to consider reading
+ja
+log/ | C For Dummies Blog
+lynx-multi-dump-fromlist-en seznam 
+mkdir 20250418
+mv $FFF $(fname-hypens-to-underscores-en $FFF)
+mv _multi_dump_list.dat multi_dump_list.dat 
+mv timediff{_,-}v1
+mv timediff{_,-}v1.c
+mv timediff{_,-}v2.c
+nch/'
+ogramming | The most insightful stories about C Programming - Medium
+om/ | Jens Gustedt's Blog
+om/c_programming_blogs/ | 20 Best C Programming Blogs and Websites in 2025
+prepare-fjl-for-knowledgebase jv_multi-dimensional-array_20250409.txt 
+rclone size mega_gren:
+rg/c-programming | C Programming - Jyotiprakash's Blog
+riffs.com
+rsort-by-tmstmp-c .
+rsort-by-tmstmp-c | clm
+rthReminder-cexit
+s (20250605 -- check out):
+s2 "One Ranger (2023)" """
+s2 "The 9 Best Space Shows That Aren't Star Trek" """
+s2 SCANDALOUS, SHOCKING & F*CKED UP Sci-Fi Flicks... and they're freei" """
+show-aliases-en go
+show-aliases-en go| grepc -w go
+show-aliases-en go| grepc go
+show-aliases-en java
+show-aliases-en | less
+show-exports-en 
+show-exports-en | grep -i arhi
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone sync -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+todays-knowledgedb-files-en 
+todays-knowledgedb-files-en 20250407 1
+tree 202504*
+type BrthReminder-c-colors
+type BrthReminder-c-colors2
+vview-mfjl-efzf 
+vview-sfjl-fzf 
+z .
+z 007/
+z DANES
+z gred
+z majstaf
+z majstaf_en
+z z _t 007
+z zt 007
+zoxide .config
+zoxide edit
+zoxide foo
+zoxide init bash
+zoxide query *
+| NRK's Homepage
+         -2147483648
+         -32768
+         /bin:/usr/bin
+         10
+         1147483648
+         12
+         128
+         16777216
+         20000000
+         25
+         257681
+         30
+         3200
+         32768
+         33
+         4
+         4096
+         4294967295
+         49152
+         512
+         524288
+         6
+         65535
+         700
+         86502
+         POSIX_V6_LP64_OFF64
+#SciFi #ScienceFiction #RottenTomatoes
+.
+/d/RUN_backups -d
+/d/RUN_backups -h
+110,670 views  Jun 28, 2025  #RottenTomatoes #SciFi #ScienceFiction
+2012 | 10:48
+Alien vs. Predator | 5:47
+BrthReminder-c-colors redel
+Cowboys and Aliens | 12:38
+D        200809
+DULING   200809
+Déjà Vu | 13:33
+E        200809
+ER
+ERATIONS 4
+Event Horizon | 25:50
+Everyone makes mistakes, and film critics are no exception — so we're gonna forgive them for getting it so wrong with these sci-fi movies.
+Howard the Duck | 27:42
+In Time | 8:27
+John Carter | 1:56
+Jumper | 9:13
+Jupiter Ascending | 24:56
+Knowing | 0:00
+Last Action Hero | 24:00
+Masters of the Universe | 26:43
+NHERIT
+NS       4
+Oblivion | 18:40
+Passengers | 15:28
+R        200809
+ROTECT
+Speed Racer | 23:05
+Star Wars: Episode I - The Phantom Menace | 2:53
+Stargate | 17:09
+The Book of Eli | 18:00
+The Day After Tomorrow | 10:02
+The Shift | 14:26
+The Thing (2011) | 3:52
+The X-Files: I Want to Believe | 21:00
+Tron: Legacy | 0:59
+Underrated movies list
+Upside Down |
+Zoom | 11:49
+best movies on Netflix, Amazon, HBO etc. so my subscribers never run out of good
+bin timediff-v2.c 
+bin/
+bin/q
+cp -r ct_999_timediff_20250521/ $CTST 
+cp -r ext_backups_metsys_en/ ~/majstaf/metsys/
+cp -r {ptn,ct}_999_timediff_20250521/
+cp {ptn,ct}_999_timediff_20250521/
+cpi show-aliases-en $EMBIN 
+cpi src/timediff-v2.c 
+cpi timediff-v2.c src/
+cpi ~/majstaf/metsys/how-to-get-L1-L3-cash-and-csah-line-sizes-20250728.txt $EMSYS 
+cpi ~/majstaf/metsys/how-to-get-L1-L3-cash-and-csah-line-sizes-20250728.txt $EPRNS 
+dialog --help | grep info
+diff
+edit-sfjl-fzf 
+find * -maxdepth 0 -name "*.iso"
+find -size +500M
+find -type d -iname "\.git"
+g. Spending 10 minutes watching one of my videos could save you hours of searching,
+getconf LEVEL1_DCACHE_LINESIZEgetconf LEVEL1_DCACHE_LINESIZE
+git remote -v
+grep -l n_bekaps *
+grepc -H rltDW *
+ise spend watching good movies on streaming that you otherwise might not have ever
+lp,
+mv ct_{999,141}_timediff_20250521/
+mv timediff{-v2,}.c 
+ovies to watch on Netflix, Amazon Prime or other streaming services? Every week I
+s2 "The 15 Best Sci-Fi Books" """
+s2 "how to get L1 ... L3 and cash line sizes?" 
+s2 "how to get L1 ... L3 and cash line sizes?" """
+testing-gtgh-status-en s
+xs
+z c_
+z prenos
+zig run main.zig
+zig run main.zig -- 2033
+čč
+	            
+    Tony GaytonJoe Gayton
+ programmers
+./01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+./3-ziggzagg
+./clean_target 
+./compile 
+./dec_to_bin 
+./dec_to_bin fag
+./sas1_serialize_array_of_structs_v12 
+./sas2_retreive_structs_from_file_v7 
+./sas2_retreive_structs_from_file_v7 |less
+/d/RUN_backups -C
+/idebook/b07v1vskb6
+3. 6. 202552 minše 29 dni"
+Director
+FFF="Writing-C-software-without-the-standard-library-Linux-Edition-20250530.txt" 
+Faster (2010)
+Francoska dokumentarna oddaja
+GETCONF
+GETCONF -A
+HSTL
+NM="Old Henry (2021)"
+NM="RED 2 (2013)"
+NM="The Substitute (1996)"
+S2 "Exploring Italian High-Speed Trains in 15 minutes" """
+Stars
+Writers
+alias | grep majr
+alias | grep majrž
+alias | grep met
+bin/app_path 
+bin/custom_string_type_test_v5 
+bin/sas1_serialize_array_of_structs_v12 
+bin/sas2_retreive_structs_from_file_v7 
+bin/sas2_retreive_structs_from_file_v7 | less
+bin/timediff 120000 180050
+bin/timediff 1200d0 130000
+bin/timediff 121212 181920
+bin/timediff 121822 190000
+bin/timediff 121822 290000
+bin/timediff 125555 110000
+bin/timediff 125555 130000
+bin/timediff 128822 290000
+bin/timediff-v2
+bin/timediff-v4 12 254 151514
+bin/timediff-v4 120000
+bin/timediff-v4 120000 18000
+bin/timediff-v4 120000 180000
+bin/timediff-v4 120254 151514
+bin/timediff-v4 121212 151515
+bin/timediff-v4 121212 151555
+bin/timediff-v4 12125 151514
+bin/timediff-v4 121252 15151
+bin/timediff-v4 121252 151514
+bin/timediff-v4 121252 151515
+bin/timediff-v4 121254 151514
+bin/timediff-v4 128254 151514
+bin/timediff-v4 12a254 151514
+bulkrename
+c c_t
+c-index-test 
+cat INFO.txt 
+cat ___in-20250725.txt >> c-handles-vs-pointers-20250725.txt 
+cat bin/elements_array.bin 
+cat elements_array.bin 
+ch?v=ruSFTE7N_AQ
+cim excludes 
+contains "https://floooh.github.io/2018/06/02/one-year-of-c.html"
+cp -rn ./* $EMBIN/rbekap-meganz/
+cp exludes ~/majstaf/majbin/rbekap-meganz/
+cp rbekap-DOWNLOADS-copy-mega-gren rbekap-ENGIT-sync-mega-gren 
+cp timediff{,-v3}.c 
+cpi $MRCS/aliases-gredelonghi-en $EMRCS 
+cpi rbekap-ENGIT-sync-mega-gren $EMBIN/rbekap-meganz/
+cpi timediff-v3.c src/
+cpi timediff-v4.c src/
+cpi timediff.c src/timediff-v4.c 
+cpi tyre-sizes-20250527.txt $DOWNLOADS 
+cpi tyre-sizes-20250527.txt ~/majstaf/docs/
+cpi ~/majstaf/majbin/check-git-diffs-en $EMBIN 
+d Trains in 15 minutes:
+dc
+dialog --help | less
+du -sh --total -git | sort --hr | head
+du -sh --total -git | sort -hr | head
+du -sh --total .git | sort -hr | head
+du .git
+echo $(basename $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren)
+echo $(basename $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren))
+echo $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren)
+echo $MAJSTAFEN 
+echo $MRCS 
+em MAMA 
+engt-r
+exir
+find * -maxdepth 2 -iname "*cng*"
+find * -maxdepth 2 -type d -iname "*le*clerc*"
+find * -type f -iname "*\.h"
+find * -type f -iname "*\.h" | grep -v OSTALO
+find * -type f -iname "\.h"
+find * type -f -iname "\.h"
+find -iname "*roxtec*"
+find -name "*-c*
+find -name "*-c*W
+find -name "*SITU*"
+find -type -name "*BRISI*"
+find -type d -name "*BRISI*"
+find -type f -iname "*handle*pointer*"
+find . -maxdepth 3 -type d -iname "*emonika*"
+find / -name 'c_compile_clean_target' *
+find / -name mc.keymap
+find / -type d -iname "ncs*guess*"
+find / -type d -name 'c_compile_clean_target*'
+for DDD in $(find -type d -name "\.git"); do echo $DDD; done
+get_objgraph 
+getconf
+getconf -a
+git show HEAD~1
+grep --color=always -rlE '".*\.h"' *
+grep -E '"
+grep -i mrc ~/majstaf/majrcs/bashrc-gredelonghi-en 
+grep -rE '".*\.h"' *
+grep -rlE '".*\.h"' *
+grep -rlE '".*\.h"' * | grep -v "OSTALO\|ct_129"
+grep -rlE '".*\.h"' * | grep -v OSTALO
+help ranger
+hexdump elements_array.bin 
+https://www.youtube.com/watch?v=ORhyWVLWPTg&list=PLSM9kl8LlQw9cr-MsLFXGdYj98ujkIuzI
+ip -j address list $if | jq
+less elements_array.bin 
+lynxd "https://floooh.github.io/2018/06/02/one-year-of-c.html" ___in
+lynxd "https://floooh.github.io/2018/06/17/handles-vs-pointers.html" c-handles-vs-pointers
+lynxd "https://gist.github.com/tcoppex/443d1dd45f873d96260195d6431b0989" "Writing C software without the standard library Linux Edition"
+lynxd "https://gist.github.com/tcoppex/443d1dd45f873d96260195d6431b0989" Writing-C-software-without-the-standard-library-Linux-Edition
+lynxd "https://isc.sans.edu/diary/rss/32144" bash-sinkholing-suspicious-scripts-or-executables
+lynxd "https://linuxhandbook.com/practice/bash/number-game/" bash-number-game-examples
+lynxd "https://michael.kjorling.se/blog/2025/ip-address-of-network-interface-linux/" ip-address-of-network-interface
+lynxd "https://www.tecmint.com/setup-local-repositories-in-ubuntu/" apt-setup-local-repositories-in-ubuntu
+make -f Makefile_test 
+make -f Makefile_test clean 
+makwe
+mv $FFF $(echo $FFF | tr '[:upper:]' '[:lower:]')
+mv -i find-txt-files-with-one-line_20250217.txt sort-c-files-by-numlines_20250217.txt ~/majstaf/majscripts/oneliners_en/
+mv bash-number-game-examples-20250602.txt $DANES 
+mv bash-number-game-examples-20250602.txt $KNOWLEDGEDB/_BASH/
+mv bash-sinkholing-suspicious-scripts-or-executables-20250728.txt $KNOWLEDGEDB/_BASH/
+mv c-handles-vs-pointers-20250725.txt $KNOWLEDGEDB/_C_and_Cpp/
+mv c-writing-software-without-the-standard-library-linux-edition-20250530.txt $KNOWLEDGEDB/_C_and_Cpp/
+mv file*txt __DANES__/
+mv ncs_999_guessing_game_test_20250123/ ~/majstaf/coding2/testing/ncurses_testing/
+mv remove-unwanted-services-20250529.txt $KNOWLEDGEDB/_LINUX_SYSTEM/
+mv timediff-v4.c timediff.c 
+mv timediff{-v3,}.c 
+mv tyre-sizes-20250527.txt /c/Users/gregor.redelonghi/majstaf_en/r.gregor.en/
+mv writing-c-software-without-the-standard-library-linux-edition-20250530.txt c-writing-software-without-the-standard-library-linux-edition-20250530.txt 
+prepare-fjl-for-knowledgebase ___in-20250725.txt 
+prepare-fjl-for-knowledgebase apt-setup-local-repositories-in-ubuntu-20250724.txt 
+prepare-fjl-for-knowledgebase bash-number-game-examples-20250602.txt 
+prepare-fjl-for-knowledgebase bash-sinkholing-suspicious-scripts-or-executables-20250728.txt 
+prepare-fjl-for-knowledgebase ip-address-of-network-interface-20250724.txt 
+prepare-fjl-for-knowledgebase remove-unwanted-services-20250529.txt 
+prepare-fjl-for-knowledgebase writing-c-software-without-the-standard-library-linux-edition-20250530.txt 
+psswdchange-en 
+ranger
+rclome --help
+rclome help
+rclone --help
+rclone --help | less
+rclone help exclude
+rclone help | grep exclude
+rclone help | grep size
+rclone syns --help
+s1 "htts://www.testing-from-en.si/testing/from-en-20250527.html"
+s2 "Faster (2010)" """
+s2 "Just a TEST from EN on 20250527" """
+s2 "The book on Pointers: for c programmers" """
+s2 "Underrated Movies List" """
+softlink1-fname-to-ulb rbekap-ENGIT-sync-mega-gren
+some very cool links to other soluton ptoviders to check out ...
+stat knowledgedb/
+string-spaces-to-hypens-en "Writing C software without the standard library Linux Edition"
+string-spaces-to-hypens-en Writing-C-software-without-the-standard-library-Linux-Edition
+string-to-lower-with-hypens-en "Sinkholing Suspicious Scripts or Executables"
+string-to-lower-with-hypens-en "Sinkholing Suspicious Scripts or Executables" | xclip
+strings elements_array.bin 
+sysconf (_SC_LEVEL1_DCACHE_LINESIZE)
+target/c_test 
+target/guessing-game 
+tree -d *
+tree -d -L 2 *
+tree bion
+type w3md
+vf 20200910_Polje-c-XXXII-21-in-23/
+vview-sfjl-efzf 
+w3m-multi-dump-fromlist-en seznam 
+z c_T
+z ct_141
+z z _t
+z zt
+---
+./BrthReminder
+./BrthReminder_color 
+./brthdReminder_go
+./brthdReminder_go_colors 
+./c_toolbox/obletnica-c/obletnica-c 
+./c_toolbox/obletnica-c/obletnica-c  2033
+./c_toolbox/zp_padec/zp_padec 
+./c_toolbox/zp_padec/zp_padec 301.00 301.15 75
+./hex2rgb 
+./hex2rgb AABBF3
+./knowledgebase-by-age-en
+./knowledgebase-by-age-en 
+./knowledgebase-by-age-en 12
+./knowledgebase-by-age-en 30
+./knowledgebase-by-age-en 4
+./knowledgebase-by-age-en 42
+./obletnica-z 
+./obletnica-z 2033
+./todays-knowledgedb-files-en 20250610 12
+./todays-knowledgedb-files-en 20250610 8
+./todays-knowledgedb-files-en 20250701
+./todays-knowledgedb-files-en 20250701 01
+./todays-knowledgedb-files-en 20250701 1
+./todays-knowledgedb-files-en 20250701 12
+./zig-out/bin/obletnica-z
+./zig-out/bin/obletnica-z 2033
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %8d (%3d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %wq8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+Heartbreak Ridge (1986)
+IMAGES-remove-pics-from-Downloads 
+NM="Bushwick (2017)"
+cat en_sistem/Kyocera*txt
+cp 2-to-pow-seq-20250624.txt $EMSYS 
+cp 2-to-pow-seq-20250624.txt $MSYS 
+cpi $DOWNLOADS/BEST-MATEMATICIANS-OF-ALL-TIMES-20250721.txt $EPRNS 
+cpi aliases-gredelonghi-en $EMRCS 
+find -iname "*conica*" -o -iname "*minolta*" -o -imame "*myq*"
+find -iname "*print*"
+find -iname "*printer*"
+find -iname "*taska*"
+find -name "*.c"
+find -name "*.zig"
+find -name "2-to-pow-seq-20250624.txt"
+grep -r 'zig ' ~/majstaf/seznami/*.txt
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | grep -v "zig bild\|zig run"
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | grep -v "zig build\|zig run"
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | less
+grep -rh '^zig ' ~/majstaf/seznami/*.txt | less
+grep -rh 'i^zig ' ~/majstaf/seznami/*.txt | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 4-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 4- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 5-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 5- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 6-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 6- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | less
+grep -ro 'zig ' ~/majstaf/seznami/*.txt
+gy
+https://begriffs.com/ | begriffs.com
+https://blog.jyotiprakash.org/c-programming | C Programming - Jyotiprakash's Blog
+https://bloggers.feedspot.com/c_programming_blogs/ | 20 Best C Programming Blogs and Websites in 2025
+https://c-for-dummies.com/blog/ | C For Dummies Blog
+https://danluu.com/programming-blogs/ | Some programming blogs to consider reading
+https://dotat.at/@/ | Tony Finch – blog archive contents
+https://gustedt.wordpress.com/ | Jens Gustedt's Blog
+https://medium.com/tag/c-programming | The most insightful stories about C Programming - Medium
+https://nrk.neocities.org/ | NRK's Homepage
+https://www.google.com/search?client=firefox-b-d&q=c+programming+blogs | c programming blogs - Google Search
+https://www.quora.com/What-are-the-sites-and-blogs-to-study-C-programming-which-I-should-visit-for-knowledge | What are the sites and blogs to study C programming which I should visit for knowledge? - Quora
+https://www.reddit.com/r/C_Programming/comments/16e7thg/what_are_some_good_blogs_on_programming_in_c_you/ | What are some good blogs on programming in C? (You can post your own) : r/C_Programming
+https://www.reddit.com/r/C_Programming/comments/ljqw83/favourite_blogs_preferably_about_c/ | Favourite Blogs (preferably about C) : r/C_Programming
+https://www.rfleury.com/ | Digital Grove | Ryan Fleury | Substack
+ln -s -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/go_toolbox/BrthReminder/BrthdReminder_1.1.0.exe brthdReminder_go
+ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox c_toolbox
+ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder-c-colors.exe BrthReminder_color
+ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder-c.exe BrthReminder
+ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c.exe BrthReminder
+ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox/hex2rgb/hex2rgb.exe hex2rgb 
+ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/go_toolbox/BrthReminder/BrthdReminder_1.1.0_colors.exe brthdReminder_go_colors
+mv ./* $KNOWLEDGEDB/_LINUX_SYSTEM/
+narocilo-KOPILAB 
+nvol status
+obletnica-c
+obletnica-c 2035
+obletnica-z 
+pip list
+rbekap-PROJEKTI-copy-mega-gren 
+rsort-by-tmstmp-c 
+s2 "Why I Had to Build My Own Library in Zig | SuperZig | Ep1" """
+todays-knowledgedb-files-en 9
+trewe
+vmf
+vmf-e
+which ydlF
+yt-dlp 
+yt-dlp --help
+yt-dlp --help | grep update
+yt-dlp --help | hrep update
+yt-dlp -U
+z .config
+z c-t
+zig
+zig -h 
+zig run src/main.zig 2033
+zig | less
+zoxide --help
+         -1
+         -128
+         -9223372036854775808
+         127
+         14
+         16384
+         POSIXLY_CORRECT=1
+"https://365.rtvslo.si/arhiv/tuji-dokumentarci/174968475"
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%-4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%-4d)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%d)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%d)\n" "2" "${E}" "$((${R}/2))" ; let B=$B*2; done
+BrthReminder-c-colors
+GS
+GS       undefined
+NM="Diabolik (2021)"
+NVS      POSIX_V6_LP64_OFF64
+S
+S        200809
+bin/timediff
+c $EMBIN
+c ct_999_c-modules-testing
+cat sites-with-quotes.txt 
+cat sites.txt
+chmod 644 sites.txt 
+cp *.sh src/
+cp rust-sold-on-rust-by-showing-cpp-20250605.txt $KNOWLEDGEDB/_RUST/
+cpi .config/mc/ini $EDTFJLS/.config/mc/
+cpi .config/ranger/rc.conf $EDTFJLS/.config/ranger/
+danes
+echo $URL
+echo $URL | cut -d' ' $1
+echo $URL | cut -d' ' -f1
+echo $URL |sed 's/\(.* \).*/\1/'
+echo $URL |sed 's/\(.*\) *.*/\1/'
+echo $URL |sed 's/\(.*\) */\1/'
+echo $URL |sed 's/\(.*\) .*/\1/'
+echo $URL |sed 's/\(.\+\) *.*/\1/'
+fg %1
+git clone https://github.com/ranger/colorschemes.git
+git show HEAD~2
+grep -r reada *
+grep -r reada ~/majstaf/majbin/*
+grep ^[! c]
+l -A
+lynd "https://spacelift.io/blog/docker-volumes" docker-volumes
+lynx -dump shuf.html 
+lynx -dump shuf.html > tst2
+lynx -dump shuf.html | less
+lynxd "https://spacelift.io/blog/docker-volumes" docker-volumes
+lynxd join.html 
+lyxnd "https://spacelift.io/blog/docker-volumes" docker-volumes
+mkdir ct_999_c-modules-testing
+mv Tehnicne-zahteve_202{4,5}
+mv docker-* $KNOWLEDGEDB/_DOCKER/
+mv ptn-20151106-pyramide.onl.txt ptn-pyramide-onl-20151106.txt 
+mv ptn-jv-{ptn-,}howto-organize-coding-project-multif-20180905.txt 
+mv sed-search.txt ~/majstaf/majscripts/oneliners_en/
+mv tui-5P-14-great-tips-to-make-amazing-cli-applications-20240828.txt ../_CS_and_other_PL/
+mv {rust,rst}-sold-on-rust-by-showing-cpp-20250605.txt 
+prepare-fjl-for-knowledgebase docker-volumes-20250605.txt 
+prepare-fjl-for-knowledgebase rust-sold-on-rust-by-showing-cpp-20250605.txt 
+rsort-by-tmstmp-c $KNOWLEDGEDB/_C_and_Cpp/
+rsort-by-tmstmp-c $KNOWLEDGEDB/_C_and_Cpp/ |head -n 20
+rsort-by-tmstmp-c $KNOWLEDGEDB/_RUST/
+s2 "Ko morje ogroža mesta
+s2 "Ko morje ogroža mesta -- Francoska dokumentarna oddaja (3. 6. 2025, 52 min. še 29 dni"
+s2 "Ko morje ogroža mesta -- Francoska dokumentarna oddaja (3. 6. 2025, 52 min. še 29 dni" "https://365.rtvslo.si/arhiv/tuji-dokumentarci/174968475"
+testing-gtgh-r
+touch c-modules-test-v1.c
+w3m -dump shuf.html > tst1
+w3m -dump shuf.html | less
+z
+zig clean
+zig run src/main.zig 
+zig-out/bin/obletnica-z
+zoxide query
+ļl
+./bekap-copy-projekti-mega-gren 
+./ff-aunch 
+./fzf-nova 
+./rbekap-copy-downloads-mega-gren 
+B=2; for E in $(seq 1 18); do $R=$((${B}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do $R=$((${b}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-5d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "${B}, ${E}, ${R}"; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=$(($B-1))*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=($B-1)*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B} ${E} ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B} ${E} ${R}; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n", ${B} ${E} ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n", ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n, ${B}, ${E}, ${R}"; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = ${B}*2\n"; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n" ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n", ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n, ${B}*2"; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = \n"; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n ${B} ${E} ${B}*2"; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B} ${E} ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $(( ${B} * 2 )); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $((${B} * 2)); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $((${B}*2)); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n, ${B}, ${E}, ${B}*2"; done
+NM=
+NM="Bad Ass (2012) -- Danny Trejo" && s2 "$NM" "$NM"
+NM="Fire with Fire (2012)" && s2 "$NM" "$NM"
+c fzf-nova/
+cat *
+cat UTF-8-demo.txt 
+cat test.c
+chmod 755 bekap-copy-projekti-mega-gren 
+ck bekap-{copy,sync}-projekti-mega-gren 
+contains 
+cp $DOWNLOADS/n4m3s.txt $EMSYS 
+cp $DOWNLOADS/n4m3s.txt $MSYS 
+cp -r AVIONI/ $DOWNLOADS 
+cp -r rbekap-meganz $EMBIN 
+cp -r rbekap-meganz $EMBIN/
+cp bekap-copy-{projekti,downloads}-mega-gren 
+cp bekap-sync-{projekti,downloads}-mega-gren 
+cp bekap-{copy,sync}-projekti-mega-gren 
+cp ff-en-bookmarks-202506109.html $DANES
+cp fzf-nova{,-original}
+cp rbekap-H-2025-PODLOGE-{copy,sync}-mega-gren 
+cp rbekap-{PROJEKTI,H-2025-PODLOGE}-copy-mega-gren 
+cpi ./* $KNOWLEDGEDB/_C_and_Cpp/
+cpi rbekap-H-2025-PODLOGE-* $EMBIN/rbekap-meganz/
+cpi sites.txt $EPRNS 
+cpi timediff.c src/timediff-v2.c 
+cygpath -w "/h"
+d $EMSYS 
+engt-s
+exot
+find -iname "*ac*dolg*"
+find -type -d -name "mega_*"
+find -type d -name "mega_*"
+for E in $(seq 1 18); do echo "2**${E}"; done
+for E in $(seq 1 18); do printf "2^${E} = "; done
+for E in $(seq 1 18); do printf "2^${E} = \n"; done
+for E in $(seq 1 19); do echo "2**${E}"; done
+for FFF in *; do mv -v $FFF ${FFF//bekap/rbekap}; done
+for FFF in *; do mv -v $FFF ${fff//bekap/rbekap}; done
+for FFF in *; do softlink1-fname-to-ulb $FFF; donefo
+for FFF in *; do softlink1-fname-to-ulb $FFF; donefor
+for FFF in rbekap-H-2025-PODLOGE-*; do softlink1-fname-to-ulb $FFF; done
+getconf LEVEL1_DCACHE_LINESIZE
+git clone https://github.com/gotbletu/fzf-nova.git
+git diff HEAD^ HEAD
+greo '--header' _*
+grep -l '\--header' _*
+grep -r "BASH_SOURCE" *
+grep -r "SOURCE" *
+grep -r bash *
+grep -r script *
+grepc '--header' _*
+grepc '\--header' _*
+gstz
+history | grep "zip \|unzip "
+history | grep "zip\|unzip"
+l1
+lynxd "https://alexwlchan.net/2025/mildly-dynamic-websites/" "$(echo "static websites for tiny archives" | tr ' ' '-')"
+lynxd "https://antonz.org/go-concurrency/race-conditions/" go-concurrency-race-conditions
+lynxd "https://medium.com/@andrew_johnson_4/understanding-atomic-types-in-c-ff596f52fe55" c-understanding-atomic-types
+lynxd "https://medium.com/@jahskee_82010/stack-linkedlist-c-implementation-aed3b48ce02d" c-stack-linkedlist-c-implementation
+lynxd "https://stackoverflow.com/questions/50998284/how-to-initialize-double-pointers" c-howto-initialize-double-pointers
+majčina mojca
+mkdir $KNOWLEDGEDB/_HTML_CSS_JS
+mkdir rclone-meganz
+mv $DANES/c-understanding-atomic-types-20250609.txt _C_and_Cpp/
+mv -i rust-sold-on-rust-by-showing-cpp-20250605.txt $KNOWLEDGEDB/_RUST/
+mv c-stack-linkedlist-c-implementation-20250609.txt $KNOWLEDGEDB/_C_and_Cpp/
+mv ct_999_c-modules-testing/ ../
+mv go-concurrency-race-conditions-20250623.txt $KNOWLEDGEDB/_GO/
+mv rbekap-{copy-downloads,DOWNLOADS-copy}-mega-gren 
+mv rbekap-{copy-projekti,PROJEKTI-copy}-mega-gren 
+mv rbekap-{sync-projekti,PROJEKTI-sync}-mega-gren 
+mv rclone-meganz/ rbekap-meganz
+mv static-websites-for-tiny-archives-20250610.txt $KNOWLEDGEDB/_HTML_CSS_JS/
+mv test-strings-associated-with-enum-constnts.c $CTST/ct_OSTALO/
+mv test.c test-strings-associated-with-enum-constnts.c
+prepare-fjl-for-knowledgebase c-howto-initialize-double-pointers-20250623.txt
+prepare-fjl-for-knowledgebase c-howto-initialize-double-pointers-20250623.txt 
+prepare-fjl-for-knowledgebase c-stack-linkedlist-c-implementation-20250609.txt 
+prepare-fjl-for-knowledgebase c-understanding-atomic-types-20250609.txt 
+prepare-fjl-for-knowledgebase go-concurrency-race-conditions-20250623.txt 
+prepare-fjl-for-knowledgebase static-websites-for-tiny-archives-20250610.txt 
+rbekap-H-2025-PODLOGE-sync-mega-gren 
+rclone copy $(cygpath -w "$PWD/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rclone copy $(cygpath -w "$PWD/_2025_podloge") mega_gren_ENERGETIKA/h_2025_podloge
+rclone copy -r AVIONI mega_gren:ENERGETIKA/Downloads/AVIONI
+rclone copy AVIONI mega_gren:ENERGETIKA/Downloads/AVIONI
+rclone copy _IMAGES mega_gren:ENERGETIKA/Downloads/_IMAGES
+rclone sync $(cygpath -w "/h/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rewrapp c-howto-initialize-double-pointers-20250623.txt 
+s2 
+s2 "Heartbreak Ridge (1986) -- Clint Eastwood" """
+s2 "danes 20250605" """
+show-aliases-en
+string-to-lower-with-hypens-en "The fastest way to detect a vowel in a string"
+string-to-lower-with-hypens-en The fastest way to detect a vowel in a string"
+unzip -l dotfiles-en-r-20250619.zip | grep "ssh\|SCR"
+vf ct_141_timediff_20250521/
+vi sites.txt 
+w3m -dump "https://docs.oracle.com/en/learn/migr-ocistorage-rclone-p2/index.html#test-environment-1"
+wget "https://www.cl.cam.ac.uk/~mgk25/ucs/examples/UTF-8-demo.txt"
+z know
+z mrts
+z zig_t
+zig-out/bin/obletnica-z 2033
+~/majstaf/majbin/lynxdump/lynx-multi-dump-fromlist-en "rclone-seznam.txt"
+~/majstaf/majbin/lynxdump/lynx-multi-dump-fromlist-en rclone-seznam.txt 
+çd $KNOWLEDGEDB/_C_and_Cpp/
+mv sample.txt unicode-sampler.txt
+	            ^^^^
+./ctest 
+./dec_to_bin f
+./lookup-table-test.c 
+NM="
+bin/timediff-v3 
+bin/timediff-v4
+bin/timediff-v4 ž
+c TEST/
+cat $EPRNS/changed-files-mdb-20250417.txt 
+cat ascii-codes.txt 
+cat ffen-passwords-20250618.txt | tr ',' '\t'
+cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}'
+cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}' > ffen-passwords-20250618-reduced.txt
+cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}' | less
+cat sample.txt 
+cat simple.txt 
+contains "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
+cp $CTST/Makefile .
+cp -r ct_999_lokkup_table_test_20250618/ $CTST 
+cp -r rclone-en/ $EMSYS 
+cp ffen-passwords-20250618.csv ffen-passwords-20250618.txt
+cpi timediff.c src/timediff-v3.c 
+du -sh --total .* | sort -hr | clm
+du -sh --total .* | sort -nr
+du -sh --total .* | sort -nr | clm
+du -sh .*
+ff index.html 
+find ! -name "*.zip"
+find -name "*-c*"
+find -type d -name "\.git"
+for N in 1 2 3 4 5 6 7 8 9; do touch file-${N}.txt; done
+ghgl-testpush-en 
+grep -rEl '"abc"' *
+grep -rEl '\*\*.*= *{' *
+grep -rEl 'comp.*literal' *
+grep -rEl 'literal' *
+gst 
+history |grep rclone
+less robots.txt 
+less test.zip 
+lf
+lynxd "https://anjackson.net/2023/07/04/robust-file-transfers-with-rclone/" rclone-robust-file-transfers
+mkdir ct-999-lokkup-table-test-20250618
+mkdir rclone-en
+mkdir src
+mkdirTEST
+mv ascii-codes.txt ascii-sampler.txt
+mv ct-999-lokkup-table-test-20250618 $(echo "ct-999-lokkup-table-test-20250618" | tr '-' '_')
+mv ct_142_lo{k,o}kup_table_test_20250618/
+mv ct_{999,142}_lokkup_table_test_20250618/
+mv sample.txt unicode-sampler.txt
+prepare-fjl-for-knowledgebase c-handles-vs-pointers-20250725.txt 
+prepare-fjl-for-knowledgebase rclone-robust-file-transfers-20250619.txt 
+r, simple.txt 
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress --update
+rclone copyto dotfiles-en-20250619.zip mega_gren:ENERGETIKA/dotfiles-en-20250619.zip
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING/
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING/dotfiles-testing.zip
+tree -d
+tree bin/
+unzip -P z7m17s11G. dotfiles-en-20250619.zip 
+unzip -l dotfiles-en-20250619.zip | grep ss
+unzip -l dotfiles-en-20250619.zip | less
+unzip -l dotfiles-en-r-20250619.zip | less
+unzip -l test.zip 
+unzip dotfiles-testing.zip
+unzip dotfiles-testing.zip 
+uzip dotfiles-en-20250619.zip 
+v sample.txt unicode-sampler.txt
+w3md "https://www.tecmint.com/remove-unwanted-services-from-linux/" remove-unwanted-services
+wget "https://sheet.shiar.nl/sample.txt"
+wget "https://theasciicode.com.ar/ascii-codes.txt"
+zip -e dotfiles-en-20250619.zip .*
+zip -er dotfiles-en-r-20250619.zip .*
+zip -er dotfiles-en-r-20250619.zip .* -x ".cache/*" ".tmp/*" @
+zip test.zip .*
+zless test.zip 
+čs -tF | head -n30
+         2
+         20
+         2147483647
+         65536
+         9
+         9223372036854775807
+/home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exetmxks
+bin/uconcat 
+cat gregor.redelonghi.en_MEGA-RECOVERYKEY_20250618.txt 
+contains "https://stackoverflow.com/questions/1088622/how-do-i-create-an-array-of-strings-in-c"
+cpi $MRCS/aliases-gredelonghi-en $EMRCS
+find * -maxdepth 3 -iname "vn*cenet*"
+find * -maxdepth 3 -iname "vn*vo*ka*"
+glog-status-en 
+grep -rE '\*\*.*=.*{' *
+grep -rlE '\*\*.*=.*{' *
+lynxd "https://stackoverflow.com/questions/1088622/how-do-i-create-an-array-of-strings-in-c" c-howto-create-array-of-strings
+lynxd "https://www.geeksforgeeks.org/c/array-of-strings-in-c/" c-array-of-strings-geeksforgeeks-5pp
+mv START-tab-hoe-to-duisable_20250619.txt START-tab-how-to-disable_20250619.txt 
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025") mega_gren:ENERGETIKA/Tehnicne-zahteve_2025 --progress
+rewrapp c-howto-create-array-of-strings-20250618.txt 
+tar tvzf NEW-MACC.tgz 
+type ydlF
+z _C_a
+zig-clean 
+zoxide add .
+exit
+c
+cp majprogs-yes-no.txt majprogs_en/
+du -sh --total 7-Zip/ 7z-source/ go1.23.0.windows-amd64/
+file $(which rclone)
+find * -maxdepth 0 -type d
+find * -maxdepth 0 -type d |grep -v "cygwin\|OneC\|CodeB\|c3\|DB-B\|CyberC\|micro\|lf-w" |xargs du -sh --total |sort -hr
+find * -maxdepth 0 -type d |grep -v cygwin
+find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total |sort -hr
+find -iname "*conica*" -o -iname "*minolta*" -o -iname "*myq*"
+find -iname "*gesl*"
+find -iname "*kyocera*"
+find -iname "*minolta*"
+find -iname "*myq*"
+find -iname "*printer*txt"
+history | less
+hsrl
+lynxd "https://www.tomshardware.com/software/linux/how-to-create-a-custom-linux-app-menu-zenity-makes-it-easy" zenity-howto-create-a-custom-linux-app-menu
+mv 'DB Browser for SQLite' 'DB_Browser_for_SQLite'
+mv majprogs_en/majprogs-yes-no.txt .
+mv ptn-fastest-way-to-detect-a-vowel-in-a-string-20250616.txt ptn-fastest-way-to-detect-vowel-in-string-20250616.txt 
+mv ptn-fastest-way-to-detect-vowel-in-string-20250616.txt $KNOWLEDGEDB/_PYTHON/
+mv zenity-howto-create-a-custom-linux-app-menu-20250616.txt $KNOWLEDGEDB/_LINUX_SYSTEM/
+mv {the,ptn}-fastest-way-to-detect-a-vowel-in-a-string-20250616.txt 
+obletnica-z 2035
+prepare-fjl-for-knowledgebase ptn-fastest-way-to-detect-vowel-in-string-20250616.txt 
+prepare-fjl-for-knowledgebase zenity-howto-create-a-custom-linux-app-menu-20250616.txt 
+rclone copy $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads
+rclone copy /c/Users/gregor.redelonghi/Downloads mega_gren:ENERGETIKA/Downloads
+rclone copy Tehnicne-zahteve_2025 mega_en:ENERGETIKA
+rclone copy Tehnicne-zahteve_2025 mega_en:ENERGETIKA/Tehnicne-zahteve_2025
+rclone copy Tehnicne-zahteve_2025 mega_gren:ENERGETIKA/Tehnicne-zahteve_2025
+rclone copy _2025_1_PROJEKTI mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from /majprogs-yes-no.txt --progress
+rclone remote
+rclone sync --progress _2025_1_PROJEKTI mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+rclone sync help
+rclonr remote
+rsync config
+testing-gtgh-status-en 
+tmxnstmxks
+which rclone
+1
+find -type d
+grep -r BASH *
+grepc -H rltD *
+z c_z
+z majbin
+	            ****
+         0
+         1000
+         1024
+         16
+         32767
+./make-dir-structure.sh 
+LL
+S        undefined
+grep '^[! c]' *
+mc --nocolor
+./show-aliases.sh 
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+d
+s2 "
+./BRISI 
+./bekap-sync-projekti-mega-gren 
+find -name "UTF*"
+grep -r SOURCE *
+mv -i c-* $KNOWLEDGEDB/_C_and_Cpp/
+p3
+rclone sync $(cygpath -w "/h/2025/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rclone sync --help
+         256
+/e/RUN_backups -a
+broken-symlinks-list 
+cpi rclone-robust-file-transfers-20250619.txt $KNOWLEDGEDB/_RCLONE/
+prs
+z bin
+zig build
+EXIT
+cp dotfiles-en-20250619.zip $BRISI 
+for FFF in *; do echo $FFF; done
+mkdir TEST
+mv dotfiles-en-20250619.zip TEST/
+unzip -l dotfiles-en-20250619.zip 
+pwd
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads --progress
+         64
+         99
+fm 0_converted_to_PDF/
+prepare-fjl-for-knowledgebase c-array-of-strings-geeksforgeeks-5pp-20250618.txt 
+prepare-fjl-for-knowledgebase c-howto-create-array-of-strings-20250618.txt 
+rbekap-ENGIT-sync-mega-gren 
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+tree bin
+/e/RUN_backups -c
+find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total
+         2048
+:q
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+z mets
+rclone help
+rclone sync --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+PDDR
+history | grep wget
+qtm
+CD
+bin/timediff-v4 
+unzip dotfiles-en-20250619.zip 
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress
+'''
+engt-status 
+mc
+rclone config
+         255
+"""
+mv c-* $KNOWLEDGEDB/_C_and_Cpp/
+         8
+history
+find -name "*jp*g"
+mcm
+rclone help |less
+         1
+         32
+         undefined
+LP,
+rclone listremotes
+sbr
+s2 "$NM" "$NM"
+bin/timediff-v2 
+fm
+danes-check
+./fzf-nova
+rbekap-DOWNLOADS-copy-mega-gren 
+./test 
+make clean 
+./rbekap-ENGIT-sync-mega-gren 
+/d/RUN_backups -c
+history | grep rclone
+rbekap-PROJEKTI-sync-mega-gren 
+bin/timediff 
+bin/lookup-table-test 
+/d/RUN_backups -a
+duh
+r
+         200809
+z c_t
+get-endiffs 
+tree
+pddr
+tmxks
+/home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+tmxns
+
+make
+l
+gst
+gyes-add-commit-push 
+exit

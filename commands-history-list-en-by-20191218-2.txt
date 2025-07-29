@@ -1,0 +1,3502 @@
+ 'gn002_zamenjaj_20190927'
+ 'gn008_pointers_20191008'
+ python.txt
+!
+# ZS DOMA:
+$> for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); mv -v $DDN ${DDN/g/gd}; done
+$> for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); mv -v $DDN ${DDN/g/gn}; done
+$> gregor.redelonghi@cygwin-en [/home/gregor.redelonghi/GO_en_testing]
+$line
+' -> 'gn003_simple-tests_20190930'
+'g001_example_20190927' -> 'gn001_example_20190927'
+'g002_zamenjaj_20190927' -> 'gn002_zamenjaj_20190927'
+'g003_simple-tests_20190930' -> 'gn003_simple-tests_20190930'
+'g004_joining_strings_20191001' -> 'gn004_joining_strings_20191001'
+'g005_deb_stene_cevi_20191002' -> 'gn005_deb_stene_cevi_20191002'
+'g006_numbers_20191004' -> 'gn006_numbers_20191004'
+'g007_structs_20191007' -> 'gn007_structs_20191007'
+'g008_pointers_20191008' -> 'gn008_pointers_20191008'
+'g009_modules-testing_20191017' -> 'gn009_modules-testing_20191017'
+'g010_time-and-date_20191017' -> 'gn010_time-and-date_20191017'
+'g011_time-and-date_modules_20191020' -> 'gn011_time-and-date_modules_20191020'
+'g012_structs_20191028' -> 'gn012_structs_20191028'
+'g013_slices_and_maps_20191029' -> 'gn013_slices_and_maps_20191029'
+'g014_faktor_istocasnosti_20191029' -> 'gn014_faktor_istocasnosti_20191029'
+'g015_preracun_porabe_zp_20191030' -> 'gn015_preracun_porabe_zp_20191030'
+'g016_maps_20191105' -> 'gn016_maps_20191105'
+'g017_BrthdReminder_20191108' -> 'gn017_BrthdReminder_20191108'
+'g018_scriptAbsPath_20191112' -> 'gn018_scriptAbsPath_20191112'
+'gn001_example_20190927'
+'gn006_numbers_20191004'
+'gn007_structs_20191007'
+'gn012_structs_20191028'
+(( n = 45 + 54 ))
+(($a+$b))
+((d=$a+$b))
+*deb*/De/.exe
+*deb*/Deb*
+- ...
+- fast
+- no encription
+-en [/home/gregor.redelonghi/GO_en_testing]
+...
+./$(readlink -f BrthdReminder) 
+./*deb*/De/.exe
+./BrthdReminder_1.0.2.py Barbara
+./BrthdReminder_1.0.2.py Boštjan Barbara
+./BrthdReminder_1.0.2.py Flo
+./BrthdReminder_1.0.2.py Jasna
+./BrthdReminder_1.0.2.py Mal
+./BrthdReminder_1.0.2.py Nataša
+./BrthdReminder_1.0.2.py Redelonghi
+./BrthdReminder_1.0.2.py Tadeja
+./BrthdReminder_1.0.3.py 
+./BrthdReminder_1.0.3.py Boštjan
+./Debelina_stene_V2
+./Debelina_stene_V2 245 0.5 70 114.3
+./Debelina_stene_V2.go 245 0.5 70 114.3
+./LLists_en_V2_20180424.py
+./LLists_en_V2_20180424.py data.csv 
+./LLists_en_V3_20180425.py data.csv 
+./LLists_en_V3_20180425.py data2.csv 
+./LLists_en_V4_20180426.py data.csv 
+./LLists_en_V4_20180426.py data2.csv 
+./danes.exe 
+./file-delta_V1_20180112.py 
+./goexec.exe -h
+./mystructs_V2.exe 
+./pointers
+./pointers.exe 
+./print_table_V2.py 
+./test
+./test2
+./test2-2.exe 
+./test2-2.go 
+./test4
+./test4.exe 
+.txt
+/\1Scripting/' python.txt
+/add.pl
+/c/Users/gregor.redelonghi/go/bin/Debelina_stene.exe 
+/c/Users/gregor.redelonghi/go/bin/goexec.exe 'http.ListenAndServe(`:8080`, http.FileServer(http.Dir(`.`)))'
+/c/Users/gregor.redelonghi/go/bin/test.exe 
+00/; /EEE/ s/Count/70/;' dept.txt
+001' -> 'gn004_joining_strings_20191001'
+016_maps_20191105'
+017' -> 'gn009_modules-testing_20191017'
+0191029' -> 'gn014_faktor_istocasnosti_20191029'
+02' -> 'gn005_deb_stene_cevi_20191002'
+029' -> 'gn013_slices_and_maps_20191029'
+0a_povezave/BirthdReminder 
+0a_povezave/Debelina_stene.exe 
+191030' -> 'gn015_preracun_porabe_zp_20191030'
+2' -> 'gn018_scriptAbsPath_20191112'
+20191002_deb_stene_cevi/deb_stene_cevi/Debelina_stene.exe 
+7' -> 'gn010_time-and-date_20191017'
+8' -> 'gn017_BrthdReminder_20191108'
+Better use NFS:
+DBOT
+Debelina_stene_V2.go 245 0.5 70 114.3
+GO RUN stc12.go
+GOOS=Linux GOARCH=amd64 build pointers.go 
+GOOS=Linux GOARCH=amd64 go build pointers.go 
+GOOS=linux GOARCH=amd64 go build pointers.go 
+INSTALL-s.txt
+If you need to improve the speed for sshfs connections, try these options:
+NP
+Python3 $(readlink -f BrthdReminder)
+Python3 $(readlink -f BrthdReminder) 
+Python3 $(readlink -f BrthdReminder) Kuz
+Python3 $(readlink -f BrthdReminder) ar
+Python3 $(readlink -f BrthdReminder) cj
+Python3 $(readlink -f BrthdReminder) ta
+Python3 $(readlink -f BrthdReminder) Šp
+RUD
+TOP
+URL="https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin"
+URL="https://scene-si.org/2018/01/25/go-tips-and-tricks-almost-everything-about-imports/"
+URL="https://stackoverflow.com/questions/17539407/how-to-import-local-packages-without-gopath/17539525#17539525"
+_20191020' -> 'gn011_time-and-date_modules_20191020'
+a+b
+a="T"
+a=50
+b="OP"
+b=90
+bash $line
+bash rename2_seznam2.sh g
+build test2-2.go 
+c coding/
+c d-
+c d..
+c majprint/
+c zonedb/
+c:\Users\gregor.redelonghi\myprogs\go1.11.2.windows-386\go\bin\go.exe get github.com/domainr/whois
+c=$(($a+$b))
+c=(($a+$b))
+ca plot.log 
+cat /f
+cat /f/bekaps/bekap_en.log 
+cat DIR_STRUCTURE_LAYOUT_20190329.txt 
+cat F1.txt 
+cat F2.txt 
+cat ScannerDemo2.java 
+cat bekaps_en/bekap_en.log 
+cat export ~/.bashrc
+cat majfile
+cat modules_local/go.mod 
+cat no/file || pwd
+cat plot.log 
+cat plot.log || pwd
+cat seznam.txt | sed 's/\([[:digit:]]\{8\}\)\(.*\)/\2, \1/'
+cat seznam.txt | sed 's/\([[:digit:]]\{8\}\)\(.*\)/\2_\1/'
+cat seznam.txt | sed -n '/[[:digit:]]\{8\}/p' seznam.txt 
+cat seznam.txt | sed -n '/[[:digit:]]{8}/p' seznam.txt 
+cat seznam.txt | sed -n 's/\([[:digit:]]\{8\}\)\(.*\)//2, /1' seznam.txt 
+cat seznam.txt | sed -n 's/\([[:digit:]]\{8\}\)\(.*\)/\/2, \/1' seznam.txt 
+cat seznam.txt | sed -n 's/\([[:digit:]]\{8\}\)\(.*\)/\2, \1' seznam.txt 
+cat seznam.txt | sed -n 's/\([[:digit:]]\{8\}\)\(.*\)/\2, \1/'
+cat seznam.txt | sed -n 's/\([[:digit:]]\{8\}\)\(.*\)/p' seznam.txt 
+cat seznam2
+cat test.txt 
+cat xsane.rc 
+chmod 700 MCDN_en/
+chmod 700 MCDN_en/DEST/
+chmod 755 BrthdReminder.py 
+chmod 755 DEST/
+chmod 755 MCDN_en/
+chmod 755 create_bekaps_dir_structure.sh 
+chmod 766 DEST/
+chmod 777 DEST/
+cp -r ./* /f/
+cp -r /c/Users/gregor.redelonghi/Downloads/whois-master/* .
+cp -r /c/Users/gregor.redelonghi/Dropbox/ODPRTO/MCDN_d/GO_d/GO_d_testing/20191020_time-and-date_modules/ .
+cp -r go1.13.3.windows-amd64/ /c/Users/gregor.redelonghi/majstaf/myprogs/
+cp -r main.go majekzample.kom/ ~/BRISI/TEST/src/
+cp -r nnn-master ~/sorsi/
+cp -r rojstni_dnevi_20191106/ ~/PYTHON_en_testing/
+cp -r whois-app/ whois-app_simple
+cp -r ~/BRISI/TEST/* ./
+cp -rd SRC/* /c/Users/gregor.redelonghi/Dropbox/ODPRTO/MCDN_en/DEST/
+cp -rv ./* /c/Users/gregor.redelonghi/go/src/
+cp /f/priloge.zip ~/BRISI/
+cp BrthdReminder_1.0.{2,3}.py 
+cp BrthdReminder_V2.py BrthdReminder.py 
+cp Debelina_stene.exe /c/Users/gregor.redelonghi/majstaf/BRISI/
+cp Debelina_stene.exe /h
+cp Debelina_stene.exe Debelina_stene
+cp Debelina_stene.go /c/Users/gregor.redelonghi/majstaf/myprogs/
+cp RealPython_20190910.txt /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_PYTHON/
+cp main.go Debelina_stene.go
+cp rdji.txt ROJSTNIDNEVI.txt
+cp snake.py NumsDisp.py ~/PYTHON_en_testing/
+cp ~/BRISI/mytime.go .
+cp ~/GO_en_testing/RENAME_20191025.sh .
+dc shurcooL/
+diff . ~/DROPBOX/ODPRTO/MCDN_en/
+diff /c/Users/gregor.redelonghi/ /j/bekaps/bekap_c_gregor.redelonghi
+diff /c/Users/gregor.redelonghi/ /j/bekaps/bekap_c_gregor.redelonghi/
+diff /c/Users/gregor.redelonghi/ /j/bekaps/bekap_c_gregor.redelonghi/ | grep -i only
+diff /c/Users/gregor.redelonghi/ /j/bekaps/bekap_c_gregor.redelonghi/ | grep only
+diff /c/Users/gregor.redelonghi/2019/ /j/bekaps/bekap_en_2019/
+diff /c/Users/gregor.redelonghi/majstaf/myprogs/ /j/bekaps/bekap_c_gregor.redelonghi_myprogs/
+dir
+du
+du & pwd
+du -m --total
+du -m --total -s ./*
+du -m --total -s ./* |sort -hr
+du -sh bekaps/c_Users_gregor.redelonghi_Dropbox_*
+du -sh c_Users_gregor.redelonghi_Dropbox_ODPRTO
+du -sh cloud.google.comgo/
+du -sh go
+e file
+ecgo %GOPATH%
+echo "T" + "OP"
+echo "T", "OP"
+echo "T, OP"
+echo "majfajl" >> majfile 
+echo "p"
+echo "p" + "W"
+echo $(cygpath -w $PTH)
+echo $(name,,[OP]}
+echo $(name,,[OR]}
+echo $GOPATHset GOPATH=echo $GOPATH
+echo $a$b
+echo $a+$b
+echo $c
+echo $d
+echo $n
+echo ${line#*.}
+echo ${line#*/}
+echo ${line#*\.}
+echo ${line%%.*}
+echo ${line%*.}
+echo ${line%*/}
+echo ${line%.*}
+echo ${name,,[EGOR]}
+echo ${name,,[GOR]}
+echo ${name^[or]}
+echo ${name^^[or]}
+echo ${name^^}
+echo %GOPATH
+echo 'Prva vrsta
+ed  's/\(Bash\)/Learn \1 programming/'
+erl/add.pl | sed 's;/;\\/;g'
+eval $a$b
+export GOPATH=.
+export GOPAZH=$(cygpath -w $PWD)
+ffs "go_modules-and-dependencies-multif_20191209.txt"
+ffs "ipv6_How-to-Configure-an-IPv6-Address-in-Ubuntu_20191002.txt"
+ffs go_local-repository-for-go-modules_20191016.txt 
+ffs howto_restrict-users-access_20170825.txt 
+ffs jv_javase-deploy_20190322.txt
+fiff . ~/DROPBOX/ODPRTO/MCDN_en/
+file $(which rename1_fname)
+find -iname "*fyne*"
+find -name "*.exe"
+find -name "*staro*"
+find -type d -iname "*po*arnic*"
+find -type d -iname "*rp[ -_]*"
+find -type d -iname "*rv[ -_]*"
+find -type f
+find -type f -iname "*\.go"
+find -type f -iname "*\.go" | grep -v master
+find -type f -iname "*folder*22"
+find -type f -iname "*folder*23"
+find -type f -iname "*folder*23*"
+find -user "*greg*"
+find -user gregor
+find -user gregor.redelonghi
+find -user gregpr
+find /h/ -type d -iname "*po*arnic*"
+find BB
+find BB || echo "NO SUCCESS THERE!"
+for N in {2..6}; do touch stc${N}.go; done
+for N in {7..14}; do touch stc${N}.go; done
+git
+git --version
+git clone https://code.googlesource.com/gocloud C:\Users\gregor.redelonghi\myprogs\cygwin64\home\gregor.redelonghi\go\src\cloud.google.com\go
+git clone https://github.com/fyne-io/fyne.git
+git clone https://github.com/zonedb/zonedb.git
+go --version
+go ...
+go build Debelina_stene_V2.go 
+go build joining_strings.go 
+go build mytime.go 
+go build pointers.go 
+go build test2-2.go 
+go build test4.go 
+go doc bufio
+go doc bufio NewScanner
+go doc range
+go env | grep GO
+go ev
+go get -U .
+go get -u .
+go get -u fyne.io/fyne
+go help Math
+go help Scanner
+go help doc bufio
+go help fmt
+go help for
+go help for range
+go help goexec.exe 
+go help math
+go help modules
+go help packages
+go help packages | less
+go help range()
+go help time
+go list -f "{{.ImportPath}} {{.Deps}}" ./...
+go mod init danes
+go run Debelina_stene.
+go run Debelina_stene.go
+go run Debelina_stene.go 100 114.3 245 0.5
+go run Debelina_stene.go 245 0.5 100 114.3
+go run Debelina_stene_V2.go 
+go run Variadic.go 
+go run domainr/whois/cmd/client/main.go 
+go run multiline.go 
+go run myMaps.go 
+go run mymain.go 
+go run mystructs.go 
+go run pnt.go 
+go run stc10.go
+go run stc11.go
+go run stc12.go
+go run stc2.go 
+go run stc3.go 
+go run stc4.go
+go run stc5.go 
+go run stc6.go 
+go run stc7.go
+go run stc8.go 
+go run stc9.go 
+go run strct1.go 
+go run structs.go 
+go run test2-2.go 
+go run test4.go 
+go run tst2_stc.go 
+go run tst3_stc.go 
+go run tst_stc1.go 
+go run whois/cmd/client/main.go 
+go strct1.go 
+goexec.exe 'http.ListenAndServe(`:8080`, http.FileServer(http.Dir(`.`)))'
+goexec.exe -h
+grep '$PATH' ~/.bashrc
+grep 'PATH' ~/.bashrc
+grep '\$PATH' ~/.bashrc
+grep -i 'export JAVA\|export GO' ./.*
+grep -i 'export' ./.*
+grep -i go .bashrc
+grep -ir goroot ./*
+grep -is 'export JAVA\|export GO' ./.*
+grep -isr goroot ./*
+grep -r '$PATH' ~/*
+grep -r 'export PATH' ./*
+grep -r -C 5 EOF ./*
+grep -rE 'export PATH.*go1' ./*
+grep -rE 'export PATH.*go\.1' ./*
+grep -s 'JAVA\|GO' ./*
+grep -s 'JAVA\|GO' ./.*
+grep GOROOT ./*
+grep GOROOT ./.*
+grep Node ./*
+grep PATH ./*
+grep PATH ./.*
+grep PATH ./.b*
+grep PATH ./.p*
+grep PATH .bashrc
+grep PATH ~/.bashrc
+grep struct ./*
+head rsync_backup-entire-linux-system_201*
+history | grep 'cp -r'
+history | grep -B 10 'cp -r'
+history | grep -B 3 'cp -r'
+history | grep goexec
+htop
+https://jaxenter.com/top-5-ides-go-146348.html
+https://www.kaggle.com/datasets
+ides-go-146348.html
+ie
+java BuilderDemo
+java GPG
+java LinkedList
+java Node
+java RotateDemo
+java RotateDemo2
+java ScannerDemo2 fff
+java removeDupsFromArrayList2_LinkedHashSet
+java removeDupsFromArrayList3_StreamDistinct
+less jv_javase-deploy_20190322.txt 
+less test.txt 
+let i=1; while read line;do echo "G00${i}_${line}"; let i=i+1; done <seznam.txt 
+let i=1; while read line;do echo "G00${i}_${line}"; let i=i+1; done <seznnam.txt
+let i=1; while read line;do echo "G00${i}_${line}; done <seznnam.txt
+let i=1; while read line;do echo "g${i}_${line}"; let i=i+1; done <seznam.txt
+let i=1; while read line;do echo "g${i}_${line}"; let i=i+1; done <seznam.txt 
+line="HOME"
+line="start/middle/end/filename.txt"
+line=USER
+line=pwd
+ln -s majfile majlink
+lp,
+lynx -dump $URL | less
+lynx -dump -base $URL | less
+lynx -dump -listonly $URL | less
+lynx -dump -nolist $URL
+lynx -dump -nolist $URL | less
+lynx -dump -nolist -base $URL | less
+lynxd "https://averagelinuxuser.com/backup-and-restore-your-linux-system-with-rsync/" ___inset.txt
+lynxd "https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin" go_taking-go-modules-for-a-spin
+lynxd "https://glyph.twistedmatrix.com/2019/10/the-numbers-they-lie.html" ptn_the-numbers-they-lie
+lynxd "https://julien.danjou.info/python-and-fast-http-clients/" ptn_fast-http-clients
+lynxd "https://julien.danjou.info/python-and-fast-http-clients/" ptn_fast-http-clients/
+lynxd "https://linuxhandbook.com/linux-send-email-ssmtp/" ssmtp_send-email-from-cli
+lynxd "https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831" ___insert
+lynxd "https://realpython.com/python-zip-function/" ptn_zip-function
+lynxd "https://scene-si.org/2018/01/25/go-tips-and-tricks-almost-everything-about-imports/" go_tips-and-tricks-almost-everything-about-imports
+lynxd "https://stackoverflow.com/a/57314494/11210494" ___in
+lynxd "https://stackoverflow.com/questions/17539407/how-to-import-local-packages-without-gopath/17539525#17539525" go_howto-import-local-packages-without-gopath
+lynxd "https://support.us.ovhcloud.com/hc/en-us/articles/360002296020-How-to-Configure-an-IPv6-Address-in-Ubuntu" ipv6_How-to-Configure-an-IPv6-Address-in-Ubuntu
+lynxd "https://www.chipkeyes.me/go-modules-in-real-life/" go_modules-in-real-life
+lynxd "https://www.dedoimedo.com/computers/ffmpeg-guide.html" ffmpeg_guide-dedoimedo
+lynxd "https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/" swap-two-numbers-without-using-temporary-variable
+lynxd "https://www.ostechnix.com/backup-entire-linux-system-using-rsync/" rsync_backup-entire-linux-system
+lč
+mc c_Users_gregor.redelonghi_Dropbox_ODPRTO/ ODPRTO_drpbx
+mc {,my}structs.go 
+mdir majtest_1
+mkdir -p /c/Users/gregor.redelonghi/Dropbox/ODPRTO/MCDN_en/DEST
+mkdir -p github.com/zonedb/zonedb
+mkdir -p whois-app/static
+mkdir -p ~/BRISI/TEST/src
+mkdir /c/Users/gregor.redelonghi/DANES/DEST
+mkdir 20191001_tests2
+mkdir 20191002_deb_stene_cevi
+mkdir 20191004_numbers
+mkdir 20191007_structs
+mkdir 20191017_modules-testing
+mkdir 20191017_time-and-date
+mkdir DEAT
+mkdir RROOTT
+mkdir SRC DEST
+mkdir danes
+mkdir deb_stene_cevi
+mkdir ext_SANDISK_USB_64GB
+mkdir ext_usbHDD_SAMPLE
+mkdir external_usbHDD
+mkdir majekzample.kom
+mkdir majtest_1
+mkdir majtest_1.go majtest_2.go 
+mkdir mymodule
+mkdir pkg
+mkdir rojstni_dnevi_20191106
+mkdir whois
+mkdir zonedb2
+mkdir ~/BRISI/TEST
+mkdir ~/BRISI/TEST/src
+mp go_migrating-from-dep-to-go-1-11-modules_20191017.txt 
+mshark#building
+mv 20191001_tests2/ 20191001_joining_strings
+mv 2019_cugr{,_en}
+mv BrthdReminder* rdji.txt my_textcolors.py rojstni_dnevi_20191106/
+mv BrthdReminder{,_V2}.py 
+mv C\:Usersgregor.redelonghimyprogscygwin64homegregor.redelonghigosrccloud.google.comgo/ cloud.google.comgo/
+mv DEAT/ DEST/
+mv Debelina_stene{_V2,}.go 
+mv Downloads_cugr{,_en}
+mv bekap_c_gregor.redelonghi cugr
+mv bekap_c_gregor.redelonghi_Downloads/ Downloads_cugr
+mv bekap_c_gregor.redelonghi_myprogs/ myprogs_cugr
+mv bekap_cygwin_en_home_gregor.redelonghi/ hgr_cygwin
+mv bekap_en_2019/ 2019_cugr
+mv bekap_h_2019_podloge/ h_en_2019_podloge/
+mv bekap_h_energetika/ h_en_energetika/
+mv bekaps/ bekaps_en
+mv bekaps_en/ODPRTO_drpbx/ .
+mv bekaps_en/SKUPNI_drpbx/ .
+mv c_Users_gregor.redelonghi_Dropbox_ODPRTO/ ODPRTO_drpbx
+mv c_Users_gregor.redelonghi_Dropbox_SKUPNI/ SKUPNI_drpbx
+mv cugr
+mv cugr{,_en}
+mv deb_stene_cevi/* .
+mv ext_backups_metsys/ ../
+mv ext_backups_metsys/../
+mv git git_original
+mv hgr_cygwin_en/ cygwin_hgr_en/
+mv hgr_cygwin{,_en}
+mv main.go mymodule/
+mv majekzample.kom/ majekzample2.kom/
+mv majtest_1.go majtest_2.go 
+mv majtest_1/ majtest_2
+mv myprogs_cugr{,_en}
+mv nnn{-master,}
+mv numbers_test.go numbers_testing.go 
+mv p066{,_}rojstni_dnevi_20191106/
+mv pnt.go 20191008_pointers/
+mv rsync_backup-entire-linux-system_{,multif_}20191211.txt 
+mv strct1.go stc1.go
+mv struct{c,s}.go 
+mv struct{c.s}.go 
+mv test_20190927 20190927_zamenjaj
+mv tst_stc1.go tst1_stc.go
+mv zonedb zonedb2/
+mv zonedb/ github.com/
+mv zonedb2/ zonedb
+mv {,my}structs.go 
+mv {,p066}rojstni_dnevi_20191106
+mv {GO,go}_Cygwin_setup_20181207.txt 
+mv: '.' and '.' are the same file
+myfile.txt" | sed 's/.*\///'
+name="GREGOR"
+name="Gregor"
+nkdir -p whois-app/static
+nnn
+o/wiki/IDEsAndTextEditorPlugins
+ors.html
+p066_rojstni_dnevi_20191106/BrthdReminder_1.0.3.py 
+p066_rojstni_dnevi_20191106/BrthdReminder_1.0.3.py Kuz
+prepare_fjl_for_knowledgebase RPi_as_linux_backup_server-multif_20180131.txt
+prepare_fjl_for_knowledgebase ___in_20191024.txt 
+prepare_fjl_for_knowledgebase ___insert.txt_20191017.txt 
+prepare_fjl_for_knowledgebase ___insert_20191010.txt 
+prepare_fjl_for_knowledgebase ___inset.txt_20191211.txt 
+prepare_fjl_for_knowledgebase go_fmt-printf-reference-cheat-sheet_20191007.txt 
+prepare_fjl_for_knowledgebase go_howto-import-local-packages-without-gopath_20191024.txt 
+prepare_fjl_for_knowledgebase go_howto_build-a-web-application-multif_20191011.txt 
+prepare_fjl_for_knowledgebase go_interfaces_20191007.txt 
+prepare_fjl_for_knowledgebase go_java-tutorial_20191024.txt 
+prepare_fjl_for_knowledgebase go_migrating-from-dep-to-go-1-11-modules_20191017.txt 
+prepare_fjl_for_knowledgebase go_modules-and-dependencies-multif_20191209.txt 
+prepare_fjl_for_knowledgebase go_modules-in-real-life_20191017.txt 
+prepare_fjl_for_knowledgebase go_structs_20191007.txt 
+prepare_fjl_for_knowledgebase go_taking-go-modules-for-a-spin_20191024.txt 
+prepare_fjl_for_knowledgebase go_tips-and-tricks-almost-everything-about-imports_20191024.txt 
+prepare_fjl_for_knowledgebase go_version-1-11-modules_20191017.txt 
+prepare_fjl_for_knowledgebase go_web-development-with-go_20191024.txt 
+prepare_fjl_for_knowledgebase ipv6_How-to-Configure-an-IPv6-Address-in-Ubuntu_20191002.txt 
+prepare_fjl_for_knowledgebase ptn_fast-http-clients_20191010.txt 
+prepare_fjl_for_knowledgebase ptn_the-numbers-they-lie_20191010.txt 
+prepare_fjl_for_knowledgebase ptn_zip-function_20191007.txt 
+prepare_fjl_for_knowledgebase rsync_backup-entire-linux-system_20191211.txt 
+prepare_fjl_for_knowledgebase swap-two-numbers-without-using-temporary-variable_20191021.txt 
+pwd & du &
+python.txt
+python3 snake.py 
+q
+ranger
+ranger-fm
+readlink -f BrthdReminder 
+rename2_and_clean_fname Is\ 45\ degrees\ the\ actual\ perfect\ angle\ to\ throw\ something.docx 
+rsync -av --progress BRISI/SRC/ /c/Users/gregor.redelonghi/Dropbox/ODPRTO/
+rsync -av --progress BRISI/SRC/ /c/Users/gregor.redelonghi/Dropbox/ODPRTO/MCDN_en/DEST/
+rsync -rltDv --progress --delete SRC/ /c/Users/gregor.redelonghi/
+rsync -rltDv --progress --delete SRC/ /c/Users/gregor.redelonghi/Dropbox/ODPRTO/MCDN_en/DEST/
+rsync -rltDv --progress --delete SRC/ DEST/
+rsync -rltDv --progress BRISI/SRC/ /c/Users/gregor.redelonghi/Dropbox/ODPRTO/MCDN_en/DEST/
+rsync -rltDv --progress SRC/ DEST/
+rsync -rltDv /c/Users/gregor.redelonghi/majstaf/BRISI/SRC/ /c/Users/gregor.redelonghi/DANES/
+rsync -rltDv SRC/ /c/Users/gregor.redelonghi/DANES/DEST/
+rsync -rltDv SRC/ /c/Users/gregor.redelonghi/Dropbox/ODPRTO/MCDN_en/DEST/
+s2 "Portal množičnega vrednotenja nepremičnin 
+s2 "Portal množičnega vrednotenja nepremičnin" "https://www.mvn.e-prostor.gov.si/"
+s2 "github.com/ranger/ranger" "https://github.com/ranger/ranger"
+sed "/Od:/d" RealPython_20190910.txt | less
+sed "s/\t/    /g" RealPython_20190910.txt | less
+sed "s/\t/    /ģ" RealPython_20190910.txt | less
+sed 's/.*Remove ads//gp' ptn_zip-function_20191007.txt 
+sed 's/.*Remove ads//gp' ptn_zip-function_20191007.txt | greo -i ads
+sed 's/.*Remove ads//gp' ptn_zip-function_20191007.txt | grep -i ads
+sed -e "/Od:/d"  -e "/Za:/d" RealPython_20190910.txt | less
+sed -i "s/\t/    /g" RealPython_20190910.txt
+sed -i 's/.*Remove ads//g' ptn_zip-function_20191007.txt
+sed -i -e "/Od:/d"  -e "/Za:/d" RealPython_20190910.txt
+sed -n "/If you think, Od:/p" RealPython_test-1_20190910.txt 
+sed -n "/If you think/, /Od:/p" RealPython_test-1_20190910.txt 
+sed -n '/Remove ads/p' ptn_zip-function_20191007.txt 
+sed -n 's/.*Remove ads//gp' ptn_zip-function_20191007.txt 
+sed -n 's/Remove ads//gp' ptn_zip-function_20191007.txt 
+set | grep GO
+speed for sshfs connections, try these options:
+stat _JULIA/
+t/80/;' dept.txt
+tail -f /f/ext_SANDISK_USB_64GB/bekaps_en/bekap_en.log 
+tail -n3 .bashrc
+th 1 -type d); do DDN=$(basename $DD); mv -v $DDN ${DDN/g/gd}; done
+th 1 -type d); do DDN=$(basename $DD); mv -v $DDN ${DDN/g/gn}; done
+top
+touch BrthdReminder.py
+touch INSTALL-s.txt
+touch eval.go
+touch index.js
+touch majfile
+touch majtest_1.go
+touch mytime.go
+touch numbers_test.go
+touch pnt.go
+touch static/index.html
+touch structc.go
+touch test4.go
+touch timeAndDate.go
+touch tst2_stc.go 
+touch tst3_stc.go 
+touch tst_stc1.go
+touct tst3_stc.go 
+tree -L 2 ~/go/pkg/
+tree -L 2 ~/go/pkg/mod
+tree -L 2 ~/go/pkg/mod/github.com/r-gregor/
+tree -d -L 1 ../
+tree -d -L 2 
+tree -d -L 2 ./
+tree -d -L 2 /d
+tree -d -L 2 /f
+tree -d -L 3 ../
+tree -d ../
+tree external_usbHDD/
+tree testpkg1/
+tree whois-app/
+tree ~/go/pkg/
+type ffs
+tzree
+uage
+umask
+unset $GOPATH
+unset GOPATH
+up
+vcat go.sum 
+vf github.com/
+whereis ffs
+which rename1_fname 
+who
+ython.txt
+~/go/bin/danes.exe 
+čč
+" 20190711:
+" Enable syntax highlighting for python codes
+$(cygpath -w $PWD)
+$> sed "/Od:/s/&/==============================================================================================================/g" $RLPTN
+$cygpath -w $PWD
+$cygpath -w $PWD)
+-
+..
+../bin/etegohome.exe 
+../bin/test.exe 
+../bin/testpackages.exe 
+./0a_povezave/BrthdReminder-cmd 
+./0a_povezave/BrthdReminder_g
+./0a_povezave/BrthdReminder_g mo
+./0a_povezave/BrthdReminder_p
+./BrthdReminder 100
+./BrthdReminder C
+./BrthdReminder g g g 
+./BrthdReminder š
+./BrthdReminder šp gg kk
+./BrthdReminder špff
+./BrthdReminder-cmd.exe  0
+./BrthdReminder-cmd.exe  0 d d
+./BrthdReminder-cmd.exe aLL
+./BrthdReminder-cmd.exe špŠp
+./BrthdReminder-cmd.exe špŠp0
+./BrthdReminder.
+./BrthdReminder.exe
+./BrthdReminder.exe c
+./BrthdReminder.exe šp
+./BrthdReminder_1.0.2.py
+./BrthdReminder_1.0.2.py Boštjan
+./BrthdReminder_1.0.2.py Darko
+./BrthdReminder_1.0.4_d.py Šp
+./BrthdReminder_1.0.5-cmd.exe c
+./BrthdReminder_1.0.5.py
+./BrthdReminder_1.0.5.py 
+./BrthdReminder_1.0.5.py c
+./BrthdReminder_1.0.5.py g  g
+./BrthdReminder_1.0.5.py š
+./BrthdReminder_1.0.5.py šp
+./BrthdReminder_1.0.5_en.py cc
+./BrthdReminder_1.0.5_en.py co
+./BrthdReminder_1.0.5_en.py ggg
+./BrthdReminder_1.0.5_en.py ggg hh
+./BrthdReminder_1.0.5_en.py kk
+./BrthdReminder_1.0.5_en.py kk oo
+./BrthdReminder_1.0.5_en.py Šp
+./BrthdReminder_1.0.8-cmd.
+./BrthdReminder_1.0.8-cmd.exe sil
+./BrthdReminder_1.0.8.exe 
+./BrthdReminder_1.0.8.exe šp
+./BrthdReminder_1.0.9-cmd.
+./BrthdReminder_1.0.9-cmd.exe
+./BrthdReminder_1.0.9-cmd.exe moj
+./BrthdReminder_1.0.9.exe mo
+./BrthdReminder_1.0.9.exe šp
+./BrthdReminder_p
+./BrthdReminder_p 
+./BrthdReminder_p d f
+./BrthdReminder_p šp
+./COLORS.
+./DRPBX_ODPRT/MCDN_en/GO_en/GO_en_testing/gn021_BrthdReminder_20191119/BrthdReminder_1.0.8.exe 
+./DRPBX_ODPRT/MCDN_en/GO_en/GO_en_testing/gn021_BrthdReminder_20191119/BrthdReminder_1.0.8.exe šp
+./Debelina_stene
+./Debelina_stene.exe 245 0.5 15.5 114.3
+./TEST3
+./bin/KaKrEn_20191015.exe 
+./bin/PetiElement.exe 
+./bin/TheSixthSense.exe 
+./bin/orins_belt_V1.exe 
+./bin/test 
+./coderun.sh .
+./files2_w10.
+./files_w10.exe 
+./g017_BrthdReminder_20191108/BrthdReminder-cmd.exe 
+./gn017_BrthdReminder_20191108/BrthdReminder_1.0.8.exe 
+./gn017_BrthdReminder_20191108/BrthdReminder_1.0.8.exe šp
+./gn021_BrthdReminder_20191119/BrthdReminder_1.0.9-cmd.exe 
+./gn021_BrthdReminder_20191119/BrthdReminder_1.0.9-cmd.exe sil
+./gn021_BrthdReminder_20191119/BrthdReminder_1.0.9-cmd.exe šp
+./goexec 'http.ListenAndServe(`:8080`, http.FileServer(http.Dir(`.`)))'
+./klele.exe 
+./lower_to_upper.sh "gregor redelonghi"
+./main.exe 
+./main2.exe 
+./movement.exe 
+./mytest.exe 
+./options.sh 
+./scriptAbsPath_20191112/files2_w10.exe 
+./scriptAbsPath_20191112/files_w10.exe 
+./snake.py 
+./src/BrthdReminder_1.0.8-cmd.exe 
+./structs1
+./structs1.exe 
+./structs1_1.0.0.exe 
+./systemInfo_1.0.0.exe
+./systemInfo_1.0.0.exe 
+./test.jl 
+./test2-2
+./testpackages 
+./testpackages.exe 
+./upper-to-lower.sh "TADEja MaLLi ReDeLONGHi"
+.com/ (dummy api)
+/c/Users/gregor.redelonghi/go/bin/BrthdReminder/BrthdReminder-cmd.exe 
+/c/Users/gregor.redelonghi/go/bin/BrthdReminder/BrthdReminder-cmd.exe moj
+/c/Users/gregor.redelonghi/mypodloge/KRNEKI/BrthdReminder_1.0.8-cmd.exe 
+00_ukazi/coderun.sh GO_en/GO_en_testing/gn022_DecimalToBinHex_20191120/
+00_ukazi/coderun.sh GO_en/GO_en_testing/gn027_sets_structs_20191128/
+0a_povezave/BrthdReminder  je
+0a_povezave/BrthdReminder  rede
+0a_povezave/BrthdReminder  tad
+0a_povezave/BrthdReminder  šp
+0a_povezave/BrthdReminder Ma
+0a_povezave/BrthdReminder Mat
+0a_povezave/BrthdReminder aLL
+0a_povezave/BrthdReminder da
+0a_povezave/BrthdReminder mi
+0a_povezave/BrthdReminder Šp
+0a_povezave/BrthdReminder š
+0a_povezave/BrthdReminder š k l
+0a_povezave/BrthdReminder šp kk
+0a_povezave/BrthdReminder špe
+0a_povezave/BrthdReminder-cmd sil
+0a_povezave/BrthdReminder-cmd šp
+0a_povezave/BrthdReminder_G
+0a_povezave/BrthdReminder_g 
+0a_povezave/BrthdReminder_g dar
+0a_povezave/BrthdReminder_g sil
+0a_povezave/BrthdReminder_p
+1030 / 16
+16/05/easy-apis-without-authentication/
+BDR
+BDR c
+BDR šp
+BRD
+BRDT
+BRTD
+BrtdReminder/BrthdReminder_1.0.3.py Ku
+BrtdReminder/BrthdReminder_1.0.3.py d
+BrtdReminder/BrthdReminder_1.0.3.py da
+BrtdReminder/BrthdReminder_1.0.3.py ma
+BrtdReminder/BrthdReminder_1.0.3.py tadddd
+BrtdReminder/BrthdReminder_1.0.3.py taff
+BrtdReminder/BrthdReminder_1.0.3.py Šp
+BrthdReminder/BrthdReminder-cmd.exe 
+CD -
+DANES=$(cygpath -w $PWD)
+DBOP
+DOLPOTEGI/
+Free APIs URLs list:
+GOOS=js GOARCH=wasm go build -o main.wasm
+GOPATH="$DANES" go run majgo.go 
+GOPATH="$DANES" go run majgo/majgo.go 
+GOPATH="$DANES" go run testpackages.go 
+GOPATH="$DANES" go run testpackages/testpackages.go 
+GOPATH="C:\Users\gregor.redelonghi\BRISI\20191014_TEST" GOBIN="C:\Users\gregor.redelonghi\BRISI\20191014_TEST\bin" go run src/example.com/rgregor/newproject_V2/main.go
+GOPATH="C:\Users\gregor.redelonghi\BRISI\20191014_TEST" GOBIN="C:\Users\gregor.redelonghi\BRISI\20191014_TEST\bin" go run src/example.com/rgregor/orins_belt_V1/orins_belt_V1.go
+GOPATH="C:\Users\gregor.redelonghi\BRISI\20191015_TEST" go run ./src/example.com/rgregor/PetiElement/PetiElement.go
+GOPATH="C:\Users\gregor.redelonghi\BRISI\20191015_TEST" go run src/example.com/rgregor/KaKrEn_20191015/KaKrEn_20191015.go
+GOPATH="C:\Users\gregor.redelonghi\BRISI\New_Go_Projects_PATH" GOBIN="C:\Users\gregor.redelonghi\BRISI\New_Go_Projects_PATH\bin" go run example.com/rgregor/majtest2/main.go
+GOPATH="C:\Users\gregor.redelonghi\BRISI\New_Go_Projects_PATH" GOBIN="C:\Users\gregor.redelonghi\BRISI\New_Go_Projects_PATH\bin" go run src/example.com/rgregor/ggg/main.go
+GOPATH="C:\Users\gregor.redelonghi\BRISI\New_Go_Projects_PATH" GOBIN="C:\Users\gregor.redelonghi\BRISI\New_Go_Projects_PATH\bin" go run src/example.com/rgregor/majtest2/main.go
+GOPATH=$(cygpath -w $PWD) go run main2.go 
+GOPATH=$PWD go run main2.go 
+GOPATH=. go run main2.go 
+GO_en_projects/
+KTMX
+LLC
+LLL
+LSS
+MCM
+OPNU "G:\PI\OPROJ\ARHIVA_PROJEKTI\Plin"
+RLPTN="RealPython_20191114.txt"
+URL="https://linuxconfig.org/how-to-use-getopts-to-parse-a-script-options"
+_BrthdReminder_20191119/BrthdReminder_1.0.9-cmd.exe 
+_BrthdReminder_20191119/BrthdReminder_1.0.9.exe 
+alias BDR="/home/gregor.redelonghi/0a_povezave/BrthdReminder-cmd"
+alias BDR=/home/gregor.redelonghi/0a_povezave/BrthdReminder-cmd"
+alias BRTD='/home/gregor.redelonghi/0a_povezave/BrthdReminder-cmd'
+alias BRTD=/home/gregor.redelonghi/0a_povezave/BrthdReminder-cmd'
+ava -XshowSettings
+ava Example
+bash ./RENAME_20191025.sh g
+bash fname_edit.sh 
+bash fname_edit.sh "GREGOR REDELONGHI"
+bash fname_edit.sh "MARK in    ZALA"
+bash fname_edit.sh "MARK in ZALA      ?? KK ĆĐŽ"
+bash go_project_env.sh 
+bash go_project_env.sh ggg
+bdr
+bin/orins_belt_V1.exe 
+build BrthdReminder_1.0.5.go 
+c
+cat ../../modules_testing_20191016/goodbye/goodbye.go 
+cat /d/ext_SANDISK_USB_64GB/bekaps_en/bekap_en.log | grep -i prog
+cat /d/ext_WD_usbHDD_2TB/bekaps_en/bekap_en.log | grep -i prog
+cat /f/ext_SANDISK_USB_64GB/bekaps_en/bekap_en.log 
+cat /f/ext_SANDISK_USB_64GB/bekaps_en/bekap_en.log | grep -i prog
+cat BRISI/seznam_20191009.txt
+cat BRISI/seznam_20191009.txt | sort -hr -k6 -t'['
+cat BRISI/seznam_20191009.txt | sort -hr -k6 -t'[]'
+cat BRISI/seznam_20191009.txt | sort -hr -k6 1
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 30-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45,46
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45,46,47
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45,46,47,48,49,50
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45,46,47,48,49,50,51-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45,46,47,48,49,50,51-60
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45,46,47,48,49,50,51-60,70-80
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45,46,47,49,50
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-48
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50 -b 80-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50 80-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50, 1
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50, 1-100
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50, 80
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50, 80-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50,51-60,70-80
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50,60-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50,64-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50,70-80
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-50;80-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 45-51
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 48-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 58-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -b 60-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -d' ' -b 6,10-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -d' ' -f 6,10-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -d' ' -f 6-
+cat BRISI/seznam_20191009.txt | sort -hr -k6 | cut -f 6-
+cat BRISI/seznam_20191009.txt | sort -hr -k6.1
+cat BRISI/seznam_20191009.txt | sort -hr -k6.2
+cat BRISI/seznam_20191009.txt | sort -nr -k6
+cat BRISI/seznam_20191009.txt | sort -nr -k6.1
+cat BRISI/seznam_20191009.txt | sort -nr -k6.3
+cat BrthdReminder_1.0.0.go 
+cat BrthdReminder_1.0.1.go 
+cat BrthdReminder_1.0.2.go 
+cat E2017.properties 
+cat Untitled2.html
+cat config*
+cat files2_w10.go > files3.go
+cat ftp-access_20150
+cat ftp-access_20150.t
+cat ftp-access_20150528.txt 
+cat goodbye.go 
+cat main.go 
+cat majgo/majgo.go 
+cat majpackage.go 
+cat majtest_1.go 
+cat ptn_typescript 
+cat testpackages.go
+caz go.mod 
+chmod 644 *.go
+chmod 644 files2_w10.go 
+chmod 644 go_local-repository-for-go-modules_20191016.txt 
+chmod 7500 BrthdReminder_1.0.4_d.py 
+chmod 755 /usr/local/bin/go_project_env 
+chmod 755 00_ukazi/coderun.sh 
+chmod 755 options.sh 
+chmod 755 wasm_exec.js 
+coderun GO_en_testing/gn022_DecimalToBinHex_20191120/
+cp "$(go env GOROOT)/misc/wasm/wasm_exec.js" .
+cp $RLPTN /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_PYTHON/
+cp *.exe /c/Users/gregor.redelonghi/go/bin/BrthdReminder/
+cp -r _DecimalToBinHex_20191120/ ~/GO_en_testing/
+cp -r ext_USB_* _STARO/
+cp -r scriptAbsPath_20191112/ ~/GO_en_testing/
+cp -r webview/ $GOPATH/src/github.com/zserge/
+cp -r ~/DRPBX_ODPRT/MCDN_d/GO_d/GO_d_projects/src/testpkg1 ./
+cp -r ~/DRPBX_ODPRT/MCDN_d/GO_d/GO_d_testing/g023_structs_2_20191118/ .
+cp -r ~/GO_en_testing/g017_BrthdReminder_20191108 .
+cp ../../GO_en_testing/g017_BrthdReminder_20191108/ROJSTNIDNEVI.txt .
+cp ../PYTHON_en_testing/p066_rojstni_dnevi_20191106/BrthdReminder_1.0.3.py .
+cp ../PYTHON_en_testing/p066_rojstni_dnevi_20191106/BrthdReminder_1.0.5.py ./
+cp ../PYTHON_en_testing/p066_rojstni_dnevi_20191106/ROJSTNIDNEVI.txt .
+cp ../PYTHON_en_testing/p066_rojstni_dnevi_20191106/ROJSTNIDNEVI.txt ./
+cp ../go_project_env.sh ./
+cp /c/Users/gregor.redelonghi/Downloads/goexec-master/* .
+cp /f/bekaps/remove-dirs-files-from-downloads.txt
+cp /f/bekaps/remove-dirs-files-from-downloads.txt ./
+cp BrthdReminder_1.0.5.go BrthdReminder_1.0.5-cmd.go 
+cp BrthdReminder_1.0.7.go BrthdReminder_1.0.8.go 
+cp BrthdReminder_1.0.8-cmd.exe ROJSTNIDNEVI.txt /c/Users/gregor.redelonghi/mypodloge/KRNEKI/
+cp BrthdReminder_1.0.8-cmd.g ROJSTNIDNEVI.txt src/
+cp BrthdReminder_1.0.8-cmd.go ROJSTNIDNEVI.txt src/
+cp BrthdReminder_1.0.8-cmd.go ROJSTNIDNEVI.txt ~/BRISI/RROOTT/src/scriptAbsPath_20191112/
+cp BrthdReminder_1.0.8-cmd.go src/
+cp BrthdReminder_1.0.{4,5}_d.py 
+cp BrthdReminder_1.0.{5,6}-cmd.go 
+cp BrthdReminder_1.0.{6,7}-cmd.go 
+cp BrthdReminder_1.0.{6,7}.go 
+cp BrthdReminder_1.0.{7,8}-cmd.go 
+cp BrthdReminder_1.0.{8,9}.go 
+cp Debelina_stene.exe /c/Users/gregor.redelonghi/majstaf/myprogs/
+cp Dni.go klele.go ~/GO_en_testing/gn_OSTALO/
+cp ROJSTNIDNEVI.txt /c/Users/gregor.redelonghi/go/bin/BrthdReminder/
+cp files_w10.go files_nix.go 
+cp go_project_env_SETUP_2019101{4,5}.txt 
+cp go_project_env_SETUP_2019101¸{4,5}.txt 
+cp lower_to_upper.sh upper-to-lower.sh
+cp test1.go test2.go
+cp ~/BRISI/*.c ./
+cp ~/BRISI/*.exe ./
+cp ~/BRISI/RROOTT/rename_MCDN_GO_gXX-to-gnXX_20191119.onl.txt ./
+cp ~/BRISI/RROOTT/src/scriptAbsPath_20191112/files2_w10.exe ~/BRISI/RROOTT/src/scriptAbsPath_20191112/afile.txt ~/DRPBX_ODPRT/ttsstt/
+cp ~/BRISI/options.sh ./options_test_20190628.sh 
+cp ~/DRPBX_ODPRT/MCDN_d/PYTHON_d/BrthdReminder/ROJSTNIDNEVI.txt .
+cp ~/DRPBX_ODPRT/MCDN_d/PYTHON_d/PYTHON_d_testing/p058_rojstni_dnevi_d_20191106/BrthdReminder_1.0.4_d.py .
+cp ~/GO_en_testing/_BrthdReminder_20191119/BrthdReminder_1.0.9*exe ./
+cp ~/GO_en_testing/g017_BrthdReminder_20191108/BrthdReminder-cmd.exe ./
+cp ~/GO_en_testing/g017_BrthdReminder_20191108/BrthdReminder.exe .
+cp ~/GO_en_testing/g017_BrthdReminder_20191108/BrthdReminder[-]* .
+cp ~/GO_en_testing/g017_BrthdReminder_20191108/ROJSTNIDNEVI.txt ./
+cp ~/GO_en_testing/gn017_BrthdReminder_20191108/BrthdReminder*exe ./
+cp ~/GO_en_testing/gn017_BrthdReminder_20191108/BrthdReminder_1.0.8-cmd.exe .
+cpp -v
+cygpath -w $(which java)
+cygpath -w $(which java) | putclip
+cygstart /c/Users/gregor.redelonghi/majstaf/myprogs/VSCode-win32-x64-1.40.1/Code.exe
+d ..
+dc -
+dc -2
+dc BRISI
+diff -c _go_anatomy-of-modules_20191012.txt go_anatomy-of-modules_20191030.txt 
+du -ah DROPBOX/ODPRTO/MCDN_d/GO_d/GO_d_projects
+du -ah DROPBOX/ODPRTO/MCDN_d/GO_d/GO_d_projects/
+du -sh $PWD
+du -sh --total .
+du -sh --total VSKo*
+du -sh /c/*
+du -sh DROPBOX/ODPRTO/MCDN_d/GO_d/GO_d_projects
+du -sh Dropbox
+du -sh VSCode-win32-x64-1.40.1/
+du -sh VSkoda-win32-x64-1.40.0
+du -sh go/
+du _STARO/
+duh --total
+duh _STARO/
+e): https://tldr.ostera.io/
+echo "$(go env GOROOT)"
+echo "$DANES"
+echo "$PWD"
+echo "$PWD_$gr_DJTT"
+echo "${PWD}_${gr_DJTT}"
+echo "GGG" | sed 's/.*/& .. &/'
+echo "GREGOR REdelonghi ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]/\./g' | sed 's/\?/\./g'
+echo "GREGOR REdelonghi ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]?/\./g'
+echo "GREGOR REdelonghi ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]\?/\./g'
+echo "GREGOR REdelonghi ?'+*/" | sed 's/[^a-zA-Z0-9\.-_ ]/\./g' | sed 's/\?/\./g'
+echo "GREGOR REdelonghi ?'+*/" | sed 's/[^a-zA-Z0-9\.-_ ][?]/\./g'
+echo "GREGOR REdelonghi ?'+*/" | sed 's/[^a-zA-Z0-9\.-_ ][\?]/\./g'
+echo "GREGOR REdelonghi maja.cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]/\+/g' | sed 's/\?/\./g'
+echo "GREGOR REdelonghi maja.cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]/\./g' | sed 's/\?/\./g'
+echo "GREGOR REdelonghi maja.cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]\|\?//g'
+echo "GREGOR REdelonghi maja.cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]\|\?/\+/g'
+echo "GREGOR REdelonghi maja.cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]\|\?/\./g'
+echo "GREGOR REdelonghi maja.cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]\|\?\|\///g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]._ ]\|\?\|\///g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]._]\|\?\|\///g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]//g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]\|[[:punct:]]//g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]\|[[:punct:]]/\+/g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]\|[[:punct:]]/_/g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]\|[^[:punct.]]/+/g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]\|[^[:punct.]]//g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]\|[^[:punct.]]/\+/g
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]\|[^[:punct.]]/\+/g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alnum:]]\|[^[:punct:]]//g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/[^[:alpha:]._]\|\?\|\///g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's/^[:alnum:]\|^[:punct.]/+/g'
+echo "GREGOR_REdelonghi 999-6897 maja-cebelica # ?'+*/" | sed 's@[^[:alnum:]]\|[^[:punct.]]@@g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:]-._]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:].-_ ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:].\-_ ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:].\-_ ]\|\?\|\//\./g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:]._ ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:]._- ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:]._\-\ ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:]._\\- ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:]._]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^[:alpha:]\-._]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.\-_ ]\|\?\|\//\./g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9._ ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9._- ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9._\- ]\|\?\|\///g'
+echo "Gregor Redelonghi ?, . "
+echo "Gregor Redelonghi ?, . " | tr " ?," "_-"
+echo "Gregor Redelonghi ?, . " | tr " ?," "_-+"
+echo "Gregor Redelonghi ?, . " | tr " ?," "_--"
+echo "Gregor Redelonghi ?, . " | tr " ?," "_-."
+echo "Gregor Redelonghi ?, . " | tr " ?," "_."
+echo "Gregor Redelonghi ?, . " | tr " ?," "_\-+"
+echo "Gregor Redelonghi ?, . " | tr " ?," "_\-\-"
+echo "Gregor Redelonghi ?, . " | tr " ?," "_\-\."
+echo "Gregor Redelonghi ?, . " | tr " ?," "_|-"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#*"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#-+"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#--!"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#--*"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#---"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#--\!"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#-."
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#-:"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#-\."
+echo "Gregor Redelonghi ?, . " | tr " ?,." "_"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "_--!"
+echo "KVA JE ZEJ BANDA HUDIČEVA?"
+echo "https://www.linuxjournal.com/content/about-ncurses-colors-0"
+echo "neprazna" >> 0_NA_G/neprazna.txt 
+echo $(basename $PWD)
+echo $(cygpath -w ../)
+echo $(cygpath -w GO_en_testing/gn027_sets_structs_20191128)
+echo $(filename $PWD)
+echo $RPLTN
+echo $raw_fname | tr [:upper:] [:lower:]
+echo ${line##*/}
+echo ${line%%/*}
+echo ${n 0:6}
+echo ${n :0:6}
+echo ${n :6}
+echo ${n-3}
+echo ${n0:6}
+echo ${n: -100}
+echo ${n: -11}
+echo ${n: -12}
+echo ${n: -3}
+echo ${n: -6}
+echo ${n: -9}
+echo ${n:3:-3}
+echo ${n:3:3}
+echo ${n:3:5}
+echo ${n:3}
+echo ${n::6}
+echo ${n::7}
+echo ${n::8}
+echo ${name,,[OR]}
+echo ${name,,}
+echo ${name,}
+echo ${name^}
+echo 'linuxize' | tr 'lmno' 'wxyz'
+echo 'linuxize' | tr -c 'li' 'xy'
+echo GOPATH
+echo raw_fname | tr [:upper:] [:lower:]
+echp $PATH
+ects/toddmotto/public-apis
+ed "/Od:/ s/^&/==============================================================================================================/g" $RLPTN | less
+eit
+env | grep -i djt
+env | grep -i tjm
+env | grep -i tm
+env | grep GO
+exdit
+export $PATH
+export GOROOT=
+export JAVA_HOME="C:\Users\gregor.redelonghi\myprogs\jdk-11"
+fbog
+fc --info
+fc -h
+fc -l -10
+ff Untitled2.html 
+ffs "rsync_non-beginners-guide-to-syncing-data_20191206.txt"
+ffs bash_parse-options-in-your-bash-script-with-getopt_20151118.txt 
+ffs go_interfaces_20191007.txt 
+ffs go_sets_20191128.txt 
+ffs go_structs_20191007.txt 
+ffs go_structuring-applications_20190930.txt 
+file COLORS.c
+file COLORS.exe 
+file Untitled2.html 
+file ncstst-3_attributes.c 
+find ! -type l
+find ! -user gregor.redelonghi
+find -iname "*SL*king*"
+find -iname "*SL*king*txt"
+find -iname "*infra*"
+find -iname "*king*txt"
+find -iname "*king[._]*"
+find -iname "*king[._]*txt"
+find -iname "*prostor*txt"
+find -iname "*vscode*"
+find -maxdepth 1 ! -name "pn*"
+find -maxdepth 1 ! -name "pn*" -exec mv -v {} pn_OSTALO/ \;
+find -maxdepth 1 ! -user gregor.redelonghi
+find -maxdepth 1 -not -name "ptn*"
+find -maxdepth 1 -type d
+find -maxdepth 1 -type d -empty
+find -maxdepth 1 -type f -exec mv -v {} gn_OSTALO/ \;
+find -maxdepth 1 -type f -not -name "ptn*"
+find -maxdepth 1 -type f -not -name "ptn*txt"
+find -maxdepth 1 type -f
+find -myxdepth 1 -not -name "ptn*"
+find -name "*.txt" -exec chmod 644 {} \;
+find -name "*syst*" -a ! -name "*TXT*"
+find -name "*syst*" -not -name "*TXT*"
+find -name "*syst*" |grep -v TXT
+find -name "syst*"
+find -not -name "ptn*"
+find -tyoe d -iname "*tr*a*ka*"
+find -type d -iname "*brdo*"
+find -type d -iname "*brdo*pid*"
+find -type d -iname "*github*"
+find -type d -iname "*kranj*ev*"
+find -type d -iname "*ncurs*"
+find -type d -iname "*podv*pid
+find -type d -iname "*podv*pid*"
+find -type d -iname "*tr*a*ka*"
+find -type d -name "*2019*"
+find -type d -name "*2020[-_]*"
+find -type d -name "*[-_]2019*"
+find -type d -name "syst*
+find -type d -name "syst*"
+find -type f 
+find -type f -iname "*folder*2*"
+find -type f -iname "*goexec*"
+find -type f -iname "*interaktivna*"
+find -type f -iname "*jl*"
+find ./DRPBX_ODPRT/_PYTHON/ -name "*api-tutorial*"
+find /c -ignore_readdir_race -size +1G
+find /c -ignore_readdir_race -size +1G | grep -v "^find"
+find /c -ignore_readdir_race -size +1G | grep -v denied
+find /c/Users/gregor.redelonghi/ -maxdepth 1 -type d
+find /c/Users/gregor.redelonghi/ -maxdepth 3 -type d
+find /c/Users/gregor.redelonghi/2019 -maxdepth 1 -type d
+fo run test.go 
+for DD in $(find -maxdepth 1 -type d | basename); do echo $DD; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); echo "$DDN --> ${DDN/g/gn}"; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); echo "$DDN --> ${DDN/g/gn}; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); echo "mv -v $DDN ${DDN/p0/pn0}"; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); echo $DDN; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); echo mv -v $DDN ${DDN/j0/jn0}; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); mv -v $DDN ${DDN/g/gn}; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); mv -v $DDN ${DDN/j0/jn0}; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); mv -v $DDN ${DDN/p0/pn0}; done
+for DD in $(find -maxdepth 1 -type d); do echo $(basename $DD); done
+for DD in $(find . -maxdepth 1 -type d); do DDN=$(basename $DD); echo "mv -v $DDN ${DDN/g/gn}"; done
+for DDD in $(find /c/Users/gregor.redelonghi/2019 -maxdepth 1 -type d); do echo "$DDD --> ${DDD//2019/2020}"; done
+for DDD in $(find /c/Users/gregor.redelonghi/2019 -maxdepth 1 -type d); do echo "mkdir -p ${DDD//2019/2020}"; done
+for DDD in $(find /c/Users/gregor.redelonghi/2019 -maxdepth 1 -type d); do echo "mkdir -pv ${DDD//2019/2020}"; done
+for DDD in $(find /c/Users/gregor.redelonghi/2019 -maxdepth 1 -type d); do echo $DDD; done
+for DDD in $(find /c/Users/gregor.redelonghi/2019 -maxdepth 1 -type d); do mkdir -pv ${DDD//2019/2020}; done
+for DDD in $(find 2019 -maxdepth 1 -type d); do echo "mkdir -pv ${DDD//2019/2020}"; done
+for DDD in $(find 2019 -maxdepth 1 -type d); do mkdir -pv ${DDD//2019/2020}; done
+for FF in $(find -name "*.txt" -print0 |xargs 0); do newnm="$(echo \"$FF\" | sed -e 's: :_:g')"; echo "$FF --> $newnm"; done
+for FF in $(find -name "*.txt"); do newnm="$(echo \"$FF\" | sed -e 's: :_:g')"; echo "$FF --> $newnm"; done
+fss bash-getopts_20140526.txt 
+g017_BrthdReminder_20191108/BrthdReminder-cmd.exe 
+g017_BrthdReminder_20191108/BrthdReminder-cmd.exe c
+g017_BrthdReminder_20191108/BrthdReminder.exe c
+g017_BrthdReminder_20191108/BrthdReminder.exe šp
+git clone github.com/zserge/webview
+git clone http://github.com/zserge/webview
+git clone https://github.com/shurcooL/go/blob/master/reflectsource/ $(cygpath -u $GOPATH)/src/github.com/shurcooL/go/reflectsource
+git clone https://github.com/shurcooL/go/reflectsource $(cygpath -u $GOPATH)/src/github.com/shurcooL/go/reflectsource
+git clone https://github.com/shurcooL/go/reflectsource/ $(cygpath -u $GOPATH)/src/github.com/shurcooL/go/reflectsource
+gn017_BrthdReminder_20191108/BrthdReminder_1.0.8-cmd.exe 
+gn017_BrthdReminder_20191108/src/BrthdReminder_1.0.8-cmd.exe 
+gn021_BrthdReminder_20191119/BrthdReminder_1.0.9.exe 
+gn021_BrthdReminder_20191119/BrthdReminder_1.0.9.exe šp
+go 'http.ListenAndServe(`:8080`, http.FileServer(http.Dir(`.`)))'
+go --help
+go build -o structs1 structs1_1.0.0.go 
+go build -o structs1.exe structs1_1.0.0.go 
+go build BrthdReminder_1.0.5.go 
+go build BrthdReminder_1.0.6-cmd.go 
+go build BrthdReminder_1.0.6.go 
+go build BrthdReminder_1.0.9.go
+go build BrthdReminder_1.0.9.go 
+go build DecimalToBinTable_1.0.0.go 
+go build DecimalToHexTable_1.0.0.go 
+go build files_w10.go 
+go build klele.go 
+go build main.go 
+go build mystructs_V2.go 
+go build scriptAbsPath_20191112/BrthdReminder_1.0.8-cmd.go 
+go build structs1_1.0.0.go 
+go build test1.go 
+go buuild BrthdReminder_1.0.6.go 
+go env | less
+go get ./oauth2/
+go get cloud.google.comgo/
+go help bufio
+go help get | less
+go help module-get
+go help module-get |less
+go help packages bufio
+go help range
+go list ,/...
+go list MAJTESTS/
+go list etegohome/main.go 
+go list majgo
+go list majgo/
+go list testpackages
+go list testpackages/
+go list testpackages/testpackages.go 
+go mod init example.com/rgregor/goodbye
+go mod init example.com/rgregor/mata
+go mod init example.com/rgregor/slova
+go mod init github.com/rgregor/testmod
+go mod list
+go run ../g010_time-and-date_20191017/timeAndDate.go 
+go run BrthdReminder_1.0.
+go run BrthdReminder_1.0.0.go 
+go run BrthdReminder_1.0.1.go
+go run BrthdReminder_1.0.1.go | less
+go run BrthdReminder_1.0.4.go 
+go run BrthdReminder_1.0.4_d.py 
+go run BrthdReminder_1.0.5-cmd.go
+go run BrthdReminder_1.0.5-cmd.go aLl
+go run BrthdReminder_1.0.5-cmd.go c
+go run BrthdReminder_1.0.5-cmd.go c g
+go run BrthdReminder_1.0.5-cmd.go ta
+go run BrthdReminder_1.0.5-cmd.go tad
+go run BrthdReminder_1.0.5-cmd.go šP
+go run BrthdReminder_1.0.5.go c
+go run BrthdReminder_1.0.5.go co f
+go run BrthdReminder_1.0.5.go mi
+go run BrthdReminder_1.0.5.go šgg
+go run BrthdReminder_1.0.5.go šp k
+go run BrthdReminder_1.0.6-cmd.go 
+go run BrthdReminder_1.0.6-cmd.go c
+go run BrthdReminder_1.0.6.go
+go run BrthdReminder_1.0.6.go c
+go run BrthdReminder_1.0.7-cmd.go 
+go run BrthdReminder_1.0.7-cmd.go c
+go run BrthdReminder_1.0.7-cmd.go šp
+go run BrthdReminder_1.0.8.go 
+go run BrthdReminder_1.0.9-cmd.go 
+go run Cars.go 
+go run MAJTESTS haha hehe hihi
+go run MAJTESTS/
+go run Untitled-1.go 
+go run args.go Gregor Redelonghi in "Tadeja Mali Redelonghi" ččč 56846 pćžaježfkvmž
+go run args.go Gregor Redelonghi in Tadeja ččč 56846 pćžaježfkvmž
+go run custom_methods_20191030.go 
+go run etegohome/
+go run files3.go 
+go run files_nix.go 
+go run g017_BrthdReminder_20191108/BrthdReminder_1.0.7-cmd.go c
+go run g017_BrthdReminder_20191108/BrthdReminder_1.0.7-cmd.go šp
+go run gn017_BrthdReminder_20191108/BrthdReminder_1.0.8-cmd.go
+go run gn017_BrthdReminder_20191108/klele.go 
+go run gn017_BrthdReminder_20191108/src/BrthdReminder_1.0.8-cmd.go 
+go run hex.go | less
+go run main2.go 
+go run maj
+go run majgo.go 
+go run majgo/
+go run majgo/majgo.go 
+go run modules2_20191016/main.go 
+go run mystructs_V2.go 
+go run mytime.go 
+go run palindromeTest.go 
+go run scriptAbsPath_20191112/BrthdReminder_1.0.8-cmd.go 
+go run scriptAbsPath_20191112/files_nix.go 
+go run scriptAbsPath_20191112/files_w10.go 
+go run src/BrthdReminder_1.0.8-cmd.go 
+go run strings_20191102.go 
+go run structs1.go 
+go run structs1_1.0.0.go 
+go run structs_testing.go 
+go run systemInfo_1.0.0.go 
+go run testpackages.go 
+go run testpackages/
+go run testpackages/testpackages.go 
+go run timeAndDate_1.0.0.go 
+go run wasm.go 
+go testpackages/
+go/bin/BrthdReminder/BrthdReminder
+go/bin/BrthdReminder/BrthdReminder-cmd.exe 
+go/bin/BrthdReminder/BrthdReminder.exe 
+go_project_env KaKrEn_20191015
+go_project_env PetiElement
+go_project_env TheSixthSense
+go_project_env ZZZ
+go_project_env newproject
+go_project_env newproject_V2
+go_project_env orins_belt_V1
+goo --help
+gp run ../g010_time-and-date_20191017/timeAndDate.go 
+grep 'main' ./*
+grep 'package main' ./*
+grep -ir strf seznami/*
+grep -irs $URL ./*
+grep -r '^package' ./*
+grep -r 'main' ./*
+grep -r 'package' ./*
+grep -r 'sy.' ./*
+grep -r 'sys.' ./*
+grep -r link ~/seznami/*
+grep -r short ~/seznami/*
+grep -s $URL ./*
+grep -sr 'sys.' ./*
+grep -sr 'sys\.' ./*
+grep -srE 'sys\.' ./*
+grep JAVA_HOME ./*
+grep QRB ./*
+grep ROJ ./*
+grep getopt ./*
+head -n3 _go_anatomy-of-modules_20191012.txt go_anatomy-of-modules_20191030.txt 
+head BrthdReminder_1.0.5*
+head _go_anatomy-of-modules_20191012.txt 
+head go_anatomy-of-modules_20191030.txt 
+help getopts
+history | grep for
+history | grep jn
+http://dummy.restapiexample.com/ (dummy api)
+https://any-api.com/
+https://api.builtwith.com/free-api
+https://public-apis.xyz/
+https://shkspr.mobi/blog/2016/05/easy-apis-without-authentication/
+https://www.diycode.cc/projects/toddmotto/public-apis
+info fc
+j059_NumsTests_20190909/NumsDisp.py 
+java --help
+java --help | less
+java --vesrsion
+java -XshowSettings
+java -XshowSettings | less
+java -cp j058_run-ext-program_20190708/ RunExtProgramm
+java -cp j059_NumsTests_20190909/ NumsDisp
+java -cp j059_NumsTests_20190909/ NumsDisp3
+java -cp j059_NumsTests_20190909/ TestNumsDisp3
+java ConfigFileTest
+java DayOfWeek_V2 1 -20
+java DayOfWeek_V2 1 200
+java DayOfWeek_V2 1 700
+java DayOfWeek_V2 1 714
+java DayOfWeek_V2 4 100
+java DayOfWeek_V2 4 364
+java DayOfWeek_V2 4 365
+java DayOfWeek_V2 4 700
+java DayOfWeek_V3
+java DayOfWeek_V3 1 -1
+java DayOfWeek_V3 1 0
+java DayOfWeek_V3 1 210
+java DayOfWeek_V3 1 7
+java Example
+java Main | less
+java ScannerDemo2
+java ScannerDemo2 1 2 3 4 5
+java version
+java vesrsion
+javac DayOfWeek_V2.java
+jrun Elektrika_E2017.jar 5 6 12 1 24
+jrun Elektrika_E2017.jar 5 6 2
+jrun Elektrika_E2018.jar 
+jrun Elektrika_E2018.jar 5 6 12 1 24
+jrun Elektrika_E2018.jar 5 6 2
+jrun Elektrika_E2018.jar 5 6 2 12
+ldd movement.exe 
+less /f/bekaps/remove-dirs-files-from-downloads.txt 
+less OUT/
+less RENAME_20191025.sh 
+less RealPython_20190910.txt 
+less STARO-skupaj_01_rbckp_cgr_en.sh 
+less SWAP_values_20191018.txt 
+less TTEESSTT.txt 
+less Usage.txt 
+less _TXT_2019.txt 
+less __danes_20190423.txt 
+less config1.txt 
+less make-jar.txt 
+less my_textcolors.py 
+less test3.c 
+less ~/logging/projekt.log 
+line="KVA JE ZEJ BANDA HUDIČEVA?"
+line="KVA JE ZEJ BANDA HUDIČEVA?"; echo $line
+line="KVA JE ZEJ BANDA HUDIČEVA?"; echo ${line,}
+listulb | grep go
+listulb | grep repl
+ln -s /c/Users/gregor.redelonghi/go/bin/BrthdReminder/BrthdReminder-cmd.exe /home/gregor.redelonghi/0a_povezave/BrthdReminder-cmd
+ln -s /c/Users/gregor.redelonghi/go/bin/BrthdReminder/BrthdReminder.exe /home/gregor.redelonghi/0a_povezave/BrthdReminder_g
+lynxd "https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/" programming_learnt-the-hard-way
+lynxd "https://linuxhint.com/python_socket_file_transfer_send/" ptn_socket_file_transfer_send
+lynxd "https://linuxhint.com/python_vectors_matrices_arrays/" ptn_vectors_matrices_arrays
+lynxd "https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091" go_structuring-applications
+lynxd "https://nickjanetakis.com/blog/automatic-offline-file-backups-with-bash-and-rsync" rsync_bash_automatic-offline-file-backups
+lynxd "https://realpython.com/python-descriptors/" ptn_descriptors
+lynxd "https://stackabuse.com/insertion-sort-in-python/" ptn_insertion-sort
+lynxd "https://stackoverflow.com/questions/36017724/can-i-have-multiple-gopath-directories" go_multiple-gopath-directories
+lynxd "https://www.2daygeek.com/linux-bash-script-backup-configuration-files-remote-linux-system-server/" bash_howto_backup-configuration-files
+lynxd "https://www.enricozini.org/blog/2019/himblick/locating-a-sd-card/" ptn_locating-sd-card
+lynxd "https://www.howtogeek.com/175008/the-non-beginners-guide-to-syncing-data-with-rsync/" rsync_non-beginners-guide-to-syncing-data
+lynxd https://blog.scottlogic.com/2017/02/28/building-a-web-app-with-go.html go_building-a-web-app
+lynxd https://www.raspberrypi.org/forums/viewtopic.php?t=219525 RPi_backup_without_copying_the_entire_card
+mkdir -p $(cygpath -u $GOPATH)/src/github.com/shurcooL/goexec
+mkdir -p $GOPATH/src/github.com/zserge
+mkdir -p /c/Users/gregor.redelonghi/go/src
+mkdir -p /c/Users/gregor.redelonghi/mypodloge/KRNEKI
+mkdir -p go/tree/master/reflectsource/
+mkdir -p src/filesproject
+mkdir -pv go/{src,pkg,bin}
+mkdir 20190930_simple-tests
+mkdir 20191014_TEST_V2
+mkdir 2020-danes
+mkdir BrtdReminder
+mkdir BrthdReminder
+mkdir MAJTESTS
+mkdir NCURSES_en
+mkdir TEST2
+mkdir WASM_test
+mkdir _DecimalToBinHex_20191120
+mkdir __BRISI__
+mkdir ___HHH___
+mkdir _staro
+mkdir etegohome
+mkdir gn027_sets_structs_20191128
+mkdir gn_OSTALO
+mkdir gregec
+mkdir jn_OSTALO
+mkdir jptrs
+mkdir modules2_20191016
+mkdir modules_testing_20191016
+mkdir pn_OSTALO
+mkdir pointers
+mkdir slova
+mkdir systemInfo.go
+mkdir testing
+mkdir testmod
+mkdir web-view
+mkdir ~/DRPBX_ODPRT/ttsstt
+mv *.exe *.go _DecimalToBinHex_20191120/
+mv *.ipynb jptrs/
+mv *.txt jn_OSTALO/
+mv -v *ipynb jptrs/
+mv -v Untitled2.html jptrs/
+mv ../*.c ./
+mv ../*.exe ./
+mv ../ROJSTNIDNEVI.txt ./
+mv ../wasm_exec.js .
+mv ./BrthdReminder_1.0.5-cmd.exe /c/Users/gregor.redelonghi/go/bin/BrthdReminder/
+mv API_tutorial_20190916.ipynb jptrs/
+mv BrthdReminder BrthdReminder-cmd
+mv BrthdReminder-cmd.exe _staro/
+mv BrthdReminder.exe _staro/
+mv BrthdReminder_1.0.0.go _staro/
+mv BrthdReminder_1.0.4_d.py BrthdReminder/
+mv BrthdReminder_1.0.4{_d,}.py 
+mv BrthdReminder_1.0.5.exe BrthdReminder.exe 
+mv BrthdReminder_1.0.5{_en,}.py 
+mv BrthdReminder_1.0.8* _staro/
+mv BrthdReminder_1.0.[123456]* _staro/
+mv BrthdReminder_1.0.[7]* _staro/
+mv BrthdReminder_g BrthdReminder
+mv BrthdReminder{_1.0.6,}-cmd.exe 
+mv BrthdReminder{_1.0.6,}.exe 
+mv BrthdReminder{_1.0.8,}.exe 
+mv BrthdReminder{_1.0.9,}-cmd.exe
+mv BrthdReminder{_1.0.9,}-cmd.exe 
+mv COLORS.c COLORS_external.c 
+mv DecimalToBinaryTable_1.0.0.go 
+mv DecimalToBinaryTable{,_1.0.0}.go 
+mv DecimalToBin{ary,}Table_1.0.0.go 
+mv DecimalToHexTable{,_1.0.0}.go 
+mv Dni.go klele.go go_howto_sort-in-go_20191110.txt _ostalo/
+mv MCDN{G,}
+mv RENAME_20191025.sh jn_OSTALO/
+mv ROJSTNIDNEVI.txt ../
+mv ROJSTNIDNEVI.txt ROJSTNIDNEVI2.txt 
+mv ROJSTNIDNEVI2.txt ROJSTNIDNEVI[A.txt 
+mv ROJSTNIDNEVI\[A.txt ROJSTNIDNEVI.txt 
+mv _* jn_OSTALO/
+mv ___HHH___/ New_Go_Projects_PATH
+mv atributes.c ncstst-3_attributes.c 
+mv bin.go DecimalToBinaryTable.go
+mv ext_backups_metsys/ coding/
+mv files.go files_w10.go 
+mv filesproject scriptAbsPath_20191112
+mv g017_BrthdReminder_20191108 BrthdReminder
+mv g01{9,7}_BrthdReminder_20191108
+mv gn021_BrthdReminder_201911{08,19}
+mv gn0{17,21}_BrthdReminder_20191108/
+mv go-goon{-master,}/
+mv g{023,n020}_structs_2_20191118/
+mv hex.go DecimalToHexTable.go
+mv j{,n}060_GET_method_trough_proxy_to_ext_API_20190917/
+mv learning_java_book/ UNSORTED/ jn_OSTALO/
+mv main.go etegohome/
+mv main.go main2.go 
+mv main.wasm wasm. WASM_test/
+mv main.wasm wasm.* WASM_test/
+mv mytest.exe movement.exe
+mv options.sh testing_en/
+mv ptn_api-tutorial_20190916.txt ./DRPBX_ODPRT/_PYTHON/
+mv ptn_vectors_matrices_arrays_20190627.ipynb DROPBOX/ODPRTO/_PYTHON/
+mv sed_howto_remove-delete-lines_20191120.txt $DBOT/
+mv structs1{,_1.0.0}.go 
+mv systemInfo.go/ systemInfo
+mv test.c ncstst-2_movement.c 
+mv testing/ test_projects
+mv test{,1}.go 
+mv {,g018_}scriptAbsPath_20191112/
+mv {,gn021}_BrthdReminder_20191119/
+mv {,gn022}_DecimalToBinHex_20191120/
+mv {gn021,}_BrthdReminder_20191119/
+mv {gn022}_DecimalToBinHex_20191120/
+mv ~/0a_povezave/BrthdReminder{-cmd,} 
+n="Gregor Redelonghi"
+nc
+ncat
+neifs
+newifs
+nifs
+nm COLORS.c
+nm movement.exe 
+nm ncstst-3_attributes.c 
+nm="go_project_env.sh"
+no 0a_povezave/BrthdReminder 
+oifs
+on
+prepare_fjl_for_knowledgebase RPi_backup_without_copying_the_entire_card_20191206.txt 
+prepare_fjl_for_knowledgebase bash_find-check-domain-ip-address_20191129.txt 
+prepare_fjl_for_knowledgebase bash_howto_backup-configuration-files_20191120.txt 
+prepare_fjl_for_knowledgebase go_building-a-web-app_20191015.txt 
+prepare_fjl_for_knowledgebase go_code_organization_20190930.txt 
+prepare_fjl_for_knowledgebase go_local-repository-for-go-modules_20191016.txt 
+prepare_fjl_for_knowledgebase go_multiple-gopath-directories_20191016.txt 
+prepare_fjl_for_knowledgebase go_slice-examples_20191128.txt 
+prepare_fjl_for_knowledgebase go_structuring-applications_20190930.txt 
+prepare_fjl_for_knowledgebase ptn_descriptors_20191129.txt 
+prepare_fjl_for_knowledgebase ptn_insertion-sort_20191127.txt 
+prepare_fjl_for_knowledgebase ptn_locating-sd-card_20191206.txt 
+prepare_fjl_for_knowledgebase ptn_socket_file_transfer_send_20191206.txt 
+prepare_fjl_for_knowledgebase rsync_bash_automatic-offline-file-backups_20191206.txt 
+prepare_fjl_for_knowledgebase rsync_non-beginners-guide-to-syncing-data_20191206.txt 
+prepare_fjl_for_knowledgebase sed_howto_remove-delete-lines_20191120.txt 
+ps aux
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed "s/${pth%/*}/:/"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed "s/${pth%\/*}/:/"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed 's/${pth%/*}/&_BUU/g'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed 's/${pth%/*}/:/'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed 's/${pth%\/*}/&_BUU/g'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed 's/${pth%\/*}/:/'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed 's/${pth%\/*}/:/g'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed 's:${pth%/*}:&_BUU:g'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%*/}
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%*/} | sed "s/\//\\/"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%*/} | sed 's/\//\\/'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%*/} | sed 's/\//\\/g'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%/*}
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%/*} | sed 's/.*/[ & ] -- /'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%/*} | sed 's/.*/[ & ] --/'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%/*} | sed 's/.*/[ & ]/'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth%/*} | sed 's/Git/[ & ]/'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo ${pth^^}
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; "date +(%Y%m%d)"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; $(date +%Y%m%d)
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; $(date +%Y%m%d)"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; 'date +(%Y%m%d)'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; echo "WHOAA"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; echo "WHOAAs2 "must download!" "Hot Fuzz"!"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; echo $(date +%Y%m%d)
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; echo 'date +(%Y%m%d)'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; echo at $(date +"%d.%m.%Y %H:%M:%S")
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; echo at $(date +"%d.%m.%Y, %H:%M:%S")
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; echo at $(date +%d.%m.%Y %H:%M:%S)
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo -n ${pth%/*} | sed 's/.*/[ & ] -- /'; echo at $(date +%d.%m.%Y, %H:%M:%S)
+raw_fname="GREGOR REDELONGHI"
+ree-api
+replp_blnks_underscrs "Gregor Redelonghi Valvasorjeva ulica 5"
+replp_blnks_underscrs "Naročilo 20191016_1403: VN_P-14690_SPP_Bavdkova"
+s1 "https://net2.com/using-fsck-to-check-or-repair-the-file-system-in-ubuntu/"
+s1 "https://petoria.de/raspberry-pi-backup-pt1/"
+s1 "https://www.delo.si/novice/slovenija/na-potovanje-po-evropi-brez-obiska-menjalnice-in-bankomata-234741.html"
+s1 "https://www.linuxjournal.com/content/about-ncurses-colors-0"
+s1 "https://www.linuxtechi.com/timeshift-backup-restore-ubuntu-linux/"
+s1 "https://www.omgubuntu.co.uk/2019/11/voyager-linux-distro-ubuntu-based"
+s2 "Doma!" """
+s2 "Kat Dennings" "Kat Dennings nkd"
+s2 "MINKEN" "MINKEN - hotel, pot, ..."
+s2 "improve sshfs connection speed" """
+s2 "local backups on secure LAN" """
+s2 "youtube: ncurses tutorial 7 - Basic menu system" "https://www.youtube.com/watch?v=3YiPdibiQHA"
+sc GO_en_
+sed "/Od:/ s/.*Od:.*/==============================================================================================================/" $RLPTN | less
+sed "/Od:/ s/^&/==============================================================================================================/" $RLPTN | less
+sed "/Od:/,s/^&/==============================================================================================================/g" $RLPTN | less
+sed "/Od:/s/&/==============================================================================================================/g" $RLPTN
+sed "/Od:/s/&/==============================================================================================================/g" $RLPTN | less
+sed "/Od:/s/^&/==============================================================================================================/g" $RLPTN
+sed "/Od:/s/^&/==============================================================================================================/g" $RLPTN | less
+sed '/Remove ads/d' ptn_descriptors_20191129.txt 
+sed '/Remove ads/d' ptn_descriptors_20191129.txt | grep Remove
+sed -e "/If you /,/.*>/d" $RLPTN | less
+sed -e "/If you /,/.*>/gd" $RLPTN | less
+sed -e "/If you /,/.{,10}\>/d" $RLPTN | less
+sed -e "/Od:/d"  -e "/Za:/d" $RPLTN
+sed -e "/Od:/d"  -e "/Za:/d" $RPLTN | less
+sed -i "s/\t/    /g" $RLPTN
+sed -i '/Remove ads/d' ptn_descriptors_20191129.txt
+sed -i -e "/Od:/ s/.*Od:.*/==============================================================================================================/" -e "/Za:/d" $RLPTN | less
+sed -n '/Remove adds/p' ptn_descriptors_20191129.txt 
+sed -n '/Remove ads/p' ptn_descriptors_20191129.txt 
+softlink1_fname_to_ulb upper-to-lower.sh 
+softlink1_p_fname_to_ulb coderun.sh 
+tail -f /j/bekaps/bekap_en.log 
+telnet
+telnet -4 www.redhat.com 80
+time echo {1..1000} | xargs '-d ' -i bash -c 'echo {}'
+time echo {1..1000} | xargs -P 200 '-d ' -i bash -c 'echo {}'
+touc majtest_2.go
+touch $nm
+touch 0_NA_G/neprazna.txt
+touch args.go
+touch coderun.sh
+touch files.go afile.txt
+touch fname_edit.sh
+touch hex.go
+touch index.html
+touch klele.go
+touch majtest_2.go
+touch mata.go
+touch pointers_1.0.0.go
+touch structs1.go
+touch systemInfo_1.0.0.go
+touch testpackage.go
+touch wasm.go
+toucj majtest_2.go
+tree --charset ASCI
+tree --charset ASCII
+tree -A
+tree -A --charset ASCII
+tree -L 2 $GOPATH
+tree -L 3 $GOPATH
+tree -S
+tree -SA
+tree -d -L 3 --exclude gopl.io-master
+tree -d -L 3 -I gopl.io-master
+tree -d -L 4
+tree -d -L 4 -I gopl.io-master
+tree -d -L 5 -I gopl.io-master
+tree -d -L 6 -I "go*
+tree -d -L 6 -I "go*"
+tree -d -L 6 -I "gopl.io-master"
+tree -d -L 6 -I --matchdirs=gopl.io-master
+tree -d -L 6 -I --matchdirsgopl.io-master
+tree -d -L 6 -P "go[pl]*"
+tree -d -L 7 -I "go[pl]*"
+tree -i
+tree T2/
+tree j058_run-ext-program_20190708/
+tree maj
+tree majgo/
+tree | less
+uage.
+unzip go-goon-master.zip 
+unzip goexec-master.zip 
+upper-to-lower "TADEja MaLLi ReDeLONGHi"
+upper-to-lower.sh "TADEja MaLLi ReDeLONGHi"
+vcsode BrthdReminder_1.0.7-cmd.go 
+vscode --help
+vscode -h
+vscode BrthdReminder_1.0.5-cmd.go BrthdReminder_1.0.6-cmd.go 
+vscode BrthdReminder_1.0.6.go 
+vscode BrthdReminder_1.0.7-cmd.go 
+vscode BrthdReminder_1.0.7.go 
+vscode BrthdReminder_1.0.8-cmd.go BrthdReminder_1.0.8.go 
+vscode BrthdReminder_1.0.9-cmd.go 
+vscode Cars.go 
+vscode DecimalToBinTable_1.0.0.go 
+vscode DecimalToHexTable_1.0.0.go 
+vscode GO_en_testing/gn027_sets_structs_20191128
+vscode _staro/BrthdReminder_1.0.8.go 
+vscode files2_w10.go 
+vscode files3.go 
+vscode gn017_BrthdReminder_20191108/BrthdReminder_1.0.8-cmd.go 
+vscode gn023_pointers_20191121/
+vscode hex.go 
+vscode klele.go 
+vscode main.go 
+vscode pointers_1.0.0.go 
+vscode timeAndDate_1.0.0.go 
+which git
+which vscode
+wxit
+xs
+ze
+~/0a_povezave/BrthdReminder
+~/0a_povezave/BrthdReminder 
+~/0a_povezave/BrthdReminder-cmd 
+~/0a_povezave/BrthdReminder_g
+~/0a_povezave/BrthdReminder_p 
+~/DRPBX_ODPRT/ttsstt/files2_w10.exe 
+~/GO_en_testing/gn017_BrthdReminder_20191108/BrthdReminder_1.0.8-cmd.exe 
+çd /c/
+$(abspath $PWD)
+$(realpath $PWD)
+$/abspath $PWD)
+$>
+$> $
+$> echo "/home/ubuntu/temp/myfile.txt" | sed 's/.*\///'
+$> echo /home/ubuntu/code/perl/add.pl | sed 's;/;\\/;g'
+$> ed -e '$s/Python/Bash/' python.txt
+$> no os.txt
+$> sed  -e '/CSE/ s/Count/100/; /EEE/ s/Count/70/;' dept.txt
+$> sed '/Linux/,+2d' os.txt
+$> sed '/OS/d' os.txt
+$> sed '1 s/Python/perl/' python.txt
+$> sed 's/\(.*\)Programming/\1Scripting/' python.txt
+$> sed -e '$s/Python/Bash/' python.txt
+$> sed -i -e '/CSE/! s/Count/80/;' dept.txt
+./jupyter notebook
+./jupyter notebook --no-browser
+./test1
+./test_INHERITANCE_20190905.py 
+./tst.py 
+/c/Users/gregor.redelonghi/majstaf/myprogs/Julia_1.2.0/Julia-1.2.0/bin/julia.exe 
+0
+1
+> CUGR.txt
+> seznam.txt 
+CD ..
+CSE - 100
+Civil - 80
+DBOJ
+EEE - 70
+EEE - 80
+EEE - Count
+EXIOT
+NAME="RealPython_20190910"
+NAME="clean_RealPython_export-from-OutLookExpress.onl.txt"
+NAME="test_INHERITANCE_20190905.py"
+NAME="why_is_binomial_expansion_so_special"
+Pkg.add("Distribution")
+Pkg.add("Distributions")
+URL="https://blog.scottlogic.com/2017/02/28/building-a-web-app-with-go.html"
+URL="https://www.algosome.com/articles/save-objects-java-text.html"
+WHICH GO
+XnView/xnview.exe
+\/home\/ubuntu\/code\/perl\/add.pl
+addgroup
+bash ./RENAME_20191025.sh j
+bash RENAME_20191025.sh 
+bash create_Pdtkd3-jar_20190701.txt 
+bash rename2_seznam2.sh 
+c:\Users\gregor.redelonghi\.julia\conda\3\Scripts\jupyter notebook --no-browser
+c:\\Users\\gregor.redelonghi\\.julia\\conda\\3\\Scripts\\jupyter notebook --no-browser
+c:\\Users\\gregor.redelonghi\\.julia\\conda\\3\\Scripts\\jupyter.exe notebook --no-browser
+cat /usr/local/bin/jrun
+cat CUGR.txt 
+cat jv_reflection_* |less
+chmod 644 *.txt
+chmod 755 jupyter-julia.sh 
+cp -r ../20190701_pdtk_V3_en/ ../20190702_pdtk_V4_en/
+cp -r 20190702_pdtk_V4_en/ 20190703_pdtk_V5_en/
+cp -r test/* src/
+cp ../20190701_pdtk_V3_en/src/create_Pdtkd3-jar_20190701.txt ./src/
+cp ../jars/newPdtk5.jar 
+cp ../jars/newPdtk5.jar ./
+cp ../src/*.jar ./
+cp /c/Users/gregor.redelonghi/CUGR.txt .
+cp CUGR.txt CYGR.txt
+cp CUGR_Downloads.txt CUGR_2019.txt 
+cp Pdtkd3.jar ../jars/
+cp Pdtkd{,_V1}.java 
+cp newPdtk5.jar potnilisti.txt ../jars/
+cp stylers.xml stylers.xml.ORIGINAL.tyt
+cp zamenjaj.exe zamenjaj
+cp ~/CUGR* ./
+cp ~/DOWNLOADS/gopl.io-master.zip .
+cygpath -w $PWD
+dc ..
+dos2unix.exe ~/.bashrc
+du -sh .
+du -sh 2017_zaganje_5p/
+du -sh AppData/
+du -sh DESTTEST/
+du -sh DESTTEST/*
+du -sh bekaps/
+echo $(cygpath -w $(realpath Pdtk.jar))
+echo $GOROOT
+echo $line
+echo ${!line}
+echo ${line%%*/}
+echo ${line%/*}
+echo %GOPATH%
+export GOPATH=$(cygpath -w $GOPATH)
+export GOPATH=$PWD
+ffs 00_GETOPTS-2_20170921.txt 
+ffs bash-getopts_20140526.txt 
+file /usr/bin/jupyter
+find -iname "*jupyter*"
+find -iname "*naro*ilo*"
+find -iname "*user*"
+find -iname "*user*" ./
+find -type f -iname "*\.mod"
+find -type f -iname "*userDefine*
+find -type f -iname "*userDefine*"
+find -type f -iname "userDefineLang.xml"
+for N in {1..10}; do echo $N; done
+for N in {1..10}; do echo dir_$N >> seznam.txt; done
+for N in {1..10}; do mkdir dir_$N; done
+for N in {1..5}; do echo dir_$N >> seznam.txt; done
+g for python codes
+git clone https://github.com/adonovan/gopl.io.git
+go
+go build example.go
+go build help
+go build test2.go 
+go build zamenjaj.go 
+go help gopath | less
+go list -f "{{.ImportPath}} {{.Imports}}" ./...
+go run Debelina_stene.go 245 0.5 70 114.3
+go run Debelina_stene_V2.go
+go run example.go 
+go run test.go 
+go run test2.go 
+go run tmsmain_local.go 
+go run zamenjaj.go 
+gor run main.go 
+goupadd testg
+grep -i -A5 telekom otirks_20180401.txt 
+grep -i telekom otirks_20180401.txt 
+grep -ir "UserLang" ./*
+grep -ir "WordsStyle" ./*
+grep -ir emso ./*
+grep -irH "admin//" ./*
+grep -irH "admin\/\/" ./*
+grep -r "UserLang" ./*
+grep -r split ./*
+grep mk seznami/*
+grep mksh seznami/*
+groupadd
+groupadd data
+groupadd testg
+groups
+grup
+grupadd
+history | grep mkl
+history | grep short
+import Pkg; Pkg.add("Distributions")
+imrc:
+jacav newPdtk.java 
+jar -h
+jar -tvf $(cygpath -w Pdtk.jar)
+jar -tvf $(cygpath -w Pdtkd.jar) 
+jar -tvf $(realpath Pdtkd.jar) 
+jar -tvf Pdtkd.jar 
+jar -tvf newPdtk2.ja
+jar -tvf newPdtk2.jar
+jar -tvf newPdtk5.jar 
+jar ./newPdtk5.jar 
+jar newPdtk5.jar 
+java -cp $(cygpath -w $(realpath Pdtk.jar)) mewPdtk5
+java -cp $(cygpath -w $(realpath Pdtkd.jar)) newPdtk2
+java -cp $(cygpath -w $(realpath Pdtkd.jar)) newPdtk2 -p gregor
+java -cp $(cygpath -w $(realpath Pdtkd.jar)) newPdtk2 gregor
+java -cp $(cygpath -w $(realpath Pdzk.jar)) mewPdtk5
+java -cp Pdtk.jar newPdtk5
+java -cp newPdtk5.jar,. newPdtk5
+java -cp src newPdtk2
+java DayOfWeek 1 7
+java DayOfWeek_V2 1 5
+java DayOfWeek_V2 5 130
+java DayOfWeek_V2 7 -140
+java DayOfWeek_V2 7 -148
+java DayOfWeek_V2 7 148
+java Pdtkd 
+java Pdtkd GrEgOr
+java Pdtkd Gregor
+java Pdtkd Mark
+java Pdtkd Marko
+java Pdtkd aLL
+java Pdtkd ffdg
+java Pdtkd ffdg dd dd
+java Pdtkd ffdgd  dd  dd
+java Pdtkd ggg
+java Pdtkd mArK
+java newPdtk Gregor
+java newPdtk gg
+java newPdtk ggg
+java newPdtk greggor
+java newPdtk kk
+java newPdtk zkkk
+java newPdtk.
+java newPdtk2 "-P gregor"
+java newPdtk2 -P gregor
+java newPdtk2 -p
+java newPdtk2 -p fff
+java newPdtk2 AlL
+java newPdtk2 Mark
+java newPdtk2 greg
+java newPdtk2 grr
+java newPdtk2 p gregor
+java newPdtk2 p tadeja
+java newPdtk2 taddeja
+java newPdtk3
+java newPdtk3 -p gregor
+java newPdtk3 gregor
+java newPdtk4
+java newPdtk5 -p gregor
+java pdtk.Pdtk -h
+java pdtk.Pdtk Mark
+java pdtk/Pdtk
+java src/newPdtk2
+javac Main.
+javac Main2.java 
+javac newPdtk4.java 
+javac newPdtk5.ja
+jrun
+jrun Pdtk
+jrun Pdtk_v3.jar 
+jrun Pdtkd.jar
+jrun Pdtkd.jar -p gregor
+jrun Pdtkd.jar ALL
+jrun Pdtkd.jar Gregor
+jrun Pdtkd.jar mark
+jrun Pdtkd.jar tadeja
+jrun Pdtkd3.jar 
+jrun Pdtkd3.jar GREGOR
+jrun Pdtkd3.jar Gregor
+jrun Pdtkd3.jar Gregorr
+jrun newPdtk2.jar 
+jrun newPdtk2.jar TadeJA
+jrun newPdtk2.jar grego
+jrun newPdtk2.jar mark
+jrun newPdtk5.
+jrun newPdtk5.ja
+jrun ~/0a_povezave/Pdtkd.jar 
+julia "./BRISI/test.jl" 
+julia $(cygpath -w /c/Users/gregor.redelonghi/majstaf/BRISI/test.jl) 
+julia .\BRISI\test.jl 
+julia .\\BRISI\\test.jl 
+julia /c/Users/gregor.redelonghi/majstaf/BRISI/test.jl 
+julia BRISI/test.jl 
+julia BRISI\\test.jl 
+julia test.jl 
+jupyter notebook --no-browser
+jupyter-julia 
+l1 -t
+less Pdtk.java 
+less README.md
+less newPdtk5.java
+less otirks_20180401.txt 
+ln -s /c/Users/gregor.redelonghi/Dropbox/ODPRTO DRPBX_ODPRT
+ln -s /c/Users/gregor.redelonghi/majstaf/myprogs/Julia-1.2.0/bin/julia.exe /usr/local/bin/julia
+lynxd "https://www.algosome.com/articles/save-objects-java-text.html" jv_save-objects
+lynxd "https://www.guru99.com/google-go-tutorial.html" go_google-tutorial
+lynxd "https://www.techrepublic.com/article/how-to-properly-automount-a-drive-in-ubuntu-linux/" howto_properly-automount-a-drive
+mkdir 20190703_file-reading
+mkdir DESTTEST
+mkdir FROM
+mkdir GO_en_projects
+mkdir TESTDIR
+mkdir TEST_20190926
+mkdir _JULIA
+mkdir bin
+mkdir jars
+mkdir test
+mkdir test_20190927
+mv CYG{,G}R.txt 
+mv [jJ]u* _JULIA/
+mv [jJ]ulia* ~/DROPBOX/ODPRTO/
+mv _COMP_SC/[jJ]u* _JULIA/
+mv create_Pdtkd3-jar_20190701.txt create_newPdtkd4-jar_20190702.txt 
+mv create_newPdtkd2-jar_20190702.txt create_newPdtkd5-jar_20190703.txt 
+mv create_newPdtkd{4,2}-jar_20190702.txt 
+mv dir_* FROM/
+mv gopl.io-master src/
+mv jupyter-julia.sh 00_ukazi/
+mv newPdtk2.jar ../jars/
+mv newPdtk5.jar ../jars/
+mv newPdtk{2,3,4}* _ostalo/
+mv ptn_wxpython_* ~/DROPBOX/ODPRTO/_PYTHON/PDF/
+mv src/*.jar jars/
+mv {JAVA,DBOJ}_2019_20190919.txt 
+mv {PYTHON,DBOP}_2019_20190919.txt 
+mv {TXT,DBOT}_2019_20190919.txt 
+myfile.txt
+ng/ /home/rgregor/Dropbox/ODPRTO/MCDN_d/
+nkdir TESTDIR
+pagesnum star-gui.sh 
+pagesnum star.sh 
+passwd
+prepare_fjl_for_knowledgebase go_google-tutorial_20190927.txt 
+prepare_fjl_for_knowledgebase go_methods-tutorial_20190927.txt 
+prepare_fjl_for_knowledgebase howto_properly-automount-a-drive_20190925.txt 
+psswd
+pswd
+python3 -m pip list | grep -i plot
+ree
+rsync -rltDv --include-from=CUGR.txt /c/Users/gregor.redelonghi DESTTEST/
+rsync -rltDv --include-from=seznam.txt -C . DEST/
+rsync -rltDv --include-from=seznam.txt FROM/* DEST/
+s2 "PREVERI" "https://www.ceneje.si/L3/971/racunalnistvo/prenosniki/prenosniki?crft=710:13~18.4&utm_source=email&utm_medium=b2c&utm_campaign=em_sales&utm_content=em_sales_b2c_SI_prenosniki_270919_com&goal=0_9cc27e84e9-a1442b1e59-67370869&mc_cid=a1442b1e59&mc_eid=68135a73bf&sort=3"
+sbot
+sets
+touch Main.java
+touch Person.java
+touch example.go
+touch seznam.txt
+touch test.go
+touch test3.go
+tree -d -l 2
+tree -d -l 3
+tree -d -l2
+tree -d gopl.io-master/ch1
+tree ../20190701_pdtk_V3_en/
+tree DEST/
+tree DESTTEST/
+tree DESTTEST/ | less
+tree majekzample.kom/
+type jptr
+type jupyter
+unzip gopl.io-master.zip 
+up 3
+w
+w3m -dump "https://www.guru99.com/google-go-tutorial.html"
+which java
+which jptr
+which jrun
+~/go/bin/modules2_20191016.exe 
+$ 
+$> cat weekday.txt
+$> echo "Bash Scripting Language" | sed 's/Bash/Perl/'
+$> gregor.redelonghi@cygwin-en [/home/gregor.redelonghi]
+$> sed '2 s/Python/perl/g' python.txt
+$> sed 's/Python/perl/g2' python.txt
+$> sed 's/Sunday/Sunday is holiday/' weekday.txt
+$> sed --version
+./API_tutorial_20190916.py 
+./BrthdReminder šp gg
+./BrthdReminder-cmd 
+./BrthdReminder.exe mo
+./BrthdReminder_1.0.4_d.py 
+./BrthdReminder_1.0.5_en.py mi
+./BrthdReminder_1.0.9.exe 
+./BrthdReminder_g
+./COLORS
+./DayOfWeek_SLO_20190924.py 
+./DecimalToHexTable_1.0.0.exe 
+./bankovci_kovanci.py 475,234
+./bankovci_kovanci.py 475,234 303.123456789
+./bankovci_kovanci.py 475,238
+./bankovci_kovanci_V2.py 
+./bankovci_kovanci_V2.py 415.12
+./bankovci_kovanci_V2.py 415.12 333
+./etegohome.exe 
+./example.exe 
+./files2_w10.exe 
+./gn017_BrthdReminder_20191108/src/BrthdReminder_1.0.8-cmd.exe 
+./gregec.exe 
+./gremdomov.sh 
+./java --version
+./java -version
+./mytime.exe 
+./test-V1_bankovci_kovanci.py 
+/c/Users/gregor.redelonghi/DANES/currdir/files_w10.exe 
+00_ukazi/coderun.sh 00_ukazi
+0a_povezave/BrthdReminder špel
+0a_povezave/BrthdReminder_g
+> gregor.redelonghi@cygwin-en [/c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT]
+BrtdReminder/BrthdReminder_1.0.3.py 
+BrtdReminder/BrthdReminder_1.0.3.py greg
+BrtdReminder/BrthdReminder_1.0.3.py ta ff
+Copyright (C) 2017 Free Software Foundation, Inc.
+DONE!
+E-mail bug reports to: <bug-sed@gnu.org>.
+EXIT
+FF
+FJL=ptn_pandas-read-csv_20190705.txt 
+GNU sed home page: <http://www.gnu.org/software/sed/>.
+GOPATH="C:\Users\gregor.redelonghi\BRISI\20191014_TEST" GOBIN="C:\Users\gregor.redelonghi\BRISI\20191014_TEST\bin" go run src/example.com/rgregor/GGG/main.go
+GOPATH=$(cygpath -w ../) go run .
+General help using GNU software: <http://www.gnu.org/gethelp/>.
+I=0; while [ $i -lt 21 ]; do echo $i; ((i++)); done
+MJF="/home/gregor.redelonghi/majstaf/BRISI/RAMDISK_big_20190828.txt"
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##*.} echo "$P | $F | $B | $E"
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##*.}; echo "$P | $F | $B | $E"
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##*\.} echo "$P | $F | $B | $E"
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##.*} echo "$P ... $F ... $B ... $E"
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##.} echo "$P | $F | $B | $E"
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##\.*} echo "$P ... $F ... $B ... $E"
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F#*.} echo "$P | $F | $B | $E"
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; echo "$P ... $F ... $B"
+P=${pth%/*}; F=${pth##*/}; echo "$P ... $F"
+P={pth%/*}; F=${pth##*/}; echo "$P ... $F"
+Packaged by Cygwin (4.4-1)
+Perl Scripting Language
+Press <enter> to proceed or <ctrl-c> to quit
+Python is easy to use. perl is easy to learn.
+Sunday
+Sunday is holiday
+This is free software: you are free to change and redistribute it.
+WDU .
+\grep -E "bash.*txt" ./*
+\grep -E "bash.*txt" ./* | cut -d' ' -f 4- 
+\grep -E "bash.*txt" ./* | cut -d' ' -f 6- 
+\grep -E "bash.*txt" ./* | cut -d' ' -f 6- | less
+\grep -E "bash.*txt" ./* | cut -f 4-
+and Paolo Bonzini.
+bash ../go_project_env.sh 
+bash ../go_project_env.sh moon_phases
+bash create_newPdtkd7-jar.txt 
+bash fname_edit.sh "MARK in ZALA ?? KK ĆĐŽ"
+bash fname_edit.sh "MARK in ZALA"
+bin/main.exe 
+builtin alias
+builtin builtin
+builtin builtinf
+builtin cat
+builtin help
+builtin sed
+cat -s quora_What-are-10-beginner-exercises-for-functions-in-Python_20190916.txt 
+cat -s quora_What-are-10-beginner-exercises-for-functions-in-Python_20190916.txt >> quora_What-are-10-beginner-exercises-for-functions-in-Python_02_20190916.txt 
+cat -s quora_What-are-10-beginner-exercises-for-functions-in-Python_20190916.txt | less
+cat /f/remove-dirs-files-from-downloads.txt 
+cat BRISI/seznam_20191009.txt | sort -nr -k6.2
+cat cat
+cat course.txt 
+cat env_settings.txt 
+cat in.txt 
+cat items.txt 
+cat list1.txt list2.txt 
+cat os.txt | sed 's/Linux/Fedora/'| sed 's/windows/Windows 10/i'
+cat python.txt
+cat sedcmd 
+cat web.txt$ sed '/CSS/!d' web.txt
+cat weekday.txt
+cat ~/BRISI/TEST_20190827.txt
+cat ~/seznami/gremdomov.log 
+chmod 755 ./bankovci_kovanci.py 
+cm $MJF ./
+coderun 
+cp $MJF ./
+cp -r scriptAbsPath_20191112/ /c/Users/gregor.redelonghi/DANES/currdir
+cp -v xargs_useful-examples_20190809.txt $DBOT/
+cp .tmux_3_conf dot_tmux_3_conf_bkp_20190828
+cp DayOfWeek_20190924.py DayOfWeek_SLO_20190924.py 
+cp Person* potnilisti.txt ../test/
+cp bankovci_kovanci.py bankovci_kovanci_V2.py 
+cp jv_ptn_howto-organize-coding-project-multif_20180905.txt ../_JAVA/
+cp newPdtk{6,7}.java 
+cp ptn_oop-in-python-vs-java_20190910.txt ../JAVA/jv_oop-in-python-vs-java_20190910.txt
+cp ptn_oop-in-python-vs-java_20190910.txt ../_JAVA/jv_oop-in-python-vs-java_20190910.txt 
+cp src/* .
+cp ~/DOWNLOADS/API_tutorial_20190916.* ./
+cp ~/DOWNLOADS/DayOfWeek_20190924.ipynb ./
+cp ~/DOWNLOADS/TEST_20190916.* ./
+cp ~/GO_en_testing/RENAME_20191025.sh ./
+cp ~/GO_en_testing/g017_BrthdReminder_20191108/BrthdReminder.exe ./
+cp ~/GO_en_testing/g017_BrthdReminder_20191108/ROJSTNIDNEVI.txt .
+dAndroid
+dLinux
+dOS
+dWindows
+db
+dbop 
+dd if=/dev/zero of=./myVHD.img bs=1M count=1024
+dig
+du & pwd &
+du -s /c/Users/gregor.redelonghi/2019/_2019_1_PROJEKTI/UNP_TE-TOL/TE-TOL_UNP_fotografije
+du -s /c/Users/gregor.redelonghi/Dropbox/
+du -sh --total 201[2-8]
+du -sh /c/Users/gregor.redelonghi/2019/_2019_1_PROJEKTI/UNP_TE-TOL/TE-TOL_UNP_fotografije
+du -sh /c/Users/gregor.redelonghi/Dropbox/
+du -sh 201[2-8]
+du -sh od-Darkota_20151222/
+du /j/en_h_bekap.log 
+duh
+echo "$pth ${pth%%*/}"
+echo "$pth ${pth%%/}
+echo "$pth ${pth%/*}"
+echo "$pth ${pth%/}
+echo "${fjl%.*} ${fjl##*.}"
+echo "${pth%/*} ${pth##*/}"
+echo "${pth%/*} ${pth##/}"
+echo "${pth%/*} ${pth#*/}"
+echo "${pth%/*} ${pth#/*}"
+echo "/home/ubuntu/temp/myfile.txt" | sed 's/.*\///'
+echo "5098673" | sed -e :a -e 's/\(.*[0-9]\)\([0-9]\{3\}\)/\1,\2/;ta'
+echo "Bash Perl Python Java PHP ASP" | sed 's/Python/Added Text\n/'
+echo "Bash Scripting Language" | sed 's/Bash/Perl/'
+echo "GREGOR REdelonghi ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]/\./g'
+echo "GREGOR REdelonghi ?'+*/" | sed 's/[^a-zA-Z0-9\.-_ ]/\./g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.-_ ]\|\?\|\///g'
+echo "GREGOR_REdelonghi_maja-cebelica # ?'+*/" | sed 's/[^a-zA-Z0-9.\-_ ]\|\?\|\///g'
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#--"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "_-"
+echo "I like bash programming " | sed 's/Bash/PHP/i'
+echo "I like bash programming" | sed 's/\([a-z]\)\([a-zA-Z0-9]*\)/\u\1\2/g'
+echo "Kaniz Fatema,30th,batch" | sed "s/,/\n/g"
+echo "This is a TEST on 20190827" >> ~/BRISI/TEST_20190827.txt
+echo "Ubuntu Centos Debian" | sed -e 's/Ubuntu/Kubuntu/; s/Centos/Fedora/'
+echo "https://rubikscode.net/2019/03/04/test-driven-development-tdd-with-python/"
+echo "perl python" | sed -e 's/\([^ ]*\) *\([^ ]*\)/\2 \1/'
+echo $(abspath $PWD)
+echo $(cygpath -u $GOPATH)
+echo $(cygpath -w $GOPATH)
+echo $(realpath $PWD)
+echo $DANES
+echo $JAVA_HOME
+echo $fjl
+echo ${fjl##.}
+echo ${fjl#*.}
+echo ${fjl#.*}
+echo ${fjl#.}
+echo ${fjl%.*}
+echo ${n: -10}
+echo ${n:-3}
+echo ${n:6}
+echo -e "${pth%/*}\t ...\t ${pth##*/}"
+echo -e "${pth}\n${pth%/*}\t ...\t ${pth##*/}"
+echo -e "1    2" | sed $'s/    /\t/g'
+echo -e "1\t2\t3" | sed $'s/\t/    /g'
+echo /home/ubuntu/code/perl/add.pl | sed 's;/;\\/;g'
+ed -e '$s/Python/Bash/' python.txt
+export GOPATH=$(cygpath -w $PWD)
+fc -l -20
+ffs API_tutorial_20190916.html 
+ffs RPi_NAS_1_20180816.txt 
+ffs RPi_NAS_2_20180816.txt 
+ffs index.html 
+ffs ptn_python3-OOP_20190910.txt 
+ffs ramdisk_ramfs-vs-tmpfs_use-case-multif_20161027.txt 
+file ./cat
+file cat
+file ~/DOLPOTEGI/
+find -iname "*.txt"
+find -iname "*remo*"
+find -name "*syst*"
+find -newerBt
+find -newerBt "1 hour ago"
+find -newerBt "2 hours ago"
+find -newerct "1 hour ago"
+find -size +3G
+find -type f -iname "*.bak"
+find -type f -iname "*folder*"
+find -type f -iname "*folder*22*"
+find -type f -iname "API*"
+find -type f -name "API*"
+find -type l
+find . -type f -name "API*"
+find /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_PYTHON/ -type f | grep -rs "publish-python-package"
+find BRISI/ -type f -name "API*"
+fjl=A_file_1.0.0.go
+fm
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); echo "mv -v $DDN ${DDN/g/gn}"; done
+for DD in $(find -maxdepth 1 -type d); do DDN=$(basename $DD); echo "mv -v $DDN ${DDN/j0/jn0}"; done
+g017_BrthdReminder_20191108/BrthdReminder.exe 
+git clone https://github.com/shurcooL/go.git $(cygpath -u $GOPATH)/src/github.com/shurcooL/go/
+git clone https://github.com/shurcooL/go/tree/master/reflectsource/ $(cygpath -u $GOPATH)/src/github.com/shurcooL/go/reflectsource
+go build BrthdReminder_1.0.7-cmd.go 
+go build BrthdReminder_1.0.8.go 
+go build files2_w10.go 
+go get cloud.google.com/go
+go get github.com/domainr/whois
+go help get
+go list ./
+go list etegohome/
+go mod init example.com/rgregor/modules2_20191016
+go run BrthdReminder_1.0.5-cmd.go 
+go run BrthdReminder_1.0.5-cmd.go mi
+go run BrthdReminder_1.0.5-cmd.go šp
+go run BrthdReminder_1.0.5.go co
+go run BrthdReminder_1.0.6.go 
+go run Debelina_stene_V2.go 245 0.5 70 114.3
+go run args.go 
+go run args.go Gregor Redelonghi in Tadeja Mali Redelonghi "Tadeja Mali Redelonghi" ččč 56846 pćžaježfkvmž
+go run bin.go 
+go run g017_BrthdReminder_20191108/BrthdReminder_1.0.7-cmd.go 
+go run g017_BrthdReminder_20191108/BrthdReminder_1.0.7.go 
+go run gn017_BrthdReminder_20191108/BrthdReminder_1.0.8-cmd.go 
+go run hex.go
+go run hex.go 
+go run main.go
+go run numbers_test.go 
+go run numbers_testing.go 
+go run pointers_1.0.0.go 
+go run scriptAbsPath_20191112/files.go 
+go run scriptAbsPath_20191112/files2_w10.go 
+go run structs3_1.0.0.go 
+go run test3.go 
+go run tmsmain2.go 
+go_project_env majproject_V2
+grep "bash*txt" ./*
+grep "https://codesposts.com/yq5YpvOm" ./*
+grep "https://rubikscode.net/2019/03/04/test-driven-development-tdd-with-python/" ./*
+grep "https://www.techbeamers.com/python-float-function/" ./*
+grep "techbeamers" ./*
+grep -E "bash.*txt" ./*
+grep -iErH "% *7" ./*
+grep -iErHs "% *7" ./*
+grep -ir newer seznami/*
+grep -ir upper ./*
+grep -r MEGA ./*
+grep -rHs '\.put' ../*
+grep -rHs 'asList' ../* | less
+grep -rHs 'put(' ../* | less
+grep -rHs HashMap ../*
+grep -rHs HashMap ../* | less
+grep -rHs put ../* | less
+grep -ri getopt ./*
+grep -rs "https://linuxhint.com/bash_builtin_examples/" ./*
+grep -rs "https://realpython.com/pypi-publish-python-package/" /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_PYTHON/
+grep -rs "maj/nju/path" ./*
+grep -sr "https://www.listendata.com/2019/06/pandas-read-csv.html" ./*
+grep -sr "https://www.listendata.com/2019/07/python-list-comprehension-with-examples.html" ./*
+grep -sr realpython ./*
+grep -srE 'arg' ./*
+grep -srE 'sys' ./*
+grep bash ./*
+help builtin
+history | grep "/f"
+history | grep "txt"
+history | grep MEGA
+history | grep bash
+history |grep javadoc
+i=0; ((i++)); echo $i
+i=0; while [ $i -lt 20 ]; do ((i++)); echo $i; done
+i=0; while [ $i -lt 21 ]; do echo $i; ((i++)); done
+i=0; while [ $i -lt 21 ]; do echo $i; ((i=i+1)); done
+i=0; while [ $i -lt 21 ]; do echo $i; i=$(($i+1)); done
+i=0; while [ $i -lt 21 ]; do echo $i; i=(($i+1)); done
+iconv.exe -f windows-1250 -t utf-8 workingfile.csv 
+iconv.exe -h
+ipython
+jacac DayOfWeek.java 
+jar -tvf raccoon-4.8.0.jar 
+jar -tvf raccoon-4.8.0.jar | grep -i java
+jar -tvf raccoon-4.8.0.jar | less
+java -cp $(cygpath -w $(realpath ~/JAVA_en_testing/20190703_pdtk_V5_en/src)) newPdtk7
+java -cp ../jars/newPdtk6.jar newPdtk6
+java -cp ../jars/newPdtk6.jar newPdtk6 gregor
+java -cp ../jars/newPdtk7.jar newPdtk7
+java -cp /c/JAVA_en_testing/20190703_pdtk_V5_en/src/ newPdtk5
+java -cp newPdtk7
+java -cp src/ neePdtk7
+java -cp src/ newPdtk7
+java -cp ~/JAVA_en_testing/20190703_pdtk_V5_en/ newPdtk7
+java -cp ~/JAVA_en_testing/20190703_pdtk_V5_en/src/ newPdtk5
+java -jar newPdtk7.jar
+java -jar raccoon-4.8.0.jar 
+java -version
+java DayOfWeek.
+java DayOfWeek_V2 1 -2
+java DayOfWeek_V2 1 -200
+java DayOfWeek_V3 1 -7
+java newPdtk6
+java newPdtk7 -p mark
+java newPdtk7 mark
+java ~/JAVA_en_testing/20190703_pdtk_V5_en/src/newPdtk5
+javac --version
+javac DayOfWeek_V3.java 
+javac TestFileRead2.
+javac newPdtk7.java 
+javadoc --help
+javadoc -d doc/ DayOfWeek
+javadoc DayOfWeek.java 
+jrun Padec3.jar
+jrun newPdtk
+jrun newPdtk5
+jrun newPdtk6
+jrun newPdtk6.jar 
+jrun newPdtk7.jar -p gregor
+jrun newPdtk7.jar gregor
+jrun newPdtk7.jar gregor -p
+jrun ~/0a_povezave/newPdtk7.jar 
+ld | grep -i dict
+less $RLPTN
+less .tmux_3_conf 
+less rsync_from_samsung_to_hp_20171122.onl.txt 
+less test.c 
+less workingfile.csv
+line="KVA JE ZEJ BANDA HUDIČEVA?"; echo ${line,,}
+listulb | grep upper
+losetup
+lower_to_upper "Obnova plinovoda po cesti Pod topoli"
+lynd "https://www.tecmint.com/create-virtual-harddisk-volume-in-linux/" howto_create-virtual-harddisk
+lynx "https://codesposts.com/yq5YpvOm"
+lynxd "https://admin.insights.ubuntu.com/2019/08/08/slow-snap-trace-exec-to-the-rescue/" trace-exec_slow-snap-trace-exec-to-the-rescue
+lynxd "https://codesposts.com/yq5YpvOm" xargs_useful-examples
+lynxd "https://dwaves.org/2019/08/08/making-tar-use-multiple-cores-when-compressing-a-directory/" pigz_tar-use-multiple-cores-when-compressing
+lynxd "https://linuxhint.com/bash_builtin_examples/" bash_builtin_examples
+lynxd "https://linuxize.com/post/bash-increment-decrement-variable/" bash_increment-decrement-variable
+lynxd "https://opensource.com/article/19/8/dig-binary-files-hexdump" hexdump_dig-binary-files
+lynxd "https://realpython.com/how-to-implement-python-stack/" ptn_howto_implement-stack
+lynxd "https://realpython.com/oop-in-python-vs-java/" ptn_oop-in-python-vs-java
+lynxd "https://realpython.com/pypi-publish-python-package/" ptn_howto_pypi-publish-python-package
+lynxd "https://realpython.com/python3-object-oriented-programming/" ptn_python3-OOP
+lynxd "https://rubikscode.net/2019/03/04/test-driven-development-tdd-with-python/" ptn_test-driven-development-tdd
+lynxd "https://stackabuse.com/rounding-numbers-in-python/" ptn_rounding-numbers
+lynxd "https://www.dataquest.io/blog/python-api-tutorial/" ptn_api-tutorial
+lynxd "https://www.listendata.com/2019/06/pandas-read-csv.html" ptn_pandas-read-csv
+lynxd "https://www.listendata.com/2019/07/python-list-comprehension-with-examples.html" ptn_list-comprehension-with-examples
+lynxd "https://www.networkworld.com/article/3431864/keeping-track-of-linux-users-when-do-they-log-in-and-for-how-long.html" howto_keeping-track-of-linux-users
+lynxd "https://www.techbeamers.com/python-float-function/" ptn_float-function
+lynxd "https://www.techbeamers.com/python-map-function/" ptn_map-function
+lynxd "https://www.tecmint.com/create-virtual-harddisk-volume-in-linux/" howto_create-virtual-harddisk
+mc create_newPdtkd{5,7}-jar_20190703.txt 
+mc newPdtk7.jar ../jars/
+mfc
+mfcp
+mkdir ../test
+mkdir /c/Users/gregor.redelonghi/myslike
+mkdir 20190913_bankovci_centi
+mkdir 20190916_API-tests
+mkdir 20191014_TEST
+mkdir 20191015_TEST
+mkdir DEST
+mkdir ISO_s_downloaded
+mkdir Pdtk7
+mkdir SimpleAndroidApp
+mkdir doc
+mkdr ../test
+mv -v newPdtk{5,6}* _ostalo/
+mv 100-ta_obletnica_PVoranc_slike /c/Users/gregor.redelonghi/myslike/
+mv BrthdReminder_1.0.8-cmd.exe BrthdReminder-cmd.exe 
+mv BrthdReminder{_1.0.5,}-cmd.exe 
+mv BrthdReminder{_1.0.7,}-cmd.exe 
+mv BrthdReminder{_1.0.9,}.exe 
+mv ISO_s_downloaded/ CLONEZILLA_ISO_s_20190827
+mv Pdtk.jar newPdtk5.jar
+mv RAZNO /c/Users/gregor.redelonghi/myslike/
+mv TestFileRead* ../test/
+mv bankovci_kovanci.py 20190913_bankovci_centi/
+mv bankovci_kovanci.py bankovci_kovanci_TEST1.py
+mv bankovci_kovanci_TEST1.py test-V1_bankovci_kovanci.py
+mv bankovci_kovanci_V2.py bankovci_kovanci.py
+mv create_newPdtkd7-jar{_20190703,}.txt 
+mv create_newPdtkd{5,7}-jar_20190703.txt 
+mv how{_,}to_change_linux_console_font_type_and_size_20190812 
+mv jv_oop-in-python-vs-java_20190910.txt ../JAVA/
+mv jv_oop-in-python-vs-java_20190910.txt ../_JAVA/
+mv jv_oop-in-python-vs-java_20190910.txt /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_JAVA/
+mv napa /c/Users/gregor.redelonghi/myslike/
+mv newPdtk* ../src/_ostalo/
+mv newPdtk6{,.jar}
+mv newPdtk7.jar ../jars/
+mv potnilisti{,_staro}.txt 
+mv quora_What-are-10-beginner-exercises-for-functions-in-Python_20190916.txt ~/DROPBOX/ODPRTO/_PYTHON/
+mv ~/DOWNLOADS/DayOfWeek_20190924.py 20190924_day_of_week/
+mvc create_newPdtkd{5,7}-jar_20190703.txt 
+no os.txt
+on is easy to learn.
+os.txt
+pandoc
+paste names.txt years.txt genders.txt 
+pc {ptn,jv}_oop-in-python-vs-java_20190910.txt 
+pddlog
+perl is easy to use. perl is easy to learn.
+prepare_fjl_for_knowledgebase 
+prepare_fjl_for_knowledgebase ___insert.txt 
+prepare_fjl_for_knowledgebase ___insert1_20190812.txt 
+prepare_fjl_for_knowledgebase ___insert2_20190812.txt 
+prepare_fjl_for_knowledgebase andr_sending-data-from-one-activity-to-another_20190829.txt 
+prepare_fjl_for_knowledgebase bash_builtin_examples_20190910.txt 
+prepare_fjl_for_knowledgebase bash_increment-decrement-variable_20190821.txt 
+prepare_fjl_for_knowledgebase go_sorting_maps_20191126.txt 
+prepare_fjl_for_knowledgebase hexdump_dig-binary-files_20190821.txt 
+prepare_fjl_for_knowledgebase howto_create-virtual-harddisk_20190820.txt 
+prepare_fjl_for_knowledgebase howto_keeping-track-of-linux-users_20190820.txt 
+prepare_fjl_for_knowledgebase howto_single-sudo-to-run-multiple-arguments_20190812.txt 
+prepare_fjl_for_knowledgebase jv_qr-code_generate-read-use-multif_20190912.txt 
+prepare_fjl_for_knowledgebase pigz_tar-use-multiple-cores-when-compressing_20190812.txt 
+prepare_fjl_for_knowledgebase ptn_api-tutorial_20190916.txt 
+prepare_fjl_for_knowledgebase ptn_dictionary-comprehension_20190708.txt 
+prepare_fjl_for_knowledgebase ptn_float-function_20190808.txt 
+prepare_fjl_for_knowledgebase ptn_howto_implement-stack_20190910.txt 
+prepare_fjl_for_knowledgebase ptn_map-function_20190821.txt 
+prepare_fjl_for_knowledgebase ptn_oop-in-python-vs-java_20190910.txt 
+prepare_fjl_for_knowledgebase ptn_python3-OOP_20190910.txt 
+prepare_fjl_for_knowledgebase ptn_rounding-numbers_20190812.txt 
+prepare_fjl_for_knowledgebase ptn_test-driven-development-tdd_20190808.txt 
+prepare_fjl_for_knowledgebase ramdisk_howto-use-on-linux-multif_20190828.txt 
+prepare_fjl_for_knowledgebase rsync-bash_remote-backup-replication_20190912.txt 
+prepare_fjl_for_knowledgebase trace-exec_slow-snap-trace-exec-to-the-rescue_20190812.txt 
+prepare_fjl_for_knowledgebase xargs_useful-examples_20190809.txt 
+pth=/c/Users/gregor.redelonghi/A_file_1.0.0.go; P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##*.}; echo "$P | $F | $B | $E"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed "s/${pth\%\/*}/:/"
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; echo $pth | sed "s/${pth\%\/*}/:/'
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.goP=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##*.}; echo "$P | $F | $B | $E"
+pwgen
+python test_viewer.py 
+python3 -m reader
+python3 -m reader 3
+python3 test_feed
+python3 test_feed.py
+python3 test_feed.py 
+python3 test_viewer.py 
+pzthon3
+rename1_fname
+rewrapp ___insert.txt 
+rewrapp ~/BRISI/___insert.txt 
+s1 "http://ubuntuhandbook.org/index.php/2019/08/upgrade-ubuntu18-04-3-kernel-5-0-xorg/"
+s1 "http://www.TEST.sem/This-is-a-TEST.html"
+s1 "https://www.iottechtrends.com/best-raspberry-pi-4-accessories/"
+s2 "Free APIs list" '''
+s2 "Glim - multiboot USB (new 2019)" "http://www.ubuntubuzz.com/2019/08/create-usb-multiboot-gnulinux-with-glim.html"
+s2 "KAGGLE" """
+s2 "Najbplj umazan ..." '''
+s2 "New OSGeoLive Release Opens Doors to Geospatial Worlds" "https://www.linuxinsider.com/story/86226.html"
+s2 "TEST" "TEST"
+s2 "UPGRADE!" '''
+s2 "https://distrotest.net/" "https://distrotest.net/"
+s2 "update new Xubuntu 20190812" """
+sed  's/\(.*\)/\L\1/' os.txt
+sed  's/\([^ ]*\) *\([^ ]*\)/\2 \1/' course.txt
+sed  -e '/CSE/ s/Count/100/; /EEE/ s/Count/70/;' dept.txt
+sed $(cat list1.txt | awk '{print "-e s/"$1"/"$3"/"}') <<< "$(cat list2.txt)"
+sed '/CSS/!d' web.txt
+sed '/Linux/! S/$/ Operating System/' os.txt
+sed '/Linux/! s/$/ Operating System/' os.txt
+sed '/Linux/,+2d' os.txt
+sed '/OS/d' os.txt
+sed '/Windows/ s/$/ 10/' os.txt
+sed '/\n\n/d' quora_What-are-10-beginner-exercises-for-functions-in-Python_20190916.txt 
+sed '/^$/d;G' quora_What-are-10-beginner-exercises-for-functions-in-Python_20190916.txt 
+sed '/^$\n^$/d' quora_What-are-10-beginner-exercises-for-functions-in-Python_20190916.txt 
+sed '/linux/Id' os.txt
+sed '1 s/Python/perl/' python.txt
+sed '2 s/Python/perl/g' python.txt
+sed '=' os.txt
+sed 's/Linux/&\nUbuntu/' os.txt
+sed 's/Python/perl/g2' python.txt
+sed 's/Show\/Hide/GGGGGGGGGGGGGGGGGGGGGGGGGG/g' ptn_howto_pypi-publish-python-package_20190705.txt 
+sed 's/Sunday/Sunday is holiday/' weekday.txt
+sed 's/[A-Za-z0-9]//g' stdlist
+sed 's/\(.*\)Programming/\1Scripting/' python.txt
+sed 's/\([0-9]*\)/$\1/g' items.txt
+sed 's/\([0-9]+\)/$\1/g' items.txt
+sed 's/\([0-9].*\)/$\1/g' items.txt
+sed 's/\([0-9]\)/$\1/g' items.txt
+sed 's/\(^.\{1,80\}\).*/\1/' in.txt
+sed 's/\(linux\)/\L\1/Ig' os.txt
+sed 's/\(linux\)/\U\1/Ig' os.txt
+sed (GNU sed) 4.4
+sed --version
+sed -1 '/Show\/Hide/d' ptn_howto_pypi-publish-python-package_20190705.txt 
+sed -e "/If you /,/.{,10}>/d" $RLPTN | less
+sed -e "/Od:/ s/.*Od:.*/==============================================================================================================/" -e "/Za:/d" $RLPTN | less
+sed -e "/Od:/d"  -e "/Za:/d" $RLPTN | less
+sed -e '$s/Python/Bash/' python.txt
+sed -e 's/to /& to/g' python.txt
+sed -i '/Show\/Hide/d' ptn_howto_pypi-publish-python-package_20190705.txt 
+sed -i -e '/CSE/! s/Count/80/;' dept.txt
+sed -n '/Show\/Hide/d' ptn_howto_pypi-publish-python-package_20190705.txt 
+sed -n '/Show\/Hide/p' ptn_howto_pypi-publish-python-package_20190705.txt 
+sed -n '@Show/Hide@p' ptn_howto_pypi-publish-python-package_20190705.txt 
+sed -n 's/^L/Matched String is - &/p' os.txt
+sed -z 's/\n/,/g' os.txt
+sed G stdlist
+sed `cat list1.txt | awk '{print "-e s/"$1"/"$3"/"}'`<<<"` cat list2.txt`"
+softlink1_p_fname_to_ulb 
+tmux
+touch $MJF
+touch DayOfWeek.java
+touch ~/BRISI/TEST_20190827.txt
+tree -d -L 2 ../
+tree -d -L 6 -I "go[pl]*"
+tree -d -L 6 -I --matchdirs gopl.io-master
+tree -d -L 6 -I gopl.io-master
+tree -d -L 8 -I "go[pl]*"
+tree -if
+tree -lL 2
+tree 20190703_pdtk_V5_en/
+tree bin/
+tree j059_NumsTests_20190909/
+type ./cat
+type cat
+type vscode
+upper-to-lower "quora_What-are-10-beginner-exercises-for-functions-in-Python_20190916.txt"
+vscode $(cygpath -w GO_en_testing/gn027_sets_structs_20191128)
+vscode BrthdReminder_1.0.8-cmd.go 
+vscode BrthdReminder_1.0.8.go 
+vscode BrthdReminder_1.0.9.go 
+vscode files.go 
+vscode files_nix.go 
+vscode files_w10.go 
+vscode systemInfo_1.0.0.go 
+w3m -dump "https://www.amzs.si/storitve/pregledi-in-registracije/tehnicni-pregledi/kdaj-na-tehnicni-pregled#roki-za-opravljanje-tehnicnih-pregledov" | less
+watch -d -n1 du /j/en_h_bekap.log 
+watch -n1 -d "du -s /c/Users/gregor.redelonghi/Dropbox/"
+wdu
+which go
+while [ $i -lt 21 ]; do echo $i; ((i++)); done
+while [ $i<20 ] do; ((i++)); echo $i; done
+while [ i<20 ] do; ((i++)); echo $i; done
+while [ i<20 ]; ((i++)); ecgho $i; done
+while [ i<20 ]; ((i++)); echo $i; done
+while [ i<20 ]; then ((i++)); done
+~/DOWNLOADS/DayOfWeek_20190924.py 
+ḑbop
+"
+./BrthdReminder 
+./convert_filename_to_lowercase_with_hypens_20160202.sh 
+./fname_select_rename_chng_patt_test_20190905.py 
+./fname_select_rename_chng_patt_test_20190905.py fajl.01.txt get_filenames_by_word_en_V2_20171027.py tuition.py 
+./list_files_numpart_gt_param.sh 
+./list_files_numpart_gt_param.sh 20190101
+./list_files_numpart_gt_param.sh 20190601
+./rename_to_basename_with_new_ext.sh _podnampisi/old_movie-name.srt existing_movie-name.mp4 
+/sbin/mkfs.exe -V -t fat myVHD.img 
+/sbin/mkfs.exe -V -t vfat myVHD.img 
+/sbin/mkfs.exe -VV -t vfat myVHD.img 
+/sbin/mkfs.exe -h
+/usr/sbin/mke2fs.exe -h
+/usr/sbin/mkfs.ext4 -h
+/usr/sbin/mkfs.ext4 myVHD.img 
+/usr/sbin/tune2fs.exe -c0 -i0 myVHD.img 
+A="Hi"
+FF=rename-to-basename-with-new-ext.sh 
+GG=$([ -f /home/user/my_file ] && "My file exists" || "My file doesn't exist")
+GG=$([ -f /home/user/my_file ] && echo "My file exists" || echo "My file doesn't exist")
+GG=[ -f /home/user/my_file ] && echo "My file exists" || echo "My file doesn't exist"
+LS -1 /c/Users/gregor.redelonghi/2019/_2019_1_PROJEKTI/
+N=/home/username/folder1/subfolder11/file.txt
+OPNU "C:\Users\gregor.redelonghi\2019\_2019_1_PROJEKTI\P-32885_42252_HPP_Hradeckega-cesta-24a_PZI\HPP_Hradeckega-cesta-24a_PZI_risbe"
+SZP
+URL="https://realpython.com/inheritance-composition-python/"
+[ -f MAJFAJL.txt ] && echo "YES!" || echo "NO!"
+\at
+assArray1[animal]=Tiger
+assArray1[bird]=Cockatail
+assArray1[flower]=Rose
+assArray1[fruit]=Mango
+assArray2+=([Mouse]=Logitech)
+bash --version
+bash 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+bash rename-to-basename-with-new-ext.sh existing_fname.mp4 
+bash rename-to-basename-with-new-ext.sh old_movie-name.srt existing_movie-name.mp4 
+cat *
+cat -A rename-to-basename-with-ext.sh 
+cat -A rename-to-basename-with-ext_3.sh 
+cat -A rename-to-basename-with-new-ext.sh 
+cat .bashrc
+cat /proc/partitions
+cat /usr/local/bin/jvfx_compile 
+cat /usr/local/bin/jvfx_run 
+cat 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+cat CQRB 
+cat QRB_ALL 
+cat existing_movie-name.mp4 
+cat existing_movie-name.srt existing_movie-name.mp4 
+cat old_movie-name.srt 
+cat rename-to-basename-with-ext.sh
+cat rename-to-basename-with-ext.sh 
+cat rename-to-basename-with-ext.sh >> rename-to-basename-with-ext_2.sh 
+cat rename_to_basename_with_new_ext.sh 
+cat whats-box-interrogate-your-linux-machines-hardware_20160223.txt
+cat ~/.bashrc | grep -i proxy
+chmod 755 NumsDisp.py 
+chmod 755 TEST.py 
+chmod 755 rename_to_basename_with_new_ext.sh 
+chmos 755 NumsDisp.py 
+chmos 755 TEST.py 
+cmc
+cp -r 20190902_renaming-cleaning-fnames-dirnames/ ~/BRISI/
+cp -rv /h/201[2-8] en_h_bekap_20190708/ | tee -a en_h_bekap.log
+cp -rv 201[2-8] en_h_bekap_20190708/ | tee -a en_h_bekap.log
+cp -t 20190902_renaming-cleaning-fnames-dirnames/ ~/BRISI/
+cp .tmux_{3,4}_conf 
+cp /c/Users/gregor.redelonghi/Downloads/org.json.jar.zip ./
+cp 01_rbckp_cgr_en.sh 001_rbckp_cgr_en.sh 
+cp 01_rbckp_cgr_en.sh 002_rbckp_cgr_Downloads_en.sh 
+cp 01_rbckp_cgr_en.sh 003_rbckp_cyggr_en.sh 
+cp GetAndPost_d.java GetAndPost_d_V2.java 
+cp NumsDisp* TestNumsDisp* ~/JAVA_en_testing/20190909_NumsTests/
+cp NumsDisp{2,3}.java
+cp _* ~/DROPBOX/ODPRTO/
+cp matplotlib-test_20190709.ipynb ptn_matplotlib_tutorial_–_learn_plotting_in_3_hours.ipynb
+cp old_movie-name.srt _podnampisi/
+cp rename_to_basename_with_new_ext.{sh,py} 
+cp vi* ~/DROPBOX/ODPRTO/
+cygpath -w /usr/bin/bash
+diff -c URLConnectionProxy_V2.java URLConnectionProxy_d_V2.java 
+diff -y URLConnectionProxy_V2.java URLConnectionProxy_d_V2.java 
+dos2unix.exe rename-to-basename-with-ext.sh 
+du -h --total vi*
+du -sh --total /h
+echo "$A"+"There"
+echo "$A+"There"
+echo "${!assArray1[@]}"
+echo "Gregor Redelonghi"
+echo "Gregor Redelonghi" | cut -b 5-
+echo "Gregor Redelonghi" | cut -b 8-
+echo "Gregor Redelonghi" | cut -b-8
+echo "Gregor Redelonghi" | cut -b-8 | sort
+echo "Gregor Redelonghi" | cut -b0
+echo "Gregor Redelonghi" | cut -b1
+echo "Gregor Redelonghi" | cut -b1,2
+echo "Gregor Redelonghi" | cut -b1,5
+echo "Gregor Redelonghi" | cut -b1-5
+echo "Gregor Redelonghi" | cut -c -5
+echo "Gregor Redelonghi" | cut -c 1
+echo "Gregor Redelonghi" | cut -c 1,3
+echo "Gregor Redelonghi" | cut -d " " -f 1
+echo "Gregor Redelonghi" | cut -d " " -f 1,2
+echo "Gregor Redelonghi" | cut -d " " -f 2
+echo "Gregor Redelonghi" | cut -d ' ' F1
+echo "Gregor Redelonghi" | cut -d ' ' f 1
+echo "Gregor Redelonghi" | cut -d ' ' f 2
+echo "Gregor Redelonghi" | cut -d ' ' f1
+echo $(FF//-/_/}
+echo $(FF//-/_}
+echo $(cygpath -w ./org.json.jar)
+echo $(cygpath -w ~/BRISI/org.json.jar)
+echo $A
+echo $GG
+echo $PATH
+echo $fname
+echo ${A+"THERE"}
+echo ${B+"THERE"}
+echo ${FF//-/_}
+echo ${N##./}
+echo ${N#*/}
+echo ${N#/}
+echo ${N%%/*}
+echo ${N%.*}
+echo ${N%/*}
+echo ${N%/.*}
+echo ${N%/\.*}
+echo ${N%/}
+echo ${N}
+echo ${assArray1[bird]}
+echo ${assArray1[flower]}
+echo ${assArray2[Monitor]}
+echo ${fname%*.}
+echo ${fname%.*}
+env | grep -i d*t
+env | grep -iE "d.*t"
+env | grep -iE "d.{1}t"
+env | grep -iE "d{1,2}.{1}t"
+env | grep -iE java
+env | grep CURD
+export gr_CURDT=20190807
+ff tests_20190905.html 
+ffs README.textile
+ffs RPi_as_linux_backup_server-multif_20180131.txt 
+ffs Untitled2.html 
+ffs tests_20190905.html 
+file tmxs
+find ! -iname "*.log"
+find -iname "*[-_]pvc[-_]*"
+find -iname "*gp*"
+find -iname "*gpE*"
+find -maxdepth 2 -type d -iname "*videm*"
+find -maxdepth 3 -type d -iname "*S*2007*"
+find -maxdepth 3 -type d -iname "*S[ -_]2007*"
+find -maxdepth 3 -type d -iname "*[ _-]dol*"
+find -maxdepth 3 -type d -iname "*[ _-]dol[ -_]*"
+find -maxdepth 3 -type d -iname "*videm*"
+find -name "*.ipynb"
+find -name "*__insert*"
+find -name "*_insert*"
+find -type d -iname "*cng*"
+find -type d -iname "*sever*"
+find -type f -iname "*\.ipynb"
+find -type f -iname "*day*"
+find -type f -iname "011*"
+find -type f -iname "\.ipynb"
+find -type f -iname "^naro*ilo*"
+find / -iname "*mke2fs*
+find / -iname "*mke2fs*"
+find / type f -iname "*mkfs*"
+find name "*.ipynb"
+find type f -iname "011*"
+fm ~/_TXT_2019.txt
+for FFF in $(find -name "*how-to*"); do echo "mv -v $FFF ${FFF//how-to/howto}"; done
+for FFF in $(find -name "*how-to*"); do echo $FFF; done
+for FFF in $(find -name "*how-to*"); do mv -v $FFF ${FFF//how-to/howto}; done
+for FFF in $(find -type f -iname "*.java"); do grep -Hs date $FFF; done | less
+for FFF in $(find -type f -iname "*.java"); do grep -iHs '$' $FFF; done
+for FFF in $(find -type f -iname "*.java"); do grep -iHs '% 7' $FFF; done
+for FFF in $(find -type f -iname "*.java"); do grep -iHs '% 7' $FFF; done | less
+for FFF in $(find -type f -iname "*.java"); do grep -iHs '\%' $FFF; done
+for FFF in $(find -type f -iname "*.java"); do grep -iHs day $FFF; done | less
+for FFF in $(find -type f -iname "*.java"); do grep -iHsE '% *7' $FFF; done
+for FFF in $(find -type f -iname "*.java"); do grep -iHsE '%.*7' $FFF; done
+for FFF in $(find -type f -iname "*.java"); do grep -ln date $FFF; done | less
+for FFF in $(find -type f -iname "*.java"); do grep -lns date $FFF; done | less
+for FFF in $(find -type f -iname "*.java"); do grep date $FFF; done | less
+for FFF in $(find -type f -iname "*.py"); do grep -iHsE '% *7' $FFF; done
+for N in 1 2 3; do echo $N; done
+for key in "${!assArray1[@]}"; do echo "$key => ${assArray1[$key]}"; done
+for val in "${assArray1[@]}"; do echo $val; done
+fss README.textile 
+gg=[ -f /home/user/my_file ] && "My file exists" || "My file doesn't exist"
+git clone https://bitbucket.org/aksinghnet/owm-japis.git
+go build .
+go help build
+go help build | less
+go help gopath
+go run Debelina_stene.go 
+go run eval.go 
+go run whois.go 
+gr_CURDT="20190807"
+grep "find*fm" seznami/*
+grep "https://realpython.com/effective-python-environment/" ./*
+grep "mk*cut" ./*
+grep "mk*link" ./*
+grep 'URL' ./*
+grep 'URL=' ./*
+grep 'if ['
+grep -E "0.._" ./*
+grep -E "0._" ./*
+grep -E "01?_" ./*
+grep -E "01_" ./*
+grep -E "0??_" ./*
+grep -E "find*fm" seznami/*
+grep -E "find.*f.*m" seznami/*
+grep -E "find.*fm" seznami/*
+grep -E "find.*newer" seznami/*
+grep -i 'URL' ./*
+grep -ir "https://www.sanfoundry.com/java-android-program-build-simple-android-application/" ./* 
+grep -ir day ./*
+grep -ir day ./* | less
+grep -ir tms ./*
+grep -irl tms ./*
+grep -r "sys.argv" ../PYTHON_en/PYTHON_en_testing/
+grep -r 'if \[ $#' ./*
+grep -r 'if \[' ./*
+grep -r for ~/JAVA_en_testing/*
+grep 01 ./*
+grep 01? ./*
+grep CPU ./*
+grep fmt seznami/*
+grep for ./*.java
+grep for ~/JAVA_en_testing/*
+grep link ./*
+grep youtube-dl ./*
+history | grep fmt
+history | grep link
+history | grep mt
+jar -tvf org.json.jar
+java
+java List3
+java NumsDisp2
+java ObjTest3
+java Point
+java RunExt.
+java TEST
+java TEST_V2
+javac NumsDisp2.java 
+jrun Elektrika_E2017.jar 7 5 2 9
+jrun JSatTrak.jar
+jrun newPdtk7.jar mark
+less AGLOMERACIJE_onl.txt 
+less Cicxa_s_palco_20171006.txt 
+less How\ to\ remove\ Zeitgeist\ in\ Ubuntu\ and\ why.txt 
+less TEST.sh 
+less _TODO.txt 
+less andr_sending-data-from-one-activity-to-another_20190829.txt 
+less convert_filename_to_lowercase_with_hypens_20160202.sh 
+less copy_ratio.sh 
+less ext_pause_continue.sh 
+less list_files_numpart_gt_param.sh 
+less lower_to_upper.sh 
+less parameter_substitution.chs 
+less pom.xml 
+less putprefix.sh 
+less rename-to-basename-with-ext.sh 
+less rename1_fname.py 
+less rename2_and_clean_fname.py 
+less workingfile.csv 
+listulb | \grep -Ei "r.*n.*m"
+listulb | \grep -Ei "r.*nm"
+listulb | grep -iE "r.n"
+listulb | grep link
+look -f CPU whats-box-interrogate-your-linux-machines-hardware_20160223.txt 
+look -f The whats-box-interrogate-your-linux-machines-hardware_20160223.txt 
+look -f a whats-box-interrogate-your-linux-machines-hardware_20160223.txt 
+look -f t whats-box-interrogate-your-linux-machines-hardware_20160223.txt 
+look CPU ./*
+lower_to_upper "Gradnja plinovoda Dol - Videm 3. faza"
+lynx -dump -width=110 "http://raju.varghese.org/articles/powers2.html" | less
+lynxd "https://crunchify.com/how-to-read-file-in-java-and-count-total-number-of-characters-words-and-lines/" jv_read-file-and-count-total-num-of-chars-words-and-lines
+lynxd "https://dzone.com/articles/how-to-implement-get-and-post-request-through-simp" jv_howto_get-and-post-request
+lynxd "https://itsfoss.com/check-boot-time-linux/" boot-time-check
+lynxd "https://linuxhint.com/associative_array_bash/" bash_associative_array
+lynxd "https://linuxhint.com/bash_until_loops/" bash_until_loops
+lynxd "https://realpython.com/effective-python-environment/" ptn_effective-python-environment
+lynxd "https://realpython.com/effective-python-environment/" ptn_effective-python-environment/
+lynxd "https://realpython.com/python-print/" ptn_print-function-guide
+lynxd "https://stackabuse.com/java-flow-control-the-switch-statement/" jv_flow-control-switch-statement
+lynxd "https://stackabuse.com/minimax-and-alpha-beta-pruning-in-python/" ptn_minimax-and-alpha-beta-pruning
+lynxd "https://www.admfactory.com/http-urlconnection-with-proxy-in-java/" jv_http-urlconnection-with-proxy
+lynxd "https://www.ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/" youtube-dl-tutorial-with-examples
+lynxd "https://www.techbeamers.com/python-difference-between-two-lists/" ptn_difference-between-two-lists
+lynxd -dump -width=110 "http://raju.varghese.org/articles/powers2.html" | less
+lčl
+mkdir -p ~/JAVA_en_testing/20190909_NumsTests
+mkdir 20190708_run-ext-program
+mkdir 20190902_renaming-cleaning-fnames-dirnames
+mkdir JStrack
+mkdir OWM
+mkdir TEST
+mkdir _ostalo
+mkdir _podnampisi
+mkdir en_h_bekap_20190708
+mke2fs
+mke2fs -h
+mkshortcut.exe --usage
+mkshortcut.exe -h
+mmkdir _podnapisi
+mount -h
+mount -o loop myVHD.img TEST
+mount -t auto -o loop myVHD.img TEST/
+mv "filename1 with spaces.txt.backup" "Filename1 WITH spaces 2.TXT" 
+mv $FF $(FF//-/_)
+mv $FF ${FF//-/_}
+mv *.java src/
+mv -v howto_create_a_user_account_without_useradd_20190807.txt $DBOT/
+mv ../DOWNLOADS/tests_20190905.html ./
+mv 001_rbckp_cgr_en.sh 011_rbckp_cgr_en.sh 
+mv 002_rbckp_cgr_Downloads_en.sh 002_rbckp_cgr_en_Downloads.sh 
+mv 002_rbckp_cgr_en_Downloads.sh 012_rbckp_cgr_en_Downloads.sh 
+mv 003_rbckp_cyggr_en.sh 013_rbckp_cyggr_en.sh 
+mv 00_ext_backups_metsys/ ext_backups_metsys/
+mv 00_ostalo/ 01_ostalo/
+mv 01_rbckp_cgr_en.sh STARO-skupaj_01_rbckp_cgr_en.sh 
+mv API_tutorial_20190916. 20190916_API-tests/
+mv API_tutorial_20190916.* 20190916_API-tests/
+mv FF $(FF//-/_)
+mv JSatTrak_v4_2_2_bin.zip JStrack/
+mv JStrack/ /c/Users/gregor.redelonghi/Downloads/
+mv RV-13_22016_RP-Letaliska_DGD/ RP-Letaliska_RV-13_DGD/
+mv TEST_20190916.* 20190916_API-tests/
+mv _podnampisi/rename_to_basename_with_new_ext.sh .
+mv en_h_bekap.log en_h_bekap_20190708/
+mv existing_fname.mp4 existing_movie-name.mp4 
+mv existing_movie-name.mp4 
+mv f{,n}ame_select_rename_chng_patt_test_20190905.py 
+mv ptn_count-the-number-of-occurrences-of-each-character-and-return-it-as-a-list-of-tuples-in-order-of-appearance_20190418.txt ptn_count-the-number-of-occurrences-of-each-character-and__20190418.txt
+mv ptn_matplotlib_tutorial_–_learn_plotting_in_3_hours.ipynb DROPBOX/ODPRTO/_PYTHON/PDF/
+mv rename_to_basename_with_new_ext.py rename-p_to_basename_with_new_ext.py 
+mv rename_to_basename_with_new_ext.sh _podnampisi/
+mv tests_2019090* jptrs/
+mv {,f}clean_movie_dirname_V5_20180312.py 
+mv {,f}clean_movie_firname_V5_20180312.py 
+mv {,f}clean_movie_fname_V5_20180312.py 
+mv {_,}JAVA_2019_20190919.txt 
+mv {_,}PYTHON_2019_20190919.txt 
+mv {_,}TXT_2019_20190919.txt 
+mv {_,}_TXT_2019_20190919.txt 
+mv {f,d}clean_movie_dirname_V5_20180312.py 
+mv ~/BRISI/rename-p_to_basename_with_new_ext.py{,.txt} 
+my_ftp
+prepare_fjl_for_knowledgebase
+prepare_fjl_for_knowledgebase ./jv_run-external-program-multif_20190826.txt 
+prepare_fjl_for_knowledgebase bash_associative_array_20190808.txt 
+prepare_fjl_for_knowledgebase bash_until_loops_20190808.txt 
+prepare_fjl_for_knowledgebase boot-time-check_20190807.txt 
+prepare_fjl_for_knowledgebase exponential_growth_powers_of_2_20190923.txt 
+prepare_fjl_for_knowledgebase howto_create_a_user_account_without_useradd_20190807.txt 
+prepare_fjl_for_knowledgebase jv_flow-control-switch-statement_20190906.txt 
+prepare_fjl_for_knowledgebase jv_howto_get-and-post-request_20190917.txt 
+prepare_fjl_for_knowledgebase jv_http-urlconnection-with-proxy_20190917.txt 
+prepare_fjl_for_knowledgebase jv_read-file-and-count-total-num-of-chars-words-and-lines_20190830.txt 
+prepare_fjl_for_knowledgebase ptn_difference-between-two-lists_20190808.txt 
+prepare_fjl_for_knowledgebase ptn_effective-python-environment_20190904.txt 
+prepare_fjl_for_knowledgebase ptn_howto-write-package-and-distribute-a-library_20190710.txt 
+prepare_fjl_for_knowledgebase ptn_making_package_20190710.txt 
+prepare_fjl_for_knowledgebase ptn_minimax-and-alpha-beta-pruning_20190906.txt 
+prepare_fjl_for_knowledgebase ptn_packages-for-beginners_20190710.txt 
+prepare_fjl_for_knowledgebase ptn_print-function-guide_20190904.txt 
+prepare_fjl_for_knowledgebase youtube-dl-tutorial-with-examples_20190807.txt 
+python3 -m pip list | grep request
+python3 -m pip show
+python3 filename_select_test.py 
+python3 filename_select_test.py ./FAJEL-1.txt
+python3 filename_select_test.py ./FAJEL-1.txt geslo.sh list_sed.txt 
+r
+rename-p_to_basename_with_new_ext 
+rename-p_to_basename_with_new_ext _podnampisi/old_movie-name.srt existing_movie-name.mp4 
+rename1_fname 
+rename1_fname "filename1 with spaces.txt" " " "_"
+rename1_fname "filename1 with spaces.txt.backup" " " "_"
+rename1_fname Why\ is\ binomial\ expansion\ so\ special.docx 
+rename2_and_clean_fname "Filename1 WITH spaces 2.TXT" 
+rename2_and_clean_fname "Why is binomial expansion so special.docx" 
+rename2_and_clean_fname "filename1 with spaces.txt.backup" 
+rename_to_basename_with_new_ext _podnampisi/old_movie-name.srt existing_movie-name.mp4 
+replp_blnks_underscrs "How To Set Java Default Version"
+rouch
+s1 "https://www.omgubuntu.co.uk/2019/07/bricscad-shape-sketchup-alternative-linux"
+s2 "Balineze women nkd" "https://www.google.com/search?client=firefox-b-d&biw=1698&bih=848&tbm=isch&sa=1&ei=FLWEXer9IMPTsAfpp6r4Bg&q=Balinese+women+naked&oq=Balinese+women+naked&gs_l=img.3...9306.10495..10695...0.0..0.133.620.3j3......0....1..gws-wiz-img.......0i19j0i30i19j0i5i30i19.2n9u_mI0RDA&ved=0ahUKEwjq18Kgo9_kAhXDKewKHemTCm8Q4dUDCAY&uact=5"
+s2 "Check Out!" "https://schedule.readthedocs.io/en/stable/?__s=gtwnvkn4wehmbertpxos"
+s2 "Folding the paper = exponential growth" "http://raju.varghese.org/articles/powers2.html"
+s2 "IL PRIMO RE" "https://www.youtube.com/watch?v=H8B7gAdDCZA"
+s2 "TOP UPCOMING ACTION MOVIES Trailer (2019/2020)" "https://www.youtube.com/watch?v=ytp30ybm3IE"
+s2 "Top 10 Underrated Science Fiction Movies" "https://www.youtube.com/watch?v=Ut0SXRC0Kcw"
+s2 "dolpoteg" "Coherence (2013)"
+sed '/1,2/d' rename-to-basename-with-ext_2.sh 
+sed '/1,2/d' rename-to-basename-with-ext_2.sh > rename-to-basename-with-ext_3.sh
+sed '/\[.*\]Remove ads/d' ptn_print-function-guide_20190904.txt 
+sed '1,2/d' rename-to-basename-with-ext_2.sh 
+sed -i '/1,2/d' rename-to-basename-with-ext_2.sh 
+sed -i '/\[.*\]Remove ads/d' ptn_print-function-guide_20190904.txt 
+sed -n '/\[.*\]Remove ads/p' ptn_print-function-guide_20190904.txt 
+ss
+ss -h
+tail en_h_bekap.log 
+tmus -2 -f ~/.tmux_4_conf attach
+touch "filename1 with spaces.txt"
+touch NumsDisp.java
+touch NumsDisp.py
+touch RunExt.java
+touch RunExtProgramm.java
+touch TEST.py
+touch _TODO.txt
+touch existing_fname.mp4
+touch filename_select_test.py
+touch heil.txt
+touch old_movie-name.srt
+touch rename-to-basename-with-ext.sh
+tree -L 2 /c/Users/gregor.redelonghi/2019/_2019_1_PROJEKTI/VN_N-28862_PO_Cesta-13-julija/
+tree -L 3
+tree -l 2
+tree MP-Letaliska_DGD/
+tree RP-Letaliska_RV-13_DGD/
+type tmxs
+unset assArray1
+unset assArray2[Monitor]
+unzip JSatTrak_v4_2_2_bin.zip 
+unzip org.json.jar.zip 
+vp NumsDisp{2,3}.java
+w3md "http://raju.varghese.org/articles/powers2.html" exponential_growth_powers_of_2
+whereis my_ftp
+whereis rename_to_basename_with_new_ext.sh
+whereis tmxs
+which bash
+which my_ftp
+which tmxs
+ļl
+ļl ptn_how*
+ŽQGŽQ
+"""
+$> cat dept.txt
+./BrthdReminder.exe moj
+./BrthdReminder_1.0.5-cmd.exe 
+./BrthdReminder_1.0.5_en.py
+./BrthdReminder_1.0.5_en.py 
+./BrthdReminder_1.0.5_en.py c
+./BrthdReminder_1.0.5_en.py šp
+./Debelina_stene.exe 
+./DecimalToBinTable_1.0.0.exe 
+./attributes.exe 
+./gn017_BrthdReminder_20191108/BrthdReminder_1.0.8-cmd.exe 
+/c/Users/gregor.redelonghi/.julia/conda/3/Scripts/jupyter notebook --no-browser
+/c/Users/gregor.redelonghi/DANES/currdir/files2_w10.exe 
+0a_povezave/BrthdReminder šp
+BrtdReminder/BrthdReminder_1.0.3.py tadd
+CSE - Count
+Civil - Count
+FJL2="~/BRISI/seznam2.txt"
+GOPATH=$(cygpath -w /home/gregor.redelonghi/majstaf/BRISI/TEST) go run src/main2.go 
+bash ./RENAME_20191025.sh 
+bash create_newPdtkd2-jar_20190702.txt 
+cat BRISI/seznam_20191009.txt | sort -hr -k6
+cat DEST/
+cat go.sum 
+cat ~/BRISI/seznam2.txt
+cat ~/BRISI/seznam2.txt 
+du -h /c/Users/gregor.redelonghi/majstaf/BRISI/
+du -sh /c/Users/gregor.redelonghi/majstaf/BRISI/
+du -sh DESTTEST
+echo "https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap" >> ~/BRISI/seznam2.txt 
+echo $FJL2
+find -maxdepth 1 -type f
+find -maxdepth 3 -type d -iname "*dol*"
+find -type d -name "*2019[-_]*"
+for LINK in $(cat ~/BRISI/seznam2.txt); do echo $LINK; done
+for LINK in $(cat ~/BRISI/seznam2.txt); do echo grep -l $LINK ./*; done
+for LINK in $(cat ~/BRISI/seznam2.txt); do grep -l $LINK ./*; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "\"https.*real.*\""); do echo "$LINK" >> $FJL2; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "\"https.*real.*\""); do echo "$LINK" >> ~/BRISI/seznam2.txt; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "\"https.*real.*\""); do echo "$LINK"; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "\"https.*real.*\""); do echo "LINK: $LINK"; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "https.*real.*/"); do echo "LINK: $LINK"; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "https.*real.*//"); do echo "LINK: $LINK"; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "https.*real.*\""); do echo "LINK: $LINK; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "https.*real.*\\/"); do echo "LINK: $LINK"; done
+for N in {1..10}; do echo mkdir dir_$N; done
+git clone https://github.com/shurcooL/go/tree/master/reflectsource $(cygpath -u $GOPATH)/src/github.com/shurcooL/go/reflectsource
+go build BrthdReminder_1.0.5-cmd.go 
+go build Debelina_stene.go 
+go get -u github.com/shurcooL/goexec
+go list .
+go run BrthdReminder_1.0.1.go 
+go run Dni.go 
+go run filesproject/files.go 
+go run klele.go 
+go run timeAndDate.go 
+go run tms.go 
+go_project_env 
+go_project_env majproject
+grep $URL ./*
+grep -irH "admin" ./*
+grep -irH "gksu" ./*
+grep -r "<NotepadPlus>" ./*
+grep -rs $URL ./*
+group
+head jv_iterate-through-a-hashmap_20190402.txt 
+java -cp $(cygpath -w $(realpath Pdtk.jar)) newPdtk5
+java -cp newPdtk5.jar;. newPdtk5
+java DayOfWeek_V2 1 -7
+java DayOfWeek_V2 7 -142
+java DayOfWeek_V2 7 0
+java Main2
+java newPdtk2 -p Tadeja
+java newPdtk2 -p greg
+java newPdtk2 gregor | grep DS
+java newPdtk3 TaDeJa
+java pdtk.Test
+javac newPdtk.
+javac newPdtk3.java 
+jrun newPdtk2.jar gregor
+jrun newPdtk5.jar gregor
+julia $(cygpath -w ./BRISI/test.jl) 
+julia BRISI\test.jl 
+l1 -t | head
+l1 -t | head -n20
+lynxd "https://codesposts.com/D0r6AK0x" jv_how_to_set_java_default_version
+lynxd "https://dwaves.org/2019/08/26/linux-bash-what-is-my-public-ip-2/" bash_what-is-my-public-ip-cli
+nguage.
+prepare_fjl_for_knowledgebase bash_what-is-my-public-ip-cli_20190904.txt
+prepare_fjl_for_knowledgebase jv_how_to_set_java_default_version_20190904.txt 
+python3 -m pip -help
+python3 -m pip list | column
+rsync -avn --include-from=CUGR.txt /c/Users/gregor.redelonghi/ DESTTEST/
+rsync -rltDv --include-from=seznam.txt ./ DEST/
+rsync -rltDv --include-from=seznam.txt DEST/
+rsync -rltDv --include-from=seznam.txt FROM/ DEST/
+sed '/\/http:\/\//p' ~/BRISI/seznam.txt 
+sed '@/http://@p' ~/BRISI/seznam.txt 
+sed 's/\"//g' ~/BRISI/seznam2.txt 
+sed 's/\/$//' ~/BRISI/seznam2.txt 
+sed 's/\/&//' ~/BRISI/seznam2.txt 
+sed -i 's/\"//g' ~/BRISI/seznam2.txt 
+sed -i 's/\/$//' ~/BRISI/seznam2.txt 
+sed -n '/\/http:\/\//p' ~/BRISI/seznam.txt 
+sed -n '/href/p' ~/BRISI/seznam.txt 
+sed -n '/href/p' ~/BRISI/seznam.txt | \grep -E "href.*\""
+sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "href.*\""
+sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "https.*real.*\""
+sed -n '/href/p' ~/BRISI/seznam.txt | \grep -e "href.*\""
+sed -n '/href/p' ~/BRISI/seznam.txt | grep -E "href.*\""
+sed -n '/href/p' ~/BRISI/seznam.txt | grep -Eo "href.*\""
+sed -n '/href/p' ~/BRISI/seznam.txt | grep -Ew "href.*\""
+touch $FJL2
+touch ~/BRISI/seznam2.txt
+tree -d -L2
+tree -d ch1
+vscode 
+$> cat python.txt
+./test.exe 
+./zamenjaj
+env
+go version
+grep CQRB ./*
+java --version
+java -cp $(cygpath -w $(realpath newPdtk5.jar)) newPdtk5
+less remove-dirs-files-from-downloads.txt 
+set
+'''
+./BrthdReminder c
+./BrthdReminder_1.0.2.py 
+./BrthdReminder_1.0.9-cmd.exe 
+./TEST.py 
+./bankovci_kovanci_V2.py 415.12 333.338
+0a_povezave/BrthdReminder 
+0a_povezave/BrthdReminder-cmd 
+A
+Android
+Friday
+Linux
+Monday
+OS
+P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##*.} echo "$P ... $F ... $B ... $E"
+Saturday
+Thursday
+Tuesday
+Wednesday
+c ..
+cat dept.txt 
+cat python.txt 
+cat stdlist 
+cat web.txt 
+ch?v=nskUHvjylEA
+cp {ptn,jv}_oop-in-python-vs-java_20190910.txt 
+du -sh --total ./*
+du -sh --total ODPRTO/ SKUPNI/
+echo "$pth ${pth%/}"
+echo "${pth%/*} ${pth#/}"
+echo "Gregor Redelonghi ?, . " | tr " ?,." "#-"
+echo $pth
+echo ${fjl##*.}
+echo ${fjl##.*}
+ffs DayOfWeek.html 
+find -type d -empty
+for DD in $(find -maxdepth 1 -type d); do echo $DD; done
+go build BrthdReminder_1.0.9-cmd.go 
+go mod graph
+go run BrthdReminder_1.0.5.go šp
+go run files2_w10.go 
+goexec 'http.ListenAndServe(`:8080`, http.FileServer(http.Dir(`.`)))'
+grep -rHs '\.put' ../* | less
+grep MEGA ./*
+i=0
+java DayOfWeek_V2 1 7
+javac TestFileRead2.java 
+javadoc --help | less
+less $HOME/logging/projekt.log
+mfcj
+mkdir 20190924_day_of_week
+mv 00_backups_wrapper.sh 00_backups_wrapper
+mv BrthdReminder{_1.0.7,}.exe 
+pth=/c/Users/gregor.redelonghi/majstaf/myprogs/Git/A_file_1.0.0.go; P=${pth%/*}; F=${pth##*/}; B=${F%.*}; E=${F##*.}; echo "$P | $F | $B | $E"
+python3 tst.py 
+tab=$'\t'
+tree -d -L 2
+tree -d -L 3
+tree ../
+tree src/
+while [ $i -lt 20 ]; do ((i++)); echo $i; done
+./NumsDisp.py 
+./hvar_2018_izracun.py 
+echo $PWD
+fg %1
+history
+java -cp Pdtk.jar mewPdtk5
+java -cp newPdtk5.jar newPdtk5
+java DayOfWeek_V2
+java newPdtk2 -h gregor
+java newPdtk2 tadeja
+java newPdtk5 gregor
+java pdtk.Pdtk
+jrun Elektrika_E2017.jar 
+jrun HvarIzracun.jar 
+jrun Padec3.jar 
+jrun Pdtkd.jar gregor
+jrun newPdtk2.jar
+jrun newPdtk7.jar 
+less repl_bash_en_V1_20180109.sh 
+replp_blnks_underscrs 
+#ClimateStrike - The Global Climate Strike is Happening Now. Join the movement.
+./BrthdReminder šp
+./BrthdReminder-cmd.exe šp
+About Abhishek
+Brave Standard
+Check file exists in bash with test
+Check if directory doesn’t exist in bash
+Check if directory exists in bash script
+Check if file doesn’t exist in bash script
+Deploy your apps in cloud in one click with hassle-free pre-configured Linux servers.
+Digital Ocean Cloud Server Deal
+DigitalOcean Cloud Server
+Filed Under: Bash
+GOPATH=$(cygpath -w /home/gregor.redelonghi/majstaf/BRISI/TEST) go run main2.go 
+Get $50 Free Credits
+Get This Deal
+I hope you find this bash tip useful. If you have any questions or suggestions, please feel free to leave a comment below.
+Liked the article? Please share it and help us grow :)
+Now that you know how to deal with files, let’s move on to directories.
+P = 0
+What if it’s the other way round and you want to check if file does not exist in bash? You can use pretty much the same code as above by using the negation operator:
+You can use the negation again to check if directory doesn’t exist:
+bash rename-to-basename-with-ext.sh 
+bash rename-to-basename-with-new-ext.sh 
+cat -A rename-to-basename-with-ext_2.sh 
+cat ~/.bashrc | grep -i "proxy\|prx"
+echo "${assArray2[@]}"
+echo "Gregor Redelonghi" | cut -b-5
+echo ${N##*/}
+ethical ad by CodeFund
+find -iname "*predhodni*"
+find -name "*insert*"
+find -type f -iname "*TEGA Situacija Dol *"
+for key in "${!assArray1[@]}"; do echo $key; done
+for n in range(0,20):
+go build
+go build BrthdReminder_1.0.7.go 
+go build BrthdReminder_1.0.8-cmd.go 
+go help
+grep -s "https://linuxhint.com/associative_array_bash/" ./*
+grep -s CPU ./*
+if [ ! -d "$DIR" ]; then     echo "My directory doesn't exist"; fi
+if [ ! -f "$FILE" ]; then     echo "My file doesn't exist"; fi
+if [ -d /home/user/my_dir ]; then     echo "My directory exists"; fi
+jobs
+jptr 
+listulb | \grep -Ei "ren"
+look -f the whats-box-interrogate-your-linux-machines-hardware_20160223.txt 
+look -f you whats-box-interrogate-your-linux-machines-hardware_20160223.txt 
+mkfs
+mkfs -h
+mkfs.vfat
+mv LJ10800-01_42222_MP-Letaliska_DGD/ MP-Letaliska_DGD
+rename_to_basename_with_new_ext 
+replp_blnks_underscrs "How to Create a User Account Without useradd"
+test -f /home/user/my_file && echo "My file exists" || echo "My file doesn't exist"
+tmux -2 -f ~/.tmux_4_conf attach
+tree --charset ASCI --noreport ${gostart}
+vscode
+vscode .
+LP,
+RUN
+go list ./...
+grep -r $URL ./*
+l
+less README.md 
+mkdir src
+touch main.go
+./BrthdReminder-cmd.exe c
+./BrthdReminder.py 
+./bankovci_kovanci_V2.py 415,12 333,56
+./bankovci_kovanci_V2.py 415.12 333.56
+BrtdReminder/BrthdReminder_1.0.3.py ta
+Windows
+bash ../go_project_env.sh majtest2
+cp newPdtk5.jar ../jars/
+echo "$pth ${pth%%/*}"
+echo $(cygpath -w $PWD)
+find -iname "*android*"
+find ~/DROPBOX/ODPRTO/ -name "*${NAME}*"
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "https.*real.*\""); do echo "LINK: $LINK"; done
+for LINK in $(sed -n '/href/p' ~/BRISI/seznam.txt | \grep -Eo "https.*real.*\/"); do echo "LINK: $LINK"; done
+go run BrthdReminder_1.0.5.go 
+go run BrthdReminder_1.0.7.go 
+go run BrthdReminder_1.0.8-cmd.go 
+grep -irHs "% 7" ./*
+java newPdtk7
+jrun Pdtk.jar 
+pdelbak 
+rsync -av --include-from=CUGR.txt /c/Users/gregor.redelonghi/ DESTTEST/
+rsync -rltDv --include-from=CUGR.txt /c/Users/gregor.redelonghi/ DESTTEST/
+s2 "update new Xubuntu 20190812" '''
+tree -L 2
+~/PYTHON_en_testing/20190924_day_of_week/DayOfWeek_20190924.py 
+$> cat os.txt
+a17
+go list
+$> ^C
+./BrthdReminder
+0a_povezave/BrthdReminder
+cat seznam.txt 
+go run files.go 
+psswdchng 
+python3 -m pip list
+./rename_to_basename_with_new_ext.py 
+[ -f /home/user/my_file ] && echo "My file exists" || echo "My file doesn't exist"
+bash rename-to-basename-with-ext.sh existing_fname.mp4 
+bash rename-to-basename-with-new-ext.sh _podnampisi/old_movie-name.srt existing_movie-name.mp4 
+cat parameter_substitution.chs
+echo "${assArray1[@]}"
+echo $gr_CURDT
+echo ${N##/}
+find -iname "*pvc*"
+find -type f -iname "*naro*ilo*"
+for FFF in $(find -type f -iname "*.java"); do grep -iHs '%' $FFF; done
+java TestNumsDisp2
+java newPdtk2 gregor
+javac RunExtProgramm.java 
+javac TestNumsDisp2.java 
+javac newPdtk5.java
+mount -o loop myVHD.img TEST/
+./BrthdReminder_1.0.8-cmd.exe 
+Python is easy to use. Python is easy to learn.
+cat os.txt
+go run BrthdReminder_1.0.5.go
+go_project_env GGG
+java -jar TestFileRead2.jar
+javac TestFileRead2.java
+tmxs
+   OS
+CD
+du -sh
+java newPdtk gregor
+java newPdtk2 -p gregor
+java newPdtk2 -p tadeja
+javac Person.java 
+jrun newPdtk5.jar
+julia
+ktmx
+l1
+.
+find -empty
+rename2_and_clean_fname 
+./TEST_20190916.py 
+./bankovci_kovanci.py 
+DIR=/home/user/my_dir
+FILE=/home/user/my_file
+javac URLConnectionProxy.java 
+less heil.txt 
+listulb
+my_ftp 
+   Android
+   Linux
+javac Main.java 
+javac newPdtk5.java 
+pwd
+d
+ktmux
+go env
+   Windows
+bash create_newPdtkd5-jar_20190703.txt 
+for LINK in $(cat ~/BRISI/seznam2.txt); do grep -sl $LINK ./*; done
+java DayOfWeek_V2 7
+./rename_to_basename_with_new_ext.py _podnampisi/old_movie-name.srt existing_movie-name.mp4 
+java RunExtProgramm
+javac RunExt.java 
+jptr
+qtm
+jrun Pdtkd.jar 
+./BrthdReminder.exe 
+java TestFileRead2
+tree -d
+cat go.mod 
+java Main
+-en [/c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT]
+./BrthdReminder-cmd.exe 
+java URLConnectionProxy
+java newPdtk2
+javac URLConnectionProxy_V2.java 
+ffs doc/DayOfWeek.html 
+jrun newPdtk5.jar 
+javadoc -d doc/ DayOfWeek.java 
+PDDR
+java RunExt
+javac GetAndPost.java 
+dbog
+java newPdtk5
+javac DayOfWeek_V2.java 
+mcm
+cat os.txt 
+go run .
+go run main.go 
+listulb 
+LL
+java NumsDisp
+java URLConnectionProxy_V2
+#!/bin/bash
+java GetAndPost
+javac NumsDisp.java 
+dboj
+my
+ff
+javac TestNumsDisp3.java 
+java Pdtkd
+sbr
+echo $GOPATH
+javac Pdtkd.java 
+javac newPdtk2.java 
+java TestNumsDisp3
+java newPdtk
+javac newPdtk.java 
+szp
+javac DayOfWeek.java 
+javac GetAndPost_V2.java 
+java DayOfWeek
+java GetAndPost_V2
+dbop
+python3
+
+tree
+$> gregor.redelonghi@cygwin-en [/c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT]
+pddr

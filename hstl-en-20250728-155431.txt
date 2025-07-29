@@ -1,0 +1,2873 @@
+    1  2025-07-28 13:49:30 lynxd "https://austinhenley.com/blog/vowels.html" $(string-to-lower-with-hypens-en "The fastest way to detect a vowel in a string")
+    2  2025-06-16 10:29:51 mv {the,ptn}-fastest-way-to-detect-a-vowel-in-a-string-20250616.txt 
+    3  2025-06-16 10:30:06 mv ptn-fastest-way-to-detect-a-vowel-in-a-string-20250616.txt ptn-fastest-way-to-detect-vowel-in-string-20250616.txt 
+    4  2025-06-16 10:30:18 prepare-fjl-for-knowledgebase ptn-fastest-way-to-detect-vowel-in-string-20250616.txt 
+    5  2025-06-16 10:44:47 ll
+    6  2025-06-16 10:45:14 testing-gtgh-run-all-en 
+    7  2025-06-16 10:46:41 mv ptn-fastest-way-to-detect-vowel-in-string-20250616.txt $KNOWLEDGEDB/_PYTHON/
+    8  2025-06-16 10:46:44 cd $KNOWLEDGEDB/_PYTHON/
+    9  2025-06-16 10:46:46 cd ..
+   10  2025-06-16 10:46:49 gst
+   11  2025-06-16 10:46:52 gyes-add-commit-push 
+   12  2025-06-16 10:47:07 cd
+   13  2025-06-16 10:57:50 tmxnstmxks
+   14  2025-06-16 10:57:53 tmxks
+   15  2025-06-16 08:52:44 tmxns
+   16  2025-06-16 10:57:56 exit
+   17  2025-06-16 13:54:56 cd /h/2012
+   18  2025-06-16 13:55:05 cd /h
+   19  2025-06-16 13:55:12 cd 2021/
+   20  2025-06-16 13:55:14 ll
+   21  2025-06-16 13:55:18 cd _2021_obdelano/
+   22  2025-06-16 13:55:22 cd ..
+   23  2025-06-16 13:55:41 opnw _2021_obdelano/LJ10800-01_42222_MP-Letaliska_DZR/MP_Letaliska_DZR_podatki/MP_Letaliska_DZR_oprema
+   24  2025-06-16 14:00:16 opnw "_2021_obdelano/RV-13_22016_RP-Letaliska_PZI/podatki/20201210_stara_RV-13_Letaliska_slike"
+   25  2025-06-16 14:01:19 opnw "_2021_obdelano/RV-13_22016_RP-Letaliska_PZI/podatki/slike za PID-Prule/"
+   26  2025-06-16 16:31:51 CD
+   27  2025-06-16 16:31:53 PDDR
+   28  2025-06-16 16:31:55 pddr
+   29  2025-06-16 16:40:58 cd
+   30  2025-06-16 16:41:00 exit
+   31  2025-06-16 11:43:27 cd $DANES
+   32  2025-06-16 11:43:30 danes-check
+   33  2025-06-16 11:44:02 lynxd "https://www.tomshardware.com/software/linux/how-to-create-a-custom-linux-app-menu-zenity-makes-it-easy" zenity-howto-create-a-custom-linux-app-menu
+   34  2025-06-16 11:44:10 prepare-fjl-for-knowledgebase zenity-howto-create-a-custom-linux-app-menu-20250616.txt 
+   35  2025-06-16 11:49:44 mv zenity-howto-create-a-custom-linux-app-menu-20250616.txt $KNOWLEDGEDB/_LINUX_SYSTEM/
+   36  2025-06-16 11:49:47 cd $KNOWLEDGEDB/_LINUX_SYSTEM/
+   37  2025-06-16 11:49:49 cd ..
+   38  2025-06-16 11:49:51 gst
+   39  2025-06-16 11:49:54 gyes-add-commit-push 
+   40  2025-06-16 11:50:04 cd
+   41  2025-06-16 13:49:21 cd /c/Users/gregor.redelonghi/
+   42  2025-06-16 13:49:24 cd /home/
+   43  2025-06-16 13:49:27 cd /h
+   44  2025-06-16 13:49:31 cd 2024/
+   45  2025-06-16 13:49:32 ll
+   46  2025-06-16 13:49:43 find -name "*jp*g"
+   47  2025-06-16 13:51:05 cd ../2023
+   48  2025-06-16 13:51:07 find -name "*jp*g"
+   49  2025-06-16 13:51:46 cd ../2022
+   50  2025-06-16 13:51:47 find -name "*jp*g"
+   51  2025-06-16 13:52:32 cd ../2021
+   52  2025-06-16 13:52:34 find -name "*jp*g"
+   53  2025-06-16 16:45:41 cd
+   54  2025-06-16 16:45:43 exit
+   55  2025-06-18 10:15:53 1
+   56  2025-06-18 10:15:55 zze
+   57  2025-06-18 10:29:52 exit
+   58  2025-06-18 08:41:07 rclone config
+   59  2025-06-18 08:41:46 rclonr remote
+   60  2025-06-18 08:41:50 rclone remote
+   61  2025-06-18 08:42:08 rclone help
+   62  2025-06-18 08:42:11 rclone help |less
+   63  2025-06-18 08:43:03 rclone listremotes
+   64  2025-06-18 08:43:06 rclone help |less
+   65  2025-06-18 08:43:20 rclone lsd
+   66  2025-06-18 08:43:33 rclone ls meganz
+   67  2025-06-18 08:43:41 rclone ls meganz:
+   68  2025-06-18 08:43:49 rclone help |less
+   69  2025-06-18 08:44:26 rclone ncdu mrganz
+   70  2025-06-18 08:44:38 rclone listremotes
+   71  2025-06-18 08:44:43 rclone ncdu mrganz:
+   72  2025-06-18 08:44:48 rclone help |less
+   73  2025-06-18 08:45:23 rclone ls --help
+   74  2025-06-18 08:45:44 rclone ls meganz:
+   75  2025-06-18 08:46:24 rclone listremotes
+   76  2025-06-18 08:46:32 rclone ls dropbox:
+   77  2025-06-18 08:56:09 rclone config
+   78  2025-06-18 08:58:21 cd 
+   79  2025-06-18 08:58:37 cd /c/Users/gregor.redelonghi/2025/
+   80  2025-06-18 08:58:44 cd _2025_1_PROJEKTI/
+   81  2025-06-18 08:58:46 ll
+   82  2025-06-18 08:58:52 cd ..
+   83  2025-06-18 08:58:57 ll
+   84  2025-06-18 08:59:15 rclone lsd mega_en:
+   85  2025-06-18 09:00:03 rclone copy Tehnicne-zahteve_2025 mega_en:ENERGETIKA
+   86  2025-06-18 09:06:44 rclone copy Tehnicne-zahteve_2025 mega_en:ENERGETIKA/Tehnicne-zahteve_2025
+   87  2025-06-18 09:45:16 rsync config
+   88  2025-06-18 09:45:27 rclone config
+   89  2025-06-18 09:47:53 rclone copy Tehnicne-zahteve_2025 mega_gren:ENERGETIKA/Tehnicne-zahteve_2025
+   90  2025-06-18 10:30:42 rclone copy _2025_1_PROJEKTI mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+   91  2025-06-18 11:18:10 rclone sync --progress _2025_1_PROJEKTI mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+   92  2025-06-18 11:23:17 rclone copy /c/Users/gregor.redelonghi/Downloads mega_gren:ENERGETIKA/Downloads
+   93  2025-06-18 11:23:50 rclone copy $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads
+   94  2025-06-18 11:25:03 rclone lsd mega_gren:
+   95  2025-06-18 11:25:12 rclone lsd mega_gren:ENERGETIKA
+   96  2025-06-18 11:25:32 rclone ncdu help
+   97  2025-06-18 11:25:54 rclone ncdu gren:ENERGETIKA
+   98  2025-06-18 11:26:05 rclone ncdu mega_gren:ENERGETIKA
+   99  2025-06-18 11:26:44 rclone ncdu mega_gren:
+  100  2025-06-18 11:27:09 rclone lsd mega_gren:ENERGETIKA
+  101  2025-06-18 11:27:21 rclone ncdu mega_gren:ENERGETIKA
+  102  2025-06-18 11:27:39 rclone ncdu mega_gren:
+  103  2025-06-18 11:28:34 ll
+  104  2025-06-18 11:28:42 rclone ls mega_gren:ENERGETIKA
+  105  2025-06-18 11:28:58 rclone ncdu mega_gren: | sort -nr | less
+  106  2025-06-18 11:29:09 rclone ncdu mega_gren: | sort -nr
+  107  2025-06-18 11:29:20 rclone ls mega_gren: | sort -nr
+  108  2025-06-18 11:29:27 rclone ls mega_gren: | sort -nr | head
+  109  2025-06-18 11:29:43 rclone ls mega_gren: | sort -nr | less
+  110  2025-06-18 11:29:52 ll
+  111  2025-06-18 11:31:32 man rclone
+  112  2025-06-18 11:31:39 rclone help
+  113  2025-06-18 11:31:49 rclone sync help
+  114  2025-06-18 11:32:29 rclone sync --help
+  115  2025-06-18 11:54:49 cd
+  116  2025-06-18 11:54:52 exit
+  117  2025-06-18 11:47:50 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+  118  2025-06-18 11:48:01 pddr
+  119  2025-06-18 13:48:45 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exetmxks
+  120  2025-06-18 13:48:49 tmxks
+  121  2025-06-18 11:48:07 testing-gtgh-run-all-en 
+  122  2025-06-18 11:55:01 engt-run-all 
+  123  2025-06-18 11:55:59 cd $EPRNS
+  124  2025-06-18 11:56:03 git pull
+  125  2025-06-18 11:56:22 cd
+  126  2025-06-18 09:03:01 cd /c/Users/gregor.redelonghi/2025
+  127  2025-06-18 09:03:11 cd _2025_1_PROJEKTI/
+  128  2025-06-18 09:03:14 ncdu
+  129  2025-06-18 09:03:32 cd ..
+  130  2025-06-18 09:03:39 ncdu _2025_1_PROJEKTI/
+  131  2025-06-18 09:03:45 ncdu
+  132  2025-06-18 09:04:24 cd
+  133  2025-06-18 09:41:56 cd $DOWNLOADS
+  134  2025-06-18 09:41:58 ll
+  135  2025-06-18 09:42:16 vim INFO.txt
+  136  2025-06-18 09:43:51 tar -cvzf NEW-MACC.tgz INFO.txt gregor.redelonghi.en_MEGA-RECOVERYKEY_20250618.txt 
+  137  2025-06-18 09:43:54 ll
+  138  2025-06-18 09:44:03 tar tvzf NEW-MACC.tgz 
+  139  2025-06-18 09:44:12 cat gregor.redelonghi.en_MEGA-RECOVERYKEY_20250618.txt 
+  140  2025-06-18 09:44:25 sendf1 NEW-MACC.tgz 
+  141  2025-06-18 09:44:51 rm gregor.redelonghi.en_MEGA-RECOVERYKEY_20250618.txt 
+  142  2025-06-18 09:44:54 rm INFO.txt 
+  143  2025-06-18 09:44:59 rm NEW-MACC.tgz 
+  144  2025-06-18 09:45:00 ll
+  145  2025-06-18 09:45:01 cd
+  146  2025-06-18 10:31:59 z c_z
+  147  2025-06-18 10:32:03 z c_t
+  148  2025-06-18 10:32:22 grep -rE '\*\*.*=.*{' *
+  149  2025-06-18 10:32:49 grep -rlE '\*\*.*=.*{' *
+  150  2025-06-18 10:33:02 grep -rlE '\*\*.*=.*{' * | xargs -ro vim
+  151  2025-06-18 10:33:49 cd
+  152  2025-06-18 10:33:57 cd $KNOWLEDGEDB/_C_and_Cpp/
+  153  2025-06-18 10:34:02 grep -rlE '\*\*.*=.*{' * | xargs -ro vim
+  154  2025-06-18 11:46:18 cd
+  155  2025-06-18 11:46:23 cd -
+  156  2025-06-18 11:46:31 ls | grep -i initializ
+  157  2025-06-18 11:46:39 ls | grep -i initializ | xargs -ro vim
+  158  2025-06-18 13:49:16 history | grep rclone
+  159  2025-06-18 13:49:19 exit
+  160  2025-06-18 15:39:41 cd /c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI/
+  161  2025-06-18 15:39:44 ncdu
+  162  2025-06-18 15:40:24 cd $MSYS
+  163  2025-06-18 15:40:26 ll
+  164  2025-06-18 15:40:33 ls | grep rclone
+  165  2025-06-18 15:40:42 mkdir rclone-en
+  166  2025-06-18 15:40:54 mv rclone-commands-20250618-2.txt rclone-en/
+  167  2025-06-18 15:41:15 cp -r rclone-en/ $EMSYS 
+  168  2025-06-18 15:41:17 cd $EMSYS
+  169  2025-06-18 15:41:19 ll
+  170  2025-06-18 15:41:25 rm rclone-commands-20250618-2.txt 
+  171  2025-06-18 15:41:28 gst
+  172  2025-06-18 15:41:33 gyes-add-commit-push 
+  173  2025-06-18 15:41:40 cd
+  174  2025-06-18 16:05:36 exit
+  175  2025-06-18 15:14:01 cd $DANES
+  176  2025-06-18 15:14:26 mkdir ct-999-lokkup-table-test-20250618
+  177  2025-06-18 15:14:29 cd ct-999-lokkup-table-test-20250618
+  178  2025-06-18 15:14:36 ll $CTST 
+  179  2025-06-18 15:14:43 cd ..
+  180  2025-06-18 15:15:33 mv ct-999-lokkup-table-test-20250618 $(echo "ct-999-lokkup-table-test-20250618" | tr '-' '_')
+  181  2025-06-18 15:15:37 cd ct_999_lokkup_table_test_20250618/
+  182  2025-06-18 15:15:38 ll
+  183  2025-06-18 15:15:54 vim lookup-table-test.c
+  184  2025-06-18 15:22:46 cp $CTST/Makefile .
+  185  2025-06-18 15:22:49 vim Makefile 
+  186  2025-06-18 15:22:54 make
+  187  2025-06-18 15:23:03 vim lookup-table-test.c
+  188  2025-06-18 15:23:13 make
+  189  2025-06-18 15:23:17 vim lookup-table-test.c
+  190  2025-06-18 15:23:25 make
+  191  2025-06-18 15:23:40 vim lookup-table-test.c
+  192  2025-06-18 15:24:43 make
+  193  2025-06-18 15:24:52 vim Makefile 
+  194  2025-06-18 15:25:01 make
+  195  2025-06-18 15:25:07 ./lookup-table-test.c 
+  196  2025-06-18 15:25:12 ll
+  197  2025-06-18 15:25:15 bin/lookup-table-test 
+  198  2025-06-18 15:25:36 vim Makefile 
+  199  2025-06-18 15:25:42 vim lookup-table-test.c
+  200  2025-06-18 15:26:38 make
+  201  2025-06-18 15:26:41 bin/lookup-table-test 
+  202  2025-06-18 15:26:49 vim lookup-table-test.c
+  203  2025-06-18 15:27:21 make
+  204  2025-06-18 15:27:23 bin/lookup-table-test 
+  205  2025-06-18 15:27:38 vim lookup-table-test.c
+  206  2025-06-18 15:28:45 make
+  207  2025-06-18 15:28:47 bin/lookup-table-test 
+  208  2025-06-18 15:29:00 vim lookup-table-test.c
+  209  2025-06-18 15:29:12 make
+  210  2025-06-18 15:29:13 bin/lookup-table-test 
+  211  2025-06-18 15:29:23 make
+  212  2025-06-18 15:29:26 vim lookup-table-test.c
+  213  2025-06-18 15:29:52 make
+  214  2025-06-18 15:29:54 bin/lookup-table-test 
+  215  2025-06-18 15:30:48 vim lookup-table-test.c
+  216  2025-06-18 15:31:04 make
+  217  2025-06-18 15:31:07 bin/lookup-table-test 
+  218  2025-06-18 15:31:10 vim lookup-table-test.c
+  219  2025-06-18 15:31:21 make
+  220  2025-06-18 15:31:24 bin/lookup-table-test 
+  221  2025-06-18 15:31:31 vim lookup-table-test.c
+  222  2025-06-18 15:31:45 make
+  223  2025-06-18 15:31:47 bin/lookup-table-test 
+  224  2025-06-18 15:32:13 vim lookup-table-test.c
+  225  2025-06-18 15:32:22 make
+  226  2025-06-18 15:32:24 bin/lookup-table-test 
+  227  2025-06-18 15:32:59 ll
+  228  2025-06-18 15:33:02 cd ..
+  229  2025-06-18 15:33:04 ll
+  230  2025-06-18 15:33:14 cd ct_999_lokkup_table_test_20250618/
+  231  2025-06-18 15:33:17 vim lookup-table-test.c 
+  232  2025-06-18 15:34:41 make
+  233  2025-06-18 15:34:44 bin/lookup-table-test 
+  234  2025-06-18 15:34:49 make clean 
+  235  2025-06-18 15:34:51 tree
+  236  2025-06-18 15:34:55 cd ..
+  237  2025-06-18 15:35:03 cp -r ct_999_lokkup_table_test_20250618/ $CTST 
+  238  2025-06-18 15:35:09 cd $CTST
+  239  2025-06-18 15:35:11 l
+  240  2025-06-18 15:35:29 mv ct_{999,142}_lokkup_table_test_20250618/
+  241  2025-06-18 15:35:40 mv ct_142_lo{k,o}kup_table_test_20250618/
+  242  2025-06-18 15:35:43 ll
+  243  2025-06-18 15:35:49 gst
+  244  2025-06-18 15:35:51 gyes-add-commit-push 
+  245  2025-06-18 15:36:00 cd
+  246  2025-06-18 15:36:02 ll
+  247  2025-06-18 15:36:11 cd gnu-cli-coreutils/
+  248  2025-06-18 15:36:15 ll
+  249  2025-06-18 15:36:17 cd ..
+  250  2025-06-18 15:36:26 cp gnu-cli-coreutils/ $BRISI 
+  251  2025-06-18 15:36:31 cp -r gnu-cli-coreutils/ $BRISI 
+  252  2025-06-18 15:36:41 rm -r gnu-cli-coreutils/
+  253  2025-06-18 15:36:44 l
+  254  2025-06-18 15:36:51 cd $BRISI
+  255  2025-06-18 15:36:54 cd gnu-cli-coreutils/
+  256  2025-06-18 15:36:55 ll
+  257  2025-06-18 15:36:57 cd learnbyexample.github.io/
+  258  2025-06-18 15:36:58 ll
+  259  2025-06-18 15:37:03 less robots.txt 
+  260  2025-06-18 15:37:11 cd books/
+  261  2025-06-18 15:37:12 ll
+  262  2025-06-18 15:37:18 cd ..
+  263  2025-06-18 15:37:19 ll
+  264  2025-06-18 15:37:25 ff index.html 
+  265  2025-06-18 15:37:54 cd books/
+  266  2025-06-18 15:37:55 ll
+  267  2025-06-18 15:37:58 cd ..
+  268  2025-06-18 15:37:59 ll
+  269  2025-06-18 15:38:03 cd ..
+  270  2025-06-18 15:38:04 ll
+  271  2025-06-18 15:38:05 cd
+  272  2025-06-18 15:38:07 ll
+  273  2025-06-18 16:08:12 exit
+  274  2025-06-18 14:16:17 opnu "H:\2023\_2023_obdelano\VN_N-25160_02-2023_obn_c-Ceneta-Stuparja\nacrt"
+  275  2025-06-18 14:16:18 ll
+  276  2025-06-18 14:17:21 pdfjoin T=_CN_obn_c-Ceneta-Stuparja_VN_02-2023.pdf s=teksti/stran-2-podpisano.pdf cat T1 s T3-end output _CN_obn_c-Ceneta-Stuparja_VN_02-2023_podpisano.pdf 
+  277  2025-06-18 14:17:39 pdfjoin T=_CN_obn_c-Ceneta-Stuparja_VN_02-2023.pdf S=teksti/stran-2-podpisano.pdf cat T1 S T3-end output _CN_obn_c-Ceneta-Stuparja_VN_02-2023_podpisano.pdf 
+  278  2025-06-18 14:18:24 cd
+  279  2025-06-18 14:18:26 mcm
+  280  2025-06-18 14:19:45 pddr
+  281  2025-06-18 16:08:18 exit
+  282  2025-06-18 16:11:11 vim /home/gregor.redelonghi/.config/rclone/rclone.conf
+  283  2025-06-18 16:12:17 exit
+  284  2025-06-18 10:05:21 cd $BRISI
+  285  2025-06-18 10:05:25 vim ffen-passwords-20250618.csv 
+  286  2025-06-18 10:06:14 cp ffen-passwords-20250618.csv ffen-passwords-20250618.txt
+  287  2025-06-18 10:06:18 vim ffen-passwords-20250618.txt 
+  288  2025-06-18 10:06:55 cat ffen-passwords-20250618.txt | tr ',' '\t'
+  289  2025-06-18 10:08:21 cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}'
+  290  2025-06-18 10:08:40 cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}' | less
+  291  2025-06-18 10:09:06 cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}' > ffen-passwords-20250618-reduced.txt
+  292  2025-06-18 10:09:13 vim ffen-passwords-20250618-reduced.txt
+  293  2025-06-18 10:16:34 ll
+  294  2025-06-18 10:17:10 fm
+  295  2025-06-18 11:58:14 cd
+  296  2025-06-18 11:58:18 cd $DANES
+  297  2025-06-18 11:58:29 z _C_a
+  298  2025-06-18 11:58:38 contains "https://stackoverflow.com/questions/1088622/how-do-i-create-an-array-of-strings-in-c"
+  299  2025-06-18 11:59:21 cd $DANES
+  300  2025-06-18 11:59:49 lynxd "https://stackoverflow.com/questions/1088622/how-do-i-create-an-array-of-strings-in-c" c-howto-create-array-of-strings
+  301  2025-06-18 11:59:55 prepare-fjl-for-knowledgebase c-howto-create-array-of-strings-20250618.txt 
+  302  2025-06-18 12:00:48 rewrapp c-howto-create-array-of-strings-20250618.txt 
+  303  2025-06-18 12:00:53 prepare-fjl-for-knowledgebase c-howto-create-array-of-strings-20250618.txt 
+  304  2025-06-18 12:16:29 ll
+  305  2025-06-18 12:18:24 lynxd "https://www.geeksforgeeks.org/c/array-of-strings-in-c/" c-array-of-strings-geeksforgeeks-5pp
+  306  2025-06-18 12:18:35 prepare-fjl-for-knowledgebase c-array-of-strings-geeksforgeeks-5pp-20250618.txt 
+  307  2025-06-18 13:49:32 history | grep rclone
+  308  2025-06-18 13:49:38 prepare-fjl-for-knowledgebase c-array-of-strings-geeksforgeeks-5pp-20250618.txt 
+  309  2025-06-18 14:01:10 ll
+  310  2025-06-18 16:08:27 rm -r ct_999_lokkup_table_test_20250618/
+  311  2025-06-18 16:08:45 mv c-* $KNOWLEDGEDB/_C_and_Cpp/
+  312  2025-06-18 16:08:47 cd $KNOWLEDGEDB/_C_and_Cpp/
+  313  2025-06-18 16:08:49 cd ..
+  314  2025-06-18 16:08:51 gst
+  315  2025-06-18 16:08:54 gyes-add-commit-push 
+  316  2025-06-18 16:09:01 cd
+  317  2025-06-18 16:09:06 testing-gtgh-run-all-en 
+  318  2025-06-18 16:09:48 engt-run-all 
+  319  2025-06-18 16:10:26 get-endiffs 
+  320  2025-06-18 16:12:20 exit
+  321  2025-06-18 16:12:22 exit
+  322  2025-06-18 16:12:57 cd $DANES
+  323  2025-06-18 16:13:17 vim rclone-continue-command-from-20260618.txt
+  324  2025-06-18 16:14:25 cp rclone-continue-command-from-20260618.txt $BRISI 
+  325  2025-06-18 16:14:28 cd
+  326  2025-06-18 16:14:30 exit
+  327  2025-06-18 13:49:19 exit
+  328  2025-06-18 14:13:30 rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+  329  2025-06-18 14:14:33 vim ~/majstaf/metsys/rclone-commands-20250618-2.txt 
+  330  2025-06-18 14:14:53 history | grep rclone
+  331  2025-06-18 14:20:12 vim majstaf/metsys/rclone-commands-20250618-2.txt 
+  332  2025-06-18 14:23:12 cpi majstaf/metsys/rclone-commands-20250618-2.txt $EMSYS 
+  333  2025-06-18 14:23:18 cd $EMSYS
+  334  2025-06-18 14:23:20 gst
+  335  2025-06-18 14:23:22 gyes-add-commit-push 
+  336  2025-06-18 14:23:30 cd
+  337  2025-06-18 14:23:38 which rclone
+  338  2025-06-18 14:23:49 file $(which rclone)
+  339  2025-06-18 14:24:10 cd /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/
+  340  2025-06-18 14:24:12 ll
+  341  2025-06-18 14:24:15 ncdu
+  342  2025-06-18 14:25:20 l
+  343  2025-06-18 14:29:18 du -sh --total 7-Zip/ 7z-source/ go1.23.0.windows-amd64/
+  344  2025-06-18 14:29:28 find -type d
+  345  2025-06-18 14:29:43 find * -maxdepth 0 -type d
+  346  2025-06-18 14:30:03 find * -maxdepth 0 -type d |grep -v cygwin
+  347  2025-06-18 14:30:15 find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total
+  348  2025-06-18 14:30:30 ll
+  349  2025-06-18 14:30:30 l
+  350  2025-06-18 14:30:52 mv 'DB Browser for SQLite' 'DB_Browser_for_SQLite'
+  351  2025-06-18 14:30:56 find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total
+  352  2025-06-18 14:31:07 find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total |sort -hr
+  353  2025-06-18 14:33:18 find * -maxdepth 0 -type d |grep -v "cygwin\|OneC\|CodeB\|c3\|DB-B\|CyberC\|micro\|lf-w" |xargs du -sh --total |sort -hr
+  354  2025-06-18 14:34:36 ls -1
+  355  2025-06-18 14:34:53 ls -1 >> majprogs-yes-no.txt
+  356  2025-06-18 14:34:57 vim majprogs-yes-no.txt
+  357  2025-06-18 14:36:12 rm majprogs-yes-no.txt 
+  358  2025-06-18 14:36:18 ls -1F >> majprogs-yes-no.txt
+  359  2025-06-18 14:36:24 vim majprogs-yes-no.txt
+  360  2025-06-18 14:40:21 cd ..
+  361  2025-06-18 14:41:07 mv majprogs_en/majprogs-yes-no.txt .
+  362  2025-06-18 14:42:47 rclone listremotes
+  363  2025-06-18 14:43:41 cp majprogs-yes-no.txt majprogs_en/
+  364  2025-06-18 14:44:45 rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from /majprogs-yes-no.txt --progress
+  365  2025-06-18 14:44:56 rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress
+  366  2025-06-18 16:14:35 hsrl
+  367  2025-06-18 16:14:37 hstl
+  368  2025-06-18 16:14:39 cd
+  369  2025-06-18 16:14:42 exit
+  370  2025-06-18 13:50:18 history | grep rclone
+  371  2025-06-18 13:50:23 hstl
+  372  2025-06-18 14:03:18 history | grep rclone > majstaf/metsys/rclone-commands-20250618-2.txt 
+  373  2025-06-18 14:03:22 vim majstaf/metsys/rclone-commands-20250618-2.txt
+  374  2025-06-18 14:03:33 rm majstaf/metsys/rclone-commands-20250618.txt
+  375  2025-06-18 16:14:44 exit
+  376  2025-06-18 11:47:45 tmxns
+  377  2025-06-18 13:48:52 history
+  378  2025-06-18 13:48:59 history | grep rclone
+  379  2025-06-18 13:49:54 history
+  380  2025-06-18 13:50:06 history | grep rclone
+  381  2025-06-18 14:02:28 history | grep rclone >> majstaf/metsys/rclone-commands-20250618.txt
+  382  2025-06-18 14:02:49 history | grep rclone
+  383  2025-06-18 16:14:46 exit
+  384  2025-06-19 08:22:27 engt-run-all 
+  385  2025-06-19 08:26:34 cd $EPRNS
+  386  2025-06-19 08:26:37 git pull
+  387  2025-06-19 08:26:44 cd
+  388  2025-06-19 08:33:41 cd /g/PI/OPROJ/ARHIVA_PROJEKTI/Plin/
+  389  2025-06-19 08:33:53 ll
+  390  2025-06-19 08:34:16 find * -maxdepth 3 -iname "vn*vo*ka*"
+  391  2025-06-19 08:41:31 find * -maxdepth 3 -iname "vn*cenet*"
+  392  2025-06-19 09:09:19 cd
+  393  2025-06-19 09:09:22 exit
+  394  2025-06-19 08:50:37 cd /c/Users/gregor.redelonghi/majstaf_en/
+  395  2025-06-19 08:50:39 ll
+  396  2025-06-19 08:50:48 cd en_staf/
+  397  2025-06-19 08:50:49 ll
+  398  2025-06-19 08:50:58 cd mynastavitve/
+  399  2025-06-19 08:50:59 ll
+  400  2025-06-19 08:51:16 cd
+  401  2025-06-19 08:51:47 cd /h/2025/_2025_podloge/
+  402  2025-06-19 08:51:48 l
+  403  2025-06-19 08:51:57 cd AutoCAD_metsys/
+  404  2025-06-19 08:51:59 ll
+  405  2025-06-19 08:52:26 vim START-tab-hoe-to-duisable_20250619.txt
+  406  2025-06-19 08:59:26 vim STARTUP-how-to-start-acad-settings_20250619.txt
+  407  2025-06-19 09:02:21 ll
+  408  2025-06-19 09:02:49 mv START-tab-hoe-to-duisable_20250619.txt START-tab-how-to-disable_20250619.txt 
+  409  2025-06-19 09:02:52 ll
+  410  2025-06-19 09:02:54 cd
+  411  2025-06-19 09:09:24 exit
+  412  2025-06-19 10:35:58 pddr
+  413  2025-06-19 10:48:46 opnu "C:\Users\gregor.redelonghi\2025\_2025_1_PROJEKTI\_VN_c-Cenet-Stuparja-dodatno-VOKA_20250619\teksti"
+  414  2025-06-19 10:48:47 ll
+  415  2025-06-19 10:49:47 pdfjoin T=obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA.pdf S=stran-2-podpisano.pdf cat T1 S T3-end output obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA_podpisano.pdf
+  416  2025-06-19 10:51:23 cd ../risbe/
+  417  2025-06-19 10:51:24 ll
+  418  2025-06-19 10:51:33 ll *.pdf
+  419  2025-06-19 10:52:47 pdfjoin A-0_Org-shema-gradbiscnega-platoja_tipski.pdf A-1_obn_c-Ceneta-Stuparja_PZI_SIT-P.pdf A-2_obn_c-Ceneta-Stuparja_PZI_SIT-VOKA.pdf cat output _RISBE.pdf
+  420  2025-06-19 10:53:06 cd ..
+  421  2025-06-19 10:53:07 ll
+  422  2025-06-19 10:54:35 pdfjoin T=teksti/obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA_podpisano.pdf R=risbe/_RISBE.pdf cat T1-27 R T28-end output _CN.pdf
+  423  2025-06-19 10:57:12 ll
+  424  2025-06-19 10:57:15 cd teksti/
+  425  2025-06-19 10:57:16 ll
+  426  2025-06-19 10:57:24 history
+  427  2025-06-19 10:57:39 history |grep pdfjoin
+  428  2025-06-19 10:57:54 history |grep pdfjoin >> pdfjoin-commands-20250619.txt
+  429  2025-06-19 10:57:58 vim pdfjoin-commands-20250619.txt
+  430  2025-06-19 10:58:39 ll
+  431  2025-06-19 10:59:37 pdfjoin T=obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA.pdf P=Priloga-A.pdf cat T1-26 P T28-end output obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA__2.pdf
+  432  2025-06-19 11:00:11 pdfjoin T=obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA_podpisano.pdf P=Priloga-A.pdf cat T1-26 P T28-end output obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA_podpisano__2.pdf 
+  433  2025-06-19 11:01:47 cd ..
+  434  2025-06-19 11:01:48 ll
+  435  2025-06-19 11:01:51 rm _CN
+  436  2025-06-19 11:01:59 rm _CN.pdf 
+  437  2025-06-19 11:02:15 pdfjoin T=teksti/obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA_podpisano.pdf R=risbe/_RISBE.pdf cat T1-27 R T28-end output _CN.pdf
+  438  2025-06-19 11:03:54 T=teksti/obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA.pdf R=risbe/_RISBE.pdf cat T1-27 R T28-end output _CN.pdf
+  439  2025-06-19 11:04:01 ll
+  440  2025-06-19 11:04:07 pdfjoin T=teksti/obn_c-Ceneta-Stuparja_VN_02-2023_teksti_dodatno-VOKA.pdf R=risbe/_RISBE.pdf cat T1-27 R T28-end output _CN.pdf
+  441  2025-06-19 11:04:51 cd
+  442  2025-06-19 11:04:54 exit
+  443  2025-06-19 11:06:02 mcm
+  444  2025-06-19 11:07:43 pddr
+  445  2025-06-19 11:18:25 exit
+  446  2025-06-19 11:55:39 rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads --progress
+  447  2025-06-19 11:56:36 rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025") mega_gren:ENERGETIKA/Tehnicne-zahteve_2025 --progress
+  448  2025-06-19 11:56:43 hstl
+  449  2025-06-19 11:56:47 exit
+  450  2025-06-19 08:22:47 cd $DANES
+  451  2025-06-19 08:22:48 l
+  452  2025-06-19 08:22:54 vim rclone-continue-command-from-20260618.txt 
+  453  2025-06-19 08:23:08 cd
+  454  2025-06-19 08:23:31 cd /c/Users/gregor.redelonghi/majstaf_en/
+  455  2025-06-19 08:23:37 rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress
+  456  2025-06-19 08:24:13 rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress --update
+  457  2025-06-19 08:24:46 rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress
+  458  2025-06-19 11:40:09 history |grep rclone
+  459  2025-06-19 11:40:30 history |grep rclone >> $DANES/rclone-commands-20250619.txt
+  460  2025-06-19 11:40:35 cd $DANES
+  461  2025-06-19 11:40:38 vim rclone-co
+  462  2025-06-19 11:40:52 vim rclone-co*
+  463  2025-06-19 11:48:58 cd
+  464  2025-06-19 11:49:24 vim $DANES/rclone-commands-20250619.txt 
+  465  2025-06-19 11:49:33 rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+  466  2025-06-19 11:51:42 rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+  467  2025-06-19 11:52:03 vim $DANES/rclone-commands-20250619.txt 
+  468  2025-06-19 11:57:48 cpi $DANES/rclone-commands-20250619.txt $DOWNLOADS 
+  469  2025-06-19 11:58:18 vim $DANES/rclone-commands-20250619.txt 
+  470  2025-06-19 11:58:39 rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads --progress
+  471  2025-06-19 11:58:58 cd
+  472  2025-06-19 11:59:02 exit
+  473  2025-06-19 11:15:40 cd $KNOWLEDGEDB/_C_and_Cpp/
+  474  2025-06-19 11:16:48 grep -rEl '\*\*.*= *{' *
+  475  2025-06-19 11:16:58 grep -rEl '\*\*.*= *{' * | xargs -ro vim
+  476  2025-06-19 11:17:44 grep -rEl 'literal' *
+  477  2025-06-19 11:17:59 grep -rEl 'comp.*literal' *
+  478  2025-06-19 11:18:06 grep -rEl 'comp.*literal' * | xargs -ro vim
+  479  2025-06-19 11:38:54 grep -rEl '"abc"' *
+  480  2025-06-19 11:39:14 grep -rEl '"abc"' * | xargs -ro vim
+  481  2025-06-19 11:59:19 exit
+  482  2025-06-19 08:21:46 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+  483  2025-06-19 08:21:58 pddr
+  484  2025-06-19 11:59:24 tmxks
+  485  2025-06-19 08:22:22 testing-gtgh-run-all-en 
+  486  2025-06-19 08:26:14 z c_t
+  487  2025-06-19 08:26:19 git pull
+  488  2025-06-19 08:26:54 cd ct_142_lookup_table_test_20250618/
+  489  2025-06-19 08:26:57 vim lookup-table-test.c 
+  490  2025-06-19 08:27:31 cd
+  491  2025-06-19 08:21:40 tmxns
+  492  2025-06-19 11:59:26 exit
+  493  2025-06-19 13:38:58 zze
+  494  2025-06-19 13:39:04 exit
+  495  2025-06-19 13:37:38 pddr
+  496  2025-06-19 14:50:10 history | grep wget
+  497  2025-06-19 14:50:15 exit
+  498  2025-06-19 12:46:05 zze
+  499  2025-06-19 13:53:02 rclone sync --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+  500  2025-06-19 14:06:34 pddr
+  501  2025-06-19 14:28:18 cd majstaf/metsys/
+  502  2025-06-19 14:28:22 wget "https://sheet.shiar.nl/sample.txt"
+  503  2025-06-19 14:28:32 cat sample.txt 
+  504  2025-06-19 14:29:58 mv sample.txt unicode-sampler.txt
+  505  2025-06-19 14:30:02 v sample.txt unicode-sampler.txt
+  506  2025-06-19 14:30:09 mv sample.txt unicode-sampler.txt
+  507  2025-06-19 14:32:11 wget "https://theasciicode.com.ar/ascii-codes.txt"
+  508  2025-06-19 14:32:15 cat ascii-codes.txt 
+  509  2025-06-19 14:32:29 ll
+  510  2025-06-19 14:32:47 mv ascii-codes.txt ascii-sampler.txt
+  511  2025-06-19 14:33:24 cd $DOWNLOADS
+  512  2025-06-19 14:33:28 cat simple.txt 
+  513  2025-06-19 14:33:32 r, simple.txt 
+  514  2025-06-19 14:33:35 rm simple.txt 
+  515  2025-06-19 14:33:38 cd -
+  516  2025-06-19 14:33:42 lsth
+  517  2025-06-19 14:50:29 history | grep wget
+  518  2025-06-19 14:50:55 čs -tF | head -n30
+  519  2025-06-19 14:50:59 ls -tF | head -n30
+  520  2025-06-19 14:51:25 l
+  521  2025-06-19 14:52:07 get-endiffs 
+  522  2025-06-19 14:53:17 cpi $MRCS/aliases-gredelonghi-en $EMRCS
+  523  2025-06-19 14:53:21 cd $EMRCS
+  524  2025-06-19 14:53:23 gst
+  525  2025-06-19 14:53:26 gyes-add-commit-push 
+  526  2025-06-19 14:53:36 check-all-git-difs 
+  527  2025-06-19 14:54:04 cd ../metsys_en/
+  528  2025-06-19 14:54:06 gst
+  529  2025-06-19 14:54:09 gyes-add-commit-push 
+  530  2025-06-19 14:54:16 cd
+  531  2025-06-19 14:54:30 get-endiffs 
+  532  2025-06-19 14:57:28 vim $EDTFJLS/.config/rclone/rclone.conf 
+  533  2025-06-19 14:58:06 vim .config/rclone/rclone.conf 
+  534  2025-06-19 14:59:00 rm ~/majstaf/engit/dotfiles_en/.config/rclone/rclone.conf 
+  535  2025-06-19 14:59:05 get-endiffs 
+  536  2025-06-19 14:59:36 ls -A
+  537  2025-06-19 14:59:44 ls -AF
+  538  2025-06-19 14:59:52 ncdu
+  539  2025-06-19 15:01:45 du -sh .*
+  540  2025-06-19 15:02:02 du -sh --total .* | sort -nr
+  541  2025-06-19 15:02:07 du -sh --total .* | sort -nr | clm
+  542  2025-06-19 15:02:28 du -sh --total .* | sort -hr | clm
+  543  2025-06-19 15:04:15 man zip
+  544  2025-06-19 15:05:13 zip test.zip .*
+  545  2025-06-19 15:05:18 ll test.zip 
+  546  2025-06-19 15:05:24 ll -h test.zip 
+  547  2025-06-19 15:05:37 fm
+  548  2025-06-19 15:05:58 man zip
+  549  2025-06-19 15:07:13 unzip -l test.zip 
+  550  2025-06-19 15:07:29 less test.zip 
+  551  2025-06-19 15:07:41 exit
+  552  2025-06-19 15:07:58 zless test.zip 
+  553  2025-06-19 15:09:41 zip -e dotfiles-en-20250619.zip .*
+  554  2025-06-19 15:10:18 unzip -l dotfiles-en-20250619.zip 
+  555  2025-06-19 15:10:39 cp dotfiles-en-20250619.zip $BRISI 
+  556  2025-06-19 15:10:43 cd $BRISI
+  557  2025-06-19 15:10:49 mkdir TEST
+  558  2025-06-19 15:10:56 mv dotfiles-en-20250619.zip TEST/
+  559  2025-06-19 15:10:58 c TEST/
+  560  2025-06-19 15:11:02 cd TEST/
+  561  2025-06-19 15:11:04 ll
+  562  2025-06-19 15:11:08 unzip dotfiles-en-20250619.zip 
+  563  2025-06-19 15:11:19 ll
+  564  2025-06-19 15:11:42 unzip -P z7m17s11G. dotfiles-en-20250619.zip 
+  565  2025-06-19 15:11:47 la
+  566  2025-06-19 15:12:04 find ! -name "*.zip"
+  567  2025-06-19 15:12:21 find ! -name "*.zip" -exec rm -r {} \;
+  568  2025-06-19 15:12:25 la
+  569  2025-06-19 15:12:32 unzip dotfiles-en-20250619.zip 
+  570  2025-06-19 15:12:39 ll
+  571  2025-06-19 15:15:37 rclone copyto dotfiles-en-20250619.zip mega_gren:ENERGETIKA/dotfiles-en-20250619.zip
+  572  2025-06-19 15:18:12 rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING
+  573  2025-06-19 15:18:30 rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING/
+  574  2025-06-19 15:19:04 rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING/dotfiles-testing.zip
+  575  2025-06-19 15:19:44 ll
+  576  2025-06-19 15:19:55 unzip dotfiles-testing.zip 
+  577  2025-06-19 15:20:08 unzip dotfiles-testing.zip
+  578  2025-06-19 15:20:15 ll
+  579  2025-06-19 15:20:16 la
+  580  2025-06-19 15:20:29 find ! -name "*.zip" -exec rm -r {} \;
+  581  2025-06-19 15:20:33 ll
+  582  2025-06-19 15:20:34 la
+  583  2025-06-19 15:20:41 rm dotfiles-testing.zip 
+  584  2025-06-19 15:22:10 ll
+  585  2025-06-19 15:22:19 unzip -l dotfiles-en-20250619.zip | less
+  586  2025-06-19 15:22:30 ll
+  587  2025-06-19 15:22:36 rm -r dotfiles-en-20250619.zip 
+  588  2025-06-19 15:22:41 cd ..
+  589  2025-06-19 15:22:41 ll
+  590  2025-06-19 15:23:03 rm -r TEST/ ptn_999_timediff_20250521/
+  591  2025-06-19 15:23:07 l
+  592  2025-06-19 15:23:12 ncdu
+  593  2025-06-19 15:23:42 l
+  594  2025-06-19 15:23:44 ll
+  595  2025-06-19 15:23:57 rm -r 20250509_BACKUPTEST/
+  596  2025-06-19 15:24:04 yes | rm -r 20250509_BACKUPTEST/
+  597  2025-06-19 15:24:07 ll
+  598  2025-06-19 15:24:19 rm -r 20250508_IZVOR_portal/
+  599  2025-06-19 15:24:23 ll
+  600  2025-06-19 15:24:27 fm
+  601  2025-06-19 15:31:28 cd
+  602  2025-06-19 15:31:32 cd $DANES
+  603  2025-06-19 15:31:33 ll
+  604  2025-06-19 15:31:45 cat rclone-commands-20250619.txt 
+  605  2025-06-19 15:31:52 rm rclone-commands-20250619.txt
+  606  2025-06-19 15:31:57 rm rclone-continue-command-from-20260618.txt .
+  607  2025-06-19 15:32:00 rm rclone-continue-command-from-20260618.txt
+  608  2025-06-19 15:32:07 ll
+  609  2025-06-19 15:32:30 lynxd "https://anjackson.net/2023/07/04/robust-file-transfers-with-rclone/" rclone-robust-file-transfers
+  610  2025-06-19 15:32:36 prepare-fjl-for-knowledgebase rclone-robust-file-transfers-20250619.txt 
+  611  2025-06-19 16:03:34 ll
+  612  2025-06-19 16:03:47 cpi rclone-robust-file-transfers-20250619.txt $KNOWLEDGEDB/_RCLONE/
+  613  2025-06-19 16:03:50 cd $KNOWLEDGEDB/_RCLONE/
+  614  2025-06-19 16:03:52 cd ..
+  615  2025-06-19 16:03:54 gst
+  616  2025-06-19 16:03:56 gyes-add-commit-push 
+  617  2025-06-19 16:04:04 cd
+  618  2025-06-19 16:04:07 cd $BRISI
+  619  2025-06-19 16:04:08 ll
+  620  2025-06-19 16:04:16 cd
+  621  2025-06-19 16:04:18 l
+  622  2025-06-19 16:04:19 ll
+  623  2025-06-19 16:04:25 rm test.zip 
+  624  2025-06-19 16:04:33 unzip -l dotfiles-en-20250619.zip 
+  625  2025-06-19 16:04:39 unzip -l dotfiles-en-20250619.zip | grep ss
+  626  2025-06-19 16:04:51 ll
+  627  2025-06-19 16:04:58 cp dotfiles-en-20250619.zip $BRISI 
+  628  2025-06-19 16:05:02 cd $BRISI
+  629  2025-06-19 16:05:03 ll
+  630  2025-06-19 16:05:07 mkdirTEST
+  631  2025-06-19 16:05:11 mkdir TEST
+  632  2025-06-19 16:05:17 mv dotfiles-en-20250619.zip TEST/
+  633  2025-06-19 16:05:20 cd TEST/
+  634  2025-06-19 16:05:27 uzip dotfiles-en-20250619.zip 
+  635  2025-06-19 16:05:33 unzip dotfiles-en-20250619.zip 
+  636  2025-06-19 16:05:41 cd .ssh/
+  637  2025-06-19 16:05:42 ll
+  638  2025-06-19 16:05:43 la
+  639  2025-06-19 16:05:45 ll
+  640  2025-06-19 16:05:46 ala
+  641  2025-06-19 16:05:48 la
+  642  2025-06-19 16:05:50 cd ..
+  643  2025-06-19 16:05:53 cd .vim/
+  644  2025-06-19 16:05:54 ll
+  645  2025-06-19 16:05:57 cd ..
+  646  2025-06-19 16:06:01 man zim
+  647  2025-06-19 16:06:05 man zip
+  648  2025-06-19 16:06:27 cd
+  649  2025-06-19 16:06:53 zip -er dotfiles-en-r-20250619.zip .*
+  650  2025-06-19 16:08:12 ll
+  651  2025-06-19 16:09:27 la
+  652  2025-06-19 16:10:28 zip -er dotfiles-en-r-20250619.zip .* -x ".cache/*" ".tmp/*" @
+  653  2025-06-19 16:11:31 ll
+  654  2025-06-19 16:11:43 unzip -l dotfiles-en-r-20250619.zip | less
+  655  2025-06-19 16:12:32 ll -h
+  656  2025-06-19 16:12:41 rm dotfiles-en-20250619.zip 
+  657  2025-06-19 16:12:48 hstl
+  658  2025-06-19 16:13:05 history | grep "zip\|unzip"
+  659  2025-06-19 16:13:14 history | grep "zip \|unzip "
+  660  2025-06-19 16:13:30 history | grep "zip \|unzip " >> zip-unzip-commands-20250619.txt
+  661  2025-06-19 16:13:32 ll
+  662  2025-06-19 16:13:39 vim zip-unzip-commands-20250619.txt 
+  663  2025-06-19 16:15:32 fm
+  664  2025-06-19 16:17:14 unzip -l dotfiles-en-r-20250619.zip | grep "ssh\|SCR"
+  665  2025-06-19 16:17:20 cd
+  666  2025-06-19 16:17:23 ll
+  667  2025-06-19 16:17:28 rm dotfiles-en-r-20250619.zip 
+  668  2025-06-19 16:17:41 cpi zip-unzip-commands-20250619.txt $MSYS 
+  669  2025-06-19 16:17:45 cpi zip-unzip-commands-20250619.txt $EMSYS 
+  670  2025-06-19 16:17:47 cd $EMSYS
+  671  2025-06-19 16:17:49 gst
+  672  2025-06-19 16:17:51 gyes-add-commit-push 
+  673  2025-06-19 16:17:57 ll
+  674  2025-06-19 16:17:59 cd -
+  675  2025-06-19 16:18:01 ll
+  676  2025-06-19 16:18:04 rm zip-unzip-commands-20250619.txt 
+  677  2025-06-19 16:18:06 l
+  678  2025-06-19 16:18:07 cd
+  679  2025-06-19 16:18:09 exit
+  680  2025-06-19 14:44:07 z mrts
+  681  2025-06-19 14:44:11 z mets
+  682  2025-06-19 14:44:17 wget "https://www.cl.cam.ac.uk/~mgk25/ucs/examples/UTF-8-demo.txt"
+  683  2025-06-19 14:44:21 cat UTF-8-demo.txt 
+  684  2025-06-19 14:45:29 vim ~/majstaf/majrcs/aliases-gredelonghi-en 
+  685  2025-06-19 14:46:12 sbr
+  686  2025-06-19 14:46:14 lsth
+  687  2025-06-19 14:46:29 lst | head -n 30
+  688  2025-06-19 14:46:43 ls -t
+  689  2025-06-19 14:46:46 ls -t | head
+  690  2025-06-19 14:47:01 ls -t *.txt | head
+  691  2025-06-19 14:47:16 cd ..
+  692  2025-06-19 14:47:18 cd
+  693  2025-06-19 14:47:33 find -newermt "20250619 14:00:00"
+  694  2025-06-19 14:48:02 find -name "UTF*"
+  695  2025-06-19 14:48:11 cd majstaf/metsys/
+  696  2025-06-19 14:48:15 ls -t
+  697  2025-06-19 14:48:21 ls -t | head -n 30
+  698  2025-06-19 14:48:27 ls -tF | head -n 30
+  699  2025-06-19 14:48:45 find -newermt "20250619 14:00:00"
+  700  2025-06-19 14:49:14 find -name "UTF*"
+  701  2025-06-19 14:49:21 ls -l UTF-8-demo.txt 
+  702  2025-06-19 14:49:49 history | grep wget
+  703  2025-06-19 15:27:25 cd
+  704  2025-06-19 15:27:39 check-all-git-difs 
+  705  2025-06-19 15:27:45 get-endiffs 
+  706  2025-06-19 16:18:17 exit
+  707  2025-06-19 12:16:21 pddr
+  708  2025-06-19 12:20:57 cd
+  709  2025-06-19 12:21:25 rclone sync --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+  710  2025-06-19 12:22:19 vim $DANES/rclone-commands-20250619.txt 
+  711  2025-06-19 12:22:44 cpi $DANES/rclone-commands-20250619.txt $EPRNS 
+  712  2025-06-19 12:23:04 cpi $DANES/rclone-commands-20250619.txt $MSYS/rclone-en/
+  713  2025-06-19 12:23:22 cpi $DANES/rclone-commands-20250619.txt $EMSYS/rclone-en/
+  714  2025-06-19 12:23:24 cd $EMSYS/rclone-en/
+  715  2025-06-19 12:23:27 cd ..
+  716  2025-06-19 12:23:31 gst
+  717  2025-06-19 12:23:33 gyes-add-commit-push 
+  718  2025-06-19 12:23:48 cd
+  719  2025-06-19 12:23:57 cd $MSYS
+  720  2025-06-19 12:24:00 cd rclone-en/
+  721  2025-06-19 12:24:01 ll
+  722  2025-06-19 12:24:07 vim *
+  723  2025-06-19 12:24:20 rm rclone-commands-20250618-2.txt 
+  724  2025-06-19 12:24:21 ll
+  725  2025-06-19 12:24:24 cd
+  726  2025-06-19 12:24:32 cd $EMSYS/rclone-en/
+  727  2025-06-19 12:24:33 ll
+  728  2025-06-19 12:24:37 rm rclone-commands-20250618-2.txt 
+  729  2025-06-19 12:24:38 l
+  730  2025-06-19 12:24:40 cd ..
+  731  2025-06-19 12:24:42 gst
+  732  2025-06-19 12:24:45 gyes-add-commit-push 
+  733  2025-06-19 12:24:54 cd $EPRNS
+  734  2025-06-19 12:24:57 ls -t
+  735  2025-06-19 12:25:04 gst
+  736  2025-06-19 12:25:07 gyes-add-commit-push 
+  737  2025-06-19 12:25:13 cd
+  738  2025-06-19 12:25:14 l
+  739  2025-06-19 12:25:16 ll
+  740  2025-06-19 12:25:18 cd
+  741  2025-06-19 16:18:52 exit
+  742  2025-06-20 08:23:16 testing-gtgh-run-all-en 
+  743  2025-06-20 08:23:59 cd $EDTFJLS
+  744  2025-06-20 08:24:02 gst
+  745  2025-06-20 08:24:04 gyes-add-commit-push 
+  746  2025-06-20 08:24:12 cd
+  747  2025-06-20 08:24:23 cd $EPRNS
+  748  2025-06-20 08:24:27 git pull
+  749  2025-06-20 08:24:43 cpi rclone-commands-en-20250619.txt ~/majstaf/metsys/
+  750  2025-06-20 08:24:53 cd ~/majstaf/metsys/
+  751  2025-06-20 08:25:05 mv -i rclone-commands-en-20250619.txt rclone-en/
+  752  2025-06-20 08:25:09 cd rclone-en/
+  753  2025-06-20 08:25:10 ll
+  754  2025-06-20 08:25:14 rm rclone-commands-20250619.txt 
+  755  2025-06-20 08:25:16 ll
+  756  2025-06-20 08:25:17 cd ..
+  757  2025-06-20 08:25:18 ll
+  758  2025-06-20 08:25:19 l
+  759  2025-06-20 08:25:28 cd
+  760  2025-06-20 08:25:40 cd -
+  761  2025-06-20 08:26:00 cpi rclone-en/rclone-commands-en-20250619.txt $EMSYS/rclone-en/
+  762  2025-06-20 08:26:02 cd $EMSYS/rclone-en/
+  763  2025-06-20 08:26:04 ll
+  764  2025-06-20 08:26:07 rm rclone-commands-20250619.txt 
+  765  2025-06-20 08:26:09 ll
+  766  2025-06-20 08:26:11 cd ..
+  767  2025-06-20 08:26:13 gst
+  768  2025-06-20 08:26:17 gyes-add-commit-push 
+  769  2025-06-20 08:26:25 cd
+  770  2025-06-20 08:26:56 testing-gtgh-status-en 
+  771  2025-06-20 08:23:08 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+  772  2025-06-20 08:23:22 engt-run-all 
+  773  2025-06-20 08:26:36 engt-s
+  774  2025-06-20 08:26:40 engt-status 
+  775  2025-06-20 08:27:26 cat majstaf/metsys/rclone-en/rclone-commands-en-20250619.txt 
+  776  2025-06-20 08:27:37 rclone sync --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+  777  2025-06-20 08:27:59 tmxks
+  778  2025-06-20 08:33:25 gcc -o test test.c 
+  779  2025-06-20 08:33:29 ./test 
+  780  2025-06-20 08:33:55 exit
+  781  2025-06-20 08:23:03 tmxns
+  782  2025-06-20 08:31:30 cd $DANES
+  783  2025-06-20 08:31:32 ll
+  784  2025-06-20 08:31:46 cpi rclone-robust-file-transfers-20250619.txt $KNOWLEDGEDB/_RCLONE/
+  785  2025-06-20 08:31:51 rm rclone-robust-file-transfers-20250619.txt 
+  786  2025-06-20 08:31:57 vim test.c
+  787  2025-06-20 08:40:13 gcc -o test test.
+  788  2025-06-20 08:40:16 gcc -o test test.c
+  789  2025-06-20 08:40:24 vim test.c
+  790  2025-06-20 08:40:34 gcc -o test test.c
+  791  2025-06-20 08:40:37 vim test.c
+  792  2025-06-20 08:41:10 gcc -o test test.c
+  793  2025-06-20 08:41:13 vim test.c
+  794  2025-06-20 08:41:27 gcc -o test test.c
+  795  2025-06-20 08:41:36 vim test.c
+  796  2025-06-20 08:41:47 gcc -o test test.c
+  797  2025-06-20 08:41:51 vim test.c
+  798  2025-06-20 08:42:00 gcc -o test test.c
+  799  2025-06-20 08:42:03 ./test 
+  800  2025-06-20 08:42:10 gcc -o test test.c
+  801  2025-06-20 08:42:13 vim test.c
+  802  2025-06-20 08:48:57 cat test.c
+  803  2025-06-20 08:49:52 mv test.c test-strings-associated-with-enum-constnts.c
+  804  2025-06-20 08:50:00 vim test-strings-associated-with-enum-constnts.c 
+  805  2025-06-20 08:50:55 mv test-strings-associated-with-enum-constnts.c $CTST/ct_OSTALO/
+  806  2025-06-20 08:50:58 cd $CTST/ct_OSTALO/
+  807  2025-06-20 08:50:59 cd ..
+  808  2025-06-20 08:51:02 gyes-add-commit-push 
+  809  2025-06-20 08:51:10 cd -
+  810  2025-06-20 08:51:11 ll
+  811  2025-06-20 08:51:15 cd $DANES
+  812  2025-06-20 08:51:16 ll
+  813  2025-06-20 08:51:19 rm test.exe 
+  814  2025-06-20 08:51:20 ll
+  815  2025-06-20 08:51:39 vim rclone-seznam.txt
+  816  2025-06-20 09:11:53 ~/majstaf/majbin/lynxdump/lynx-multi-dump-fromlist-en rclone-seznam.txt 
+  817  2025-06-20 09:12:09 ~/majstaf/majbin/lynxdump/lynx-multi-dump-fromlist-en "rclone-seznam.txt"
+  818  2025-06-20 09:12:55 prepare-fjl-for-knowledgebase rclone-commands-and-usage-multif-20250620.txt 
+  819  2025-06-20 10:41:33 vim rclone-commands-and-usage-multif-20250620.txt 
+  820  2025-06-20 10:49:34 b-convert-txt-to-pdf-v2 rclone-commands-and-usage-multif-20250620.txt 
+  821  2025-06-20 10:49:48 opnw 0_converted_to_PDF/
+  822  2025-06-20 10:50:26 vim 0_converted_to_PDF/
+  823  2025-06-20 10:50:47 vim rclone-commands-and-usage-multif-20250620.txt 
+  824  2025-06-20 10:52:09 b-convert-txt-to-pdf-v2 rclone-commands-and-usage-multif-20250620.txt 
+  825  2025-06-20 10:52:33 vim rclone-commands-and-usage-multif-20250620.txt 
+  826  2025-06-20 10:54:09 b-convert-txt-to-pdf-v2 rclone-commands-and-usage-multif-20250620.txt 
+  827  2025-06-20 10:54:32 vim rclone-commands-and-usage-multif-20250620.txt 
+  828  2025-06-20 10:55:56 b-convert-txt-to-pdf-v2 rclone-commands-and-usage-multif-20250620.txt 
+  829  2025-06-20 10:56:01 ll
+  830  2025-06-20 10:56:06 rm rclone-seznam.txt 
+  831  2025-06-20 10:56:07 ll
+  832  2025-06-20 10:56:15 mv 0_converted_to_PDF/rclone-commands-and-usage-multif-20250620.txt.pdf .
+  833  2025-06-20 10:56:17 ll
+  834  2025-06-20 10:56:20 rm -r 0_converted_to_PDF/
+  835  2025-06-20 10:56:49 cpi rclone-commands-and-usage-multif-20250620.txt $KNOWLEDGEDB/_RCLONE/
+  836  2025-06-20 10:57:03 cpi rclone-commands-and-usage-multif-20250620.txt.pdf $KNOWLEDGEDB/_PDF/
+  837  2025-06-20 10:57:05 cd $KNOWLEDGEDB/_PDF/
+  838  2025-06-20 10:57:06 cd ..
+  839  2025-06-20 10:57:08 gst
+  840  2025-06-20 10:57:11 gyes-add-commit-push 
+  841  2025-06-20 10:58:21 cd
+  842  2025-06-20 10:58:25 exit
+  843  2025-06-20 12:21:26 history | grep rclone
+  844  2025-06-20 12:21:50 history | grep rclone >> $DANES/rclone-commands-list-en-20250620.txt
+  845  2025-06-20 12:21:58 vim $DANES/rclone-commands-list-en-20250620.txt
+  846  2025-06-20 12:24:24 cd majstaf/
+  847  2025-06-20 12:24:34 cd majbin/
+  848  2025-06-20 12:24:35 ll
+  849  2025-06-20 12:24:36 l
+  850  2025-06-20 12:24:51 mkdir rclone-meganz
+  851  2025-06-20 12:24:55 cd rclone-meganz
+  852  2025-06-20 12:26:22 vim bekap-copy-projekti-mega-gren
+  853  2025-06-20 12:31:03 chmod 755 bekap-copy-projekti-mega-gren 
+  854  2025-06-20 12:31:07 ./bekap-copy-projekti-mega-gren 
+  855  2025-06-20 12:31:42 ll
+  856  2025-06-20 12:31:55 ck bekap-{copy,sync}-projekti-mega-gren 
+  857  2025-06-20 12:32:00 cp bekap-{copy,sync}-projekti-mega-gren 
+  858  2025-06-20 12:32:05 vim bekap-sync-projekti-mega-gren 
+  859  2025-06-20 12:32:23 ll
+  860  2025-06-20 12:32:30 ./bekap-sync-projekti-mega-gren 
+  861  2025-06-20 12:32:45 vim bekap-sync-projekti-mega-gren 
+  862  2025-06-20 12:33:06 vim bekap-copy-projekti-mega-gren 
+  863  2025-06-20 12:33:21 ./bekap-sync-projekti-mega-gren 
+  864  2025-06-20 12:33:53 ll
+  865  2025-06-20 12:34:26 cp bekap-copy-{projekti,downloads}-mega-gren 
+  866  2025-06-20 12:34:33 cp bekap-sync-{projekti,downloads}-mega-gren 
+  867  2025-06-20 12:34:58 cp bekap-sync-{projekti,downloads}-mega-gren bekap-ll
+  868  2025-06-20 12:35:01 ll
+  869  2025-06-20 12:35:07 rm bekap-sync-downloads-mega-gren 
+  870  2025-06-20 12:35:12 ll
+  871  2025-06-20 12:37:06 for FFF in *; do echo $FFF; done
+  872  2025-06-20 12:37:34 for FFF in *; do mv -v $FFF ${fff//bekap/rbekap}; done
+  873  2025-06-20 12:37:42 ll
+  874  2025-06-20 12:37:58 for FFF in *; do mv -v $FFF ${FFF//bekap/rbekap}; done
+  875  2025-06-20 12:37:59 ll
+  876  2025-06-20 12:38:24 vim rbekap-copy-downloads-mega-gren 
+  877  2025-06-20 12:39:56 ./rbekap-copy-downloads-mega-gren 
+  878  2025-06-20 12:40:15 vim rbekap-*
+  879  2025-06-20 12:42:43 cat *
+  880  2025-06-20 12:42:59 ll
+  881  2025-06-20 12:43:43 for FFF in *; do echo $FFF; done
+  882  2025-06-20 12:43:53 for FFF in *; do softlink1-fname-to-ulb $FFF; done
+  883  2025-06-20 12:43:57 cd ..
+  884  2025-06-20 12:44:11 ll
+  885  2025-06-20 12:44:27 mv rclone-meganz/ rbekap-meganz
+  886  2025-06-20 12:44:44 cp -r rbekap-meganz $EMBIN 
+  887  2025-06-20 12:44:47 cd $EMBIN
+  888  2025-06-20 12:44:49 gst
+  889  2025-06-20 12:44:52 gyes-add-commit-push 
+  890  2025-06-20 12:44:59 cd
+  891  2025-06-20 12:45:18 cd -
+  892  2025-06-20 12:45:21 sbr
+  893  2025-06-20 12:45:31 cd
+  894  2025-06-20 12:45:53 ll .local/bin/rb*
+  895  2025-06-20 12:46:04 rm .local/bin/rb*
+  896  2025-06-20 12:46:12 cd majstaf/majbin/rbekap-meganz/
+  897  2025-06-20 12:46:20 for FFF in *; do softlink1-fname-to-ulb $FFF; donefo
+  898  2025-06-20 12:46:23 for FFF in *; do softlink1-fname-to-ulb $FFF; done
+  899  2025-06-20 12:46:26 cd
+  900  2025-06-20 12:46:28 sbr
+  901  2025-06-20 12:47:02 cd majstaf/majbin/rbekap-meganz/
+  902  2025-06-20 12:47:04 ll
+  903  2025-06-20 12:47:33 mv rbekap-{copy-downloads,DOWNLOADS-copy}-mega-gren 
+  904  2025-06-20 12:47:56 mv rbekap-{copy-projekti,PROJEKTI-copy}-mega-gren 
+  905  2025-06-20 12:48:21 mv rbekap-{sync-projekti,PROJEKTI-sync}-mega-gren 
+  906  2025-06-20 12:48:25 ll
+  907  2025-06-20 12:48:39 for FFF in *; do softlink1-fname-to-ulb $FFF; donefor
+  908  2025-06-20 12:48:43 for FFF in *; do softlink1-fname-to-ulb $FFF; done
+  909  2025-06-20 12:48:52 cd ~/.local/bin/
+  910  2025-06-20 12:48:55 broken-symlinks-list 
+  911  2025-06-20 12:49:02 rm rbekap-copy-*
+  912  2025-06-20 12:49:09 rm rbekap-sync-projekti-mega-gren 
+  913  2025-06-20 12:49:14 ll rbekap-*
+  914  2025-06-20 12:49:17 cd
+  915  2025-06-20 12:49:20 cd -
+  916  2025-06-20 12:49:23 cd
+  917  2025-06-20 12:49:28 cd majstaf/majbin/
+  918  2025-06-20 12:49:41 rm -r $EMBIN/rbekap-meganz/
+  919  2025-06-20 12:49:54 cp -r rbekap-meganz $EMBIN/
+  920  2025-06-20 12:49:57 cd $EMBIN/
+  921  2025-06-20 12:49:59 gst
+  922  2025-06-20 12:50:04 gyes-add-commit-push 
+  923  2025-06-20 12:50:11 cd
+  924  2025-06-20 12:52:22 opnu "C:\Users\gregor.redelonghi\2025\_2025_1_PROJEKTI\V-200_41935_Gradascica-etapa-1A_PID\odsek-D1\nacrt"
+  925  2025-06-20 12:52:24 ll
+  926  2025-06-20 12:53:01 pdfjoin teksti/pdf/01_V-200_41935_Gradascica-etapa-1A_D1_PID_teksti.pdf risbe/pdf/01_V-200_41935_Gradascica-etapa-1A_D1_PID_SIT-P.pdf cat output _CN.pdf
+  927  2025-06-20 12:53:14 ll
+  928  2025-06-20 12:53:42 mv _CN.pdf _CN_V-200_41935_Gradascica-etapa-1A_PID_odsek-D1.pdf
+  929  2025-06-20 12:54:20 cd
+  930  2025-06-20 12:54:24 pddr
+  931  2025-06-20 13:06:20 mcm
+  932  2025-06-20 13:08:44 tmxks
+  933  2025-06-20 12:21:13 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+  934  2025-06-20 09:20:55 w3m -dump "https://docs.oracle.com/en/learn/migr-ocistorage-rclone-p2/index.html#test-environment-1"
+  935  2025-06-20 09:21:14 w3m -dump -cols 110 "https://docs.oracle.com/en/learn/migr-ocistorage-rclone-p2/index.html#test-environment-1"
+  936  2025-06-20 10:06:54 w3m -dump -cols 110 "https://rclone.org/commands/"
+  937  2025-06-20 11:48:55 ll
+  938  2025-06-20 11:48:59 cd $DANES
+  939  2025-06-20 11:49:00 ls
+  940  2025-06-20 11:49:01 ll
+  941  2025-06-20 11:49:09 rm rclone-commands-and-usage-multif-20250620.txt*
+  942  2025-06-20 11:49:11 ll
+  943  2025-06-20 11:49:34 lynxd "https://blog.radwebhosting.com/how-to-generate-a-full-vps-backup-using-rclone-simple-3-minute-guide/" rclone-howto-generate-a-full-vps-backup
+  944  2025-06-20 11:49:41 prepare-fjl-for-knowledgebase rclone-howto-generate-a-full-vps-backup-20250620.txt 
+  945  2025-06-20 12:04:56 cpi rclone-howto-generate-a-full-vps-backup-20250620.txt $KNOWLEDGEDB/_RCLONE/
+  946  2025-06-20 12:04:58 cd $KNOWLEDGEDB/_RCLONE/
+  947  2025-06-20 12:05:00 cd ..
+  948  2025-06-20 12:05:02 gyes-add-commit-push 
+  949  2025-06-20 12:05:10 cd
+  950  2025-06-20 12:05:13 danes-check
+  951  2025-06-20 12:05:16 ll
+  952  2025-06-20 12:05:20 cd $DANES
+  953  2025-06-20 12:05:21 ll
+  954  2025-06-20 12:05:24 rm rclone-howto-generate-a-full-vps-backup-20250620.txt 
+  955  2025-06-20 12:05:26 ll
+  956  2025-06-20 12:05:27 cd
+  957  2025-06-20 12:05:50 cd $KNOWLEDGEDB
+  958  2025-06-20 12:05:58 contains "https://towardsdatascience.com/managing-your-cloud-based-data-storage-with-rclone-32fff991e0b3/"
+  959  2025-06-20 12:08:30 cd $DANES
+  960  2025-06-20 12:08:54 lynxd "https://towardsdatascience.com/managing-your-cloud-based-data-storage-with-rclone-32fff991e0b3/" rclone-managing-cloud-based-data-storage
+  961  2025-06-20 12:08:59 prepare-fjl-for-knowledgebase rclone-managing-cloud-based-data-storage-20250620.txt 
+  962  2025-06-20 12:09:44 rewrapp rclone-managing-cloud-based-data-storage-20250620.txt
+  963  2025-06-20 12:09:48 prepare-fjl-for-knowledgebase rclone-managing-cloud-based-data-storage-20250620.txt
+  964  2025-06-20 12:19:13 mv rclone-managing-cloud-based-data-storage-20250620.txt $KNOWLEDGEDB/_RCLONE/
+  965  2025-06-20 12:19:52 cd $KNOWLEDGEDB/_RCLONE/
+  966  2025-06-20 12:19:53 cd ..
+  967  2025-06-20 12:19:56 gyes-add-commit-push 
+  968  2025-06-20 12:20:03 cd
+  969  2025-06-20 12:20:07 ll
+  970  2025-06-20 12:21:08 tmxns
+  971  2025-06-20 13:08:46 exit
+  972  2025-06-20 12:22:31 vim $DANES/rclone-commands-list-en-20250620.txt 
+  973  2025-06-20 13:33:01 exit
+  974  2025-06-20 12:54:35 rbekap-PROJEKTI-sync-mega-gren 
+  975  2025-06-20 12:55:01 rbekap-DOWNLOADS-copy-mega-gren 
+  976  2025-06-20 12:55:36 rclone lsd mega_gren:
+  977  2025-06-20 12:55:46 rclone lsd mega_gren:ENERGETIKA
+  978  2025-06-20 12:56:01 rclone ls mega_gren:ENERGETIKA
+  979  2025-06-20 12:56:18 rclone ls --maxdepth 2 mega_gren:ENERGETIKA
+  980  2025-06-20 12:56:33 rclone ls --help
+  981  2025-06-20 12:57:01 rclone ls --max-depth 2 mega_gren:ENERGETIKA
+  982  2025-06-20 12:57:18 rclone ls --max-depth 2 mega_gren:ENERGETIKA |sort nr
+  983  2025-06-20 12:57:26 rclone ls --max-depth 2 mega_gren:ENERGETIKA |sort -nr
+  984  2025-06-20 12:59:36 rclone ls --help
+  985  2025-06-20 13:01:50 rclone ls --max-depth 2 -h mega_gren:ENERGETIKA |sort -nr
+  986  2025-06-20 13:02:09 rclone ls --max-depth 2 mega_gren:ENERGETIKA |sort -nr
+  987  2025-06-20 13:08:53 cd
+  988  2025-06-20 13:11:38 cd $DOWNLOADS
+  989  2025-06-20 13:11:40 ls
+  990  2025-06-20 13:11:41 ll
+  991  2025-06-20 13:12:51 rclone copy _IMAGES mega_gren:ENERGETIKA/Downloads/_IMAGES
+  992  2025-06-20 13:13:48 rclone copy AVIONI mega_gren:ENERGETIKA/Downloads/AVIONI
+  993  2025-06-20 13:14:01 rclone copy -r AVIONI mega_gren:ENERGETIKA/Downloads/AVIONI
+  994  2025-06-20 13:14:20 rbekap-DOWNLOADS-copy-mega-gren 
+  995  2025-06-20 13:14:50 ll
+  996  2025-06-20 13:15:16 mv datasheet_m2r_25_en_2024-02-13.pdf /c/Users/gregor.redelonghi/majstaf_en/ZACASNO-EN/
+  997  2025-06-20 13:15:46 rbekap-DOWNLOADS-copy-mega-gren 
+  998  2025-06-20 13:16:24 cd
+  999  2025-06-20 13:33:06 exit
+ 1000  2025-06-20 13:49:40 cd /h/20255
+ 1001  2025-06-20 13:49:43 cd /h/20225
+ 1002  2025-06-20 13:49:48 cd /h
+ 1003  2025-06-20 13:49:50 ll
+ 1004  2025-06-20 13:49:54 l
+ 1005  2025-06-20 13:50:00 cd 2025
+ 1006  2025-06-20 13:50:02 ll
+ 1007  2025-06-20 13:50:06 ncdu
+ 1008  2025-06-20 13:56:59 ll
+ 1009  2025-06-20 13:57:02 ncdu
+ 1010  2025-06-20 13:59:39 exit
+ 1011  2025-06-20 13:59:39 exit
+ 1012  2025-06-20 14:05:59 s2 "Soška pot v enem dnevu – od izvira do Bovca | Velika kotira Soče | Mala korita Soče"
+ 1013  2025-06-20 14:06:20 s2 "Soška pot v enem dnevu – od izvira do Bovca | Velika kotira Soče | Mala korita Soče" "https://www.youtube.com/watch?v=U2i1_T6s-60"
+ 1014  2025-06-20 14:26:47 exit
+ 1015  2025-06-20 13:51:15 cd /h/2025
+ 1016  2025-06-20 13:51:17 l
+ 1017  2025-06-20 13:51:23 rm -r mega_gren_ENERGETIKA/
+ 1018  2025-06-20 13:53:03 ll
+ 1019  2025-06-20 13:53:23 cd Tehnicne-zahteve_2024/
+ 1020  2025-06-20 13:53:25 ll
+ 1021  2025-06-20 13:53:30 cd ..
+ 1022  2025-06-20 13:53:32 ll
+ 1023  2025-06-20 13:53:34 cd
+ 1024  2025-06-20 14:26:52 exit
+ 1025  2025-06-20 15:05:15 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1026  2025-06-20 15:05:21 pddr
+ 1027  2025-06-20 15:05:30 rbekap-PROJEKTI-sync-mega-gren 
+ 1028  2025-06-20 15:07:23 vim ~/.local/bin/rbekap-PROJEKTI-sync-mega-gren 
+ 1029  2025-06-20 15:07:58 rbekap-PROJEKTI-sync-mega-gren 
+ 1030  2025-06-20 15:10:21 tmxks
+ 1031  2025-06-20 13:44:57 rbekap-PROJEKTI-sync-mega-gren 
+ 1032  2025-06-20 13:45:57 cd /home/
+ 1033  2025-06-20 13:46:02 cd /h
+ 1034  2025-06-20 13:46:05 pwd
+ 1035  2025-06-20 13:46:16 cygpath -w "/h"
+ 1036  2025-06-20 13:46:28 ll
+ 1037  2025-06-20 13:46:32 cd /h
+ 1038  2025-06-20 13:46:33 ll
+ 1039  2025-06-20 13:46:36 l
+ 1040  2025-06-20 13:46:45 cd 2025
+ 1041  2025-06-20 13:46:47 ll
+ 1042  2025-06-20 13:48:10 rclone copy $(cygpath -w "$PWD/_2025_podloge") mega_gren_ENERGETIKA/h_2025_podloge
+ 1043  2025-06-20 13:50:47 rclone copy $(cygpath -w "$PWD/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+ 1044  2025-06-20 14:08:07 rclone sync $(cygpath -w "/h/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+ 1045  2025-06-20 14:08:19 rclone sync $(cygpath -w "/h/2025/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+ 1046  2025-06-20 14:08:48 cd
+ 1047  2025-06-20 14:08:51 rclone sync $(cygpath -w "/h/2025/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+ 1048  2025-06-20 14:09:37 echo 'rclone sync $(cygpath -w "/h/2025/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge' >> majstaf/metsys/rclone-en/rclone-commands-en.txt 
+ 1049  2025-06-20 14:09:48 vim majstaf/metsys/rclone-en/rclone-commands-en.txt
+ 1050  2025-06-20 14:11:05 rm majstaf/metsys/rclone-en/rclone-commands-en-20250619.txt 
+ 1051  2025-06-20 14:11:25 cp majstaf/metsys/rclone-en/rclone-commands-en-20250619.txt $EMSYS/rclone-en/
+ 1052  2025-06-20 14:11:33 cp majstaf/metsys/rclone-en/rclone-commands-en.txt $EMSYS/rclone-en/
+ 1053  2025-06-20 14:11:36 cd $EMSYS/rclone-en/
+ 1054  2025-06-20 14:11:37 ll
+ 1055  2025-06-20 14:11:44 rm rclone-commands-en-20250619.txt 
+ 1056  2025-06-20 14:11:47 cd ..
+ 1057  2025-06-20 14:11:51 gst
+ 1058  2025-06-20 14:11:54 gyes-add-commit-push 
+ 1059  2025-06-20 14:12:02 cd
+ 1060  2025-06-20 14:12:10 cd majstaf/majbin/rbekap-meganz/
+ 1061  2025-06-20 14:12:12 ll
+ 1062  2025-06-20 14:12:42 cp rbekap-{PROJEKTI,H-2025-PODLOGE}-copy-mega-gren 
+ 1063  2025-06-20 14:12:53 vim rbekap-H-2025-PODLOGE-copy-mega-gren 
+ 1064  2025-06-20 14:14:05 cp rbekap-H-2025-PODLOGE-{copy,sync}-mega-gren 
+ 1065  2025-06-20 14:14:14 vim rbekap-H-2025-PODLOGE-sync-mega-gren 
+ 1066  2025-06-20 14:14:34 ll
+ 1067  2025-06-20 14:15:01 for FFF in rbekap-H-2025-PODLOGE-*; do softlink1-fname-to-ulb $FFF; done
+ 1068  2025-06-20 14:15:04 cd
+ 1069  2025-06-20 14:15:09 rbekap-H-2025-PODLOGE-sync-mega-gren 
+ 1070  2025-06-20 14:16:10 cd -
+ 1071  2025-06-20 14:16:12 ll
+ 1072  2025-06-20 14:16:28 cpi rbekap-H-2025-PODLOGE-* $EMBIN/rbekap-meganz/
+ 1073  2025-06-20 14:16:30 cd $EMBIN/rbekap-meganz/
+ 1074  2025-06-20 14:16:31 cd ..
+ 1075  2025-06-20 14:16:34 gst
+ 1076  2025-06-20 14:16:36 gyes-add-commit-push 
+ 1077  2025-06-20 14:16:44 cd
+ 1078  2025-06-20 14:16:49 check-all-git-difs 
+ 1079  2025-06-20 14:17:14 get-endiffs 
+ 1080  2025-06-20 14:20:55 z mets
+ 1081  2025-06-20 14:20:58 ll
+ 1082  2025-06-20 14:20:59 l
+ 1083  2025-06-20 14:21:03 cd rclone-en/
+ 1084  2025-06-20 14:21:04 ll
+ 1085  2025-06-20 14:21:11 cd ..
+ 1086  2025-06-20 14:21:14 ll
+ 1087  2025-06-20 14:21:36 mv zip-unzip-commands{-20250619,-en}.txt 
+ 1088  2025-06-20 14:21:40 vim zip-unzip-commands-en.txt 
+ 1089  2025-06-20 14:22:35 cpi zip-unzip-commands-en.txt ~/majstaf/metsys/
+ 1090  2025-06-20 14:22:39 gst 
+ 1091  2025-06-20 14:22:41 gyes-add-commit-push 
+ 1092  2025-06-20 14:22:52 cd ~/majstaf/metsys/
+ 1093  2025-06-20 14:22:56 ll zip-unzip-commands-*
+ 1094  2025-06-20 14:23:00 rm zip-unzip-commands-20250619.txt 
+ 1095  2025-06-20 14:23:09 ll zip-unzip-commands-en.txt 
+ 1096  2025-06-20 14:23:12 cd
+ 1097  2025-06-20 14:27:32 cd majstaf/metsys/
+ 1098  2025-06-20 14:28:04 rclone copyto zip-unzip-commands-en.txt mega_gren/ENERGETIKA
+ 1099  2025-06-20 14:28:23 rclone copyto rclone-en/rclone-commands-en.txt mega_gren/ENERGETIKA
+ 1100  2025-06-20 14:28:46 history | grep rclone
+ 1101  2025-06-20 14:29:03 vim rclone-en/rclone-commands-en.txt 
+ 1102  2025-06-20 14:29:34 rclone copyto rclone-en/rclone-commands-en.txt mega_gren/ENERGETIKA
+ 1103  2025-06-20 14:29:53 cpi rclone-en/rclone-commands-en.txt $EMSYS/rclone-en/
+ 1104  2025-06-20 14:29:57 cd $EMSYS/rclone-en/
+ 1105  2025-06-20 14:30:02 cd ..
+ 1106  2025-06-20 14:30:04 gst
+ 1107  2025-06-20 14:30:06 gyes-add-commit-push 
+ 1108  2025-06-20 14:30:36 cpi rclone-en/rclone-commands-en.txt $EPRNS/
+ 1109  2025-06-20 14:30:38 cd $EPRNS/
+ 1110  2025-06-20 14:30:46 ll rclone-commands-en*
+ 1111  2025-06-20 14:30:51 rm rclone-commands-en-20250619.txt 
+ 1112  2025-06-20 14:30:53 ll
+ 1113  2025-06-20 14:30:55 gstz
+ 1114  2025-06-20 14:30:57 gst
+ 1115  2025-06-20 14:31:00 gyes-add-commit-push 
+ 1116  2025-06-20 14:31:07 cd
+ 1117  2025-06-20 14:31:55 cd majstaf/metsys/
+ 1118  2025-06-20 14:32:14 rclone copyto rclone-en/rclone-commands-en.txt mega_gren:ENERGETIKA
+ 1119  2025-06-20 14:32:40 rclone copy rclone-en/rclone-commands-en.txt mega_gren:ENERGETIKA
+ 1120  2025-06-20 14:32:59 rclone copy zip-unzip-commands-en.txt mega_gren:ENERGETIKA
+ 1121  2025-06-20 14:33:13 vim rclone-en/rclone-commands-en.txt 
+ 1122  2025-06-20 14:33:43 rclone copy rclone-en/rclone-commands-en.txt mega_gren:ENERGETIKA
+ 1123  2025-06-20 14:34:29 cpi rclone-en/rclone-commands-en.txt $EMSYS/rclone-en/
+ 1124  2025-06-20 14:34:40 cpi rclone-en/rclone-commands-en.txt $EPRNS 
+ 1125  2025-06-20 14:34:46 cd $EPRNS
+ 1126  2025-06-20 14:34:48 gst
+ 1127  2025-06-20 14:34:51 gyes-add-commit-push 
+ 1128  2025-06-20 14:34:57 ll
+ 1129  2025-06-20 14:35:09 cd -
+ 1130  2025-06-20 14:35:20 cpi zip-unzip-commands-en.txt $EPRNS 
+ 1131  2025-06-20 14:35:22 cd $EPRNS
+ 1132  2025-06-20 14:35:24 ll
+ 1133  2025-06-20 14:35:28 rm zip-unzip-commands-en-20250619.txt 
+ 1134  2025-06-20 14:35:30 gst
+ 1135  2025-06-20 14:35:33 gyes-add-commit-push 
+ 1136  2025-06-20 14:35:40 ll
+ 1137  2025-06-20 14:35:44 cd ../metsys_en/
+ 1138  2025-06-20 14:35:46 gst
+ 1139  2025-06-20 14:35:50 gyes-add-commit-push 
+ 1140  2025-06-20 14:35:57 ll
+ 1141  2025-06-20 14:36:02 cd
+ 1142  2025-06-20 14:36:07 get-endiffs 
+ 1143  2025-06-20 14:37:54 check-all-git-difs 
+ 1144  2025-06-20 14:39:23 cd majstaf/metsys/
+ 1145  2025-06-20 14:39:24 ll
+ 1146  2025-06-20 14:39:27 cd mega_gren/
+ 1147  2025-06-20 14:39:28 ll
+ 1148  2025-06-20 14:39:37 ll ENERGETIKA 
+ 1149  2025-06-20 14:39:40 cd ..
+ 1150  2025-06-20 14:39:44 rm -r mega_gren/
+ 1151  2025-06-20 14:40:20 cd $EMSYS
+ 1152  2025-06-20 14:40:23 gst
+ 1153  2025-06-20 14:40:29 rm -r mega_gren/
+ 1154  2025-06-20 14:40:34 cd
+ 1155  2025-06-20 14:41:03 find -type -d -name "mega_*"
+ 1156  2025-06-20 14:41:09 find -type d -name "mega_*"
+ 1157  2025-06-20 15:05:09 tmxns
+ 1158  2025-06-20 15:10:24 exit
+ 1159  2025-06-20 15:10:45 rbekap-DOWNLOADS-copy-mega-gren 
+ 1160  2025-06-20 15:11:15 rbekap-PROJEKTI-sync-mega-gren 
+ 1161  2025-06-20 15:11:46 vim .local/bin/rbekap-PROJEKTI-sync-mega-gren 
+ 1162  2025-06-20 15:12:00 rbekap-PROJEKTI-sync-mega-gren 
+ 1163  2025-06-20 15:12:11 cd
+ 1164  2025-06-20 15:13:48 exit
+ 1165  2025-06-23 09:08:38 testing-gtgh-run-all-en 
+ 1166  2025-06-23 09:15:05 cd $EPRNS
+ 1167  2025-06-23 09:15:08 git pull
+ 1168  2025-06-23 09:15:23 tmxks
+ 1169  2025-06-23 09:08:30 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1170  2025-06-23 09:08:44 engt-run-all 
+ 1171  2025-06-23 09:08:25 tmxns
+ 1172  2025-06-23 09:15:32 z mets
+ 1173  2025-06-23 09:15:45 ll zip-unzip-commands-en.txt 
+ 1174  2025-06-23 09:15:50 ll rclone-en/rclone-commands-en.txt 
+ 1175  2025-06-23 09:15:54 cd
+ 1176  2025-06-23 09:16:03 cd -
+ 1177  2025-06-23 09:16:05 cd
+ 1178  2025-06-23 09:16:08 cd $DANES
+ 1179  2025-06-23 09:16:10 ll
+ 1180  2025-06-23 09:16:24 cpi ./* $KNOWLEDGEDB/_C_and_Cpp/
+ 1181  2025-06-23 09:16:27 cd $KNOWLEDGEDB/_C_and_Cpp/
+ 1182  2025-06-23 09:16:29 cd ..
+ 1183  2025-06-23 09:16:31 gst
+ 1184  2025-06-23 09:16:33 gyes-add-commit-push 
+ 1185  2025-06-23 09:16:48 ll
+ 1186  2025-06-23 09:19:28 cd
+ 1187  2025-06-23 09:19:29 ll
+ 1188  2025-06-23 10:21:06 cd $DANES
+ 1189  2025-06-23 10:21:19 lynxd "https://antonz.org/go-concurrency/race-conditions/" go-concurrency-race-conditions
+ 1190  2025-06-23 10:21:24 prepare-fjl-for-knowledgebase go-concurrency-race-conditions-20250623.txt 
+ 1191  2025-06-23 10:36:03 ll
+ 1192  2025-06-23 10:36:18 mv c-* $KNOWLEDGEDB/_C_and_Cpp/
+ 1193  2025-06-23 10:36:25 cd $KNOWLEDGEDB/_C_and_Cpp/
+ 1194  2025-06-23 10:36:26 cd ..
+ 1195  2025-06-23 10:36:28 gst
+ 1196  2025-06-23 10:36:40 cd -
+ 1197  2025-06-23 10:36:48 mv c-* $KNOWLEDGEDB/_C_and_Cpp/
+ 1198  2025-06-23 10:36:55 mv -i c-* $KNOWLEDGEDB/_C_and_Cpp/
+ 1199  2025-06-23 10:37:04 ll
+ 1200  2025-06-23 10:37:08 cd 
+ 1201  2025-06-23 10:37:11 cd $DANES
+ 1202  2025-06-23 10:37:18 mv c-* $KNOWLEDGEDB/_C_and_Cpp/
+ 1203  2025-06-23 10:37:24 mv -i c-* $KNOWLEDGEDB/_C_and_Cpp/
+ 1204  2025-06-23 10:37:32 rm c-*
+ 1205  2025-06-23 10:37:33 ll
+ 1206  2025-06-23 10:37:43 mv go-concurrency-race-conditions-20250623.txt $KNOWLEDGEDB/_GO/
+ 1207  2025-06-23 10:37:45 ll
+ 1208  2025-06-23 10:37:46 cd
+ 1209  2025-06-23 10:37:57 exit
+ 1210  2025-06-23 10:37:57 exit
+ 1211  2025-06-23 14:52:25 NM="maisie williams ND"
+ 1212  2025-06-23 14:52:31 s2 "$NM" "$NM"
+ 1213  2025-06-23 15:44:48 NM="
+ 1214  2025-06-23 15:45:33 NM="Bad Ass (2012) -- Danny Trejo" && s2 "$NM" "$NM"
+ 1215  2025-06-23 16:18:03 rbekap-DOWNLOADS-copy-mega-gren 
+ 1216  2025-06-23 16:18:42 rbekap-PROJEKTI-sync-mega-gren 
+ 1217  2025-06-23 16:19:50 exit
+ 1218  2025-06-23 08:29:33 rbekap-PROJEKTI-sync-mega-gren 
+ 1219  2025-06-23 08:33:35 cd DANE
+ 1220  2025-06-23 08:33:39 cd $DANES
+ 1221  2025-06-23 08:33:41 ll
+ 1222  2025-06-23 08:33:47 rm rclone-commands-list-en-20250620.txt 
+ 1223  2025-06-23 08:33:48 ll
+ 1224  2025-06-23 08:34:01 lynxd "https://stackoverflow.com/questions/50998284/how-to-initialize-double-pointers" c-howto-initialize-double-pointers
+ 1225  2025-06-23 08:34:07 prepare-fjl-for-knowledgebase c-howto-initialize-double-pointers-20250623.txt 
+ 1226  2025-06-23 08:34:52 rewrapp c-howto-initialize-double-pointers-20250623.txt 
+ 1227  2025-06-23 08:35:38 prepare-fjl-for-knowledgebase c-howto-initialize-double-pointers-20250623.txt
+ 1228  2025-06-23 08:44:47 z c_t
+ 1229  2025-06-23 08:44:53 z know
+ 1230  2025-06-23 08:44:58 cd _C_and_Cpp/
+ 1231  2025-06-23 08:45:04 contains 
+ 1232  2025-06-23 08:45:07 contains "https://www.geeksforgeeks.org/c/how-to-declare-and-initialize-an-array-of-pointers-to-a-structure-in-c/"
+ 1233  2025-06-23 08:45:40 cd $DANES
+ 1234  2025-06-23 08:46:04 lynxd "https://www.geeksforgeeks.org/c/how-to-declare-and-initialize-an-array-of-pointers-to-a-structure-in-c/" c-howto-declare-and-initialize-array-of-pointers-to-structure
+ 1235  2025-06-23 08:46:13 prepare-fjl-for-knowledgebase c-howto-declare-and-initialize-array-of-pointers-to-structure-20250623.txt 
+ 1236  2025-06-23 09:07:58 cd -
+ 1237  2025-06-23 09:08:06 contains "https://heavydeck.net/blog/c-pointers-arrays-and-pitfalls/"
+ 1238  2025-06-23 09:08:50 cd -
+ 1239  2025-06-23 09:09:02 lynxd "https://heavydeck.net/blog/c-pointers-arrays-and-pitfalls/" c-pointers-arrays-and-pitfalls
+ 1240  2025-06-23 09:09:08 prepare-fjl-for-knowledgebase c-pointers-arrays-and-pitfalls-20250623.txt 
+ 1241  2025-06-23 09:12:46 vim c-pointers-arrays-and-pitfalls-20250623.txt 
+ 1242  2025-06-23 09:14:41 ll
+ 1243  2025-06-23 13:26:44 NM="The Ron Clark Story (TV Movie 2006)"
+ 1244  2025-06-23 13:26:50 s2 "$NM" "$NM"
+ 1245  2025-06-23 13:52:33 ll
+ 1246  2025-06-23 13:52:39 get-endiffs 
+ 1247  2025-06-23 13:53:59 check-all-git-difs 
+ 1248  2025-06-23 14:31:31 cd $KNOWLEDGEDB
+ 1249  2025-06-23 14:31:34 gst
+ 1250  2025-06-23 14:31:37 gyes-add-commit-push 
+ 1251  2025-06-23 14:32:03 find * -type f -newermt "20250620"
+ 1252  2025-06-23 14:32:14 find * -type f -newermt "20250620" | xargs -ro vim
+ 1253  2025-06-23 16:26:47 gst
+ 1254  2025-06-23 16:26:49 gyes-add-commit-push 
+ 1255  2025-06-23 16:26:57 cd
+ 1256  2025-06-23 16:26:59 exit
+ 1257  2025-06-24 08:37:23 cd $BRISI
+ 1258  2025-06-24 08:38:03 zip -e alseg-en-20250624.zip ff-en-passwords-20250624.csv MS-Edge-en-passwords-20250624.csv 
+ 1259  2025-06-24 08:38:17 ll
+ 1260  2025-06-24 08:38:25 rm ff-en-passwords-20250624.csv MS-Edge-en-passwords-20250624.csv 
+ 1261  2025-06-24 08:38:47 ll
+ 1262  2025-06-24 08:39:22 rclone copy alseg-en-20250624.zip mega_gren:ENERGETIKA/
+ 1263  2025-06-24 08:39:34 cd
+ 1264  2025-06-24 08:51:57 p3
+ 1265  2025-06-24 08:57:21 for E in $(seq 1 19); do echo "2**${E}"; done
+ 1266  2025-06-24 08:57:28 for E in $(seq 1 18); do echo "2**${E}"; done
+ 1267  2025-06-24 08:58:10 for E in $(seq 1 18); do printf "2^${E} = "; done
+ 1268  2025-06-24 08:58:16 for E in $(seq 1 18); do printf "2^${E} = \n"; done
+ 1269  2025-06-24 08:58:55 B=2; for E in $(seq 1 18); do printf "${B}^${E} = \n"; done
+ 1270  2025-06-24 08:59:34 B=2; for E in $(seq 1 18); do printf "${B}^${E} = ${B}*2\n"; done
+ 1271  2025-06-24 08:59:54 B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n", ${B}*2; done
+ 1272  2025-06-24 09:00:03 B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n" ${B}*2; done
+ 1273  2025-06-24 09:00:21 B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n, ${B}*2"; done
+ 1274  2025-06-24 09:01:23 B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n, ${B}, ${E}, ${B}*2"; done
+ 1275  2025-06-24 09:01:40 B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n ${B} ${E} ${B}*2"; done
+ 1276  2025-06-24 09:01:56 B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B} ${E} ${B}*2; done
+ 1277  2025-06-24 09:02:07 B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, ${B}*2; done
+ 1278  2025-06-24 09:02:40 B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $((${B}*2)); done
+ 1279  2025-06-24 09:02:51 B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $((${B} * 2)); done
+ 1280  2025-06-24 09:03:07 B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $(( ${B} * 2 )); done
+ 1281  2025-06-24 09:04:04 B=2; for E in $(seq 1 18); do $R=$((${b}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+ 1282  2025-06-24 09:04:13 B=2; for E in $(seq 1 18); do $R=$((${B}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+ 1283  2025-06-24 09:04:28 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+ 1284  2025-06-24 09:04:42 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "${B}, ${E}, ${R}"; done
+ 1285  2025-06-24 09:04:56 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n, ${B}, ${E}, ${R}"; done
+ 1286  2025-06-24 09:05:13 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n", ${B} ${E} ${R}; done
+ 1287  2025-06-24 09:05:21 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n", ${B}, ${E}, ${R}; done
+ 1288  2025-06-24 09:06:23 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B} ${E} ${R}; done
+ 1289  2025-06-24 09:06:48 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B} ${E} ${R}; let B=$B*2; done
+ 1290  2025-06-24 09:07:02 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=$B*2; done
+ 1291  2025-06-24 09:07:44 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=($B-1)*2; done
+ 1292  2025-06-24 09:07:54 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=$(($B-1))*2; done
+ 1293  2025-06-24 09:08:25 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+ 1294  2025-06-24 09:09:12 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-5d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+ 1295  2025-06-24 09:09:20 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+ 1296  2025-06-24 09:10:04 hstl
+ 1297  2025-06-24 09:10:43 vim 2-to-pow-seq-20250624.txt
+ 1298  2025-06-24 09:12:25 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+ 1299  2025-06-24 09:13:14 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%d)\n" "2" "${E}" "$((${R}/2))" ; let B=$B*2; done
+ 1300  2025-06-24 09:13:43 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%d)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+ 1301  2025-06-24 09:13:59 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%-4d)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+ 1302  2025-06-24 09:14:17 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%-4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+ 1303  2025-06-24 09:14:24 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+ 1304  2025-06-24 09:14:45 vim 2-to-pow-seq-20250624.txt
+ 1305  2025-06-24 09:15:12 hstl
+ 1306  2025-06-24 09:15:24 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %wq8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+ 1307  2025-06-24 09:15:35 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+ 1308  2025-06-24 09:16:32 B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %8d (%3d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+ 1309  2025-06-24 09:16:59 vim 2-to-pow-seq-20250624.txt
+ 1310  2025-06-24 09:18:27 cp 2-to-pow-seq-20250624.txt $MSYS 
+ 1311  2025-06-24 09:18:40 cp 2-to-pow-seq-20250624.txt $EMSYS 
+ 1312  2025-06-24 09:18:43 cd $EMSYS
+ 1313  2025-06-24 09:18:45 gst
+ 1314  2025-06-24 09:18:48 gyes-add-commit-push 
+ 1315  2025-06-24 09:18:55 cd
+ 1316  2025-06-24 09:18:57 exit
+ 1317  2025-06-24 10:53:27 pnp "RV-31,22516,obn_RV-31_Tacenska,PZI"
+ 1318  2025-06-24 10:53:35 exit
+ 1319  2025-06-24 10:58:12 mcm
+ 1320  2025-06-24 11:11:35 exit
+ 1321  2025-06-24 10:35:45 p3
+ 1322  2025-06-24 11:11:38 exit
+ 1323  2025-06-24 10:33:08 cd $BRISI
+ 1324  2025-06-24 10:33:09 ll
+ 1325  2025-06-24 10:33:28 testing-gtgh-run-all-en 
+ 1326  2025-06-24 08:02:18 rbekap-PROJEKTI-sync-mega-gren 
+ 1327  2025-06-24 08:02:54 rbekap-DOWNLOADS-copy-mega-gren 
+ 1328  2025-06-24 11:11:47 tmxks
+ 1329  2025-06-24 08:00:18 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1330  2025-06-24 08:02:03 pddr
+ 1331  2025-06-24 08:00:13 tmxns
+ 1332  2025-06-24 11:12:06 exit
+ 1333  2025-06-24 11:20:40 PDDR
+ 1334  2025-06-24 11:20:42 pddr
+ 1335  2025-06-24 11:37:35 EXIT
+ 1336  2025-06-24 11:37:41 exit
+ 1337  2025-06-24 12:16:24 opnu "C:\Users\gregor.redelonghi\Downloads\alseg-en-20250624"
+ 1338  2025-06-24 12:16:25 ll
+ 1339  2025-06-24 12:16:48 zip -e alseg-en-20250624-2.zip ./*
+ 1340  2025-06-24 12:16:59 ll
+ 1341  2025-06-24 12:17:05 fm
+ 1342  2025-06-24 12:31:56 cd ..
+ 1343  2025-06-24 12:31:58 ll
+ 1344  2025-06-24 12:32:01 cd
+ 1345  2025-06-24 12:32:03 exit
+ 1346  2025-06-24 12:58:22 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1347  2025-06-24 12:58:28 pddr
+ 1348  2025-06-24 12:58:39 rbekap-PROJEKTI-sync-mega-gren 
+ 1349  2025-06-24 12:59:31 rbekap-DOWNLOADS-copy-mega-gren 
+ 1350  2025-06-24 13:02:23 tmxks
+ 1351  2025-06-24 11:45:04 zze
+ 1352  2025-06-24 12:58:16 tmxns
+ 1353  2025-06-24 13:02:25 exit
+ 1354  2025-06-24 07:58:58 qtm
+ 1355  2025-06-24 13:03:11 exit
+ 1356  2025-07-21 09:54:32 z c_t
+ 1357  2025-07-21 09:54:35 l
+ 1358  2025-07-21 09:54:40 cd ct_142_lookup_table_test_20250618/
+ 1359  2025-07-21 09:54:42 ll
+ 1360  2025-07-21 09:54:46 vim lookup-table-test.c 
+ 1361  2025-07-21 09:55:22 ll
+ 1362  2025-07-21 09:55:23 tree
+ 1363  2025-07-21 09:55:25 make
+ 1364  2025-07-21 09:55:29 bin/lookup-table-test 
+ 1365  2025-07-21 09:55:46 make clean 
+ 1366  2025-07-21 09:55:48 cd
+ 1367  2025-07-21 09:55:51 exit
+ 1368  2025-07-21 09:12:06 get-endiffs 
+ 1369  2025-07-21 09:13:21 history | less
+ 1370  2025-07-21 09:14:11 engt-run-all 
+ 1371  2025-07-21 09:15:12 rbekap-DOWNLOADS-copy-mega-gren 
+ 1372  2025-07-21 09:16:16 rbekap-PROJEKTI-copy-mega-gren 
+ 1373  2025-07-21 09:16:42 pddr
+ 1374  2025-07-21 12:20:01 sendf1 $DOWNLOADS/ff-en-OneTab-polo-majice-20250721.htm 
+ 1375  2025-07-21 12:20:40 cd
+ 1376  2025-07-21 13:04:22 z majbin
+ 1377  2025-07-21 13:04:24 ll
+ 1378  2025-07-21 13:04:26 ls -t
+ 1379  2025-07-21 13:04:40 cd git-commands/
+ 1380  2025-07-21 13:04:41 ll
+ 1381  2025-07-21 13:04:47 ll -t
+ 1382  2025-07-21 13:05:14 vim -p engt-multiple-repos-setup engt-single-repo-setup 
+ 1383  2025-07-21 13:07:11 cd
+ 1384  2025-07-21 13:07:16 check-all-git-difs 
+ 1385  2025-07-21 13:08:32 cd
+ 1386  2025-07-21 13:14:09 cd $DANES
+ 1387  2025-07-21 13:14:11 ls
+ 1388  2025-07-21 13:14:21 lynxd "https://www.scattered-thoughts.net/writing/go-allocation-probe/" go-allocation-probe
+ 1389  2025-07-21 13:14:27 prepare-fjl-for-knowledgebase go-allocation-probe-20250721.txt 
+ 1390  2025-07-21 13:28:08 mv go-allocation-probe-20250721.txt $KNOWLEDGEDB/_GO/
+ 1391  2025-07-21 13:28:10 cd $KNOWLEDGEDB/_GO/
+ 1392  2025-07-21 13:28:12 cd ..
+ 1393  2025-07-21 13:28:18 ll
+ 1394  2025-07-21 13:28:52 gyes-add-commit-push 
+ 1395  2025-07-21 13:29:02 cd
+ 1396  2025-07-21 13:40:27 cd /c/Users/gregor.redelonghi/
+ 1397  2025-07-21 13:41:00 find -iname "*conica*" -o -iname "*minolta*" -o -imame "*myq*"
+ 1398  2025-07-21 13:41:08 find -iname "*conica*" -o -iname "*minolta*" -o -iname "*myq*"
+ 1399  2025-07-21 13:42:46 find -iname "*kyocera*"
+ 1400  2025-07-21 13:47:29 find -iname "*minolta*"
+ 1401  2025-07-21 13:47:43 cd
+ 1402  2025-07-21 13:47:46 find -iname "*conica*" -o -iname "*minolta*" -o -iname "*myq*"
+ 1403  2025-07-21 13:47:51 find -iname "*kyocera*"
+ 1404  2025-07-21 13:47:55 find -iname "*minolta*"
+ 1405  2025-07-21 13:47:58 cd
+ 1406  2025-07-21 13:48:08 find -iname "*gesl*"
+ 1407  2025-07-21 13:48:26 cd /c/Users/gregor.redelonghi/
+ 1408  2025-07-21 13:48:27 find -iname "*gesl*"
+ 1409  2025-07-21 13:49:15 find -iname "*print*"
+ 1410  2025-07-21 13:49:21 find -iname "*printer*"
+ 1411  2025-07-21 13:49:37 find -iname "*printer*txt"
+ 1412  2025-07-21 13:49:54 cd
+ 1413  2025-07-21 13:49:56 find -iname "*printer*txt"
+ 1414  2025-07-21 13:50:28 exit
+ 1415  2025-07-21 13:58:05 cd /c/Users/gregor.redelonghi/
+ 1416  2025-07-21 13:58:07 ll
+ 1417  2025-07-21 13:58:08 l
+ 1418  2025-07-21 13:58:16 cd 0_converted_to_PDF/
+ 1419  2025-07-21 13:58:18 ll
+ 1420  2025-07-21 13:58:25 cd ..
+ 1421  2025-07-21 13:58:30 rm -r 0_converted_to_PDF/
+ 1422  2025-07-21 13:58:34 ll
+ 1423  2025-07-21 13:58:35 l
+ 1424  2025-07-21 13:58:50 cd majstaf_en/
+ 1425  2025-07-21 13:58:52 l
+ 1426  2025-07-21 13:58:54 ll
+ 1427  2025-07-21 13:59:05 cd r.gregor.en/
+ 1428  2025-07-21 13:59:07 ll
+ 1429  2025-07-21 13:59:39 find -name "*.pdf"
+ 1430  2025-07-21 13:59:45 cd ..
+ 1431  2025-07-21 13:59:46 find -name "*.pdf"
+ 1432  2025-07-21 14:00:14 find -iname "*myq*pdf"
+ 1433  2025-07-21 14:00:23 find -iname "*conica*pdf"
+ 1434  2025-07-21 14:00:33 find -iname "*minolta*pdf"
+ 1435  2025-07-21 14:00:42 find -iname "*mkyocera*pdf"
+ 1436  2025-07-21 14:00:48 find -iname "*kyocera*pdf"
+ 1437  2025-07-21 14:00:55 cd ..
+ 1438  2025-07-21 14:00:58 l
+ 1439  2025-07-21 14:01:01 cd
+ 1440  2025-07-21 14:01:04 cd /h
+ 1441  2025-07-21 14:01:05 ll
+ 1442  2025-07-21 14:01:08 l
+ 1443  2025-07-21 14:01:15 cd 2025
+ 1444  2025-07-21 14:01:17 LL
+ 1445  2025-07-21 14:01:20 All
+ 1446  2025-07-21 14:01:21 ll
+ 1447  2025-07-21 14:01:38 find -iname "*myq*"
+ 1448  2025-07-21 14:04:44 find -iname "*taska*"
+ 1449  2025-07-21 14:09:29 cd
+ 1450  2025-07-21 14:09:39 cd majstaf/metsys/
+ 1451  2025-07-21 14:09:41 l
+ 1452  2025-07-21 14:10:15 cd win10setups_20220617/
+ 1453  2025-07-21 14:10:16 ll
+ 1454  2025-07-21 14:10:24 cd
+ 1455  2025-07-21 14:10:37 cd /h/
+ 1456  2025-07-21 14:10:38 ll
+ 1457  2025-07-21 14:10:41 l
+ 1458  2025-07-21 14:10:47 cd energetika/
+ 1459  2025-07-21 14:10:48 l
+ 1460  2025-07-21 14:11:04 find -iname "*myq*"
+ 1461  2025-07-21 14:11:47 cat en_sistem/Kyocera*txt
+ 1462  2025-07-21 14:12:10 cd
+ 1463  2025-07-21 14:12:13 exit
+ 1464  2025-07-21 14:17:33 history
+ 1465  2025-07-21 14:17:37 history | less
+ 1466  2025-07-21 14:54:26 ff-launch 
+ 1467  2025-07-21 14:57:14 z majbin
+ 1468  2025-07-21 14:57:16 ll
+ 1469  2025-07-21 14:57:17 l
+ 1470  2025-07-21 14:57:25 cd ff-launch/
+ 1471  2025-07-21 14:57:26 l
+ 1472  2025-07-21 14:57:30 vim sites.txt 
+ 1473  2025-07-21 14:58:54 ff-launch 
+ 1474  2025-07-21 14:59:15 vim sites.txt 
+ 1475  2025-07-21 15:00:04 snedf1 sites.txt 
+ 1476  2025-07-21 15:00:15 sendf1 sites.txt 
+ 1477  2025-07-21 15:00:44 ll
+ 1478  2025-07-21 15:01:02 cpi sites.txt $EPRNS/ff-launch/
+ 1479  2025-07-21 15:01:34 touch latest-sites-update.txt
+ 1480  2025-07-21 15:01:37 vim latest-sites-update.txt
+ 1481  2025-07-21 15:02:17 cpi latest-sites-update.txt $EPRNS/ff-launch/
+ 1482  2025-07-21 15:02:23 cd $EPRNS/ff-launch/
+ 1483  2025-07-21 15:02:24 ll
+ 1484  2025-07-21 15:02:31 cd ..
+ 1485  2025-07-21 15:02:33 gst
+ 1486  2025-07-21 15:02:39 gyes-add-commit-push 
+ 1487  2025-07-21 15:02:47 ll
+ 1488  2025-07-21 15:02:57 cd
+ 1489  2025-07-21 15:38:24 z bin
+ 1490  2025-07-21 15:38:28 cd ff-launch/
+ 1491  2025-07-21 15:38:31 vim ff-launch 
+ 1492  2025-07-21 15:39:33 ff-launch 
+ 1493  2025-07-21 15:40:05 ll
+ 1494  2025-07-21 15:49:02 cd
+ 1495  2025-07-21 15:58:58 cpi $DOWNLOADS/BEST-MATEMATICIANS-OF-ALL-TIMES-20250721.txt $EPRNS 
+ 1496  2025-07-21 15:59:00 cd $EPRNS
+ 1497  2025-07-21 15:59:06 gy
+ 1498  2025-07-21 15:59:10 gyes-add-commit-push 
+ 1499  2025-07-21 15:59:25 rbekap-DOWNLOADS-copy-mega-gren 
+ 1500  2025-07-21 16:00:18 cd
+ 1501  2025-07-21 16:22:57 engt-run-all 
+ 1502  2025-07-21 16:23:38 testing-gtgh-run-all-en 
+ 1503  2025-07-21 16:30:00 exit
+ 1504  2025-07-22 09:31:04 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1505  2025-07-22 09:31:55 engt-run-all 
+ 1506  2025-07-22 09:35:15 tmxks
+ 1507  2025-07-22 09:31:49 testing-gtgh-run-all-en 
+ 1508  2025-07-22 09:33:23 cd $EPRNS
+ 1509  2025-07-22 09:33:27 git pull
+ 1510  2025-07-22 09:30:59 tmxns
+ 1511  2025-07-22 09:35:18 exit
+ 1512  2025-07-22 11:43:54 z c_t
+ 1513  2025-07-22 11:43:57 l
+ 1514  2025-07-22 11:44:11 cd ct_136_scales_of_displays/
+ 1515  2025-07-22 11:44:13 l
+ 1516  2025-07-22 11:44:16 tree
+ 1517  2025-07-22 11:44:17 make
+ 1518  2025-07-22 11:44:21 bin/scales_of_displays 
+ 1519  2025-07-22 11:44:28 make clean 
+ 1520  2025-07-22 11:44:30 l
+ 1521  2025-07-22 11:44:32 cd ..
+ 1522  2025-07-22 11:44:34 l
+ 1523  2025-07-22 11:44:48 cd ct_131_display_reduced_fname_20240806/
+ 1524  2025-07-22 11:44:49 ll
+ 1525  2025-07-22 11:44:51 tree
+ 1526  2025-07-22 11:44:54 make
+ 1527  2025-07-22 11:44:57 bin/display_fname_reduced_v8 
+ 1528  2025-07-22 11:45:40 vim display_fname_reduced_v8.c 
+ 1529  2025-07-22 11:50:32 bin/display_fname_reduced_v8 
+ 1530  2025-07-22 11:50:46 vim display_fname_reduced_v8.c 
+ 1531  2025-07-22 11:53:14 bin/display_fname_reduced_v8 22
+ 1532  2025-07-22 11:53:25 bin/display_fname_reduced_v8 18
+ 1533  2025-07-22 11:53:37 bin/display_fname_reduced_v8 30
+ 1534  2025-07-22 11:53:50 bin/display_fname_reduced_v8 20
+ 1535  2025-07-22 11:54:05 bin/display_fname_reduced_v8
+ 1536  2025-07-22 11:54:14 vim display_fname_reduced_v8.c 
+ 1537  2025-07-22 11:57:02 make clean 
+ 1538  2025-07-22 11:57:03 ll
+ 1539  2025-07-22 11:57:05 cd ..
+ 1540  2025-07-22 11:57:11 cd ../zig_testing/
+ 1541  2025-07-22 11:57:12 l
+ 1542  2025-07-22 11:57:13 ll
+ 1543  2025-07-22 11:57:19 cd zt_007_obletnica_z_20250325/
+ 1544  2025-07-22 11:57:21 ll
+ 1545  2025-07-22 11:57:24 cd obletnica-z/
+ 1546  2025-07-22 11:57:25 ll
+ 1547  2025-07-22 11:57:28 tree
+ 1548  2025-07-22 11:57:45 zig build
+ 1549  2025-07-22 11:57:56 trewe
+ 1550  2025-07-22 11:57:58 tree
+ 1551  2025-07-22 11:58:11 zig-out/bin/obletnica-z
+ 1552  2025-07-22 11:58:14 zig-out/bin/obletnica-z 2033
+ 1553  2025-07-22 11:58:24 zig clean
+ 1554  2025-07-22 11:58:32 zig
+ 1555  2025-07-22 11:58:36 zig | less
+ 1556  2025-07-22 11:58:53 zig -h 
+ 1557  2025-07-22 11:58:59 ll
+ 1558  2025-07-22 11:59:04 vim zig-build-commands_20250325.txt 
+ 1559  2025-07-22 11:59:38 tree
+ 1560  2025-07-22 11:59:46 rm -r zig-out/
+ 1561  2025-07-22 11:59:50 ll
+ 1562  2025-07-22 11:59:53 man zig
+ 1563  2025-07-22 12:01:08 grep -r 'zig ' ~/majstaf/seznami/*.txt
+ 1564  2025-07-22 12:01:28 man grep
+ 1565  2025-07-22 12:01:55 grep -ro 'zig ' ~/majstaf/seznami/*.txt
+ 1566  2025-07-22 12:02:00 man grep
+ 1567  2025-07-22 12:02:12 grep -rh 'zig ' ~/majstaf/seznami/*.txt
+ 1568  2025-07-22 12:02:35 grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 4-
+ 1569  2025-07-22 12:02:40 grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 5-
+ 1570  2025-07-22 12:02:44 grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 6-
+ 1571  2025-07-22 12:02:50 grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 6- | less
+ 1572  2025-07-22 12:03:00 grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 5- | less
+ 1573  2025-07-22 12:03:11 grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 4- | less
+ 1574  2025-07-22 12:03:22 grep -rh 'zig ' ~/majstaf/seznami/*.txt | less
+ 1575  2025-07-22 12:03:41 grep -rh 'i^zig ' ~/majstaf/seznami/*.txt | less
+ 1576  2025-07-22 12:03:46 grep -rh '^zig ' ~/majstaf/seznami/*.txt | less
+ 1577  2025-07-22 12:03:57 grep -rh ' zig ' ~/majstaf/seznami/*.txt | less
+ 1578  2025-07-22 12:04:33 grep -rh ' zig ' ~/majstaf/seznami/*.txt | grep -v "zig bild\|zig run"
+ 1579  2025-07-22 12:04:41 grep -rh ' zig ' ~/majstaf/seznami/*.txt | grep -v "zig build\|zig run"
+ 1580  2025-07-22 12:04:52 ll
+ 1581  2025-07-22 12:04:54 tree
+ 1582  2025-07-22 12:05:01 vim build.zig
+ 1583  2025-07-22 12:05:09 cd
+ 1584  2025-07-22 12:05:21 cd majstaf/coding2/toolbox/
+ 1585  2025-07-22 12:05:23 l
+ 1586  2025-07-22 12:05:26 cd zig_toolbox/
+ 1587  2025-07-22 12:05:27 ll
+ 1588  2025-07-22 12:05:30 cd obletnica-z/
+ 1589  2025-07-22 12:05:31 ll
+ 1590  2025-07-22 12:05:35 tree
+ 1591  2025-07-22 12:05:45 ./obletnica-z 
+ 1592  2025-07-22 12:05:47 ./obletnica-z 2033
+ 1593  2025-07-22 12:06:23 vim build/obletnica-z/src/*.zig
+ 1594  2025-07-22 12:09:43 cd
+ 1595  2025-07-22 12:09:47 ll
+ 1596  2025-07-22 12:09:56 vim 2-to-pow-seq-20250624.txt 
+ 1597  2025-07-22 12:33:52 mcm
+ 1598  2025-07-22 13:27:21 find -name "2-to-pow-seq-20250624.txt"
+ 1599  2025-07-22 13:27:35 rm 2-to-pow-seq-20250624.txt 
+ 1600  2025-07-22 13:27:36 ll
+ 1601  2025-07-22 13:27:40 cd 0a_povezave/
+ 1602  2025-07-22 13:27:42 l
+ 1603  2025-07-22 13:27:43 ll
+ 1604  2025-07-22 13:28:20 l
+ 1605  2025-07-22 13:28:23 ll
+ 1606  2025-07-22 13:29:16 ln -s -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/go_toolbox/BrthReminder/BrthdReminder_1.1.0.exe brthdReminder_go
+ 1607  2025-07-22 13:29:18 ll
+ 1608  2025-07-22 13:29:55 ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/go_toolbox/BrthReminder/BrthdReminder_1.1.0_colors.exe brthdReminder_go_colors
+ 1609  2025-07-22 13:29:57 ll
+ 1610  2025-07-22 13:30:22 ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder_c.exe BrthReminder
+ 1611  2025-07-22 13:30:23 ll
+ 1612  2025-07-22 13:30:55 ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder-c.exe BrthReminder
+ 1613  2025-07-22 13:30:57 ll
+ 1614  2025-07-22 13:31:17 ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox/BrthReminder/BrthReminder-c-colors.exe BrthReminder_color
+ 1615  2025-07-22 13:31:18 ll
+ 1616  2025-07-22 13:31:28 rm BrthReminder_color.exe 
+ 1617  2025-07-22 13:31:30 ll
+ 1618  2025-07-22 13:31:53 ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox/hex2rgb/hex2rgb.exe hex2rgb 
+ 1619  2025-07-22 13:31:54 ll
+ 1620  2025-07-22 13:32:37 ln -snf /home/gregor.redelonghi/majstaf/coding2/toolbox/c_toolbox c_toolbox
+ 1621  2025-07-22 13:32:38 ll
+ 1622  2025-07-22 13:32:45 rm ToolBox 
+ 1623  2025-07-22 13:32:46 ll
+ 1624  2025-07-22 13:32:52 ./brthdReminder_go
+ 1625  2025-07-22 13:32:56 ./brthdReminder_go_colors 
+ 1626  2025-07-22 13:33:04 ./BrthReminder
+ 1627  2025-07-22 13:33:06 ./BrthReminder_color 
+ 1628  2025-07-22 13:33:10 ll
+ 1629  2025-07-22 13:33:15 ./hex2rgb 
+ 1630  2025-07-22 13:33:26 ./hex2rgb AABBF3
+ 1631  2025-07-22 13:33:45 ./c_toolbox/obletnica-c/obletnica-c 
+ 1632  2025-07-22 13:33:48 ./c_toolbox/obletnica-c/obletnica-c  2033
+ 1633  2025-07-22 13:34:14 ./c_toolbox/zp_padec/zp_padec 
+ 1634  2025-07-22 13:34:29 ./c_toolbox/zp_padec/zp_padec 301.00 301.15 75
+ 1635  2025-07-22 13:34:57 ll
+ 1636  2025-07-22 13:34:59 cd ..
+ 1637  2025-07-22 13:35:01 ll
+ 1638  2025-07-22 13:35:13 tree
+ 1639  2025-07-22 13:35:17 ll
+ 1640  2025-07-22 13:35:29 check-all-git-difs 
+ 1641  2025-07-22 13:36:18 cd $EMBIN
+ 1642  2025-07-22 13:36:23 gst
+ 1643  2025-07-22 13:36:29 gyes-add-commit-push 
+ 1644  2025-07-22 13:36:36 cd
+ 1645  2025-07-22 13:46:14 exit
+ 1646  2025-07-22 14:28:48 pddr
+ 1647  2025-07-22 15:11:33 s2 "Why I Had to Build My Own Library in Zig | SuperZig | Ep1" """
+ 1648  2025-07-28 13:49:30 https://www.youtube.com/watch?v=ORhyWVLWPTg&list=PLSM9kl8LlQw9cr-MsLFXGdYj98ujkIuzI
+ 1649  2025-07-28 13:49:30 some very cool links to other soluton ptoviders to check out ...
+ 1650  2025-07-28 13:49:30 LP,
+ 1651  2025-07-28 13:49:30 """
+ 1652  2025-07-22 15:18:34 pddr
+ 1653  2025-07-22 16:12:11 exit
+ 1654  2025-07-23 08:21:07 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1655  2025-07-23 08:21:30 engt-run-all 
+ 1656  2025-07-23 08:22:31 exit
+ 1657  2025-07-23 08:21:25 testing-gtgh-run-all-en 
+ 1658  2025-07-23 08:22:34 tmxks
+ 1659  2025-07-23 13:16:18 exit
+ 1660  2025-07-23 13:15:56 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1661  2025-07-23 13:16:00 pddr
+ 1662  2025-07-23 14:24:08 ll
+ 1663  2025-07-23 14:24:16 z c-t
+ 1664  2025-07-23 14:24:19 z c_t
+ 1665  2025-07-23 14:24:24 l
+ 1666  2025-07-23 14:24:30 cd ct_142¸¸
+ 1667  2025-07-23 14:24:34 cd ct_142_lookup_table_test_20250618/
+ 1668  2025-07-23 14:24:36 l
+ 1669  2025-07-23 14:24:42 vim *
+ 1670  2025-07-23 14:25:24 cd ..
+ 1671  2025-07-23 14:25:26 l
+ 1672  2025-07-23 14:25:37 cd ct_141_timediff_20250521/
+ 1673  2025-07-23 14:25:38 l
+ 1674  2025-07-23 14:25:42 tree
+ 1675  2025-07-23 14:25:59 find -name "*.c"
+ 1676  2025-07-23 14:26:06 find -name "*.c" | xargs -ro vim
+ 1677  2025-07-23 14:26:38 cd ..
+ 1678  2025-07-23 14:26:50 cd
+ 1679  2025-07-23 14:26:56 cd $KNOWLEDGEDB/_C_and_Cpp/
+ 1680  2025-07-23 14:27:03 lsth
+ 1681  2025-07-23 14:27:09 lsth | xatgs -ro vim
+ 1682  2025-07-23 14:27:14 lsth | xargs -ro vim
+ 1683  2025-07-23 14:27:35 lsth
+ 1684  2025-07-23 14:27:47 ls -t | head
+ 1685  2025-07-23 14:27:52 ls -t | head | xargs vim
+ 1686  2025-07-23 14:28:03 lsthexit
+ 1687  2025-07-23 14:28:06 exit
+ 1688  2025-07-23 08:21:02 tmxns
+ 1689  2025-07-23 08:22:42 get-endiffs 
+ 1690  2025-07-23 08:24:06 cpi /home/gregor.redelonghi/majstaf/majbin/ff-launch/sites.txt $EMBIN/ff-launch/
+ 1691  2025-07-23 08:24:10 cd $EMBIN/ff-launch/
+ 1692  2025-07-23 08:24:11 cd ..
+ 1693  2025-07-23 08:24:14 gyes-add-commit-push 
+ 1694  2025-07-23 08:24:21 ff-launch
+ 1695  2025-07-23 08:25:06 cd
+ 1696  2025-07-23 09:18:21 gcc --version
+ 1697  2025-07-23 10:05:16 z c_t
+ 1698  2025-07-23 10:05:19 l
+ 1699  2025-07-23 10:05:32 cd ct_142_lookup_table_test_20250618/
+ 1700  2025-07-23 10:05:34 ll
+ 1701  2025-07-23 10:05:39 vimm lookup-table-test.c 
+ 1702  2025-07-23 10:05:42 vim lookup-table-test.c
+ 1703  2025-07-23 10:06:16 cd
+ 1704  2025-07-23 13:15:51 tmxns
+ 1705  2025-07-23 14:28:19 cd $KNOWLEDGEDB/_C_and_Cpp/
+ 1706  2025-07-23 14:28:24 ls -t | head
+ 1707  2025-07-23 14:28:31 ls -t | head | xargs -vim -
+ 1708  2025-07-23 14:28:37 ls -t | head | xargs vim -
+ 1709  2025-07-23 14:28:46 ls -t | head | xargs -ro vim
+ 1710  2025-07-23 14:29:33 cd
+ 1711  2025-07-23 14:29:35 ll
+ 1712  2025-07-23 14:29:48 cd $MSYS
+ 1713  2025-07-23 14:29:50 ll
+ 1714  2025-07-23 14:29:54 ls -t | head
+ 1715  2025-07-23 14:30:01 ls -t | head | xargs -ro vim
+ 1716  2025-07-23 14:31:39 cd
+ 1717  2025-07-23 14:31:42 exit
+ 1718  2025-07-23 15:45:29 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1719  2025-07-23 15:45:42 engt-run-all 
+ 1720  2025-07-23 15:46:12 exit
+ 1721  2025-07-23 15:45:37 testing-gtgh-run-all-en 
+ 1722  2025-07-23 15:46:14 tmxks
+ 1723  2025-07-23 15:41:59 rbekap-PROJEKTI-sync-mega-gren 
+ 1724  2025-07-23 15:43:42 rbekap-DOWNLOADS-copy-mega-gren 
+ 1725  2025-07-23 15:44:16 get-endiffs 
+ 1726  2025-07-23 15:45:14 check-all-git-difs 
+ 1727  2025-07-23 15:45:23 tmxns
+ 1728  2025-07-23 15:46:29 z zig_t
+ 1729  2025-07-23 15:46:31 l
+ 1730  2025-07-23 15:46:32 ll
+ 1731  2025-07-23 15:46:38 cd zt_007_obletnica_z_20250325/
+ 1732  2025-07-23 15:46:39 ll
+ 1733  2025-07-23 15:46:42 cd obletnica-z/
+ 1734  2025-07-23 15:46:42 ll
+ 1735  2025-07-23 15:46:45 tree
+ 1736  2025-07-23 15:46:56 find -name "*.zig"
+ 1737  2025-07-23 15:47:05 find -name "*.zig" | xargs -ro vim
+ 1738  2025-07-23 15:49:26 tree
+ 1739  2025-07-23 15:49:28 cd
+ 1740  2025-07-23 15:49:34 obletnica-z 
+ 1741  2025-07-23 15:49:37 obletnica-z 2035
+ 1742  2025-07-23 15:52:31 obletnica-c
+ 1743  2025-07-23 15:52:35 obletnica-c 2035
+ 1744  2025-07-23 15:52:46 obletnica-z 2035
+ 1745  2025-07-23 15:53:24 cd -
+ 1746  2025-07-23 15:53:29 ll
+ 1747  2025-07-23 15:53:39 vim src/main.zig 
+ 1748  2025-07-23 15:54:19 cd
+ 1749  2025-07-23 15:54:23 exit
+ 1750  2025-07-24 09:01:04 engt-run-all 
+ 1751  2025-07-24 12:25:37 exit
+ 1752  2025-07-24 08:59:59 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 1753  2025-07-24 09:01:09 testing-gtgh-run-all-en 
+ 1754  2025-07-24 09:26:19 NM="Bushwick (2017)"
+ 1755  2025-07-24 09:26:26 s2 "$NM" "$NM"
+ 1756  2025-07-24 12:25:05 ll
+ 1757  2025-07-24 12:25:10 check-all-git-difs 
+ 1758  2025-07-24 12:25:26 get-endiffs 
+ 1759  2025-07-24 12:28:39 tmxks
+ 1760  2025-07-24 15:18:14 cd $EGT
+ 1761  2025-07-24 15:18:15 l
+ 1762  2025-07-24 15:18:16 ll
+ 1763  2025-07-24 15:18:24 cd knowledgedb/
+ 1764  2025-07-24 15:18:27 duh
+ 1765  2025-07-24 15:18:32 ll
+ 1766  2025-07-24 15:18:34 la
+ 1767  2025-07-24 15:18:40 du .git
+ 1768  2025-07-24 15:19:07 du -sh --total -git | sort --hr | head
+ 1769  2025-07-24 15:19:13 du -sh --total -git | sort -hr | head
+ 1770  2025-07-24 15:19:17 du -sh --total .git | sort -hr | head
+ 1771  2025-07-24 15:19:21 cd ..
+ 1772  2025-07-24 15:19:25 duh
+ 1773  2025-07-24 15:19:38 stat knowledgedb/
+ 1774  2025-07-24 15:20:02 ncdu
+ 1775  2025-07-24 15:47:21 exit
+ 1776  2025-07-24 10:05:36 cd $DANES
+ 1777  2025-07-24 10:05:37 l
+ 1778  2025-07-24 10:06:02 lynxd "https://www.tecmint.com/setup-local-repositories-in-ubuntu/" apt-setup-local-repositories-in-ubuntu
+ 1779  2025-07-24 10:06:07 prepare-fjl-for-knowledgebase apt-setup-local-repositories-in-ubuntu-20250724.txt 
+ 1780  2025-07-24 10:12:42 cd
+ 1781  2025-07-24 10:12:48 danes-check
+ 1782  2025-07-24 10:15:10 ip -j address list $if | jq
+ 1783  2025-07-24 10:15:56 cd $DANES
+ 1784  2025-07-24 10:16:11 lynxd "https://michael.kjorling.se/blog/2025/ip-address-of-network-interface-linux/" ip-address-of-network-interface
+ 1785  2025-07-24 10:16:16 prepare-fjl-for-knowledgebase ip-address-of-network-interface-20250724.txt 
+ 1786  2025-07-24 10:18:17 vim ip-address-of-network-interface-20250724.txt
+ 1787  2025-07-24 10:20:17 ll
+ 1788  2025-07-24 15:47:35 exit
+ 1789  2025-07-24 12:39:41 z bin
+ 1790  2025-07-24 12:39:47 vim knowledgebase-by-age-en 
+ 1791  2025-07-24 12:43:18 ./knowledgebase-by-age-en 12
+ 1792  2025-07-24 12:45:18 vim knowledgebase-by-age-en todays-knowledgedb-files-en 
+ 1793  2025-07-24 12:45:28 vim -O knowledgebase-by-age-en todays-knowledgedb-files-en 
+ 1794  2025-07-24 12:46:39 ./todays-knowledgedb-files-en 20250610 8
+ 1795  2025-07-24 12:46:49 ./todays-knowledgedb-files-en 20250610 12
+ 1796  2025-07-24 12:47:18 ./todays-knowledgedb-files-en 20250701 12
+ 1797  2025-07-24 12:47:30 ./todays-knowledgedb-files-en 20250701
+ 1798  2025-07-24 12:47:45 ./todays-knowledgedb-files-en 20250701 01
+ 1799  2025-07-24 12:47:56 ./todays-knowledgedb-files-en 20250701 1
+ 1800  2025-07-24 12:48:26 ./knowledgebase-by-age-en 
+ 1801  2025-07-24 12:48:34 ./knowledgebase-by-age-en 30
+ 1802  2025-07-24 12:49:21 ./knowledgebase-by-age-en
+ 1803  2025-07-24 12:49:29 ./knowledgebase-by-age-en 42
+ 1804  2025-07-24 12:49:38 ll
+ 1805  2025-07-24 12:49:55 ./knowledgebase-by-age-en 4
+ 1806  2025-07-24 12:50:55 rm knowledgebase-by-age-en 
+ 1807  2025-07-24 12:51:04 rm $EMBIN/knowledgebase-by-age-en 
+ 1808  2025-07-24 12:51:07 cd $EMBIN/knowledgebase-by-age-en
+ 1809  2025-07-24 12:51:26 cd $EMBIN
+ 1810  2025-07-24 12:51:28 gst
+ 1811  2025-07-24 12:51:31 gyes-add-commit-push 
+ 1812  2025-07-24 12:54:57 cd
+ 1813  2025-07-24 12:55:07 cd -
+ 1814  2025-07-24 12:55:24 vim todays-knowledgedb-files-en 
+ 1815  2025-07-24 12:56:12 todays-knowledgedb-files-en 9
+ 1816  2025-07-24 12:57:00 ./read-latest-from-knowledgedb 
+ 1817  2025-07-24 12:57:54 vim -O read-latest-from-knowledgedb todays-knowledgedb-files-en 
+ 1818  2025-07-24 12:59:36 ./read-latest-from-knowledgedb 
+ 1819  2025-07-24 13:00:10 find $KNOWLEDGEDB -newermt "20250724 12:00:00"
+ 1820  2025-07-24 13:00:22 vim -O read-latest-from-knowledgedb todays-knowledgedb-files-en 
+ 1821  2025-07-24 13:01:11 ./read-latest-from-knowledgedb 
+ 1822  2025-07-24 13:01:19 cd
+ 1823  2025-07-24 13:01:22 z bin
+ 1824  2025-07-24 13:01:27 ./read-latest-from-knowledgedb 
+ 1825  2025-07-24 13:01:34 vim read-latest-from-knowledgedb 
+ 1826  2025-07-24 13:01:45 ./read-latest-from-knowledgedb 
+ 1827  2025-07-24 13:02:09 im read-latest-from-knowledgedb 
+ 1828  2025-07-24 13:02:12 vim read-latest-from-knowledgedb
+ 1829  2025-07-24 13:03:13 ./read-latest-from-knowledgedb 
+ 1830  2025-07-24 13:03:28 vim read-latest-from-knowledgedb
+ 1831  2025-07-24 13:03:57 ./read-latest-from-knowledgedb 
+ 1832  2025-07-24 13:04:23 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 12:00:00"
+ 1833  2025-07-24 13:04:30 vim read-latest-from-knowledgedb
+ 1834  2025-07-24 13:04:46 ./read-latest-from-knowledgedb 
+ 1835  2025-07-24 13:04:57 vim read-latest-from-knowledgedb
+ 1836  2025-07-24 13:05:21 ./read-latest-from-knowledgedb 
+ 1837  2025-07-24 13:05:25 vim read-latest-from-knowledgedb
+ 1838  2025-07-24 13:05:34 ./read-latest-from-knowledgedb 
+ 1839  2025-07-24 13:05:44 vim read-latest-from-knowledgedb
+ 1840  2025-07-24 13:06:06 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 12:00:00"
+ 1841  2025-07-24 13:06:21 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 12:00:00" -type f
+ 1842  2025-07-24 13:06:28 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250723 12:00:00" -type f
+ 1843  2025-07-24 13:06:33 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250723 12:00:00"
+ 1844  2025-07-24 13:06:41 cd $DANES
+ 1845  2025-07-24 13:06:43 ll
+ 1846  2025-07-24 13:07:03 mv ./* $KNOWLEDGEDB/_LINUX_SYSTEM/
+ 1847  2025-07-24 13:07:05 cd -
+ 1848  2025-07-24 13:07:12 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250723 12:00:00" -type f
+ 1849  2025-07-24 13:07:19 ./read-latest-from-knowledgedb 
+ 1850  2025-07-24 13:07:26 vim read-latest-from-knowledgedb 
+ 1851  2025-07-24 13:09:18 ./read-latest-from-knowledgedb 
+ 1852  2025-07-24 13:09:46 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt 20250724 12:00:00 -type f
+ 1853  2025-07-24 13:09:54 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 12:00:00" -type f
+ 1854  2025-07-24 13:10:01 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 12:00:00"
+ 1855  2025-07-24 13:10:11 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724"
+ 1856  2025-07-24 13:10:27 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 08:00:00"
+ 1857  2025-07-24 13:10:32 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 12:00:00"
+ 1858  2025-07-24 13:10:47 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 09:00:00"
+ 1859  2025-07-24 13:10:52 find /home/gregor.redelonghi/majstaf/engit/knowledgedb -newermt "20250724 11:00:00"
+ 1860  2025-07-24 13:11:10 ./read-latest-from-knowledgedb 9
+ 1861  2025-07-24 13:11:20 vim read-latest-from-knowledgedb 
+ 1862  2025-07-24 13:11:35 ./read-latest-from-knowledgedb 7
+ 1863  2025-07-24 13:11:46 ll
+ 1864  2025-07-24 13:11:48 l
+ 1865  2025-07-24 13:12:01 cpi read-latest-from-knowledgedb $EMBIN/
+ 1866  2025-07-24 13:12:04 cd $EMBIN/
+ 1867  2025-07-24 13:12:08 gyes-add-commit-push 
+ 1868  2025-07-24 13:13:03 vim repl-bash-en-V1-20180109 
+ 1869  2025-07-24 13:14:01 ./path-display 
+ 1870  2025-07-24 13:14:08 ll
+ 1871  2025-07-24 13:14:13 ./path-display vmf
+ 1872  2025-07-24 13:14:42 vmf
+ 1873  2025-07-24 13:15:06 vmf-e
+ 1874  2025-07-24 13:15:27 vim -O vmf-e
+ 1875  2025-07-24 14:14:47 ydlF "https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e"
+ 1876  2025-07-24 14:15:27 yt-dlp -F "https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e"
+ 1877  2025-07-24 14:15:42 which ydlF
+ 1878  2025-07-24 14:15:48 type ydlF
+ 1879  2025-07-24 14:16:00 yt-dlp 
+ 1880  2025-07-24 14:16:09 yt-dlp --help
+ 1881  2025-07-24 14:16:14 yt-dlp --help | hrep update
+ 1882  2025-07-24 14:16:19 yt-dlp --help | grep update
+ 1883  2025-07-24 14:16:26 yt-dlp -U
+ 1884  2025-07-24 14:16:45 pip list
+ 1885  2025-07-24 14:17:00 pip install --update yt-dlp
+ 1886  2025-07-24 14:17:35 pip install --upgrade yt-dlp
+ 1887  2025-07-24 14:17:59 python3 -m pip install --upgrade pip
+ 1888  2025-07-24 14:18:06 pip install --upgrade yt-dlp
+ 1889  2025-07-24 14:18:28 ydlF https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+ 1890  2025-07-24 14:18:55 ll
+ 1891  2025-07-24 14:19:10 ydlF https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+ 1892  2025-07-24 14:20:27 yt-dlp -e https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+ 1893  2025-07-24 14:20:42 ydl -e https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+ 1894  2025-07-24 14:21:55 ydl --skip-download --print playlist-title  https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+ 1895  2025-07-24 14:22:32 ydl --skip-download --print playlist_title  https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+ 1896  2025-07-24 14:23:12 ydl -I 1:1 --skip-download --print playlist_title  https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e
+ 1897  2025-07-24 14:23:36 hstl
+ 1898  2025-07-24 14:24:12 cp ff-launch/sites.txt $BRISI 
+ 1899  2025-07-24 14:24:14 cd $BRISI
+ 1900  2025-07-24 14:24:31 mkdir get-playlist-titles
+ 1901  2025-07-24 14:24:37 mv sites.txt get-playlist-titles/
+ 1902  2025-07-24 14:24:42 cd get-playlist-titles/
+ 1903  2025-07-24 14:24:46 vim sites.txt 
+ 1904  2025-07-24 14:26:29 vim get-playlist-titles.sh
+ 1905  2025-07-24 14:27:42 ll
+ 1906  2025-07-24 14:27:46 vim sites.txt 
+ 1907  2025-07-24 14:28:01 mv sites.txt playlists.txt
+ 1908  2025-07-24 14:28:05 vim get-playlist-titles.sh 
+ 1909  2025-07-24 14:28:31 chmos 755 get-playlist-titles.sh 
+ 1910  2025-07-24 14:28:36 chmod 755 get-playlist-titles.sh 
+ 1911  2025-07-24 14:28:40 ./get-playlist-titles.sh 
+ 1912  2025-07-24 14:28:55 vim get-playlist-titles.sh 
+ 1913  2025-07-24 14:29:52 type ydlF
+ 1914  2025-07-24 14:30:09 ll
+ 1915  2025-07-24 14:30:35 type ydlF >> get-playlist-titles.sh
+ 1916  2025-07-24 14:30:38 vim get-playlist-titles.sh
+ 1917  2025-07-24 14:31:42 ./get-playlist-titles.sh 
+ 1918  2025-07-24 14:31:48 vim get-playlist-titles.sh
+ 1919  2025-07-24 14:31:59 ./get-playlist-titles.sh 
+ 1920  2025-07-24 14:32:41 ll
+ 1921  2025-07-24 14:32:44 vim get-playlist-titles.sh
+ 1922  2025-07-24 14:33:10 ./get-playlist-titles.sh 
+ 1923  2025-07-24 14:33:49 ./get-playlist-titles.sh | tee -a playilsts-with-labels.txt
+ 1924  2025-07-24 14:44:10 ll
+ 1925  2025-07-24 14:44:21 vim playilsts-with-labels.txt 
+ 1926  2025-07-24 14:46:01 vim playlists-with-labels.txt
+ 1927  2025-07-24 14:49:31 rm playilsts-with-labels.txt 
+ 1928  2025-07-24 14:49:33 ll
+ 1929  2025-07-24 14:50:05 vim ~/majstaf/majbin/ff-launch/sites.txt 
+ 1930  2025-07-24 14:51:28 ff-launch 
+ 1931  2025-07-24 14:52:00 ll
+ 1932  2025-07-24 14:52:35 mv playlists{,-from-sites}.txt 
+ 1933  2025-07-24 14:52:39 ll
+ 1934  2025-07-24 14:52:45 vim get-playlist-titles.sh 
+ 1935  2025-07-24 14:53:02 ll
+ 1936  2025-07-24 14:53:09 cd ..
+ 1937  2025-07-24 14:53:21 mv get-playlist-titles/ ~/majstaf/majbin/ff-launch/
+ 1938  2025-07-24 14:53:29 cd ~/majstaf/majbin/ff-launch/
+ 1939  2025-07-24 14:53:30 ll
+ 1940  2025-07-24 14:53:38 vim latest-sites-update.txt 
+ 1941  2025-07-24 14:54:02 vim sites.txt 
+ 1942  2025-07-24 14:54:13 ll
+ 1943  2025-07-24 14:54:47 cp -r get-playlist-titles/ $EMBIN/ff-launch/
+ 1944  2025-07-24 14:54:57 cpi latest-sites-update.txt sites.txt $EMBIN/ff-launch/
+ 1945  2025-07-24 14:55:02 ll
+ 1946  2025-07-24 14:55:35 cp -rf ./* $EPRNS/ff-launch/
+ 1947  2025-07-24 14:55:39 cd $EPRNS/ff-launch/
+ 1948  2025-07-24 14:55:40 ll
+ 1949  2025-07-24 14:55:51 cd ..
+ 1950  2025-07-24 14:55:55 gyes-add-commit-push 
+ 1951  2025-07-24 14:56:05 cd ../majbin_en/
+ 1952  2025-07-24 14:56:08 gst
+ 1953  2025-07-24 14:56:14 gyes-add-commit-push 
+ 1954  2025-07-24 14:56:57 cp -r ff-launch/get-playlist-titles/ ~/majstaf/metsys/
+ 1955  2025-07-24 14:56:59 cd ~/majstaf/metsys/
+ 1956  2025-07-24 14:57:00 ll
+ 1957  2025-07-24 14:57:01 l
+ 1958  2025-07-24 14:57:27 cp -r get-playlist-titles/ $EMSYS 
+ 1959  2025-07-24 14:57:32 cd
+ 1960  2025-07-24 14:57:40 testing-gtgh-run-all-en 
+ 1961  2025-07-24 14:58:15 engt-run-all 
+ 1962  2025-07-24 14:58:49 cd $KNOWLEDGEDB
+ 1963  2025-07-24 14:58:52 gst
+ 1964  2025-07-24 14:58:56 gyes-add-commit-push 
+ 1965  2025-07-24 14:59:10 cd ../metsys_en/
+ 1966  2025-07-24 14:59:13 gst
+ 1967  2025-07-24 14:59:16 gyes-add-commit-push 
+ 1968  2025-07-24 14:59:26 cd
+ 1969  2025-07-24 14:59:28 ll
+ 1970  2025-07-24 14:59:50 cd $EGT
+ 1971  2025-07-24 14:59:52 ll
+ 1972  2025-07-24 14:59:55 duh
+ 1973  2025-07-24 15:03:46 cd /c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI/
+ 1974  2025-07-24 15:03:49 duh
+ 1975  2025-07-24 15:04:06 cd V-200_41935_Gradascica-etapa-1A_P
+ 1976  2025-07-24 15:04:12 cd V-200_41935_Gradascica-etapa-1A_PZI/
+ 1977  2025-07-24 15:04:15 duh
+ 1978  2025-07-24 15:04:23 cd ..
+ 1979  2025-07-24 15:04:25 duh
+ 1980  2025-07-24 15:04:31 cd P-30254_P-36951_P-351_Emonika_HPP-ji_PZI/
+ 1981  2025-07-24 15:04:33 duh
+ 1982  2025-07-24 15:04:40 cd ..
+ 1983  2025-07-24 15:04:43 duh
+ 1984  2025-07-24 15:05:14 cd __VN-ji_20240410/
+ 1985  2025-07-24 15:05:16 ll
+ 1986  2025-07-24 15:05:19 duh
+ 1987  2025-07-24 15:05:24 cd RJ_LUZNIK/
+ 1988  2025-07-24 15:05:25 ll
+ 1989  2025-07-24 15:05:36 cd ..
+ 1990  2025-07-24 15:05:44 rm -r __VN-ji_20240410/
+ 1991  2025-07-24 15:05:48 duh
+ 1992  2025-07-24 15:05:56 cd _CNG-Ljubljanske-brigade_povecava/
+ 1993  2025-07-24 15:05:57 ll
+ 1994  2025-07-24 15:06:01 duh
+ 1995  2025-07-24 15:06:08 cd _podloge/
+ 1996  2025-07-24 15:06:09 ll
+ 1997  2025-07-24 15:06:16 cd ..
+ 1998  2025-07-24 15:06:17 ll
+ 1999  2025-07-24 15:06:24 rm -r _podloge/
+ 2000  2025-07-24 15:06:28 cd ..
+ 2001  2025-07-24 15:06:31 duh
+ 2002  2025-07-24 15:06:39 cd P-30254_P-36951_P-351_Emonika_HPP-ji_PZI/
+ 2003  2025-07-24 15:06:40 ll
+ 2004  2025-07-24 15:06:44 duh
+ 2005  2025-07-24 15:06:51 cd _podatki_skupno/
+ 2006  2025-07-24 15:06:53 duh
+ 2007  2025-07-24 15:07:04 cd ..
+ 2008  2025-07-24 15:07:08 duh
+ 2009  2025-07-24 15:07:12 cd _AGLOMERACIJE/
+ 2010  2025-07-24 15:07:13 ll
+ 2011  2025-07-24 15:07:19 cd ..
+ 2012  2025-07-24 15:07:22 cd -
+ 2013  2025-07-24 15:07:28 tree -d *
+ 2014  2025-07-24 15:07:39 tree -d -L 2 *
+ 2015  2025-07-24 15:07:51 ll
+ 2016  2025-07-24 15:07:53 cd ..
+ 2017  2025-07-24 15:07:58 rm -r _AGLOMERACIJE/
+ 2018  2025-07-24 15:08:02 duh
+ 2019  2025-07-24 15:08:15 cd V-200_41935_Gradascica-etapa-1A_PZI/
+ 2020  2025-07-24 15:08:19 duh
+ 2021  2025-07-24 15:08:27 cd _podatki/
+ 2022  2025-07-24 15:08:31 duh
+ 2023  2025-07-24 15:08:41 cd ..
+ 2024  2025-07-24 15:08:45 duh
+ 2025  2025-07-24 15:08:52 cd __RAZNO/
+ 2026  2025-07-24 15:08:54 duh
+ 2027  2025-07-24 15:09:57 rm -r _RP-PETROL_Barje/ _Cesta\ v\ Gorice-most/ _APARTMAJI_NORICUM_20220812/ _PARK_VARNE_MOBILNOSTI/
+ 2028  2025-07-24 15:10:01 duh
+ 2029  2025-07-24 15:10:07 cd ..
+ 2030  2025-07-24 15:10:10 duh
+ 2031  2025-07-24 15:10:19 cd N-18000_22496_obn_N-18000_c-v-RD_Bleiweissova_PZI/
+ 2032  2025-07-24 15:10:21 duh
+ 2033  2025-07-24 15:10:26 cd podatki/
+ 2034  2025-07-24 15:10:28 duh
+ 2035  2025-07-24 15:10:40 ll
+ 2036  2025-07-24 15:10:46 cd Cesta\ v\ Rožno\ dolino\ 2\ \(plinovod\ pod\ progo\)\ JE200\ 20.3.2025/
+ 2037  2025-07-24 15:10:48 ll
+ 2038  2025-07-24 15:10:49 l
+ 2039  2025-07-24 15:10:53 cd ..
+ 2040  2025-07-24 15:10:59 duh
+ 2041  2025-07-24 15:11:28 cd _STRAKL_HPP-ji/
+ 2042  2025-07-24 15:11:30 ll
+ 2043  2025-07-24 15:11:57 vf 20200910_Polje-c-XXXII-21-in-23/
+ 2044  2025-07-24 15:12:03 cd 20200910_Polje-c-XXXII-21-in-23/
+ 2045  2025-07-24 15:12:05 ll
+ 2046  2025-07-24 15:12:10 opnw
+ 2047  2025-07-24 15:12:34 cd ..
+ 2048  2025-07-24 15:12:37 duh
+ 2049  2025-07-24 15:13:09 rbekap-PROJEKTI-sync-mega-gren 
+ 2050  2025-07-24 15:22:06 cd
+ 2051  2025-07-24 15:23:00 vim majstaf/majbin/rbekap-meganz/rbekap-PROJEKTI-sync-mega-gren 
+ 2052  2025-07-24 15:23:29 cd majstaf/majbin/rbekap-meganz/
+ 2053  2025-07-24 15:23:30 ll
+ 2054  2025-07-24 15:23:34 vim *
+ 2055  2025-07-24 15:24:12 rclome --help
+ 2056  2025-07-24 15:24:17 rclome help
+ 2057  2025-07-24 15:24:22 rclone --help
+ 2058  2025-07-24 15:24:26 rclone --help | less
+ 2059  2025-07-24 15:25:11 rclone syns --help
+ 2060  2025-07-24 15:25:16 rclone sync --help
+ 2061  2025-07-24 15:28:22 rclone help exclude
+ 2062  2025-07-24 15:28:30 rclone help | grep exclude
+ 2063  2025-07-24 15:28:36 man rclone
+ 2064  2025-07-24 15:31:03 cd $EGT
+ 2065  2025-07-24 15:31:05 ll
+ 2066  2025-07-24 15:31:14 rclone ls .
+ 2067  2025-07-24 15:31:31 rclone ls . | less
+ 2068  2025-07-24 15:31:46 vim exludes
+ 2069  2025-07-24 15:32:29 rclone ls --filter-from exludes . | less
+ 2070  2025-07-24 15:32:58 rclone ls . | grep '.git'
+ 2071  2025-07-24 15:33:04 rclone ls . | grepc '.git'
+ 2072  2025-07-24 15:33:15 rclone ls --filter-from exludes . | grepc '.git'
+ 2073  2025-07-24 15:33:28 rclone ls --filter-from exludes . | grepc 'vlp'
+ 2074  2025-07-24 15:33:46 vim exludes 
+ 2075  2025-07-24 15:34:19 rclone ls --filter-from exludes . | grepc 'vlp'
+ 2076  2025-07-24 15:34:23 rclone ls --filter-from exludes . | grepc '.git'
+ 2077  2025-07-24 15:34:32 rclone ls --filter-from exludes . | grepc '\.git'
+ 2078  2025-07-24 15:35:04 cp exludes ~/majstaf/majbin/rbekap-meganz/
+ 2079  2025-07-24 15:35:41 history | grep rclone
+ 2080  2025-07-24 15:36:01 history | grep rclone >> rclone-commands-20250724.txt
+ 2081  2025-07-24 15:36:11 mv rclone-commands-20250724.txt ~/majstaf/majbin/rbekap-meganz/
+ 2082  2025-07-24 15:36:13 cd ~/majstaf/majbin/rbekap-meganz/
+ 2083  2025-07-24 15:36:15 ll
+ 2084  2025-07-24 15:36:56 cp rbekap-DOWNLOADS-copy-mega-gren rbekap-ENGIT-sync-mega-gren 
+ 2085  2025-07-24 15:37:04 cat rclone-commands-20250724.txt 
+ 2086  2025-07-24 15:37:10 vim rclone-commands-20250724.txt 
+ 2087  2025-07-24 15:37:35 cat rclone-commands-20250724.txt
+ 2088  2025-07-24 15:37:59 rclone ls --filter-from exludes $EGT/. | grepc '\.git'
+ 2089  2025-07-24 15:38:05 rclone ls --filter-from exludes $EGT | grepc '\.git'
+ 2090  2025-07-24 15:38:39 rclone ls --filter-from exludes $(cygpath -w $EGT) | grepc '\.git'
+ 2091  2025-07-24 15:38:49 rclone ls $(cygpath -w $EGT) | grepc '\.git'
+ 2092  2025-07-24 15:38:55 history
+ 2093  2025-07-24 15:39:08 vim rclone-commands-20250724.txt 
+ 2094  2025-07-24 15:40:01 vim rbekap-ENGIT-sync-mega-gren 
+ 2095  2025-07-24 15:44:04 ll
+ 2096  2025-07-24 15:44:17 ./rbekap-ENGIT-sync-mega-gren 
+ 2097  2025-07-24 16:14:29 rm $EGT/dotfiles_en/.vim/pack/git-plugins/start/ale/test/.config/nvim/init.vim
+ 2098  2025-07-24 16:14:32 ./rbekap-ENGIT-sync-mega-gren 
+ 2099  2025-07-24 16:15:59 cd $EMBIN/rbekap-meganz/
+ 2100  2025-07-24 16:16:00 ll
+ 2101  2025-07-24 16:16:16 cd ..
+ 2102  2025-07-24 16:16:21 cd -
+ 2103  2025-07-24 16:16:31 cd ~/majstaf/majbin/rbekap-meganz/
+ 2104  2025-07-24 16:16:45 cp -rn ./* $EMBIN/rbekap-meganz/
+ 2105  2025-07-24 16:16:47 cd
+ 2106  2025-07-24 16:16:54 testing-gtgh-run-all-en 
+ 2107  2025-07-24 16:17:40 engt-run-all 
+ 2108  2025-07-24 16:18:14 check-all-git-difs 
+ 2109  2025-07-24 16:28:26 exit
+ 2110  2025-07-24 13:47:16 OPNU "C:\Users\gregor.redelonghi\2025\_2025_1_PROJEKTI\N-18000_22496_obn_N-18000_c-v-RD_Bleiweissova_PZI\nacrt\risbe\pdf"
+ 2111  2025-07-24 13:47:17 LL
+ 2112  2025-07-24 13:47:20 ll
+ 2113  2025-07-24 13:47:24 opnu "C:\Users\gregor.redelonghi\2025\_2025_1_PROJEKTI\N-18000_22496_obn_N-18000_c-v-RD_Bleiweissova_PZI\nacrt\risbe\pdf"
+ 2114  2025-07-24 13:47:26 ll
+ 2115  2025-07-24 13:47:52 pdfjoin 01_obn_N-18000_C-v-Rd-Bleiweisova-c_PZI_SIT-P_v4.pdf 01a_obn_N-18000_C-v-Rd-Bleiweisova-c_PZI_SIT-P-DIGITOP-ORTOF_v4.pdf 02_obn_N-18000_C-v-Rd-Bleiweisova-c_PZI_SKICE-DETAJLI.pdf cat output _RISBE_v4.pdf
+ 2116  2025-07-24 13:53:42 cd ..
+ 2117  2025-07-24 13:53:48 cd teksti/pdf/
+ 2118  2025-07-24 13:53:49 ll
+ 2119  2025-07-24 13:54:15 pdfjoin 001_obn_N-18000_c-v-RD_Bleiweissova_PZI_teksti_VODILNI-NACRT.pdf 001a_obn_N-18000_c-v-RD_Bleiweissova_PZI_SEZNAM-SOGLASODAJALCEV.pdf 002_obn_N-18000_c-v-RD_Bleiweissova_PZI_teksti_NACRT-PLIN_v4.pdf cat output _TEKSTI_v4.pdf
+ 2120  2025-07-24 13:56:20 cd ..
+ 2121  2025-07-24 13:56:23 ll
+ 2122  2025-07-24 13:57:07 T=teksti/pdf/_TEKSTI_v4.pdf R=risbe/pdf/_RISBE_v4.pdf P=popisi/pdf/_POPISI.pdf cat T1-r2 P Tr1-end R output _CN.pdf
+ 2123  2025-07-24 13:57:14 pdfjoin T=teksti/pdf/_TEKSTI_v4.pdf R=risbe/pdf/_RISBE_v4.pdf P=popisi/pdf/_POPISI.pdf cat T1-r2 P Tr1-end R output _CN.pdf
+ 2124  2025-07-24 13:57:48 opnw
+ 2125  2025-07-24 14:14:02 ff-launch 
+ 2126  2025-07-24 15:50:03 cd
+ 2127  2025-07-24 15:50:12 cd majstaf/majbin/rbekap-meganz/
+ 2128  2025-07-24 15:50:16 cim excludes 
+ 2129  2025-07-24 15:50:20 vim excludes
+ 2130  2025-07-24 15:51:43 cd ..
+ 2131  2025-07-24 15:51:59 cd $EGT/dotfiles_en/
+ 2132  2025-07-24 15:52:01 la
+ 2133  2025-07-24 15:52:04 cd .local/
+ 2134  2025-07-24 15:52:05 ll
+ 2135  2025-07-24 15:52:10 ll bin/
+ 2136  2025-07-24 15:52:20 rm -r bin
+ 2137  2025-07-24 15:52:28 cd ..
+ 2138  2025-07-24 15:52:31 gst
+ 2139  2025-07-24 15:52:35 gyes-add-commit-push 
+ 2140  2025-07-24 15:52:45 cd
+ 2141  2025-07-24 16:01:19 cd majstaf/majbin/rbekap-meganz/
+ 2142  2025-07-24 16:01:21 ll
+ 2143  2025-07-24 16:01:37 softlink1-fname-to-ulb rbekap-ENGIT-sync-mega-gren
+ 2144  2025-07-24 16:02:08 cpi excludes rclone-commands-20250724.txt rbekap-ENGIT-sync-mega-gren $EMBIN/rbekap-meganz/
+ 2145  2025-07-24 16:02:11 cd $EMBIN/rbekap-meganz/
+ 2146  2025-07-24 16:02:14 ll
+ 2147  2025-07-24 16:02:16 cd ..
+ 2148  2025-07-24 16:02:18 gst
+ 2149  2025-07-24 16:02:21 gyes-add-commit-push 
+ 2150  2025-07-24 16:02:33 gst
+ 2151  2025-07-24 16:02:40 engt-status 
+ 2152  2025-07-24 16:02:49 cd
+ 2153  2025-07-24 16:06:11 cd .local/
+ 2154  2025-07-24 16:06:13 ncdu
+ 2155  2025-07-24 16:45:44 cd
+ 2156  2025-07-24 16:45:50 cd -
+ 2157  2025-07-24 16:45:52 la
+ 2158  2025-07-24 16:45:54 cd ..
+ 2159  2025-07-24 16:46:00 rbekap-PROJEKTI-sync-mega-gren 
+ 2160  2025-07-24 16:46:17 exit
+ 2161  2025-07-25 08:34:03 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 2162  2025-07-25 08:34:17 testing-gtgh-run-all-en 
+ 2163  2025-07-25 08:34:50 cd $EPRNS
+ 2164  2025-07-25 08:34:53 git pull
+ 2165  2025-07-25 08:35:11 diff ff-launch/ ~/majstaf/majbin/ff-launch/
+ 2166  2025-07-25 08:35:30 cd
+ 2167  2025-07-25 08:35:43 cd majstaf/majbin/
+ 2168  2025-07-25 08:35:45 ll
+ 2169  2025-07-25 08:35:47 cd ff-launch/
+ 2170  2025-07-25 08:35:48 ll
+ 2171  2025-07-25 08:35:59 mv ff-launch{,-en}
+ 2172  2025-07-25 08:36:01 ll
+ 2173  2025-07-25 08:36:06 softlink1-fname-to-ulb ff-launch-en 
+ 2174  2025-07-25 08:36:09 cd 
+ 2175  2025-07-25 08:36:11 cd .local/bin/
+ 2176  2025-07-25 08:36:15 broken-symlinks-list 
+ 2177  2025-07-25 08:36:19 rm ff-launch
+ 2178  2025-07-25 08:36:22 ff-launch-en 
+ 2179  2025-07-25 08:36:49 cd
+ 2180  2025-07-25 08:36:54 cd -
+ 2181  2025-07-25 08:37:04 cd $MBIN/ff-launch/
+ 2182  2025-07-25 08:37:20 cpi ff-launch-en $EMBIN/ff-launch/
+ 2183  2025-07-25 08:37:23 cd $EMBIN/ff-launch/
+ 2184  2025-07-25 08:37:24 ll
+ 2185  2025-07-25 08:37:28 rm ff-launch
+ 2186  2025-07-25 08:37:29 ll
+ 2187  2025-07-25 08:37:31 cd ..
+ 2188  2025-07-25 08:37:33 gst
+ 2189  2025-07-25 08:37:35 gyes-add-commit-push 
+ 2190  2025-07-25 08:37:42 cd
+ 2191  2025-07-25 08:34:11 engt-run-all 
+ 2192  2025-07-25 08:39:04 tmxks
+ 2193  2025-07-25 08:33:58 tmxns
+ 2194  2025-07-25 08:39:07 exit
+ 2195  2025-07-25 14:50:45 NM="Old Henry (2021)"
+ 2196  2025-07-25 14:50:50 s2 "$NM" "$NM"
+ 2197  2025-07-25 14:50:53 exit
+ 2198  2025-07-25 09:07:27 c-index-test 
+ 2199  2025-07-25 09:08:23 find -name "*-c*
+ 2200  2025-07-25 09:08:27 find -name "*-c*W
+ 2201  2025-07-25 09:08:31 find -name "*-c*"
+ 2202  2025-07-25 09:08:37 cd majstaf/majbin/
+ 2203  2025-07-25 09:08:39 find -name "*-c*"
+ 2204  2025-07-25 09:09:31 cd $BRISI
+ 2205  2025-07-25 09:10:15 find /home/gregor.redelonghi/majstaf/coding2/testing/c_testing/ -name "*gcc*"
+ 2206  2025-07-25 09:10:51 cp /home/gregor.redelonghi/majstaf/coding2/testing/c_testing/ct_OSTALO/c-check-gcc-standard.c .
+ 2207  2025-07-25 09:11:01 mkdir check-gcc-standard
+ 2208  2025-07-25 09:11:08 mv c-check-gcc-standard.c check-gcc-standard/
+ 2209  2025-07-25 09:11:13 cd check-gcc-standard/
+ 2210  2025-07-25 09:11:14 ll
+ 2211  2025-07-25 09:11:19 vim c-check-gcc-standard.c 
+ 2212  2025-07-25 09:13:36 vim get-gcc-std.c
+ 2213  2025-07-25 09:16:22 chmod 755 test-gcc-std.sh 
+ 2214  2025-07-25 09:16:24 ll
+ 2215  2025-07-25 09:16:29 ./test-gcc-std.sh 
+ 2216  2025-07-25 09:16:52 vim get-gcc-std.c
+ 2217  2025-07-25 09:17:19 ./test-gcc-std.sh 
+ 2218  2025-07-25 09:17:21 vim get-gcc-std.c
+ 2219  2025-07-25 09:17:46 vim test-gcc-std.sh 
+ 2220  2025-07-25 09:18:26 ./test-gcc-std.sh 
+ 2221  2025-07-25 09:18:37 ll
+ 2222  2025-07-25 09:19:13 gcc -o ctest get-gcc-std.c
+ 2223  2025-07-25 09:19:16 ./ctest 
+ 2224  2025-07-25 09:19:40 vim test-gcc-std.sh 
+ 2225  2025-07-25 09:19:52 ./test-gcc-std.sh 
+ 2226  2025-07-25 09:19:55 vim test-gcc-std.sh 
+ 2227  2025-07-25 09:21:03 ll
+ 2228  2025-07-25 09:21:13 vim test-gcc-std.sh 
+ 2229  2025-07-25 09:21:28 ./test-gcc-std.sh 
+ 2230  2025-07-25 09:21:33 vim test-gcc-std.sh 
+ 2231  2025-07-25 09:21:49 ./test-gcc-std.sh 
+ 2232  2025-07-25 09:21:51 vim test-gcc-std.sh 
+ 2233  2025-07-25 09:22:33 ./test-gcc-std.sh 
+ 2234  2025-07-25 09:22:43 vim test-gcc-std.sh 
+ 2235  2025-07-25 09:23:26 ./test-gcc-std.sh 
+ 2236  2025-07-25 09:23:51 ll
+ 2237  2025-07-25 09:24:06 mv {c-,}check-gcc-standard.c 
+ 2238  2025-07-25 09:24:18 gcc -o check-gcc-standard check-gcc-standard.c 
+ 2239  2025-07-25 09:24:21 ./check-gcc-standard 
+ 2240  2025-07-25 09:25:57 ll
+ 2241  2025-07-25 09:26:09 ./ctest 
+ 2242  2025-07-25 09:26:32 vim test-gcc-std.sh 
+ 2243  2025-07-25 09:26:59 ./test-gcc-std.sh 
+ 2244  2025-07-25 09:27:05 ll
+ 2245  2025-07-25 09:28:27 cp -r ../check-gcc-standard/ $CTST/ct_OSTALO/
+ 2246  2025-07-25 09:28:29 cd $CTST/ct_OSTALO/
+ 2247  2025-07-25 09:28:31 ll
+ 2248  2025-07-25 09:28:31 l
+ 2249  2025-07-25 09:28:43 rm c-check-gcc-standard.c 
+ 2250  2025-07-25 09:28:45 cd ..
+ 2251  2025-07-25 09:28:48 gst
+ 2252  2025-07-25 09:28:55 gyes-add-commit-push 
+ 2253  2025-07-25 09:33:11 cd
+ 2254  2025-07-25 11:27:15 cd $KNOWLEDGEDB
+ 2255  2025-07-25 11:27:22 cd _C_and_Cpp/
+ 2256  2025-07-25 11:27:27 contains "https://floooh.github.io/2018/06/02/one-year-of-c.html"
+ 2257  2025-07-25 11:43:28 z c_t
+ 2258  2025-07-25 11:43:31 l
+ 2259  2025-07-25 11:43:38 ls | grep -i string
+ 2260  2025-07-25 11:43:49 cd ct_121_custom_string_type_test_20240122/
+ 2261  2025-07-25 11:43:51 ļl
+ 2262  2025-07-25 11:43:52 ll
+ 2263  2025-07-25 11:43:58 vim custom_string_type_test_v5.c 
+ 2264  2025-07-25 11:46:35 make
+ 2265  2025-07-25 11:46:39 bin/custom_string_type_test_v5 
+ 2266  2025-07-25 11:46:58 vim custom_string_type_test_v5.c 
+ 2267  2025-07-25 11:49:23 make clean 
+ 2268  2025-07-25 11:49:30 cd
+ 2269  2025-07-25 11:51:38 z c_t
+ 2270  2025-07-25 11:51:45 contains "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
+ 2271  2025-07-25 11:52:06 cd ..
+ 2272  2025-07-25 11:52:07 contains "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
+ 2273  2025-07-25 11:53:06 find -type f -iname "*handle*pointer*"
+ 2274  2025-07-25 12:06:52 cd
+ 2275  2025-07-25 12:06:55 cd $DANES
+ 2276  2025-07-25 12:07:10 lynxd "https://floooh.github.io/2018/06/17/handles-vs-pointers.html" c-handles-vs-pointers
+ 2277  2025-07-25 12:07:16 prepare-fjl-for-knowledgebase c-handles-vs-pointers-20250725.txt 
+ 2278  2025-07-25 12:08:06 lynxd "https://floooh.github.io/2018/06/02/one-year-of-c.html" ___in
+ 2279  2025-07-25 12:08:11 prepare-fjl-for-knowledgebase ___in-20250725.txt 
+ 2280  2025-07-25 12:09:44 cat ___in-20250725.txt >> c-handles-vs-pointers-20250725.txt 
+ 2281  2025-07-25 12:09:50 prepare-fjl-for-knowledgebase c-handles-vs-pointers-20250725.txt 
+ 2282  2025-07-25 12:46:36 ll
+ 2283  2025-07-25 12:46:39 rm ___in-20250725.txt 
+ 2284  2025-07-25 12:46:56 mv c-handles-vs-pointers-20250725.txt $KNOWLEDGEDB/_C_and_Cpp/
+ 2285  2025-07-25 12:47:00 cd $KNOWLEDGEDB/_C_and_Cpp/
+ 2286  2025-07-25 12:47:02 cd ..
+ 2287  2025-07-25 12:47:06 gyes-add-commit-push 
+ 2288  2025-07-25 12:47:18 cd
+ 2289  2025-07-25 12:47:37 rbekap-PROJEKTI-sync-mega-gren 
+ 2290  2025-07-25 12:48:16 cd $KNOWLEDGEDB
+ 2291  2025-07-25 12:48:21 gst
+ 2292  2025-07-25 12:48:46 cd
+ 2293  2025-07-25 12:48:52 rbekap-ENGIT-sync-mega-gren 
+ 2294  2025-07-25 12:49:36 cd majstaf/majbin/rbekap-meganz/
+ 2295  2025-07-25 12:49:42 ./rbekap-ENGIT-sync-mega-gren 
+ 2296  2025-07-25 12:50:16 ll
+ 2297  2025-07-25 12:50:52 vim rbekap-ENGIT-sync-mega-gren 
+ 2298  2025-07-25 12:52:48 echo $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren)
+ 2299  2025-07-25 12:53:11 echo $(basename $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren)
+ 2300  2025-07-25 12:53:15 echo $(basename $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren))
+ 2301  2025-07-25 12:53:41 cd ..
+ 2302  2025-07-25 12:53:52 grep -r BASH *
+ 2303  2025-07-25 12:54:20 cd rbekap-meganz/
+ 2304  2025-07-25 12:54:26 vim rbekap-ENGIT-sync-mega-gren 
+ 2305  2025-07-25 12:55:29 cd
+ 2306  2025-07-25 12:55:35 rbekap-ENGIT-sync-mega-gren 
+ 2307  2025-07-25 12:55:44 vim rbekap-ENGIT-sync-mega-gren 
+ 2308  2025-07-25 12:55:49 cd -
+ 2309  2025-07-25 12:55:53 vim rbekap-ENGIT-sync-mega-gren 
+ 2310  2025-07-25 12:57:31 cd
+ 2311  2025-07-25 12:57:34 rbekap-ENGIT-sync-mega-gren 
+ 2312  2025-07-25 12:57:46 vim rbekap-ENGIT-sync-mega-gren 
+ 2313  2025-07-25 12:58:03 cd -
+ 2314  2025-07-25 12:58:09 vim rbekap-ENGIT-sync-mega-gren 
+ 2315  2025-07-25 12:58:54 ./rbekap-ENGIT-sync-mega-gren 
+ 2316  2025-07-25 12:58:58 vim rbekap-ENGIT-sync-mega-gren 
+ 2317  2025-07-25 12:59:15 ./rbekap-ENGIT-sync-mega-gren 
+ 2318  2025-07-25 12:59:18 vim rbekap-ENGIT-sync-mega-gren 
+ 2319  2025-07-25 12:59:38 ./rbekap-ENGIT-sync-mega-gren 
+ 2320  2025-07-25 12:59:42 vim rbekap-ENGIT-sync-mega-gren 
+ 2321  2025-07-25 13:00:02 ./rbekap-ENGIT-sync-mega-gren 
+ 2322  2025-07-25 13:00:06 vim rbekap-ENGIT-sync-mega-gren 
+ 2323  2025-07-25 13:00:27 ./rbekap-ENGIT-sync-mega-gren 
+ 2324  2025-07-25 13:00:31 vim rbekap-ENGIT-sync-mega-gren 
+ 2325  2025-07-25 13:00:53 ./rbekap-ENGIT-sync-mega-gren 
+ 2326  2025-07-25 13:00:57 vim rbekap-ENGIT-sync-mega-gren 
+ 2327  2025-07-25 13:01:35 ./rbekap-ENGIT-sync-mega-gren 
+ 2328  2025-07-25 13:01:42 vim rbekap-ENGIT-sync-mega-gren 
+ 2329  2025-07-25 13:02:04 ./rbekap-ENGIT-sync-mega-gren 
+ 2330  2025-07-25 13:02:13 vim rbekap-ENGIT-sync-mega-gren 
+ 2331  2025-07-25 13:02:49 ./rbekap-ENGIT-sync-mega-gren 
+ 2332  2025-07-25 13:02:54 vim rbekap-ENGIT-sync-mega-gren 
+ 2333  2025-07-25 13:03:08 ./rbekap-ENGIT-sync-mega-gren 
+ 2334  2025-07-25 13:03:12 vim rbekap-ENGIT-sync-mega-gren 
+ 2335  2025-07-25 13:03:28 ./rbekap-ENGIT-sync-mega-gren 
+ 2336  2025-07-25 13:03:34 vim rbekap-ENGIT-sync-mega-gren 
+ 2337  2025-07-25 13:04:11 ./rbekap-ENGIT-sync-mega-gren 
+ 2338  2025-07-25 13:04:15 vim rbekap-ENGIT-sync-mega-gren 
+ 2339  2025-07-25 13:04:58 ./rbekap-ENGIT-sync-mega-gren 
+ 2340  2025-07-25 13:05:10 vim rbekap-ENGIT-sync-mega-gren 
+ 2341  2025-07-25 13:05:28 ./rbekap-ENGIT-sync-mega-gren 
+ 2342  2025-07-25 13:05:33 vim rbekap-ENGIT-sync-mega-gren 
+ 2343  2025-07-25 13:05:50 ./rbekap-ENGIT-sync-mega-gren 
+ 2344  2025-07-25 13:05:53 vim rbekap-ENGIT-sync-mega-gren 
+ 2345  2025-07-25 13:06:09 ./rbekap-ENGIT-sync-mega-gren 
+ 2346  2025-07-25 13:06:16 vim rbekap-ENGIT-sync-mega-gren 
+ 2347  2025-07-25 13:06:32 ./rbekap-ENGIT-sync-mega-gren 
+ 2348  2025-07-25 13:06:46 cd
+ 2349  2025-07-25 13:06:51 rbekap-ENGIT-sync-mega-gren 
+ 2350  2025-07-25 13:07:04 cd -
+ 2351  2025-07-25 13:07:25 cpi rbekap-ENGIT-sync-mega-gren $EMBIN/rbekap-meganz/
+ 2352  2025-07-25 13:07:29 cd $EMBIN/rbekap-meganz/
+ 2353  2025-07-25 13:07:30 ll
+ 2354  2025-07-25 13:07:32 cd ..
+ 2355  2025-07-25 13:07:35 gyes-add-commit-push 
+ 2356  2025-07-25 13:07:42 cd
+ 2357  2025-07-25 14:28:56 cd -
+ 2358  2025-07-25 14:29:06 vim rbekap-meganz/rbekap-ENGIT-sync-mega-gren 
+ 2359  2025-07-25 14:51:21 cd
+ 2360  2025-07-25 15:09:01 rbekap-DOWNLOADS-copy-mega-gren 
+ 2361  2025-07-25 15:09:44 testing-gtgh-run-all-en 
+ 2362  2025-07-25 15:10:18 engt-run-all 
+ 2363  2025-07-25 15:11:58 cd
+ 2364  2025-07-25 15:12:04 exit
+ 2365  2025-07-25 15:38:05 cd $BRISI
+ 2366  2025-07-25 15:38:06 l
+ 2367  2025-07-25 15:38:07 ll
+ 2368  2025-07-25 15:38:35 vim -y test-brisime.txt
+ 2369  2025-07-25 15:40:09 ll
+ 2370  2025-07-25 15:40:12 vim MAMA 
+ 2371  2025-07-25 15:40:17 em MAMA 
+ 2372  2025-07-25 15:40:23 rm MAMA 
+ 2373  2025-07-25 15:40:24 ll
+ 2374  2025-07-25 15:40:35 man vim
+ 2375  2025-07-25 15:40:57 vim
+ 2376  2025-07-25 15:43:11 cd
+ 2377  2025-07-25 15:44:36 s2 "Underrated Movies List" """
+ 2378  2025-07-28 13:49:30 Underrated movies list
+ 2379  2025-07-28 13:49:30 110,670 views  Jun 28, 2025  #RottenTomatoes #SciFi #ScienceFiction
+ 2380  2025-07-28 13:49:30 Everyone makes mistakes, and film critics are no exception — so we're gonna forgive them for getting it so wrong with these sci-fi movies.
+ 2381  2025-07-28 13:49:30 #SciFi #ScienceFiction #RottenTomatoes
+ 2382  2025-07-28 13:49:30 Knowing | 0:00
+ 2383  2025-07-28 13:49:30 Tron: Legacy | 0:59
+ 2384  2025-07-28 13:49:30 John Carter | 1:56
+ 2385  2025-07-28 13:49:30 Star Wars: Episode I - The Phantom Menace | 2:53
+ 2386  2025-07-28 13:49:30 The Thing (2011) | 3:52
+ 2387  2025-07-28 13:49:30 Terminator Salvation | 4:47
+ 2388  2025-07-28 13:49:30 Alien vs. Predator | 5:47
+ 2389  2025-07-28 13:49:30 Batman v Superman: Dawn of Justice | 6:41
+ 2390  2025-07-28 13:49:30 Transformers: Dark of the Moon | 7:44
+ 2391  2025-07-28 13:49:30 In Time | 8:27
+ 2392  2025-07-28 13:49:30 Jumper | 9:13
+ 2393  2025-07-28 13:49:30 The Day After Tomorrow | 10:02
+ 2394  2025-07-28 13:49:30 2012 | 10:48
+ 2395  2025-07-28 13:49:30 Zoom | 11:49
+ 2396  2025-07-28 13:49:30 Cowboys and Aliens | 12:38
+ 2397  2025-07-28 13:49:30 Déjà Vu | 13:33
+ 2398  2025-07-28 13:49:30 The Shift | 14:26
+ 2399  2025-07-28 13:49:30 Passengers | 15:28
+ 2400  2025-07-28 13:49:30 Armageddon | 16:19
+ 2401  2025-07-28 13:49:30 Stargate | 17:09
+ 2402  2025-07-28 13:49:30 The Book of Eli | 18:00
+ 2403  2025-07-28 13:49:30 Oblivion | 18:40
+ 2404  2025-07-28 13:49:30 Upside Down |
+ 2405  2025-07-28 13:49:30 Superman IV: The Quest for Peace | 19:58
+ 2406  2025-07-28 13:49:30 The X-Files: I Want to Believe | 21:00
+ 2407  2025-07-28 13:49:30 Highlander II: The Quickening | 22:01
+ 2408  2025-07-28 13:49:30 Speed Racer | 23:05
+ 2409  2025-07-28 13:49:30 Last Action Hero | 24:00
+ 2410  2025-07-28 13:49:30 Jupiter Ascending | 24:56
+ 2411  2025-07-28 13:49:30 Event Horizon | 25:50
+ 2412  2025-07-28 13:49:30 Masters of the Universe | 26:43
+ 2413  2025-07-28 13:49:30 Howard the Duck | 27:42
+ 2414  2025-07-28 13:49:30 lp,
+ 2415  2025-07-28 13:49:30 """
+ 2416  2025-07-25 15:57:01 z c_t
+ 2417  2025-07-25 15:57:09 ls | grep -i aren
+ 2418  2025-07-25 15:57:13 l
+ 2419  2025-07-25 15:58:10 grep -r "arena\|allocato" *
+ 2420  2025-07-25 15:58:24 grep --color=always -r "arena\|allocato" *
+ 2421  2025-07-25 15:58:33 grep --color=always -rl "arena\|allocato" *
+ 2422  2025-07-25 15:58:58 grep --color=always -rl "arena\|allocato" * | grep -v OSTALO
+ 2423  2025-07-25 16:01:39 vim ct_109_relative_pointers_btree_20230825/relative_pointers_v8.c ct_110_struct_region_pointer_offset_test_20230828/struct_region_offset_v9.c ct_121_custom_string_type_test_20240122/custom_string_type_test_v5.c ct_129_path_construction_macro_2_20240524/ubuild.* ct_131_display_reduced_fname_20240806/display_fname_reduced_v8.c 
+ 2424  2025-07-25 16:13:13 cd
+ 2425  2025-07-25 16:13:50 exit
+ 2426  2025-07-28 08:32:28 /home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+ 2427  2025-07-28 08:32:52 engt-r
+ 2428  2025-07-28 08:32:57 engt-run-all 
+ 2429  2025-07-28 09:07:42 cd $EPRNS
+ 2430  2025-07-28 09:07:47 git pull
+ 2431  2025-07-28 08:32:45 testing-gtgh-run-all-en 
+ 2432  2025-07-28 09:07:59 z c_t
+ 2433  2025-07-28 09:08:03 git pull
+ 2434  2025-07-28 09:08:19 cd ct_107_struct-serialization_20230607/
+ 2435  2025-07-28 09:08:20 ll
+ 2436  2025-07-28 09:08:25 vim struct_serialization_v1.c 
+ 2437  2025-07-28 09:10:53 vim compile_and_run.sh 
+ 2438  2025-07-28 09:11:14 cd ..
+ 2439  2025-07-28 09:11:20 tmxks
+ 2440  2025-07-28 08:32:22 tmxns
+ 2441  2025-07-28 09:18:04 z c_T
+ 2442  2025-07-28 09:18:12 ls | grep serial
+ 2443  2025-07-28 09:18:18 cd ct_116_struct_serialization_test_20230926/
+ 2444  2025-07-28 09:18:19 ll
+ 2445  2025-07-28 09:18:25 cat INFO.txt 
+ 2446  2025-07-28 09:18:42 ll
+ 2447  2025-07-28 09:18:51 vim fpath_to_abspath_v2.h 
+ 2448  2025-07-28 09:23:02 vim sas1_serialize_array_of_structs_v12.c 
+ 2449  2025-07-28 09:23:41 vim sas2_retreive_structs_from_file_v7.c 
+ 2450  2025-07-28 09:25:01 ll
+ 2451  2025-07-28 09:25:09 vim serialize_v5.h 
+ 2452  2025-07-28 09:28:52 ll
+ 2453  2025-07-28 09:28:56 vim serialize_v5.h 
+ 2454  2025-07-28 09:29:23 vim sas1_serialize_array_of_structs_v12.c 
+ 2455  2025-07-28 09:30:36 ll
+ 2456  2025-07-28 09:30:41 tree
+ 2457  2025-07-28 09:30:44 tree -d
+ 2458  2025-07-28 09:30:48 tree bin/
+ 2459  2025-07-28 09:30:51 make
+ 2460  2025-07-28 09:30:59 cd bin/
+ 2461  2025-07-28 09:31:05 ./sas1_serialize_array_of_structs_v12 
+ 2462  2025-07-28 09:31:08 ll
+ 2463  2025-07-28 09:31:21 hexdump elements_array.bin 
+ 2464  2025-07-28 09:31:31 ll
+ 2465  2025-07-28 09:31:38 less elements_array.bin 
+ 2466  2025-07-28 09:31:47 cat elements_array.bin 
+ 2467  2025-07-28 09:32:03 strings elements_array.bin 
+ 2468  2025-07-28 09:32:12 man strings
+ 2469  2025-07-28 09:32:42 ll
+ 2470  2025-07-28 09:32:55 ./sas2_retreive_structs_from_file_v7 
+ 2471  2025-07-28 09:32:59 ./sas2_retreive_structs_from_file_v7 |less
+ 2472  2025-07-28 09:33:37 ll
+ 2473  2025-07-28 09:33:42 cd ..
+ 2474  2025-07-28 09:33:44 ll
+ 2475  2025-07-28 09:33:49 make clean 
+ 2476  2025-07-28 09:33:51 ll
+ 2477  2025-07-28 09:33:57 tree bin
+ 2478  2025-07-28 09:34:00 cd tests/
+ 2479  2025-07-28 09:34:01 l
+ 2480  2025-07-28 09:34:02 ll
+ 2481  2025-07-28 09:34:07 tree
+ 2482  2025-07-28 09:34:11 vim app_path.c 
+ 2483  2025-07-28 09:35:03 ll Makefile_test 
+ 2484  2025-07-28 09:35:10 make -f Makefile_test 
+ 2485  2025-07-28 09:35:12 tree
+ 2486  2025-07-28 09:35:17 bin/app_path 
+ 2487  2025-07-28 09:35:31 make -f Makefile_test clean 
+ 2488  2025-07-28 09:35:33 tree
+ 2489  2025-07-28 09:35:38 rmdir bin
+ 2490  2025-07-28 09:35:43 cd ..
+ 2491  2025-07-28 09:35:45 ll
+ 2492  2025-07-28 09:35:46 cd ..
+ 2493  2025-07-28 09:35:48 ll
+ 2494  2025-07-28 09:35:50 cd
+ 2495  2025-07-28 09:35:54 exit
+ 2496  2025-07-28 09:41:39 cd $DANES
+ 2497  2025-07-28 09:41:40 l
+ 2498  2025-07-28 09:41:41 ll
+ 2499  2025-07-28 09:41:59 string-to-lower-with-hypens-en "Sinkholing Suspicious Scripts or Executables"
+ 2500  2025-07-28 09:42:20 string-to-lower-with-hypens-en "Sinkholing Suspicious Scripts or Executables" | xclip
+ 2501  2025-07-28 09:43:03 lynxd "https://isc.sans.edu/diary/rss/32144" bash-sinkholing-suspicious-scripts-or-executables
+ 2502  2025-07-28 09:43:15 prepare-fjl-for-knowledgebase bash-sinkholing-suspicious-scripts-or-executables-20250728.txt 
+ 2503  2025-07-28 09:53:54 ll
+ 2504  2025-07-28 09:54:03 mv bash-sinkholing-suspicious-scripts-or-executables-20250728.txt $KNOWLEDGEDB/_BASH/
+ 2505  2025-07-28 09:54:07 ll
+ 2506  2025-07-28 09:54:09 cd
+ 2507  2025-07-28 10:44:24 cd /c/Users/gregor.redelonghi/
+ 2508  2025-07-28 10:44:40 find -type -name "*BRISI*"
+ 2509  2025-07-28 10:44:44 find -type d -name "*BRISI*"
+ 2510  2025-07-28 10:47:08 find -name "*SITU*"
+ 2511  2025-07-28 10:47:34 find -newermt "20250728 10:00:00"
+ 2512  2025-07-28 10:48:16 find -newermt "20250728 10:00:00" | grep -v"AppData\|BRISI"
+ 2513  2025-07-28 10:48:22 find -newermt "20250728 10:00:00" | grep -v "AppData\|BRISI"
+ 2514  2025-07-28 10:49:15 find -newermt "20250728 10:00:00" | grep -v "AppData\|BRISI\|FireFox"
+ 2515  2025-07-28 10:50:24 cd
+ 2516  2025-07-28 10:50:26 exit
+ 2517  2025-07-28 13:49:34 s2 "
+ 2518  2025-07-28 13:49:54 s2 "The book on Pointers: for c programmers" """
+
+The book on Pointers: for c programmers
+https://bookmanista.web.app/idebook/b07v1vskb6
+"""
+ 2519  2025-07-28 13:52:34 get_objgraph 
+ 2520  2025-07-28 13:52:38 get-endiffs 
+ 2521  2025-07-28 13:54:20 check-all-git-difs 
+ 2522  2025-07-28 13:54:28 danes-check
+ 2523  2025-07-28 13:54:43 rbekap-DOWNLOADS-copy-mega-gren 
+ 2524  2025-07-28 14:27:04 S2 "Exploring Italian High-Speed Trains in 15 minutes" """
+Exploring Italian High-Speed Trains in 15 minutes:
+https://www.youtube.com/watch?v=ruSFTE7N_AQ
+"""
+ 2525  2025-07-28 15:20:22 getconf LEVEL1_DCACHE_LINESIZE
+ 2526  2025-07-28 15:20:26 HSTL
+ 2527  2025-07-28 15:20:41 sysconf (_SC_LEVEL1_DCACHE_LINESIZE)
+ 2528  2025-07-28 15:20:54 GETCONF
+ 2529  2025-07-28 15:21:00 GETCONF -A
+ 2530  2025-07-28 15:21:04 getconf
+ 2531  2025-07-28 15:21:08 getconf -a
+ 2532  2025-07-28 15:21:19 hstl
+ 2533  2025-07-28 15:33:28 s2 "how to get L1 ... L3 and cash line sizes?" 
+ 2534  2025-07-28 15:33:56 s2 "how to get L1 ... L3 and cash line sizes?" """
+getconf -a
+PATH                                /bin:/usr/bin
+POSIX_V7_ILP32_OFF32_CFLAGS         undefined
+POSIX_V7_ILP32_OFF32_LDFLAGS        undefined
+POSIX_V7_ILP32_OFF32_LIBS           undefined
+POSIX_V7_ILP32_OFFBIG_CFLAGS        undefined
+POSIX_V7_ILP32_OFFBIG_LDFLAGS       undefined
+POSIX_V7_ILP32_OFFBIG_LIBS          undefined
+POSIX_V7_LP64_OFF64_CFLAGS
+POSIX_V7_LP64_OFF64_LDFLAGS
+POSIX_V7_LP64_OFF64_LIBS
+POSIX_V7_LPBIG_OFFBIG_CFLAGS
+POSIX_V7_LPBIG_OFFBIG_LDFLAGS
+POSIX_V7_LPBIG_OFFBIG_LIBS
+POSIX_V7_THREADS_CFLAGS
+POSIX_V7_THREADS_LDFLAGS
+POSIX_V7_WIDTH_RESTRICTED_ENVS      POSIX_V6_LP64_OFF64
+POSIX_V6_ILP32_OFF32_CFLAGS         undefined
+POSIX_V6_ILP32_OFF32_LDFLAGS        undefined
+POSIX_V6_ILP32_OFF32_LIBS           undefined
+POSIX_V6_ILP32_OFFBIG_CFLAGS        undefined
+POSIX_V6_ILP32_OFFBIG_LDFLAGS       undefined
+POSIX_V6_ILP32_OFFBIG_LIBS          undefined
+POSIX_V6_LP64_OFF64_CFLAGS
+POSIX_V6_LP64_OFF64_LDFLAGS
+POSIX_V6_LP64_OFF64_LIBS
+POSIX_V6_LPBIG_OFFBIG_CFLAGS
+POSIX_V6_LPBIG_OFFBIG_LDFLAGS
+POSIX_V6_LPBIG_OFFBIG_LIBS
+POSIX_V6_WIDTH_RESTRICTED_ENVS      POSIX_V6_LP64_OFF64
+XBS5_ILP32_OFF32_CFLAGS             undefined
+XBS5_ILP32_OFF32_LDFLAGS            undefined
+XBS5_ILP32_OFF32_LIBS               undefined
+XBS5_ILP32_OFF32_LINTFLAGS          undefined
+XBS5_ILP32_OFFBIG_CFLAGS            undefined
+XBS5_ILP32_OFFBIG_LDFLAGS           undefined
+XBS5_ILP32_OFFBIG_LIBS              undefined
+XBS5_ILP32_OFFBIG_LINTFLAGS         undefined
+XBS5_LP64_OFF64_CFLAGS
+XBS5_LP64_OFF64_LDFLAGS
+XBS5_LP64_OFF64_LIBS
+XBS5_LP64_OFF64_LINTFLAGS
+XBS5_LPBIG_OFFBIG_CFLAGS
+XBS5_LPBIG_OFFBIG_LDFLAGS
+XBS5_LPBIG_OFFBIG_LIBS
+XBS5_LPBIG_OFFBIG_LINTFLAGS
+XBS5_WIDTH_RESTRICTED_ENVS          POSIX_V6_LP64_OFF64
+V7_ENV                              POSIXLY_CORRECT=1
+V6_ENV                              POSIXLY_CORRECT=1
+LFS_CFLAGS
+LFS_LDFLAGS
+LFS_LIBS
+LFS_LINTFLAGS
+_POSIX_AIO_LISTIO_MAX               2
+_POSIX_AIO_MAX                      1
+_POSIX_ARG_MAX                      4096
+_POSIX_CHILD_MAX                    25
+_POSIX_CLOCKRES_MIN                 20000000
+_POSIX_DELAYTIMER_MAX               32
+_POSIX_HOST_NAME_MAX                255
+_POSIX_LINK_MAX                     8
+_POSIX_LOGIN_NAME_MAX               9
+_POSIX_MAX_CANON                    255
+_POSIX_MAX_INPUT                    255
+_POSIX_MQ_OPEN_MAX                  8
+_POSIX_MQ_PRIO_MAX                  32
+_POSIX_NAME_MAX                     14
+_POSIX_NGROUPS_MAX                  8
+_POSIX_OPEN_MAX                     20
+_POSIX_PATH_MAX                     256
+_POSIX_PIPE_BUF                     512
+_POSIX_RE_DUP_MAX                   255
+_POSIX_RTSIG_MAX                    8
+_POSIX_SEM_NSEMS_MAX                256
+_POSIX_SEM_VALUE_MAX                32767
+_POSIX_SIGQUEUE_MAX                 32
+_POSIX_SSIZE_MAX                    32767
+_POSIX_SS_REPL_MAX                  4
+_POSIX_STREAM_MAX                   8
+_POSIX_SYMLINK_MAX                  255
+_POSIX_SYMLOOP_MAX                  8
+_POSIX_THREAD_DESTRUCTOR_ITERATIONS 4
+_POSIX_THREAD_KEYS_MAX              128
+_POSIX_THREAD_THREADS_MAX           64
+_POSIX_TIMER_MAX                    32
+_POSIX_TRACE_EVENT_NAME_MAX         30
+_POSIX_TRACE_NAME_MAX               8
+_POSIX_TRACE_SYS_MAX                8
+_POSIX_TRACE_USER_EVENT_MAX         32
+_POSIX_TTY_NAME_MAX                 9
+_POSIX_TZNAME_MAX                   6
+_POSIX2_BC_BASE_MAX                 99
+_POSIX2_BC_DIM_MAX                  2048
+_POSIX2_BC_SCALE_MAX                99
+_POSIX2_BC_STRING_MAX               1000
+_POSIX2_COLL_WEIGHTS_MAX            2
+_POSIX2_EXPR_NEXT_MAX               32
+_POSIX2_LINE_MAX                    2048
+_POSIX2_RE_DUP_MAX                  255
+_XOPEN_IOV_MAX                      16
+_XOPEN_NAME_MAX                     255
+_XOPEN_PATH_MAX                     1024
+CHAR_BIT                            8
+CHAR_MAX                            127
+CHAR_MIN                            -128
+INT_MAX                             2147483647
+INT_MIN                             -2147483648
+LLONG_MIN                           -9223372036854775808
+LLONG_MAX                           9223372036854775807
+LONG_BIT                            64
+LONG_MAX                            9223372036854775807
+LONG_MIN                            -9223372036854775808
+MB_LEN_MAX                          8
+SCHAR_MAX                           127
+SCHAR_MIN                           -128
+SHRT_MAX                            32767
+SHRT_MIN                            -32768
+SSIZE_MAX                           9223372036854775807
+UCHAR_MAX                           255
+UINT_MAX                            4294967295
+ULLONG_MAX                          -1
+ULONG_MAX                           -1
+USHRT_MAX                           65535
+WORD_BIT                            32
+NL_ARGMAX                           9
+ML_LANGMAX                          14
+NL_MSGMAX                           32767
+NL_SETMAX                           255
+NL_TEXTMAX                          2048
+NZERO                               20
+POSIX2_BC_BASE_MAX                  99
+POSIX2_BC_DIM_MAX                   2048
+POSIX2_BC_SCALE_MAX                 99
+POSIX2_BC_STRING_MAX                1000
+POSIX2_COLL_WEIGHTS_MAX             2
+POSIX2_EXPR_NEXT_MAX                32
+POSIX2_LINE_MAX                     2048
+POSIX2_RE_DUP_MAX                   255
+AIO_LISTIO_MAX                      32
+AIO_MAX                             8
+AIO_PRIO_DELTA_MAX                  0
+ARG_MAX
+ATEXIT_MAX                          32
+BC_BASE_MAX                         99
+BC_DIM_MAX                          2048
+BC_SCALE_MAX                        99
+BC_STRING_MAX                       1000
+CHILD_MAX                           256
+CLK_TCK                             1000
+COLL_WEIGHTS_MAX
+DELAYTIMER_MAX                      2147483647
+EXPR_NEST_MAX                       32
+GETGR_R_SIZE_MAX                    16384
+GETPW_R_SIZE_MAX                    16384
+HOST_NAME_MAX                       255
+IOV_MAX                             1024
+LINE_MAX                            2048
+LOGIN_NAME_MAX                      256
+MQ_OPEN_MAX                         256
+MQ_PRIO_MAX                         2147483647
+NGROUPS_MAX                         1024
+OPEN_MAX                            3200
+PAGE_SIZE                           65536
+PAGESIZE                            65536
+PTHREAD_DESTRUCTOR_ITERATIONS       4
+PTHREAD_KEYS_MAX                    1024
+PTHREAD_STACK_MIN                   65536
+PTHREAD_THREADS_MAX
+RE_DUP_MAX                          255
+RTSIG_MAX                           33
+SEM_NSEMS_MAX
+SEM_VALUE_MAX                       1147483648
+SIGQUEUE_MAX                        32
+STREAM_MAX                          20
+SYMLOOP_MAX                         10
+TIMER_MAX                           32
+TTY_NAME_MAX                        32
+TZNAME_MAX
+_POSIX_ADVISORY_INFO                200809
+_POSIX_ASYNCHRONOUS_IO              200809
+_POSIX_BARRIERS                     200809
+_POSIX_CLOCK_SELECTION              200809
+_POSIX_CPUTIME                      200809
+_POSIX_FSYNC                        200809
+_POSIX_IPV6                         200809
+_POSIX_JOB_CONTROL                  1
+_POSIX_MAPPED_FILES                 200809
+_POSIX_MEMLOCK
+_POSIX_MEMLOCK_RANGE                200809
+_POSIX_MEMORY_PROTECTION            200809
+_POSIX_MESSAGE_PASSING              200809
+_POSIX_MONOTONIC_CLOCK              200809
+_POSIX_PRIORITIZED_IO
+_POSIX_PRIORITY_SCHEDULING          200809
+_POSIX_RAW_SOCKETS                  200809
+_POSIX_READER_WRITER_LOCKS          200809
+_POSIX_REALTIME_SIGNALS             200809
+_POSIX_REGEXP                       1
+_POSIX_SAVED_IDS                    1
+_POSIX_SEMAPHORES                   200809
+_POSIX_SHARED_MEMORY_OBJECTS        200809
+_POSIX_SHELL                        1
+_POSIX_SPAWN                        200809
+_POSIX_SPIN_LOCKS                   200809
+_POSIX_SPORADIC_SERVER
+_POSIX_SS_REPL_MAX
+_POSIX_SYNCHRONIZED_IO              200809
+_POSIX_THREAD_ATTR_STACKADDR        200809
+_POSIX_THREAD_ATTR_STACKSIZE        200809
+_POSIX_THREAD_CPUTIME               200809
+_POSIX_THREAD_PRIO_INHERIT
+_POSIX_THREAD_PRIO_PROTECT
+_POSIX_THREAD_PRIORITY_SCHEDULING   200809
+_POSIX_THREAD_PROCESS_SHARED        200809
+_POSIX_THREAD_ROBUST_PRIO_INHERIT
+_POSIX_THREAD_ROBUST_PRIO_PROTECT
+_POSIX_THREAD_SAFE_FUNCTIONS        200809
+_POSIX_THREAD_SPORADIC_SERVER
+_POSIX_THREADS                      200809
+_POSIX_TIMEOUTS                     200809
+_POSIX_TIMERS                       200809
+_POSIX_TRACE
+_POSIX_TRACE_EVENT_FILTER
+_POSIX_TRACE_EVENT_NAME_MAX
+_POSIX_TRACE_INHERIT
+_POSIX_TRACE_LOG
+_POSIX_TRACE_NAME_MAX
+_POSIX_TRACE_SYS_MAX
+_POSIX_TRACE_USER_EVENT_MAX
+_POSIX_TYPED_MEMORY_OBJECTS
+_POSIX_VERSION                      200809
+_POSIX_V7_ILP32_OFF32
+_POSIX_V7_ILP32_OFFBIG
+_POSIX_V7_LP64_OFF64                1
+_POSIX_V7_LPBIG_OFFBIG              1
+_POSIX_V6_ILP32_OFF32
+_POSIX_V6_ILP32_OFFBIG
+_POSIX_V6_LP64_OFF64                1
+_POSIX_V6_LPBIG_OFFBIG              1
+_POSIX2_C_BIND                      200809
+_POSIX2_C_DEV                       200809
+_POSIX2_CHAR_TERM                   200809
+_POSIX2_FORT_DEV
+_POSIX2_FORT_RUN
+_POSIX2_LOCALEDEF
+_POSIX2_PBS
+_POSIX2_PBS_ACCOUNTING
+_POSIX2_PBS_CHECKPOINT
+_POSIX2_PBS_LOCATE
+_POSIX2_PBS_MESSAGE
+_POSIX2_PBS_TRACK
+_POSIX2_SW_DEV                      200809
+_POSIX2_UPE                         200809
+_POSIX2_VERSION                     200809
+_XBS5_ILP32_OFF32
+_XBS5_ILP32_OFFBIG
+_XBS5_LP64_OFF64                    1
+_XBS5_LPBIG_OFFBIG                  1
+_XOPEN_CRYPT                        1
+_XOPEN_ENH_I18N                     1
+_XOPEN_LEGACY
+_XOPEN_REALTIME
+_XOPEN_REALTIME_THREADS
+_XOPEN_SHM                          1
+_XOPEN_STREAMS
+_XOPEN_UNIX
+_XOPEN_UUCP
+_XOPEN_VERSION                      700
+POSIX2_C_BIND                       200809
+POSIX2_C_DEV                        200809
+POSIX2_CHAR_TERM                    200809
+POSIX2_FORT_DEV
+POSIX2_FORT_RUN
+POSIX2_LOCALEDEF
+POSIX2_PBS
+POSIX2_PBS_ACCOUNTING
+POSIX2_PBS_CHECKPOINT
+POSIX2_PBS_LOCATE
+POSIX2_PBS_MESSAGE
+POSIX2_PBS_TRACK
+POSIX2_SW_DEV                       200809
+POSIX2_UPE                          200809
+POSIX2_VERSION                      200809
+LEVEL1_ICACHE_SIZE                  32768
+LEVEL1_ICACHE_ASSOC                 8
+LEVEL1_ICACHE_LINESIZE              64
+LEVEL1_DCACHE_SIZE                  49152
+LEVEL1_DCACHE_ASSOC                 12
+LEVEL1_DCACHE_LINESIZE              64
+LEVEL2_CACHE_SIZE                   524288
+LEVEL2_CACHE_ASSOC                  8
+LEVEL2_CACHE_LINESIZE               64
+LEVEL3_CACHE_SIZE                   16777216
+LEVEL3_CACHE_ASSOC                  16
+LEVEL3_CACHE_LINESIZE               64
+LEVEL4_CACHE_SIZE                   0
+LEVEL4_CACHE_ASSOC                  0
+LEVEL4_CACHE_LINESIZE               0
+_NPROCESSORS_CONF                   16
+_NPROCESSORS_ONLN                   16
+_AVPHYS_PAGES                       86502
+_PHYS_PAGES                         257681
+"""
+ 2535  2025-07-28 15:34:25 vim ~/majstaf/metsys/
+ 2536  2025-07-28 15:34:55 vim ~/majstaf/metsys/how-to-get-L1-L3-cash-and-csah-line-sizes-20250728.txt
+ 2537  2025-07-28 15:35:24 history
+ 2538  2025-07-28 15:35:53 getconf LEVEL1_DCACHE_LINESIZEgetconf LEVEL1_DCACHE_LINESIZE
+ 2539  2025-07-28 15:35:57 getconf LEVEL1_DCACHE_LINESIZE
+ 2540  2025-07-28 15:36:09 vim ~/majstaf/metsys/how-to-get-L1-L3-cash-and-csah-line-sizes-20250728.txt
+ 2541  2025-07-28 15:36:49 cpi ~/majstaf/metsys/how-to-get-L1-L3-cash-and-csah-line-sizes-20250728.txt $EMSYS 
+ 2542  2025-07-28 15:36:52 cd $EMSYS
+ 2543  2025-07-28 15:36:56 gyes-add-commit-push 
+ 2544  2025-07-28 15:37:09 cpi ~/majstaf/metsys/how-to-get-L1-L3-cash-and-csah-line-sizes-20250728.txt $EPRNS 
+ 2545  2025-07-28 15:37:21 cd $EPRNS
+ 2546  2025-07-28 15:37:26 gyes-add-commit-push 
+ 2547  2025-07-28 15:37:33 cd
+ 2548  2025-07-28 15:37:35 danes
+ 2549  2025-07-28 15:37:39 danes-check
+ 2550  2025-07-28 15:50:57 history | grep vim
+ 2551  2025-07-28 15:51:17 history | grep vim | cut -b20-
+ 2552  2025-07-28 15:51:24 history | grep vim | cut -b29-
+ 2553  2025-07-28 15:51:28 history | grep vim | cut -b28-
+ 2554  2025-07-28 15:51:44 history | grep vim | cut -b28- | sort | unig
+ 2555  2025-07-28 15:51:47 history | grep vim | cut -b28- | sort | uniq
+ 2556  2025-07-28 15:52:06 history | grep vim | cut -b28- | sort | uniq | grep 'txt'
+ 2557  2025-07-28 15:52:24 cd
+ 2558  2025-07-28 15:52:57 find --newermt "20250727" -name "*\.txt"
+ 2559  2025-07-28 15:53:07 find -newermt "20250727" -name "*\.txt"
+ 2560  2025-07-28 15:53:32 find -newermt "20250727" -name "*\.txt" | fzf -m
+ 2561  2025-07-28 15:53:42 find -newermt "20250727" -name "*\.txt" | fzf -m --reverse
+ 2562  2025-07-28 15:54:02 find -newermt "20250727" -name "*\.txt" | fzf -m --reverse | xargs -ro vim
+ 2563  2025-07-28 15:54:31 hstl

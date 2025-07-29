@@ -1,0 +1,1962 @@
+
+$ ./munch
+$ ./munch 400
+$ dd if=/dev/zero of=bigfile bs=1M count=200
+$ ffmpeg -i input.vob -f avi -vcodec mpeg4 -b 800k -g 300 -bf 2 -acodec libmp3lame -ab 128k output.avi
+$ free -m
+$ gcc munch.c -o munch
+$ ls -lh bigfile
+$ sudo apt-get update
+$ sudo swapoff -a
+$(($(cat python_for-digital-artists-multif_20170220.txt | wc -l)/80)
+$(($(cat python_for-digital-artists-multif_20170220.txt | wc -l)/80))
+$(($(du /d/Downloaded-ISO-s/ultimate-edition-5.0-x64-lite-mate.iso | awk '{print $1}')/$(du /c/Users/gregor.redelonghi/Downloads/ultimate-edition-5.0-x64-lite-mate.iso | awk '{print $1}')
+$((1435/80))
+$((20150323+1))
+$((2705/80))
+$((379/80))
+$((500/1000))
+$(du /d/Downloaded-ISO-s/ultimate-edition-5.0-x64-lite-mate.iso | awk '{print $1}'
+$(find -iname "* *" -print0 | xargs -0 -I {} echo {}
+$(find -iname "* *" -print0 | xargs -0 -I {} echo {} )
+$(ps -W | grep -i dropbox) | wc -l
+$> dirname $(realpath xrandr_set-videomode-with-xrandr.txt)
+$> echo Gregor Redelonghi | rev
+$> find -type f -newermt 2013-01-01 ! -newermt 2013-12-31 | sed 's|./||' | nl
+$> gregor.redelonghi@cygwin-en [/home/gregor.redelonghi/_DOWNLOADS]
+$> gregor.redelonghi@cygwin-en [/home/gregor.redelonghi]
+$> mkdir -p ~/.vim/autoload ~/.vim/bundle && curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+$> vim ~/.vimrc # add just above colorscheme ...
+. ./barve 
+. ./centralna.conf
+. ./gd.sh
+. .BASHRC
+. .bashrx
+. .screen
+. .screen-lyt-1
+. .screenrc
+. bin/gd-src.sh metsys_en
+. bin/gd.sh MET*
+. bin/gd.sh metsys_en/
+. gd-src.sh MET
+. gd-src.sh MET*
+. gd-src.sh metsys_en
+. gd-src.sh metsys_en/
+... read oters code to learn python fast ...
+../METSYS/rsync-backups_20160119.sh | yes
+./09052016_test.py 
+./Subsurface-4.5.1.1289-x86_64.AppImage
+./apihelper.py 
+./argnum.exe
+./argnum.exe 5
+./argnum.exe 5 4 3 2 1
+./beri.py 
+./check.py
+./check.py 
+./cmatrix-1.2a/configure 
+./config
+./configure 
+./cygwin_20141216_setup-x86_64.exe -q -P cron-4.1-62
+./dict-test.py 
+./even.py
+./fib.py 
+./fib1.exe
+./fibonacci_0-42.exe
+./find-duplicatef-01.sh
+./find-duplicatef-01.sh > ~/_brisi/dupes.txt
+./find-duplicatef-01.sh | ls -l
+./find-file-by-word.sh 
+./fnd_python_files_by_time.sh /c/Users/gregor.redelonghi/Dropbox/
+./gd-src.sh MET*
+./gd.sh MET
+./gd.sh MET*
+./html2text.py "http://www.doc2prn.com/"
+./html2text.py "http://www.printhtml.com/"
+./html2text.py --version
+./html2text.py -h
+./inf.exe
+./izklop.sh
+./lastdisp-over1G.sh
+./lynx-multi-dump_fromlist-en_20141218.sh
+./lynx-multi-dump_fromlist-en_20141218.sh 
+./mplayer.exe
+./mplayer.exe $(cygpath -w "/c/Users/gregor.redelonghi/Downloads/Mark_DP-MTP_2015/FHD0480.MOV")
+./mplayer.exe /c/Users/gregor.redelonghi/Downloads/Mark_DP-MTP_2015/FHD0480.MOV
+./mymath.py
+./padec.py 
+./padec.sh
+./path
+./path.py 
+./path2.py 
+./pointers-test.exe
+./preglej.barve 
+./printline.exe
+./replace-passwd-in-send-mail-scripts.onl
+./result.py 
+./rsync-backups_20151202.sh
+./rsync-backups_EXT-usb32gb-KEY_20170116.sh 
+./sendhome1list.sh "http://google.TEST.si"
+./sendhome2filelist.sh 
+./sendp3-1-lnk_en__TEST__.py 
+./sendp3-single-ln_en.py 
+./sendp3-single-lnk_en.py http://www.makeuseof.com/tag/how-to-add-subtitles-to-a-movie-or-television-series
+./sendp3-single-lnk_en.py http://www.makeuseof.com/tag/how-to-add-subtitles-to-a-movie.html
+./sendp3mymail-en.py 
+./sendp3mymail_en.py 
+./sendp3sl-en.py 
+./sendp3sl-en.py "HH" "
+./sendpy3sl-en.py "ARGPARSE" "http://stackoverflow.com/questions/30944976/argparse-requiring-either-2-values-or-none-for-an-optional-argument
+./sendpy3sl-en.py "SUBJEECT 113" "Coming home,
+./sendpy3sl-en.py "SUBJEECT 114" "Coming home,
+./sendpy3sl-en.py "Using Python to Send Email" "http://www.pythonforbeginners.com/code-snippets-source-code/using-python-to-send-email"
+./sendpy3sl-en.py "argparse  requiring either 2 values or none for an optional argument" "http://stackoverflow.com/questions/30944976/argparse-requiring-either-2-values-or-none-for-an-optional-argument
+./sendpy3sl-en.py -h
+./sendpy3sl-en.py TEST14 "
+./sendpy3sl-en.py TEST15
+./sendpy3sl-en.py TEST16 "
+./sendpysl-en-2.py "TEST 10" "Veliko
+./sendpysl-en-2.py "TEST 11" "Veliko
+./sendpysl-en-2.py "TEST 12" "Veliko
+./sendpysl-en-2.py "TEST 13" "Veliko
+./string--list--1
+./string--list--1-char.py 
+./string--list--2-chars.py 
+./test-1.py 
+./test-2.py 
+./test.py 
+./test.py  5 6 8
+./unrar.exe
+./w-todotoday.sh
+./weightconv-ia.exe
+./weightconv-uia.exe
+./weightconv-uia.exe 20
+./weightconv.exe
+./xcol_bash.sh 
+./youtube-dl.exe
+./youtube-dl.exe -F "https://www.youtube.com/watch?v=q4P4BjjXghQ"
+./zza.sh 
+./zzl.sh
+./zzl.sh 
+.vim - Manage your 'runtimepath' with ease. In practical terms, pathogen.vim
+//g' | sort | uniq -c
+//g' | sort | uniq -c | grep -v sh1
+//g' | sort | uniq -c | grep -v sh1 | less
+//g' | sort | uniq -u
+//g' | sort | uniq -u"
+/bin/at
+/c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/bin/Dropbox.exe --help
+/c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/bin/Dropbox.exe status
+/c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT
+/c/Users/gregor.redelonghi/mypodloge/from-d-to-en_20141216/cygwin_20141216_setup-x86_64.exe
+/pypi.python.org/pypi/chardet]:
+/seznami/_samostojni-URL-naslovi_20160530.txt
+/usr/local/bin/unrar/unrar.exe
+7Z l 
+7z -e 2-PDF.7z 
+7z -u TESTNA1.7z -w ./BRISI-ME/
+7z -u TESTNA1.7z -w./BRISI-ME/
+7z -u TESTNA1.7z -wBRISI-ME/
+7z a TESTNA.7z *.awk
+7z a TESTNA.7z *.html *.img *.png _*
+7z a TESTNA.7z *.sh
+7z a TESTNA.7z *.txt
+7z a TESTNA.7z ./*
+7z a TESTNA.7z ASCII.sh 
+7z a TESTNA.7z NNN.txt 
+7z d TESTNA1.7z TESTNA1.7z 
+7z d TESTNA1.7z TTEESSTT.txt 
+7z e 2-PDF.7z 
+7z e New-Fonts_20170118/fonts.7z fonts/README.txt
+7z e TESTNA.7z 
+7z e TESTNA1.7z 
+7z e TESTNA1.7z -o BRISI-ME/
+7z e TESTNA1.7z -oBRISI-ME/
+7z e linuxaio-ubuntu14042-amd64.7z.001
+7z l 2-PDF.7z 
+7z l New-Fonts_20170118/fonts.7z 
+7z l New-Fonts_20170118/fonts.7z  | grep -i txt
+7z l TESTNA.7z 
+7z l TESTNA1.7z 
+7z t TESTNA.7z 
+7z t TESTNA1.7z 
+7z u TESTNA.7z 
+7z u TESTNA1.7z 
+7z u TESTNA1.7z -w./BRISI-ME/
+7zip
+A=4; B=2; if [ $((A%B)) != 0 ]; the echo "nums are integers"; fi
+A=4; B=2; if [ $((A%B)) != 0 ]; then echo "nums are integers" fi
+A=4; B=2; if [ $((A%B)) != 0 ]; then echo "nums are integers"; fi
+A=4; B=2; if [ $((A%B)) == 0 ]; then echo "nums are integers" fi
+A=4; B=2; if [ $((A%B)) == 0 ]; then echo "nums are integers"; else echo "NUMS ARE NNOOTT integers"; fi
+A=4; B=2; if [ $((A%B)) == 0 ]; then echo "nums are integers"; fi
+A=4; B=3; if [ $((A%B)) == 0 ]; then echo "nums are integers"; else echo "NUMS ARE NNOOTT integers"; fi
+AARG='"*naro*il*'
+AARG='*naro*il*'
+AARG='naro*il*'
+ADDR='\[[[:digit:]]\{1,\}\]'; PATT=$ADDR; FJL="boot-1604_20170302.txt"; sed -n "/${ADDR}/s/${PATT}//gp" $FJL
+ADDR='\[[[:digit:]]\{1,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL | grep -E "\[.{1,3}\]"
+ADDR='\[[[:digit:]]\{1,\}\]'; PATT=ADDR; FJL= boot-1604_20170302.txt; sed -n "/${ADDR}/p"
+ADDR='\[[[:digit:]]\{1,\}\]'; PATT=ADDR; FJL= boot-1604_20170302.txt; sed -n "/${ADDR}/p" $FJL
+ADDR='\[[[:digit:]]\{1,\}\]'; PATT=ADDR; FJL="boot-1604_20170302.txt"; sed -n "/${ADDR}/ s/${PATT}//gp" $FJL
+ADDR='\[[[:digit:]]\{1,\}\]'; PATT=ADDR; FJL="boot-1604_20170302.txt"; sed -n "/${ADDR}/p" $FJL
+ADDR='\[[[:digit:]]\{1\}\]'; PATT=$ADDR; sed -i "/${ADDR}/s/${PATT}//g" $FJL
+ADDR='\[[[:digit:]]\{1}\]'; PATT=$ADDR; sed -i "/${ADDR}/s/${PATT}//g" $FJL
+ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -i "/${ADDR}/s/${PATT}//g" $FJL
+ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL
+ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL | grep -E "\[.{0,3}\]"
+ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL | grep -E "\[.{1,3}\]"
+ECHO "diff-tutorial" | putclip
+ECHO $((2705/80))
+ECHO 'https:\/\/scontent-frt3-1.cdninstagram.com\/hphotos-xpf1\/t51.2885-15\/e35\/12534487_970477116366611_1393507343_n.jpg' | sed 's/\//g'
+ECHO 'https:\/\/scontent-frt3-1.cdninstagram.com\/hphotos-xpf1\/t51.2885-15\/e35\/12534487_970477116366611_1393507343_n.jpg' | sed 's:\::'
+ECHO 'https:\/\/scontent-frt3-1.cdninstagram.com\/hphotos-xpf1\/t51.2885-15\/e35\/12534487_970477116366611_1393507343_n.jpg' | sed 's:\::g'
+EKSP='_lynx-multi' for FFF in $(grep -l $EKSP ./*); do grep $EKSP $FFF; done
+EKSP='_lynx-multi'; for FFF in $(grep -l $EKSP ./*); do grep $EKSP $FFF; done
+F1=~/_brisi/insrt-2.txt;  w3m_d "https://www.raspberrypi.org/documentation/remote-access/ssh/sshfs.md" > $F1
+F1=~/_brisi/insrt-2.txt; URL1="https://www.raspberrypi.org/documentation/remote-access/ssh/sshfs.md"; echo "$URL1" >> $F1 && w3m_d "$URL1" >> $F1
+F=send.config.en.py 
+FFF in $(find $PWD -name "*.onl.txt"); do echo -e "---\nfilename: $FFF\ncontents:\n" >> $gr_O; cat $FFF >> $gr_O; echo -e "\n\n\n" >> $gr_O; done
+FFF=".tmp/sendhomelist_20151130.txt"; sndf $FFF && mv ${FFF}{,.sent.20151208.1105}
+FILE Absolute path to FILE
+FJL.keys() python
+FJL="encoding_video_notes_on_20170303.txt"
+FJL="grub-parameters-multyf_20150909.txt"; fmt --width=110 -s "$FJL" >> "$FJL"
+FJL="ibm-com_hard-disk-layout_20150817.txt"; fmt --width=110 -s "$FJL" >> "$FJL"
+FJL="imagemagick_how-to-quickly-resize-convert-modify-images_20150922.txt"; fmt --width=110 -s "$FJL" >> "$FJL"
+FJL="ip_replacing-ifconfig-with-ip_20150817.txt"; fmt --width=110 -s "$FJL" >> "$FJL"
+FJL="mencoder_archlinux-wiki_20170303.txt" && ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -i "/${ADDR}/s/${PATT}//g" $FJL
+FJL="mencoder_archlinux-wiki_20170303.txt" && ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL
+FJL="mencoder_archlinux-wiki_20170303.txt" && ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL | grep -E "[\d]"
+FJL="mencoder_archlinux-wiki_20170303.txt" && ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL | grep -E "\[.*\]"
+FJL="mencoder_archlinux-wiki_20170303.txt" && ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL | grep -E "\[..\]"
+FJL="mencoder_archlinux-wiki_20170303.txt" && ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL | grep -E "\[.{1,3}\]"
+FJL="mencoder_archlinux-wiki_20170303.txt" && ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/p" $FJL | grep -E "\[\d\]"
+FJL="mencoder_archlinux-wiki_20170303.txt" && ADDR='\[[[:digit:]]\{2,\}\]'; PATT=$ADDR; sed -n "/${ADDR}/s/${PATT}//gp" $FJL
+FJL="nomodeset-grub-parameter-settings_20150908.txt"; fmt --width=110 -s "$FJL" >> "$FJL"
+FJL="ubuntu_14-10_on-USB-persistant_20150914.txt"; fmt --width=110 -s "$FJL" >> "$FJL"
+FJL="x-first-aid-kit-for-linux_20150911.txt"; fmt --width=110 -s "$FJL" >> "$FJL"
+FJL=check-out-weblinks_20150402.txt; for FFF in $(ls -1 sendHomeList_20150*); do echo -e "\n" >> $FJL; cat $FFF >> $FJL; done
+FJL=check-out-weblinks_20150402.txt; for FFF in $(ls -1 sendHomeList_20150*); do echo >> $FJL; cat $FFF >> $FJL; done
+FJLH="$(ls -1 check-out-weblinks_*.htm)"; if [ -e $FJLH ]; then echo "$FJLH exists"; else echo "There is no html file"; fi
+FJLH="$(ls -1 check-out-weblinks_*.htm)"; if [ -f $FJLH ]; then echo "$FJLH exists"; else echo "There is no html file"; fi
+FJLH="$(ls -1 check-out-weblinks_*.html)"; if [ -e $FJLH ]; then echo "$FJLH exists"; else echo "There is no html file"; fi
+FJLH="$(ls -1 check-out-weblinks_*.html)"; if [ -e $FJLH ]; then echo "$FJLH exists"; exit ;fi; echo "NO such file:"
+FJLH="$(ls -1 check-out-weblinks_*.html)"; if [ -f $FJLH ]; then echo "$FJLH exists"; else echo "There is no html file"; fi
+FJLH="$(ls -1 check-out-weblinks_/.html)"; if [ -f $FJLH ]; then echo "$FJLH exists"; else echo "There is no html file"; fi
+FS='\t\n'
+GR=~/_brisi/SPLIT.txt; touch $GR; for FFF in $(find -name "*split*"); do echo -e "---\n" >> $GR; echo -e "$FFF\n============================================\n" >> $GR; cat $FFF >>$GR; done
+GRSYNC!!
+GR_CURD="20150402"; sed '/http/!s:$:<br>:' $DOMA/seznami/check-out-weblinks_${GR_CURD}.txt > $DOMA/seznami/check-out-weblinks_${GR_CURD}.txt.in
+GR_CURD="20150402"; sed '/http/s:http.*$:<a href="&">&</a><br>:' $DOMA/seznami/check-out-weblinks_${GR_CURD}.txt.in > $DOMA/seznami/check-out-weblinks_${GR_CURD}.html
+GR_CURD="20150403"; sed '/http/!s:$:<br>:' $DOMA/seznami/check-out-weblinks_${GR_CURD}.txt > $DOMA/seznami/check-out-weblinks_${GR_CURD}.txt.in
+GR_DJT=$(date +%Y%m%d); cat <<EOF | msg gregor.redelonghi
+GR_FJL="$HOME/DANES.txt"; touch ${GR_FJL}; for FFF in $(find -iname "*print*" -a -iname "*scan*"); do echo -e "\n\n---\n$FFF" >> ${GR_FJL}; cat $FFF >> ${GR_FJL}; done
+GR_FJL="~/DANES.txt"; touch ${GR_FJL}; for FFF in $(find -iname "*print*" -a -iname "*scan*"); do echo -e "\n\n---\n$FFF" >> ${GR_FJL}; cat $FFF >> ${GR_FJL}; done
+GR_FJL="~/DANES.txt; touch ${GR_FJL}; for FFF in $(find -iname "*print*" -a -iname "*scan*"); do echo -e "\n\n---\n$FFF" >> ${GR_FJL}; cat $FFF >> ${GR_FJL}; done
+I=1; ls | while read _LINE; do echo "$I - $_LINE"; let I=I+1; done
+I=1; ls | while read _LINE; do echo "line: $I = $_LINE"; let I=I+1; done
+I=1; ls | while read _LINE; do echo "line: $I: $_LINE"; let I=I+1; done
+IFS= ;for FFF in $(ls -1); do echo "$FFF"; read -p "Continue?"; done
+IFS=$'\n'
+IFS=$_OLDIFS
+IFS='\n'
+IFS='\n';for FFF in "$(ls -1)"; do echo "$FFF"; read -p "Continue?"; done
+IFS='\n';for FFF in $(ls -1); do echo "$FFF"; read -p "Continue?"; done
+LESS "/c/Users/gregor.redelonghi/myprogs/cygwin64/home/gregor.redelonghi/bin/oneliners-en/youtube_dl_oneliners.onl.txt"
+METSYS/redate-the-bekap-folders.sh
+NM=backup; find -iname "*[-_]${NM}[-_]*"
+NM=ppa; find -iname "*[-_]${NM}[-_]*"
+NM=rsync; find -iname "*[-_]${NM}[-_]*"
+NM=tmpfs; find -iname "*[-_]${NM}[-_]*"
+ROBOCOPY c:\Users\gregor.redelonghi\2017\P-2645_XXXXX_MEDEX-NN\ "h:\TEST\" /MIR
+ROBOCOPY c:\Users\gregor.redelonghi\2017\P-2645_XXXXX_MEDEX-NN\ h:\TEST\ /MIR
+ROBOCOPY c:\Users\gregor.redelonghi\2017\P-2645_XXXXX_MEDEX-NN\ h:\\TEST\ /MIR
+RSYNC_BACKUP-en
+URL3="https://www.howtoforge.com/mounting-remote-directories-with-sshfs-on-debian-squeeze"
+XCOPY /?
+[ $(date -d '12:00 +1 day' +%d) = '01' ] || exit
+[ $(date -d '12:00 today +1 day' +%d) = '01' ] || exit
+[ $(date -d tomorrow +%d) = '01' ] || exit
+\ls -F
+\ls -l
+\ls -l *.txt
+\ls -l /c/Users/gregor.redelonghi/Downloads/ultimate-edition-5.0-x64-lite-mate.iso
+_NAME=bic; find -iname "${_NAME}*jpg" -o -iname "*${_NAME}*gif"
+_NAME=blue; find -iname "${_NAME}*jpg" -o -iname "*${_NAME}*gif"
+_NAME=part find -iname "${_NAME}*jpg" -o -iname "*${_NAME}*gif"
+_NAME=part; find -iname "${_NAME}*jpg" -o -iname "*${_NAME}*gif"
+_NAME=tech; find -iname "${_NAME}*jpg" -o -iname "*${_NAME}*gif"
+_NAME=twi; find -iname "${_NAME}*"
+_NAME=twi; find -type d -iname "${_NAME}*"
+_OLDIFS=$IFS
+_brisi
+_rv='\e[7m'
+alias > ./aliases-en_20160224.txt && less ./aliases-en_20160224.txt
+alias >> aliases-en_20170105.txt
+alias kateof='cat <<EOF | ~/bin/snd.mm.hm.sh'
+alias | grep 'l.*s'
+alias | grep 'l[ l].*s'
+alias | grep -i ifs
+alias | grep -i rsync
+alias | grep beka
+alias | grep cp
+alias | grep dbo
+alias | grep if
+alias | grep ifs
+alias | grep ls
+alias | grep rsync
+alias | grep sl
+alias | grep w
+alias | grep ydd
+alias | grep zze
+alias | less
+alias | sed 's/alias //'
+alias | sed 's/alias //'| sed 's/=/\t/'
+alias | sed 's/alias //'| sed 's/=/\t\t/'
+alias | sed 's/alias //'| tr '=' '\t'
+alias | sort -f | less
+alias | sort -k2
+alias | sort | less
+alias | tee ./aliases-en_20160621.txt
+at
+at /?
+at 2o?
+at now + 1 minutes clear && echo "HEAYAAcd"
+avconv -i FILE.mp4" -f dvd -c:v:0 mpeg2video -s 720x576 -r 25 -g 15 -b:v:0 8000000 -maxrate:v:0 8000000 -minrate:v:0 8000000 -bufsize:v:0 1835008 -packetsize 2048 -muxrate 10080000 -b:a 192000 -ar 48000 -c:a:0 ac3 -map 0:v -map 0:a FILE.mpeg
+awk '// {print}'
+awk '// {print}' sadje.txt
+awk '/[2-9]./ {print $0 "*"; } /[0-1]./ {print ;}' sadje.txt
+awk '/[2-9]./ {print $0 "*"; } /[0-1]\./ {print ;}' sadje.txt
+awk '/[2-9]\./ {print $0 "*"; } /[0-1]\./ {print ;}' sadje.txt
+awk '/[MmHh]/ {print}' sadje.txt
+awk '/[MmJjHh]/ {print}' sadje.txt
+awk '/[MmJj]/ {print}' sadje.txt
+awk '/[Mm]/ {print}' sadje.txt
+awk '/\$[2-9]./ {print $0 "*"; } /\$[0-1]./ {print ;}' sadje.txt
+awk '/\$[2-9]./ {print $0 "*"} /\$[0-1]./ {print ;}' sadje.txt
+awk '/\$[2-9]./ {print $0 "*"} /\$[0-1]./ {print}' sadje.txt
+awk '/\$[2-9]./ {print $0 "*"} /\$[1-2]./ {print}' sadje.txt
+awk '/\$[2-9]./ {print $0 "*"}' sadje.txt
+awk '/\$[2-9]./ {print $0 "*"}, /\$[1-2]./ {print}' sadje.txt
+awk '/\$[2-9]./ {print0 "*"}' sadje.txt
+awk '/\$[2-9]./ {print}' sadje.txt
+awk '/gregor/ FS=":" {print $1, $2}' /etc/passwd
+awk '/gregor/ {FS ":" print}' /etc/passwd
+awk '/gregor/ {FS':' print}' /etc/passwd
+awk '/gregor/ {FS=":" print}' /etc/passwd
+awk '/gregor/ {FS=":", print}' /etc/passwd
+awk '/gregor/ {FS=":"; print $1, $2}' /etc/passwd
+awk '/gregor/ {FS=":"; print}' /etc/passwd
+awk '/gregor/ {FS=":"} {print $1, $2}' /etc/passwd
+awk '/gregor/ {FS=':' print}' /etc/passwd
+awk '/gregor/ {IFS=":" OFS=" | "; print $1, $4, $0}' /etc/passwd
+awk '/gregor/ {IFS=":", OFS=" | "; print $1, $4, $0}' /etc/passwd
+awk '/gregor/ {IFS=":"; OFS=" | "; print $1, $4, $0}' /etc/passwd
+awk '/gregor/ {IFS=":"; OFS=" | "; print $1, $4, $5}' /etc/passwd
+awk '/gregor/ {OFS=" | "; print $1, $4, $0}' /etc/passwd
+awk '/gregor/ {OFS=" | "; print $1, $4, $5}' /etc/passwd
+awk '/gregor/ {print $1, $2}' /etc/passwd
+awk 'BEGIN /1/ {print}; /[MmJj]/ {print}' sadje.txt
+awk 'BEGIN /St/ {print}'; '/[MmJj]/ {print}' sadje.txt
+awk 'BEGIN /St/ {print}; /[MmJj]/ {print}' sadje.txt
+awk 'BEGIN { FS=":"; } /gregor/ {OFS=" | "; print $1, $4, $5}' /etc/passwd
+awk 'BEGIN { FS=":"; } /gregor/ {OFS=" | "; } {print $1, $4, $5}' /etc/passwd
+awk 'BEGIN { FS=":"; } /gregor/ {OFS="\t\t|\h "; print $1, $4, $5}' /etc/passwd
+awk 'BEGIN { FS=":"; } /gregor/ {OFS="\t\t|\t\t "; print $1, $4, $5}' /etc/passwd
+awk 'BEGIN { FS=":"; } /gregor/ {OFS="\t\t|\v "; print $1, $4, $5}' /etc/passwd
+awk 'BEGIN { FS=":"; } /gregor/ {print $1, $4, $5}' /etc/passwd
+awk 'BEGIN { FS=":"; } {OFS="\t|\t "; print $1, $4, $5}' /etc/passwd
+awk 'BEGIN { FS=":"; } {print $1, $4, $5}' /etc/passwd
+awk '{$1=""; print $0}' $FJL | cut -d ' ' -f2-
+awk '{$1=""; print $0}' $FJL | cut -d ' ' -f2- > __tmp
+awk '{$1=""; print $0}' $FJL | cut -d ' ' -f2- > __tmp && mv __tmp $FJL
+awk '{$1=""; print $0}' $FJL | cut -d ' ' -f2- > __tmp2
+awk '{$1=""; print $0}' seznami/commands-history-list_by_20161202.txt | cut -d ' ' -f2- >> seznami/commands-history-list_by_20161202-2.txt
+awk -F":" '/gregor/ {OF"..."; print $1, $4, $0}' /etc/passwd
+awk -F":" '/gregor/ {OF="..."; print $1, $4, $0}' /etc/passwd
+awk -F":" '/gregor/ {OFS=" | "; print $1, $4, $5}' /etc/passwd
+awk -F":" '/gregor/ {OFS=" | "; print $1, $4,}' /etc/passwd
+awk -F":" '/gregor/ {OFS=" | "; print $1, $4}' /etc/passwd
+awk -F":" '/gregor/ {OFS=" | "; print $1, $5}' /etc/passwd
+awk -F":" '/gregor/ {print $1, $2, $0}' /etc/passwd
+awk -F":" '/gregor/ {print $1, $2}' /etc/passwd
+awk -F":" '/gregor/ {print $1, $4, $0}' /etc/passwd
+awk -F":" '{OFS="..."; print $1, $4, $0}' /etc/passwd
+awk -F":"'/gregor/ {OFS=" | "; print $1, $4, $0}' /etc/passwd
+basename $(ls -1 -d _brisi/*)
+basename $(ls -1 -d _brisi/*))"
+bash
+bash -n ddbak.sh 
+bash -v ddbak.sh 
+bash -v oneliners-en/password-update-en_20170104.onl.txt 
+bash -x ./gd.sh
+bash -x ./gd.sh MET*
+bash -x for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; let i=$i-1; done
+bash -x for i in $(wc -L < $SDJ); do echo -n "-"; let i=$i-1; done
+bash ./ASCII.sh
+bash ./ZA.za
+bash ./gd.sh
+bash ./gd.sh MET
+bash ./get-GeoIP-info.sh
+bash ./kopiraj-a0-v-risbe.sh
+bash ./padec_20141023.sh
+bash ./password-update-en_20160801.onl.txt
+bash ./podnapisi-en.sh 
+bash ./podnapisi.sh 
+bash ./progress.sh
+bash ./rsync-backups-TEST_20151202.txt
+bash ./sl.1
+bash ./sl.c
+bash ./t2rraap.sh
+bash ./test-trap-exit-loop.sh
+bash ./trraapp.sh
+bash ASCII.sh
+bash bin/fnd_python_files_by_time.sh
+bash bin/fnd_python_files_by_time.sh 
+bash bin/fnd_python_files_by_time.sh  /c/Users/gregor.redelonghi/Dr
+bash bin/fnd_python_files_by_time.sh  /c/Users/gregor.redelonghi/Dropbox/
+bash bin/fnd_python_files_by_time.sh /c/
+bash bin/fnd_python_files_by_time.sh /c/Users/
+bash bin/fnd_python_files_by_time.sh /c/Users/gregor.redelonghi/Dropbox/
+bash bin/fnd_python_files_by_time.sh gg
+bash bin/kopiraj-a0-v-risbe.sh
+bash color_show_onl.txt
+bash color_show_onl.txt 
+bash colors_show_onl.sh 
+bash gremdomov.sh
+bash grgr; echo "Exit status" $?
+bash haha.sh
+bash oneliners-en/
+bash padec.sh
+bash podnapisi-en.sh 
+bash podnapisi.sh 
+bash t2rraap.sh
+bash tests/trap-exit-loop.sh
+bash todotoday.sh
+bash trap-exit-loop.sh
+bekapd
+bin/30najvecjih.sh
+bin/PYTHON/padec.py
+bin/bckps.sh
+bin/gd.sh metsys_en
+bin/gd.sh metsys_en/
+bin/html2text.py --version
+bin/lastdisp-over1G.sh
+bin/padec.sh
+bin/qckstrt.sh
+bin/sendp3sl-en.py min-smart-web-browser-with-ad-blocking "http://www.tecmint.com/min-smart-web-browser-with-ad-blocking-linux/"
+bin/sk1
+bin/w-todotoday.sh
+bkpl
+c=$((a%b)); echo $c
+c=$((a+b)); echo $c
+c=$((a/b)); echo $c
+c=$((b%a)); echo $c
+c=$((b**a)); echo $c
+c=$((b/a)); echo $c
+c=$a+$b; echo $c
+cal > ~/_brisi/TEST.txt && cat ~/_brisi/TEST.txt
+can affect the run-time complexity of their code. Most of the time in modern programming, we use code from
+cat $(find -iname "*greate*")
+cat $(w3m_d "https://www.raspberrypi.org/documentation/remote-access/ssh/sshfs.md")
+cat $F1
+cat $F1 Rpi_sshfs-mount-ext-usb-hdd-multif_20161110.txt >> Rpi_sshfs-mount-ext-usb-hdd-multif_20161110_02.txt 
+cat $F1 Rpi_sshfs-mount-ext-usb-hdd-multif_20161110.txt | less
+cat $FJ && cat $FJ | sed '/1/a Gregec Redelonghijev \nfff'
+cat $FJ && cat $FJ | sed '/14/a Gregec Redelonghijev \nfff'
+cat $FJ && cat $FJ | sed '/16/a Gregec Redelonghijev \nfff'
+cat $FJ && cat $FJ | sed '/16/i Gregec Redelonghijev \nfff'
+cat $FJ && cat $FJ | sed '4a Gregec Redelonghijev \nfff'
+cat $FJ && cat $FJ | sed '4i Gregec Redelonghijev \n fff'
+cat $FJ && cat $FJ | sed '4i Gregec Redelonghijev \nfff'
+cat $FJ && cat $FJ | sed '4i Gregec'
+cat $FJ ;cat $FJ | sed '4i Gregec'
+cat $SDJ
+cat '' > $gr_O
+cat *.bat | less
+cat *.py
+cat *~./*
+cat -A ~/_brisi/dupes.txt
+cat -B ~/_brisi/dupes.txt
+cat -S ~/_brisi/dupes.txt
+cat -b ~/_brisi/dupes.txt
+cat -n ./FAJL-1.txt
+cat -r predpisi-stari.txt
+cat -r ~/_brisi/dupes.txt
+cat -s /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/how-to-run-an-application-at-startup-as-a-certain-user_20150515.txt
+cat -s check-out-weblinks_20150402.txt > check-out-weblinks_20150402.txt
+cat -s check-out-weblinks_20150402.txt >> check-out-weblinks_20150402-2.txt
+cat -s ~/_brisi/dupes.txt
+cat -t dnevno.html
+cat -v seznam-oneliners-with-contents_20170223-2.txt
+cat -v seznam-oneliners-with-contents_20170223-2.txt  | less
+cat -v seznam-oneliners-with-contents_20170223-2.txt | less
+cat -v seznam-oneliners-with-contents_20170223-3.txt  | less
+cat -v seznam-oneliners-with-contents_20170223.txt 
+cat -v seznam-oneliners-with-contents_20170223.txt | less
+cat -v seznam-oneliners-with-contents_20170223.txt | sed 's/M-oM-;M-? //' > seznam-oneliners-with-contents_20170223-2.txt 
+cat -v seznam-oneliners-with-contents_20170223.txt | sed -n '/M-oM-;M-? /p'
+cat -v seznam-oneliners-with-contents_20170223.txt | sed -n 's/M-oM-;M-? //p'
+cat -v typescript 
+cat -v typescript  | less
+cat -v ~/_BRISI/seznam-oneliners-with-contents_20170223.txt | less
+cat -v ~/_BRISI/seznam-oneliners-with-contents_20170223.txt | sed 's/[\d128-\d255]//g' | less
+cat -v ~/_brisi/dupes.txt
+cat -w typescript | less
+cat -w ~/_brisi/dupes.txt
+cat ../gredelonghi-en_funclist_20161103.txt
+cat ./
+cat ./*
+cat ./* | grep rar
+cat ./* | grep unrar
+cat ./DONOTBACKUP.txt
+cat ./FAJL-1.txt
+cat ./history-en.dat_201* | sed 's/^ .*..:..:.. //g' | sort | uniq
+cat ./history-en.dat_201* | sed 's/^ .*..:..:.. //g' | sort | uniq -n
+cat ./history-en.dat_201* | sed 's/^ .*..:..:.. //g' | sort | uniq -u
+cat ./history-en.dat_201* | sed 's/^ .*..:..:.. //g' | sort | uniq -w
+cat ./history-en.dat_20150* | sort | uniq -c | grep -v sh1 | less
+cat ./tmpfs-to-ramfs-performance-benchmark_20151218.txt >> /c/Users/gregor.redelonghi/_brisi/TMPFS-complete_20151221.txt
+cat ./w-todotoday.sh
+cat .hidden
+cat .screen-lyt-1
+cat .tmp/sendHomeList_20150305.txt
+cat .tmp/sendHomeList_20150306.txt
+cat .tmp/sendHomeList_20150317.txt
+cat .tmp/sendHomeList_20150319.txt
+cat .tmp/sendHomeList_2015032*
+cat .tmp/sendHomeList_20150323.txt
+cat .tmp/sendHomeList_20150325.txt
+cat .tmp/sendHomeList_20150325.txt.sent.15-32-55
+cat .tmp/sendHomeList_20150326.txt
+cat .tmp/sendHomeList_20150327.txt
+cat .toprc 
+cat /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/find_printf-options_2016*
+cat /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/how-to-run-an-application-at-startup-as-a-certain-user_20150515.txt
+cat /dev/random
+cat /etc/fstab
+cat /etc/host
+cat /etc/proc/partition
+cat /etc/proc/partitions
+cat /home/forallusers/bashrc_forall
+cat /home/forallusers/bashrc_forall | grep -i pro
+cat /home/forallusers/funclist
+cat /proc/partitions
+cat 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+cat 13-linux-performance-monitoring-tools_part-2_20160607.txt >> 20_cli-tools-to-monitor-linux-performance_20160607.txt
+cat 20160627_awk-insert-multif_20160627.txt >> tecmint_how-to-use-awk-to-multif_20160620.txt
+cat 404-not-found-error-apt-get-update-ubuntu_20150515.txt
+cat <<"$EOF"
+cat <<EOF - | dialog --msgbox 50 50
+cat <<EOF > fajl.01.txt
+cat <<EOF > pari.txt
+cat <<EOF >> applist.txt
+cat <<EOF >> fib.py 
+cat <<EOF | bin/sendfiles-msg.sh
+cat <<EOF | bin/sendfiles-msg.sh /c/Users/gregor.redelonghi/_brisi/cool-conkyrc_20150407.txt
+cat <<EOF | dialog --msgbox - 50 50
+cat <<EOF | dialog --msgbox 50 50
+cat <<EOF | dialog 50 50
+cat <<EOF | msg gregor.redelonghi
+cat <<EOF | sendfiles /c/Users/gregor.redelonghi/_brisi/cool-conkyrc_20150407.txt
+cat > $F1
+cat > $gr_O
+cat > gr_O
+cat >TTEESSTT.txt
+cat BICIKELJ_*
+cat BICIKELJ_acc-info.txt
+cat DONOTBACKUP.txt 
+cat FILENAME.txt
+cat LCS.py
+cat NNN.txt 
+cat README* >> ~/c_gredelonghi/Desktop/sendEmail_readme-s_20150424.txt
+cat TTEESSTT.txt
+cat ZA.za
+cat _2017_podloge/_TXT/Narocilo_K* >> ~/_BRISI/NAROCILA_20170215.txt
+cat __* | less
+cat ___lynuxconfig.org_INSERT-multif_20161122.txt >> python_linuxconfig-org-multif_20161118.txt 
+cat __danes.py 
+cat __insert_config-org_20161111-multif_20161111.txt >> python_linuxconfig-org-multif_20161109.txt 
+cat __insert_linuxconfig-multif_20161118.txt >> python_linuxconfig-org-multif_20161111.txt 
+cat __tmp 
+cat __tmp > $FJL
+cat __tmp2 > $FJL
+cat _izvoz-signalizacija.txt
+cat _izvoz-signalizacija.txt | awk -F ";" '{print $2, $3, $7}'
+cat _izvoz-signalizacija.txt | awk -F ";" '{print $2, $3, $7}' > _izvoz-signalizacija-OZNAKE.scr
+cat _izvoz-signalizacija.txt | awk -F ";" '{print $2, $3, $7}' > _izvoz-signalizacija-TOCKE.scr
+cat _izvoz-tocke-OZNAKE-PL.txt | awk '{print $2, $3, $7}'
+cat _izvoz-tocke-OZNAKE-PL.txt | awk '{print $2,$3,$7}'
+cat _izvoz-tocke-OZNAKE-PL.txt | awk -F "; " '{print $2,$3,$7}'
+cat _izvoz-tocke-OZNAKE-PL.txt | awk -F ";" '{print $2, $3, $7}'
+cat _izvoz-tocke-OZNAKE-PL.txt | awk -F ";" '{print $2, $3, $7}' > _izvoz-tocke-OZNAKE-PL.scr
+cat _izvoz-tocke-OZNAKE-PL.txt | awk -F ";" '{print $2,$3,$7}'
+cat _izvoz-tocke-OZNAKE-PL.txt | awk -F ";" '{print $2,$3}'
+cat _samostojni-URL-naslovi_20160504.txt | column -c100
+cat _samostojni-URL-naslovi_20160504.txt | column -c120
+cat _samostojni-URL-naslovi_20160504.txt | column -c130
+cat _samostojni-URL-naslovi_20160504.txt | column -c140
+cat _samostojni-URL-naslovi_20160504.txt | column -c145
+cat _samostojni-URL-naslovi_20160504.txt | column -c150
+cat _samostojni-URL-naslovi_20160504.txt | column -c150 -o
+cat _samostojni-URL-naslovi_20160504.txt | column -c150 -o ' '
+cat _samostojni-URL-naslovi_20160504.txt | column -c150 -s ' '
+cat _samostojni-URL-naslovi_20160504.txt | column -c150 -t
+cat _samostojni-URL-naslovi_20160504.txt | column -c200
+cat _samostojni-URL-naslovi_20160504.txt | column -c28
+cat _samostojni-URL-naslovi_20160504.txt | column -c28 -s '\n'
+cat _samostojni-URL-naslovi_20160504.txt | column -c300
+cat _samostojni-URL-naslovi_20160504.txt | column -c80
+cat _samostojni-URL-naslovi_20160504.txt | column -c90
+cat _samostojni-URL-naslovi_20160504.txt | column -t
+cat _samostojni-URL-naslovi_20160504.txt | column -t -c28
+cat _samostojni-URL-naslovi_20160504.txt | column -t -o '\t'
+cat _samostojni-URL-naslovi_20160504.txt | column -t2
+cat _samostojni-URL-naslovi_20160504.txt | column -tx
+cat _samostojni-URL-naslovi_20160518.txt
+cat _samostojni-URL-naslovi_LNX_20160531.txt
+cat _ssh-2.txt_20160125.txt >> ssh-tunnelling-for-fun-and-profit_multif_20160125.txt
+cat _ssh-3.txt_20160125.txt >> ssh-tunnelling-for-fun-and-profit_multif_20160125.txt
+cat bekap-en.log
+cat bekap-en.log 
+cat bekaps/bekap-en.log 
+cat bin/_lynx-multi-dump-list.dat >> conky_setups_20150402.txt
+cat bin/oneliners-en/find_printf-sort-accessdate_2016*
+cat bin/seznam.pnp >> /c/Users/gregor.redelonghi/2015/_Bonifacija-2F/Bonifacija-2F_podatki.txt
+cat color_show_onl.txt 
+cat command* | grep "\(mplayer\|sed\)"
+cat command* | grep "\(mplayer\|sed\)" | grep mpl
+cat command* | grep "\(mplayer\|sed\)" | grep sed
+cat command* | grep "mplayer"| grep "sed"
+cat command* | grep "sed"| grep "mplayer"
+cat command* | grep \(mplayer\|sed\)
+cat command* | grep mplayer
+cat command-list-hstl-en_201*
+cat command-list-hstl-en_201* | awk '{print $2}'
+cat command-list-hstl-en_201* | cut -d ' ' -f 2-
+cat command-list-hstl-en_201* | cut -d ' ' -f 3-
+cat command-list-hstl-en_201* | cut -d ' ' -f 4-
+cat command-list-hstl-en_201* | cut -d ' ' -f 5-
+cat command-list-hstl-en_201* | cut -d ' ' -f 6
+cat command-list-hstl-en_201* | cut -d ' ' -f 6-
+cat command-list-hstl-en_201* | cut -d ' ' -f 7-
+cat command-list-hstl-en_201* | cut -d '' -f 7-
+cat command-list-hstl-en_201* | cut -d -f 7
+cat command-list-hstl-en_201* | cut -d -f 7-
+cat command-list-hstl-en_201* | cut -d -f1
+cat command-list-hstl-en_201* | cut -d 1
+cat command-list-hstl-en_201* | cut -f +2
+cat command-list-hstl-en_201* | cut -f -2
+cat command-list-hstl-en_201* | cut -f 16-
+cat command-list-hstl-en_201* | cut -f 2
+cat command-list-hstl-en_201* | cut -f 2-
+cat command-list-hstl-en_201* | cut -f 3-
+cat command-list-hstl-en_201* | cut -f 5
+cat command-list-hstl-en_201* | cut -f 6
+cat command-list-hstl-en_201* | cut -f 6-
+cat command-list-hstl-en_201* | cut -f 7
+cat command-list-hstl-en_201* | cut -f1
+cat command-list-hstl-en_201* | cut -f2
+cat command-list-hstl-en_201* | cut -f2+
+cat command-list-hstl-en_201* | cut -f3
+cat command-list-hstl-en_201* | cut -f4
+cat command-list-hstl-en_201* | less
+cat conky_setups_20150402.txt
+cat create-list-of-oneliners.onl.txt 
+cat dot_screen-en-split-s_aliases_20160516.txt
+cat file1 > file2
+cat file2
+cat find-python-files_sort-by-long-iso-date_20161102.onl.txt 
+cat fjl.txt
+cat ftp-access_20150120.txt
+cat ftp-access_20150120.txt.gpg
+cat ftp-access_20150528-2.txt
+cat gpg.conf | grep -v ^#
+cat gremdomov.log | grep -E '-[[:digit:]]{4}'
+cat gremdomov.log | grep -E '[[:digit:]]{4}'
+cat gremdomov.log | grep -E '\-[[:digit:]]{4}'
+cat gremdomov.log | grep -E [[:digit:]]
+cat gremdomov.log | grep -E [[:digit:]]{1,4}
+cat gremdomov.log | grep -E [[:digit:]]{4}
+cat gremdomov.log | grep -EO '\-[[:digit:]]{4}'
+cat gremdomov.log | grep -Eo '\-[[:digit:]]{4}'
+cat gremdomov.log | grep -Eo '\-[[:digit:]]{4}' | grep -E '[[:difit:]]'
+cat gremdomov.log | grep -Eo '\-[[:digit:]]{4}' | grep -E '[[:digit:]]'
+cat gremdomov.log | grep -Eo '\-[[:digit:]]{4}' | grep -Eo '[[:digit:]]'
+cat gremdomov.log | grep -Eo '\-[[:digit:]]{4}' | grep -Eo '[[:digit:]]{4}'
+cat gremdomov.log | grep -wE [[:digit:]]{4}
+cat gremdomov.log | grep -wEO [[:digit:]]{4}
+cat gremdomov.log | grep -wEo [[:digit:]]{4}
+cat gremdomov.log | sed -n '/-[[:digit:[[{4}'/p
+cat gremdomov.log | sed -n '/-[[:digit:]]'/p | grep -E '-[[:digit:]]'
+cat gremdomov.log | sed -n '/-[[:digit:]]'/p | grep -E '-[[:digit:]]{4}'
+cat gremdomov.log | sed -n '/-[[:digit:]]'/p | grep -E '[[:digit:]]'
+cat gremdomov.log | sed -n '/-[[:digit:]]'/p | grep -E '[[:digit:]]{4}'
+cat gremdomov.log | sed -n '/-[[:digit:]]'/p | grep -E '\-[[:digit:]]'
+cat gremdomov.log | sed -n '/-[[:digit:]]'/p | grep -E '\-[[:digit:]](4)'
+cat gremdomov.log | sed -n '/-[[:digit:]]'/p | grep -E '\-[[:digit:]]{4}'
+cat gremdomov.log | sed -n '/-[[:digit:]]/{4/}'/p
+cat gremdomov.log | sed -n '/-[[:digit:]]{1}'/p
+cat gremdomov.log | sed -n '/-[[:digit:]]{2}'/p
+cat gremdomov.log | sed -n '/-[[:digit:]]{4}'/p
+cat gremdomov.log | sed -n '/\-[[:digit:[[{4}'/p
+cat gremdomov.log | sed -n '/\-[[:digit:]]'/p
+cat gremdomov.log | sed -n '/\-[[:digit:]]{4}'/p
+cat gremdomov.log | sed -n /\-[[:digit:[[{4}'/p
+cat history-d_20150* | grep lpopt
+cat history-en.dat_20150 | sort | uniq -c
+cat history-en.dat_20150* | less
+cat history-en.dat_20150* | sort | uniq -c
+cat history-en.dat_201506*
+cat history-en.dat_201506* | grep 06-18
+cat history-en.dat_201506* | grep 06-18 |less
+cat history-en.dat_201506* | grep maindie
+cat history-en.dat_201506* | grep maindir
+cat history-en.dat_201506* | less -S
+cat history-en.dat_20160* | cut -d' ' -f 6-
+cat history-en.dat_20160* | cut -d' ' -f 7-
+cat history-en.dat_20160* | cut -d' ' -f 8-
+cat history-en.dat_20160* | cut -d' ' -f 9-
+cat history-en.dat_20160* | head
+cat history-en.dat_20160* | head | cut -d' ' -f 5
+cat history-en.dat_20160* | head | cut -d' ' -f 5-
+cat history-en.dat_20160* | head | cut -d' ' -f 8-
+cat history-en.dat_20160* | head | cut -d' ' -f 9
+cat history-en.dat_20160* | head | cut -d' ' -f 9-
+cat history-en.dat_20160* | head | cut -f 5
+cat history-en.dat_20160* | head | cut -f 5-
+cat history-en.dat_20160* | head | cut f5-
+cat history-en.dat_20160* | less
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | grep bigge
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | grep bigge | sort -n
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | grep bigge | sort -nr
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | grep bigge | sort -nr | uniq -c
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | less
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | sort
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | sort | uniq
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | sort | uniq -c > commands-hostory-list_by_20160621.txt
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | sort | uniq -c | less
+cat history-en.dat_20160* | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | sort | uniq | less
+cat history-en.dat_20160226-143527 | cut -d' ' -f 6-
+cat history-en.dat_20160226-143527 | cut -d' ' -f 6- | LESS
+cat history-en.dat_20160226-143527 | cut -d' ' -f 6- | less
+cat history-en.dat_20160226-143527 | cut -f 6- | less
+cat history-en.dat_20160226-143527 | less
+cat history-en.dat_20160226-143527 | sed 's/^ */' | less
+cat history-en.dat_20160226-143527 | sed 's/^ /' | less
+cat history-en.dat_20160226-143527 | sed 's/^ //' | less
+cat history-en.dat_20160226-143527 | sed 's/^[[:blank:]]*/' | less
+cat history-en.dat_20160226-143527 | sed 's/^[[:blank:]]*//' | cut -d' ' -f 3- | less
+cat history-en.dat_20160226-143527 | sed 's/^[[:blank:]]*//' | cut -d' ' -f 5- | less
+cat history-en.dat_20160226-143527 | sed 's/^[[:blank:]]*//' | cut -d' '-f 3- | less
+cat history-en.dat_20160226-143527 | sed 's/^[[:blank:]]*//' | cut -d' '-f 6- | less
+cat history-en.dat_20160226-143527 | sed 's/^[[:blank:]]*//' | cut -f 6- | less
+cat history-en.dat_20160226-143527 | sed 's/^[[:blank:]]*//' | less
+cat howto[-_]reset-root* | less
+cat ibm-com_streams-pipes-redirects_20160523.txt
+cat inxi* | less
+cat list-files-with-month-or-day-or-year-in-numpart.onl
+cat m_druzina.pyc
+cat make-peace-your-processes_multif_20160630.txt
+cat mencoder_rip-dvd_01_20150629.txt mencoder-dvd-to-mpeg4_20150629.txt mencoder_dvd-to-xvid-encoding_20150629.txt mencoder_rip_dvd_into_divx_20150629.txt > mencoder_rip-dvd-multyf_20150629.txt
+cat neprimerni.txt
+cat new.py*
+cat oneliners-en/create-list-of-oneliners.onl.txt 
+cat opn
+cat otirks_20150318.txt
+cat pari.txt 
+cat predelaj-seznam-URL-jev-v-html_*
+cat print-ASCII-characters_20150303.onl
+cat python_binary-search_half-interval-search_bisection-multif_20170221.txt | wc -l
+cat python_binary-search_half-interval-search_bisection-multif_20170221.txt | wc-l
+cat python_for-digital-artists-multif_20170220.txt | wc -l
+cat python_linuxconfig-org-multif_20161122.txt 
+cat qrsync-backups_20170207.sh 
+cat rsync-backups-oneliners_20150630.txt
+cat rsync-backups-oneliners_20150706.txt
+cat rsync-backups_20170207.sh 
+cat rsync-bekap-settings/rsync-backups-oneliners_20150630.txt
+cat sed-test_20150702.txt
+cat sendH* | less
+cat sendHomeList_20150323-02.txt
+cat sendHomeList_20150323-02.txt.sent.14-49-00
+cat sendHomeList_20150403.txt >> check-out-weblinks_20150402.txt
+cat send_config_en.*
+cat sendhomelist_201*
+cat sendhomelist_20150324-20150615.txt
+cat sendhomelist_20150324-20150615.txt sendhomelist_20150617-20150901.txt
+cat sendhomelist_20150324-20150615.txt sendhomelist_20150617-20150901.txt > sendhomelist_20150324-20150901.txt
+cat sendhomelist_20150324-20150615.txt sendhomelist_20150617-20150901.txt | less
+cat sendhomelist_20150324-20150911.txt
+cat sendhomelist_20150617-20150901.txt
+cat sendhomelist_201509*
+cat sendhomelist_201509* > sendhomelist_20150902-20150911.txt
+cat sendhomelist_201509* | less
+cat sendhomelist_20150902-20150911.txt
+cat sendhomelist_20150902-20150911.txt >> sendhomelist_20150324-20150901.txt
+cat seznami/gremdomov.log
+cat seznami/history-en.dat_20170313-145328 
+cat test.html
+cat test.py && python3 test.py 
+cat test_*
+cat todotoday.sh
+cat typescript
+cat typescript | less
+cat uefi-and-bios_20150213.txt uefi-howto-know-if-boot-in-efi-mode-multyf_20150213.txt uefi-ubuntu-diskspace_20150213.txt > /tmp/UEFI.txt && np /tmp/UEFI.txt
+cat uefi-and-bios_20150213.txt uefi-howto-know-if-boot-in-efi-mode-multyf_20150213.txt uefi-ubuntu-diskspace_20150213.txt | less
+cat uefi-and-bios_20150213.txt uefi-howto-know-if-boot-in-efi-mode-multyf_20150213.txt uefi-ubuntu-diskspace_20150213.txt | np
+cat uefi-and-bios_20150213.txt uefi-howto-know-if-boot-in-efi-mode-multyf_20150213.txt uefi-ubuntu-diskspace_20150213.txt | xargs -I FJL np FJL
+cat xubuntu-14.04.2-desktop-amd64_md5sum.txt >> xubuntu_MD5SUMS.txt
+cat xubuntu-16.04-desktop-amd64.iso | pv > /dev/sdb
+cat xubuntu-17.04-desktop-amd64.iso | pv > /dev/sdb
+cat xubuntu_MD5SUMS.txt
+cat ~/.bashrc
+cat ~/.bashrc | grep -i prox
+cat ~/.tmp/
+cat ~/.tmp/sendHomeList_20150313.txt
+cat ~/.tmp/sendHomeList_20150319.txt
+cat ~/.tmp/sendHomeList_20150324.txt
+cat ~/.tmp/sendhomelist_20150506.txt
+cat ~/.tmp/sendhomelist_20150914.txt
+cat ~/_brisi/TEST.txt
+cat ~/_brisi/_inaert-1.txt
+cat ~/_brisi/_inaert-1.txt Rpi_sshfs-mount-ext-usb-hdd-multif_20161110.txt 
+cat ~/_brisi/_inaert-1.txt Rpi_sshfs-mount-ext-usb-hdd-multif_20161110.txt | less
+cat ~/_brisi/_seznam_20150908.txt
+cat ~/_brisi/dupes.txt
+cat ~/_brisi/dupes.txt |
+cat ~/_brisi/dupes.txt | sed '/^$/d'
+cat ~/_brisi/dupes.txt | sed '/^$/d' | xargs ls -l {} \;
+cat ~/_brisi/dupes.txt | sed '/^$/d' | xargs ls -li {} \;
+cat ~/_brisi/dupes.txt | sed '/^$/d' | xargs md5sum {} \;
+cat ~/_brisi/dupes.txt | sed 's/[[:blank:]]\n//'
+cat ~/_brisi/dupes.txt | sed 's/^$//'
+cat ~/_brisi/dupes.txt | sed 's/^$//g'
+cat ~/_brisi/dupes.txt | sed 's/^$\\n//'
+cat ~/_brisi/dupes.txt | sed 's/^$\n//'
+cat ~/_brisi/dupes.txt | xargs md5sum {} \ 2>/dev/null;
+cat ~/_brisi/dupes.txt | xargs md5sum {} \;
+cat ~/_brisi/dupes.txt | xargs md5sum {} \; 2>/dev/null
+cat ~/bin/_lynx-multi-dump-list.dat
+cat ~/seznami/* | grep w3m
+cat ~/seznami/hist* | grep -vE 'cd|ll|llc|xx|lss|dbs|dbc|dbo|vbr|vvm|sbr|man|zzv|zze' | sed 's/^ .*..:..:.. //g' | sort | uniq -c
+cat ~/seznami/hist* | grep -vE 'cd|ll|llc|xx|lss|dbs|dbc|dbo|vbr|vvm|sbr|man|zzv|zze' | sed 's/^ .*..:..:.. //g' | sort | uniq -c > command-list-hstl-en_20160224.txt
+cat ~/seznami/history-en.dat_201* | grep 'cat'
+cat ~/seznami/history-en.dat_201* | grep 'cat*EOF'
+cat ~/seznami/listulb_20170306.txt
+cg /c/Users/gregor.redelonghi/
+cg }
+cgr
+char* buffer;
+chardet 3.0.1
+check this out!
+check-password-complexity_cli_20170131.txt
+chmod +x rsync-backups_20151202.sh
+chmod -v 644 ./*.txt
+chmod 544 *.txt
+chmod 644 *
+chmod 644 *.html
+chmod 644 *.pdf
+chmod 644 bekap-en.log 
+chmod 644 send_config_en.conf 
+chmod 644 sendp3mymail_en.py.STARO 
+chmod 644 todotoday.sh
+chmod 644 xubuntu-themes-icon-settings-EN_20150610.txt 
+chmod 655 bekap-en.log 
+chmod 755 Subsurface-4.5.1.1289-x86_64.AppImage
+chmod 755 bekap-c_gregor.redelonghi_20150630
+chmod 755 bekap-en.log 
+chmod 755 bin/RSYNC_BACKUP-en.sh
+chmod 755 bin/html2text.py
+chmod 755 bin/kopiraj-a0-v-risbe.sh
+chmod 755 bin/sendfiles-msg.sh
+chmod 755 bin/w-todotoday.sh
+chmod 755 correct-indentation-with-reindent.sh 
+chmod 755 find-duplicatef-01.sh
+chmod 755 fnd_*
+chmod 755 gd.sh
+chmod 755 geslo.sh
+chmod 755 padec.py.ver-20151106 
+chmod 755 padec.sh
+chmod 755 sendp3-single-ln_en.py 
+chmod 755 sendp3-single-lnk_en.py 
+chmod 755 todotoday.sh
+chmod 755 ~/bin/gremdomov-vknd.sh
+chown -R gregor.redelonghi Mission.Impossible.Rogue.Nation.2015.SLOSubs.BRRip.XviD-BLiNK/
+chown -R gregor.redelonghi:"Domain Users" hvar_2015
+clear && cat $FJ && cat $FJ | sed '/ 16/i Gregec Redelonghijev \nfff'
+clear && cat $FJ && cat $FJ | sed '/16 /i Gregec Redelonghijev \nfff'
+clear && cat $FJ && cat $FJ | sed '/16/i Gregec Redelonghijev \nfff'
+clear && cat rsync-backups-oneliners_20150618.txt
+clear && for FFF in $(find -type f -iname "*201511*"); do echo "---"; head -n 4 $FFF; echo -e "\n"; done | less
+clear && for FFF in $(find -type f -iname "*201511*"); do head -n 4 $FFF; echo -e "\n"; done | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --delete --exclude-from=/c/Users/gregor.redelonghi/DONOTBACKUP.txt --progress /c/Users/gregor.redelonghi/ /j/c_gregor.redelonghi_bekap_${gr_DANES}/
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --delete --exclude-from=/c/Users/gregor.redelonghi/DONOTBACKUP.txt --progress /etc/ /j/bekap-cygwin-en_rut-etc/
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --delete --progress --exclude-from=/c/Users/gregor.redelonghi/DONOTBACKUP.txt /c/Users/gregor.redelonghi/ /${gr_EXTMOUNTP}/bekap-c_gregor.redelonghi_${gr_DANES}/
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --delete --progress /home/gregor.redelonghi/ /j/bekap-cygwin-en_home-gregor.redelonghi_${gr_DANES}/
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --progress --delete /c/Users/gregor.redelonghi/2015/ /${gr_EXTMOUNTP}/bekap_en-2015_${gr_DANES}/
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --progress --delete /home/gregor.redelonghi/ /${gr_EXTMOUNTP}/bekap-cygwin-en_home-gregor.redelonghi_${gr_DANES}/
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --progress /c/Users/gregor.redelonghi/Downloads/ /${gr_EXTMOUNTP}/bekap-c_gregor.redelonghi_Downloads_${gr_DANES}/
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --progress /home/gregor.redelonghi/ /j/bekap-cygwin-en_home-gregor.redelonghi_${gr_DANES}/
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -av --progress /home/gregor.redelonghi/ /j/bekap-cygwin-en_home-gregor.redelonghi_${gr_DANES}/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --delete --exclude-from=/c/Users/gregor.redelonghi/DONOTBACKUP.txt --progress /c/Users/gregor.redelonghi/ /j/c_gregor.redelonghi_bekap_${gr_DANES}/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --delete --exclude-from=/c/Users/gregor.redelonghi/DONOTBACKUP.txt --progress /etc/ /j/bekap-cygwin-en_rut-etc/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --delete --progress --exclude-from=/c/Users/gregor.redelonghi/DONOTBACKUP.txt /c/Users/gregor.redelonghi/ /${gr_EXTMOUNTP}/bekap-c_gregor.redelonghi_${gr_DANES}/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --delete --progress /home/gregor.redelonghi/ /j/bekap-cygwin-en_home-gregor.redelonghi_${gr_DANES}/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --progress --delete /c/Users/gregor.redelonghi/2015/ /${gr_EXTMOUNTP}/bekap_en-2015_${gr_DANES}/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --progress --delete /etc/ /${gr_EXTMOUNTP}/bekap-cygwin-en_rut-etc_${gr_DANES}/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --progress --delete /home/gregor.redelonghi/ /${gr_EXTMOUNTP}/bekap-cygwin-en_home-gregor.redelonghi_${gr_DANES}/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --progress /c/Users/gregor.redelonghi/Downloads/ /${gr_EXTMOUNTP}/bekap-c_gregor.redelonghi_Downloads_${gr_DANES}/ | less
+clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --progress /home/gregor.redelonghi/ /j/bekap-cygwin-en_home-gregor.redelonghi_${gr_DANES}/ | less
+clear && grep -C15 zze-err bin/zze.sh
+clear && python dict-test.py
+clear && python ex1.py
+clear && python test_20160505.py
+clear && python test_20160505.py | less
+clear && sed -n '1p' sadje.txt; echo "---------------------------------------------"; awk '/[MmJjHh]/ {print}' sadje.txt
+clear && sed -n '1p' sadje.txt; echo "---------------------------------------------"; awk '/[MmJj]/ {print}' sadje.txt
+clear; cat $SDJ; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9]*\./ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9].*/ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9].*\./ {print $0 "*"} /[0-1]\./ {print $0}' ; c
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9]/ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9][0-9]*.*\./ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9][0-9]*\./ {print $0 "*"} /[0-1]\. {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9][0-9]*\./ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9][0-9]*\./ {print}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9][0-9].*\./ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9][0-9]\.*\./ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/[2-9]\./ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/\$[2-9]*\./ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ | awk '/\$[2-9][0-9]*\./ {print $0 "*"} /[0-1]\./ {print $0}' ; crt; echo
+clear; crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ; crt; echo
+clear; for FFF in $(find -iname "*hist*"); do echo "$FFF" && cat $FFF; echo -e "\n\n"; done
+clisp --help
+closed as too broad by Braiam, "How can I reduce the file size of a scanned PDF file? [closed]
+cmd /c "COPY /?"
+cmod 755 correct-indentation-with-reindent.sh 
+convert -compress Zip input.pdf output.pdf
+convert it to DjVu, instead trying to reduce to impossible sized PDF (according zetah Mar 16 '12 at 17:22source)
+convert slika-419x600-1449131074-1113842.jpg
+convert | grep -A 5 resize
+convert | grep resize
+convert | less
+cool 2>/dev/pty3
+cool 2>/dev/pty3 && cool 3>/dev/pty3
+cool2 2>/dev/pty3 && cool3 2>/dev/pty3
+cool2 2>/dev/pty3; cool3 2>/dev/pty3
+cool2 2>/dev/pty3; cool3 2>/dev/pty3;
+cool2 2>/dev/pty3; cool3 2>/dev/pty3; 
+cool2>/dev/pty3 && cool3>/dev/pty3
+cool2>/dev/pty3; cool3>/dev/pty3
+cp $gr_O ~/bin/oneliners-en/_seznam-vseh_20161118.txt
+cp -ax is a slightly shorter version of the same thing. This worked great - thank you!
+cp -fv ../mplayer-souces/libfaac-1.28-x64/* ./
+cp -iv dnevno*.{html,html.bckp}
+cp -iv dnevno-black.{html,html.bckp}
+cp -iv dnevno.{html,html.bckp}
+cp -n ./* ../
+cp -p is nice, but I like rsync's output so much more in general that I've aliased pcp to time
+cp -r ./* ../../MPlayer/
+cp -r /j/bekap-c_gregor.redelonghi_20150706/Downloads/* ./
+cp -r N-13500_21585_Jarse-Obrije-Smartno_IDZ /c/Users/gregor.redelonghi/2016/_2016_ostalo/
+cp -r oddaja_2017-02 /d/
+cp -rv /home/gregor.redelonghi/sorsi/unrar /usr/local/bin/
+cp -v ./rsync-backups_20151202.sh ~/bin/rsync-backups-METSYS/
+cp -vvv ~/_Prenosi/linuxaio-linuxmint172-64bit.7z.00* Downloaded-ISO-s_20150820/
+cp -vvv ~/bin/datoteke-z-geslom.dat ./
+cp ../PIS\ * ./
+cp ../TESTNA.zip ./
+cp ../_brisi/bash_displaying-absolute-path_realpath-or-readlink_e_20150323.txt /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/
+cp ./* ~/bin/_staro/
+cp .screen-lyt-{1,0}
+cp .screen-lyt-{2,3}
+cp .screenrc ~/_brisi/dot_screenrc-en_20160516_split-s.txt
+cp /c/Users/gregor.redelonghi/2016/_2016_docs/obrazec-za-NAROCILO_20150313.pdf ./
+cp /c/Users/gregor.redelonghi/2016/_2016_docs/obrazec-za-NAROCILO_20150313.pdf ./_2016_podloge/
+cp /c/Users/gregor.redelonghi/2016/_2016_docs/obrazec-za-NAROCILO_20150313.pdf ./_2016_podloge/_PDF/
+cp /c/Users/gregor.redelonghi/DONOTBACKUP.txt ./c_users_gregor.redelonghi_DONOTBACKUP.txt
+cp /c/Users/gregor.redelonghi/DONOTBACKUP.txt c_users_gregor.redelonghi_DONOTBACKUP.txt
+cp /c/Users/gregor.redelonghi/Downloads/Subsurface-4.5.1.1289-x86_64.AppImage ./
+cp /c/Users/gregor.redelonghi/Downloads/_odprto_txt_seznam_20170105-0910.txt /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/
+cp /c/Users/gregor.redelonghi/Downloads/get-pip.py /c/Users/gregor.redelonghi/majstaf/myprogs/
+cp /c/Users/gregor.redelonghi/Downloads/nanorc.txt ./dot_nanrc.sample
+cp /c/Users/gregor.redelonghi/Downloads/ubuntu-mate-15.10-desktop-amd64.iso ./
+cp /c/Users/gregor.redelonghi/mypodloge/from-d-to-en_20141216/cygwin_20141216_setup-x86_64.exe ../
+cp /c/Users/gregor.redelonghi/majstaf/r.gregor.en/
+cp /j/rsync-bekap-settings/rsync-backups-oneliners_20150630.txt ./
+cp /usr/local/bin/unrar.exe ~/bin/
+cp DONOTBACKUP.txt ../
+cp DONOTBACKUP.txt ../METSYS/
+cp DONOTBACKUP.txt c_gredelonghi/
+cp DONOTBACKUP.txt docs/
+cp DWGTrueView_2017_Enu_64bit_v2.sfx.exe /h/
+cp FAJL-{1,2}.txt
+cp File1 A/
+cp File1 {A,B}/
+cp MPlayer-x86_64-r37368+g52f2adc/* ../MPlayer/
+cp N-13500_21585_Jarse-Obrije-Smartno_IDZ /c/Users/gregor.redelonghi/2016/_2016_ostalo/
+cp Popcorn-Time-linux64.tar.gz ~/sorsi/Popcorn-Time
+cp RPi_* ../_RPi/
+cp RPi_resize-raspberry-sd-card-image_20160707.txt ../_RPi/
+cp TESTNA1.7z BRISI-ME/
+cp Tenda-* /c/Users/gregor.redelonghi/Dropbox/SKUPNI/
+cp Voyager-PS1.txt ~/sist-nastavitve/
+cp __sorted-list-2-columns_20170105.onl.txt ~/bin/oneliners-en/
+cp _brisi/cat-files-from-list-to-hashlineseparated-file_20150528.onl /c/Users/gregor.redelonghi/Dropbox/ODPRTO/latest-one-liners/
+cp _brisi/cat-files-from-list-to-hashlineseparated-file_20150528.onl ~/bin/oneliners/
+cp _samostojni-URL-naslovi_20160518.txt seznami/
+cp _staro/padec.sh ./
+cp apt-get_enable-LiveCD-behind-proxy_20160311.txt apt-get_enable-LiveCD-behind-proxy_20160311-2.txt 
+cp bash-to-display-a-progress-working-indicator-multyf_20150320.txt bash-to-display-a-progress-working-indicator-II_multyf_20150320.txt
+cp bckpbin-d.20150317-2032.tgz ~/RUT/
+cp bckpbin-d.20150402-2021.tgz ~/RUT/
+cp bckpbin-en.20161115-144839.tar.gz ~/RUT/home/rgregor/
+cp bckpszn-d.20150511-203633.tgz ~/RUT/home/rgregor/
+cp bekap-c_gregor.redelonghi_20150630/DONOTBACKUP.txt ./
+cp bekap-en.log ../
+cp bin/oneliners/sed_remove-tags-from-html-xml.onl /c/Users/gregor.redelonghi/Dropbox/ODPRTO/latest-one-liners/
+cp bin/zze.sh /usr/share/nano/
+cp c@users@gredelonghi-en@Dropbox@ODPRTO_20151117-143913.tar.gz ~/RUT/
+cp c_gredelonghi/DONOTBACKUP.txt ./
+cp cas{,2}.py 
+cp check-out-weblinks_20150402.txt ../seznami/
+cp color_show_onl.txt bin/colors_show_onl.sh
+cp color_show_onl.txt bin/oneliners-en/
+cp conky-setups-20170118.tar.gz.txt /c/Users/gregor.redelonghi/Dropbox/ODPRTO/
+cp conky_setups_20150402.txt _brisi
+cp daily_backup_to_external_hdd_20161213.txt $DBOT/
+cp datoteke-z-geslom.dat ~/metsys_en/
+cp ddbak.sh ddlog.sh 
+cp dnevno-black.{html,html.bkp}
+cp dnevno.html dnevno.html.bckp
+cp dnevno.{html,html.bkp}
+cp dot_nanrc.sample .nanorc
+cp from-d/sendp3-single-ln* ./
+cp ftp-access_20150120.txt ftp-access_20150528.txt
+cp ftp_access.sh ftp_access.sh.novo.20150304.txt
+cp gd-scr.sh gd.sh
+cp gremdomov-vknd.sh ~/_brisi/gremdomov-vknd.sh.txt
+cp gremdomov.sh gremdomov-vknd.sh
+cp html2text.py.txt ~/bin/html2text.py
+cp install_change-permissions-and-ownership-of-a-file-in-a-command_20160225.txt c_gredelonghi/Dropbox/ODPRTO/_TXT/
+cp libfaac-1.28-x64/* ../MPlayer/
+cp libfaac-1.28/* ../MPlayer/
+cp oneliners-en/password-update-en_{20160801,20170104}.onl.txt 
+cp padec.sh ../c_gredelonghi/Downloads/padec.sh.txt
+cp padec_20141023.sh padec.sh
+cp password-update-en_20160209.onl.txt /c/Users/gregor.redelonghi/_brisi/
+cp password-update-en_20160801.onl.txt ~/bin/
+cp plex-media-server-on-Rpi2_20160226.txt ~/c_gredelonghi/Dropbox/ODPRTO/_RPi/
+cp podnapisi.sh podnapisi-en.sh_20170504.txt 
+cp print-ASCII-characters_20150303.onl /c/Users/gregor.redelonghi/Dropbox/ODPRTO/_TXT/
+cp print-ASCII-characters_20150303.onl bin/oneliners/
+cp print.txt ~/sist-nastavitve/EN-proxy-settings_20170302.txt
+cp qckstrt.sh qckstrt.sh.src
+cp qrsync-backups_20170{207,303}.sh 
+cp rsync-backups-oneliners_20150618.txt rsync-backups-oneliners_20150630.txt
+cp rsync-backups-oneliners_20150630.txt /j/METSYS/
+cp rsync-backups-oneliners_20150630.txt DONOTBACKUP.txt docs/
+cp rsync-backups-oneliners_20150706.txt ../METSYS/
+cp rsync-backups-oneliners_20150706.txt ~/
+cp rsync-backups_20151202.sh DONOTBACKUP.txt ~/bin/
+cp rsync-backups_20151202.sh ~/bin/rsync-backups-METSYS/
+cp rsync-backups_20160{119,610}.sh
+cp rsync-backups_20170116.sh rsync-backups_NOVO_20170207.sh 
+cp rsync-backups_20170116.sh ~/bin/ext-USB-32GB-key_20170116/
+cp rsync-backups_201703{03,07}.sh 
+cp rsync-backups_20170{207,303}.sh 
+cp rsync-backups_201{60610,70116}.sh 
+cp rsync-backups_NOVO_20170207.sh
+cp saned_raspberry-pi-* ../_RPi/
+cp sendHomeList_20150* check-out-weblinks_20150402.txt /home/gregor.redelonghi/RUT/rgregor/.tmp/
+cp sendHomeList_20150402.txt.sent.15-15-25 sendHomeList_20150403.txt
+cp send_config_en.{py,donf}
+cp sendp3-1-lnk_en.py send.config.py
+cp sendp3-1-lnk_en.py ~/_BRISI/sendp3-1-lnk-en.py.CHANGE_20170220.txt
+cp sendp3-1-lnk_en{,__TEST__}.py 
+cp sendpy3sl-en.py /c/Users/gregor.redelonghi/Downloads/
+cp sendpysl-en.py ../../
+cp slike.html slike-2.html
+cp sorsi/unrarsrc-5.1.7.tar.gz ./
+cp start.en.20161206.tar.gz{,.txt} 
+cp tests/haha.sh bin/test-trap-exit-loop.sh
+cp todotoday.sh ~/_brisi/todotoday.sh.txt
+cp unrar/unrar.exe ./
+cp x86/* ../MPlayer/
+cp xcol_bash.sh ../
+cp xcol_bash.sh{,.ORIGINAL}
+cp zze.sh qckstrt.sh
+cp zze.sh zza.sh
+cp {,q}rsync-backups_20170207.sh 
+cp ~/.nanorc /usr/share/nano/dot_originalnanorcfile-en_20160523
+cp ~/.tmp/sendhomelist_20150522.txt ~/.tmp/sendhomelist_20150520.txt.sent.144603 ./
+cp ~/DONOTBACKUP.txt ./
+cp ~/_BRISI/split2016720pblurayx264-ytsag-english-108474.zip ./
+cp ~/_Downloads_c-gredelonghi/*.py ./
+cp ~/_PRENOSI/tinywm-1.3.tgz 
+cp ~/_PRENOSI/tinywm-1.3.tgz ./
+cp ~/_brisi/awk_display-formated-fruti-table_20160504.onl ../oneliners-en/
+cp ~/_brisi/awk_display-formated-fruti-table_20160504.onl /c/Users/gregor.redelonghi/Dropbox/ODPRTO/latest-one-liners/
+cp ~/bin/rsync-backups-METSYS/DONOTBACKUP.txt ./
+cp ~/c_gredelonghi/Downloads/*.7z ./
+cp ~/rsync-backups-oneliners_20150618.txt rsync-bekap-settings/
+crontab
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt; echo && cat $SDJ;
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt; sed -n '1p'
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt; sed -n '1p' $SDJ
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $SDJ
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; echo; sed -n '1!p' $sdj
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done }; crt;echo; sed -n '1p' $SDJ; crt; sed -n '1!p'
+crt() { for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done}; crt; echo && cat $SDJ;
+crt() {for i in $(seq 1 $(wc -L < $SDJ)); do echo -n "-"; done}; crt; echo && cat $SDJ;
+cs
+cugr
+curl -s http://artscene.textfiles\.com/vt100/wineglas.vt | pv -L9600 -q
+curl ipinfi.io
+curl ipinfo.io
+cygcheck -L
+cygcheck -c | less
+cygcheck -l
+cygcheck -l | grep image
+cygcheck -l | grep imagema
+cygcheck -l | image
+cygcheck -p 2ps
+cygcheck -p 2ps | grep 2ps
+cygcheck -p cron | grep cron
+cygcheck -p crontab
+cygcheck -p dex
+cygcheck -p dex | grep 'dex '
+cygcheck -p dex | grep dex
+cygcheck -p dmenu
+cygcheck -p dmenu | grep menu
+cygcheck -p gnuplot
+cygcheck -p gnuplot | grep 'gnu.*plot'
+cygcheck -p iconv
+cygcheck -p iconv | grep iconv
+cygcheck -p lisp
+cygcheck -p lisp | grep lisp
+cygcheck -p rar
+cygcheck -p sl
+cygcheck -p sl | grep '^sl '
+cygcheck -p sl | grep -w sl
+cygcheck -p sl | grep ^sl
+cygcheck -p sl | grep sl
+cygcheck -p unrar | grep unrar
+cygcheck -s | less
+cygcheck at
+cygcheck cp
+cygcheck dex
+cygcheck ps2pdf
+cygcheck python
+cygcheck rar
+cygcheck screen
+cygcheck unix2dos
+cygparth -w "$PPWD"
+cygpath
+cygpath -w "$PPWD"
+cygpath -w "$PWD"
+cygpath -w "/c/Users/gregor.redelonghi/AppData/Roaming/Microsoft/podpisi/gregor.redelonghi_podpis_2014.htm"
+cygpath -w $(realpath bin-from-en_20150323.tar.gz)
+cygrunsrv
+cygrunsrv --help
+cygrunsrv --help | less
+cygrunsrv --jelp
+cygrunsrv --query
+cygrunsrv -L
+cygrunsrv -query
+cygstart
+cygstart "/c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/bin/Dropbox.exe status"
+cygstart /c/Users/gregor.redelonghi/AppData/Roaming/Dropbox/bin/Dropbox.exe
+cygwin-console-helper.exe -q -P cron-4.1-62
+dbop
+dbor
+dbos
+dbs
+dc -
+dc _DOWNLOADS
+dc cgr/2016
+dc index.html 
+dcd
+dd if=/c/Users/gregor.redelonghi/Downloads/Voyager-GS-16.04.1-amd64.iso of=/dev/sdb bs=4M
+dd if=/c/Users/gregor.redelonghi/Downloads/eos-16.04.1-rc1-desktop-amd64.iso of=/dev/sdb bs=4M
+dd if=/c/Users/gregor.redelonghi/Downloads/manjaro-xfce-15.09-x86_64.iso of=/dev/sdb bs=4M
+dd if=/dev/zero of=/dev/sdb bc=4M
+dd if=/dev/zero of=/dev/sdb bs=1G
+dd if=/dev/zero of=/dev/sdb bs=4M
+dd if=deepin-15-alpha2-amd64.iso of=/dev/sdb bs=4M
+dd if=trisquel_7.0_amd64.iso of=/dev/sdb bs=4M
+dd if=ubuntu-gnome-15.10-desktop-amd64.iso of=/dev/sdb bs=4M
+dd if=ubuntu-gnome-15.10-desktop-amd64.iso of=/dev/sdb/ bs=4M
+dd if=ubuntu-mate-14.04.2-LTS-desktop-amd64.iso of=/dev/sdb
+dd if=ubuntu-mate-14.04.2-LTS-desktop-amd64.iso of=/dev/sdb bs=4M
+ddate
+ddbak 
+ddbak .
+ddbak . .
+ddbak 3 4
+ddbak 7
+ddbak 7 8
+ddbak 9 0
+ddlog .
+ddlog 9
+ddlog 9 p
+def fib():
+def fib(n):
+def fibI():
+def fibR(n):
+def longest_common_substring(s1, s2):
+def memoize(fn, arg):
+df -a
+df -ah
+df -ahi
+df -h --total
+df -h /e; du -s /e/Downloaded-ISO-s_20150911
+df -h /e; du -s /e/Downloaded-ISO-s_20150911/
+df -h /e; du -s /e/Downloaded-ISO-s_20150911/*
+df -h /e; du -sh /e
+df -h /e; du -sh /e/Downloaded-ISO-s_20150911
+df -h /j/
+df -h /j/*
+df -h /tmp
+df /d
+df | grep 311
+df | grep 311 | awk '{print $6}'
+df | grep 311 | awk '{print $6}' | sed 's:/::'
+df | grep 311 | awk '{print $6}' | sed 's:/j:j:'
+df | grep 311 | awk '{print $6}' | tr '/' ''
+df | grep 311 | awk '{print $6}' | tr '/j' 'j'
+df | grep 311 | awk '{print $6}' | tr '\/j' 'j'
+dialog
+dialog --msgbox " \- RPi2 \
+dialog --msgbox "- RPi 2 \n \
+dialog --msgbox "- RPi 2 \n\
+dialog --msgbox "- RPi2 \
+dialog --msgbox "- RPi2 \n \
+dialog --msgbox - 50 50
+dialog --msgbox 50 50
+dialog --title "ToDo 20150323" --msgbox "- RPi 2\n\
+diff -c file1 file2
+diff -rq bin/ bin/_staro/
+diff -rq bin/ bin/_staro/ | grep _staro
+diff -rq ~/bin/ ~/bin/_staro/ | grep "Only.*_staro"
+diff -rq ~/bin/ ~/bin/_staro/ | grep "only*_staro"
+diff -rq ~/bin/ ~/bin/_staro/ | grep "only.*_staro"
+diff -rq ~/bin/ ~/bin/_staro/ | grep _staro
+diff -s file1 file2
+diff -s trap-exit-loop.sh trraapp.sh 
+diff -s try.sh try-2.sh 
+diff -sc file1 file2
+diff -sq ~/bin/ ~/bin/_staro/
+diff -sq ~/bin/ ~/bin/_staro/ | grep -E '(differ|iden)'
+diff -sq ~/bin/ ~/bin/_staro/ | grep -E (differ|iden)
+diff -sq ~/bin/ ~/bin/_staro/ | grep differ
+diff -sq ~/bin/oneliners/ ~/bin/_staro/
+diff -sq ~/bin/oneliners/ ~/bin/_staro/ | grep ident
+diff -su file1 file2
+diff -sy file1 file2
+diff -u file1 file2
+diff -u seznam-oneliners-with-contents_20170223-2.txt seznam-oneliners-with-contents_20170223-3.txt | less
+diff -v Slomskova-1_GIS-PP_20160425.txt Slomskova-1a_GIS-PP_20160425.txt
+diff -y --suppress-common-lines zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt
+diff -y --suppress-common-lines zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep ' | *' | grep ' \['
+diff -y --supress-common-lines zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep ' | *' | grep ' \['
+diff -y ./ ./_staro
+diff -y ./ ./_staro/
+diff -y /c/Users/gregor.redelonghi/DONOTBACKUP.txt /j/METSYS/DONOTBACKUP.txt
+diff -y ZZE.txt ZZE2.txt
+diff -y _RPi/watch-and-record-livetv_raspberrypi_files/init _PYTHON/python_Conditional_Statements_20151009.txt
+diff -y cups_lpadmin-examples_20150422.txt cups_lpadmin-examples_20150527.txt
+diff -y file1 file2
+diff -y ftp_access.sh ftp_access.sh.novo.20150304.txt
+diff -y predpisi-stari.txt predpisi-novi.txt
+diff -y sendp3-single-ln_en.py sendp3-single-lnk_en.py 
+diff -y sendp3-single-ln_en.py sendp3-single-lnk_en.py | grep '"*\n"'
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt 
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep ' | '
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep ' | *'
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep ' | *' | grep ' ['
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep ' | *' | grep ' \['
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep ' |'
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep '|  '
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep '| '
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep '| *'
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep '|'
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep '|\t'
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep -E '\|\t'
+diff -y zip-and-7zip-tutorial-multif_20170109.txt zip-and-7zip-tutorial-multif_20170109-2.txt | grep -E '|\t'
+diff ./ ./_staro/
+diff /c/Users/gregor.redelonghi/DONOTBACKUP.txt /j/METSYS/DONOTBACKUP.txt
+diff Slomskova-1_GIS-PP_20160425.txt Slomskova-1a_GIS-PP_20160425.txt
+diff Varnostni_nacrt_ODDAJA.zip Varnostni_nacrt_ODDAJA_QUSTNM.zip
+diff ZZE.txt ZZE2.txt
+diff bin bin/ bin/_staro/
+diff bin/ bin/_staro/
+diff cups_lpadmin-examples_20150422.txt cups_lpadmin-examples_20150527.txt
+diff file1 file2
+diff ftp_access.sh ftp_access.sh.novo.20150304.txt
+diff powertop_automatic-power-saving-linux-laptop_20160512.txt powertop_automatic-power-saving-linux-laptop_20160512-2.txt
+diff predpisi-stari.txt predpisi-novi.txt
+diff rsync-backups-oneliners_20150630.txt rsync-backups-oneliners_20150706.txt
+diff seznam-oneliners-with-contents_20170223-2.txt seznam-oneliners-with-contents_20170223-3.txt 
+diff seznam-oneliners-with-contents_20170223-2.txt seznam-oneliners-with-contents_20170223-3.txt | less
+diff trap-exit-loop.sh trraapp.sh 
+diff try.sh try-2.sh 
+diff usr-share-nano_cygwin-en_20160523-2.tar.gz usr-share-nano_cygwin-en_20160523.tar.gz
+diff-tutorial
+dir()
+dir(dict)
+dircolors
+dirname $(ls -1 xrandr_set-videomode-with-xrandr.txt)
+dirname $(ls 1 xrandr_set-videomode-with-xrandr.txt)
+dirname $(realpath xrandr_set-videomode-with-xrandr.txt)
+dirname $PWD
+dirname - strip last component from file name
+dirname xrandr_set-videomode-with-xrandr.txt
+diskpart
+dmv="~/domov_20160526.txt"; sed -n '/skrn/,$p' /home/forallusers/funclist > $dmv && np $dmv
+dmv="~/domov_20160526.txt"; touch $dmv; sed -n '/skrn/,$p' /home/forallusers/funclist > $dmv && np $dmv
+dmv="~/domov_20160526.txt"; touch 4dmv; sed -n '/skrn/,$p' /home/forallusers/funclist > $dmv && np $dmv
+dns-nameservers 192.168.3.45 192.168.8.10
+dns-search example.com
+dos2unix
+dos2unix send_config_en.conf
+dos2unix.exe html2text.py
+dropbox autostart [y/n]
+dropbox exclude [list]
+dropbox exclude add [DIRECTORY] [DIRECTORY] 
+dropbox exclude remove [DIRECTORY] [DIRECTORY]  
+dropbox file status  [-l] [-a] [FILE]
+dropbox proxy MODE [TYPE] [HOST] [PORT] 
+dropbox puburl FILE
+dropbox running
+dropbox sharelink FILE
+dropbox start [-i]
+dropbox status
+dropbox stop
+dropbox throttle DOWNLOAD UPLOAD
+dsbot
+du
+du --total ~/_Downloads_c-gredelonghi/*.py
+du -c *7z*
+du -ch *7z*
+du -ch *aio*7z*
+du -ch *lib*7z*
+du -ch li*7z*
+du -h --total ~/_Downloads_c-gredelonghi/*.py
+du -h ./*
+du -h ./* | sort -hr
+du -h ./* | sort -hr | less
+du -h ./* | srt -hr | less
+du -h _RPi/
+du -h | sort -hr
+du -h./* | sort -hr
+du -hs .* | sort -hr
+du -hs ./.* | sort -hr
+du -hs ./.[!.]* | sort -hr
+du -hs .[!.]*
+du -hs .[!.]* | sort -hr
+du -hs .[!.]* | sort -hr | ls -l
+du -hs .[!.]* | sort -hr | xargs ls -l {} \;
+du -hs .[!.]* | sort -hr | xargs ls -ld {} \;
+du -hs .[!.]* | sort -hr | xargs ls -ld {} \; 2>/dev/null
+du -hs .[!.]* | sort -hr | xargs ls -lhd {} \; 2>/dev/null
+du -s $DBOT ./*
+du -s $DBOT ./* | sort -hr
+du -s ./
+du -sh
+du -sh $DBOT ./* | sort -hr
+du -sh --total
+du -sh --total ./* | sort -h
+du -sh --total ./* | sort -hr | head
+du -sh --total ./* | sort -ht
+du -sh --total ODPRTO/ SKUPNI/
+du -sh --total ext_*
+du -sh ./*
+du -sh ./* | sort -hr | head
+du -sh ./* | sort -hr | head -n15
+du -sh ./2-PDF
+du -sh /* | sort -hr | sed -n '/M.*\//p'
+du -sh /c/Users/gregor.redelonghi/2017/
+du -sh /c/Users/gregor.redelonghi/Downloads/* | sort -hr | head -n 25
+du -sh /c/Users/gregor.redelonghi/Dropbox/*
+du -sh /c/Users/gregor.redelonghi/Dropbox/* | sort -hr
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | grep "M.*/"
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | egrep 'M\t'
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | grep "M */"
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | grep "M .*/"
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | grep "M*./"
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | grep "M*/"
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | grep "M.*/"
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | grep 'M '
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | less
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | sed -n '/*{2}M.*\//p'
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | sed -n '/.{2}M.*\//p'
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | sed -n '/M.*\/'p
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | sed -n '/M.*\//p'
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | sed -n '/M.*\/p'
+du -sh /c/Users/gregor.redelonghi/Dropbox/SKUPNI/* | sort -hr | sed -n '/{2}M.*\//p'
+du -sh /c/Users/gregor.redelonghi/myprogs/cygwin_LPD
+du -sh /c/Users/gregor.redelonghi/myprogs/cygwin_LPD/
+du -sh /etc/
+du -sh /tmp/
+du -sh Downloads
+du -sh Dropbox
+du -sh ODPRTO SKUPNI
+du -sh ODPRTO/
+du -sh ODPRTO/ SKUPNI/
+du -sh Practical-Common-Lisp
+du -sh SKUPNI/
+du -sh _PYTHON/
+du -sh _TXT/
+du -sh bekap-c_gregor.redelonghi_Downloads/
+du -sh bekaps/bekap-c_gregor.redelonghi_Downloads
+du -sh | sort -hr
+du ./*
+du /c/Users/gregor.redelonghi/Downloads/ultimate-edition-5.0-x64-lite-mate.iso
+du /c/Users/gregor.redelonghi/Downloads/ultimate-edition-5.0-x64-lite-mate.iso | awk '{print $1}'
+du /d/Downloaded-ISO-s/ultimate-edition-5.0-x64-lite-mate.iso
+du /d/Downloaded-ISO-s/ultimate-edition-5.0-x64-lite-mate.iso | awk '{print $1}'
+echo "# clear && gr_DANES="$(date +%Y%m%d)"; rsync -avn --delete --progress --exclude-from=/c/Users/gregor.redelonghi/DONOTBACKUP.txt /c/Users/gregor.redelonghi/ /j/bekap-c_gregor.redelonghi_${gr_DANES}/ | less"
+echo "# for DDD in $(find -maxdepth 1 -type d -name "bekap*"); do mv -vvv $DDD ${DDD//0630/0706}; done"
+echo "# for DDD in $(find -maxdepth 1 -type d -name "bekap*"); do mv -vvv $DDD ${DDD//0908/0910}; done"
+echo "#"
+echo "$(basename $(ls -1 -d _brisi/*))"
+echo "$(cygpath -w "$PWD")/bin-from-en_20150323.tar.gz"
+echo "$(cygpath -w "$PWD")\\bin-from-en_20150323.tar.gz"
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)"
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '-' -f 1-
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '-' -f 1-2
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '-' -f 2,
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '-' -f 2-
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '-' -f1
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '-' -f2
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '-' -f2,
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '-' f 2-
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | cut -d '_' -f 2-
+echo "$(ls -1 howto_stop-bluetooth-service_20140127.txt)" | sed 's/howto_//'
+echo "$AARG"
+echo "$VAR"
+echo "${AARG}.txt"
+echo "${AARG}\""
+echo "${svmodra]SVMODRA ${svzelena}SVZELENA ${navadna}NAVADNA"
+echo "0x04"
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###"
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/ /st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/[0-9]/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/[^0-9]/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/\S/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/\W/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/\\d/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/\d /st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/\d/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/\s/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed 's/\w/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed -E 's/\d/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed -r 's/\D/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed -r 's/\b/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed -r 's/\d/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed -r 's/\n/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed -r 's/\s/st/g'
+echo "1 2 3 4 5 Gregor Redelonghi Tadeja_mali_redelonghi ###" | sed -r 's/\w/st/g'
+echo "20170303-01" > B/File1 
+echo "20170303-01" > File1 
+echo "20170303-02" > A/File2
+echo "<Ctl-V><Alt64>"
+echo "<ctl-V><Alt64>"
+echo "COOL: http://www.1959bhsmustangs.com/VideoJukebox.htm" | ~/bin/snd.mm.hm.sh
+echo "Danasnji BASH dosezki ..." | sendfiles
+echo "Danasnji BASH dosezki ..." | sendfiles rgregor-bin_20150320-II.tar.gz
+echo "Danasnji BASH dosezki ..." | sendfiles rgregor-bin_20150320.tar.gz
+echo "Exit status" $?
+echo "Gregor Redelonghi" | rev
+echo "Gregor Redelonghi" | tac -s "i"
+echo "Gregor Redelonghi" | tac -s i
+echo "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana" | md5sum
+echo "Gregor Redelonghi, Valvasprjeva ulica 5, 1000 Ljubljana"
+echo "Gregor Redelonghi, Valvasprjeva ulica 5, 1000 Ljubljana" | md5sum
+echo "Gregor Redelonghi,Valvasorjeva ulica 5, 1000 Ljubljana" | md5sum
+echo "Gregor"
+echo "Line 1
+echo "NUM OF PAGES: $(($(cat python_for-digital-artists-multif_20170220.txt | wc -l)/80))"
+echo "Obnova plinovodnega omreja v Dravljah  I. faza " | tr '[:lower:]' '[:upper:]'
+echo "PASSWD: "; read _ps; echo $_ps | md5sum
+echo "PASSWD: "; read _ps; echo $_ps | md5sun
+echo "TEST - vrstica 1" > NNN.txt
+echo "Tadeja Mali Redelonghi" | rev
+echo "Tadeja Mali Redelonghi" | rev | tac -i " "
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ','
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -i ','
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -i ,
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s ,
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | sed 's/,/ /'
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | sed 's/,/ /' | sed 's/\n/ /'
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | sed 's/,/ /g'
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | sed 's/,//g'
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | sed 's/\n*//g'
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | sed 's/\n//g'
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | sed -e 's/,/ /' -e 's/\n/ /'
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | tr ',' '
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' ',' | tac -s , | tr ',' ' '
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' 'Y'
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' 'Y' | tac -i Y
+echo "Tadeja Mali Redelonghi" | rev | tr ' ' 'Y' | tac -s Y
+echo "This <strong> is <//strong>a test." | sed -re 's/</*\w+>//g'
+echo "This <strong> is <//strong>a test." | sed -re 's/<\/*\w+>//g'
+echo "This <strong> is <//strong>a test." | sed -re 's/<\/?\w+>//g'
+echo "This <strong> is </strong>a test." | sed -re 's/<\/*\w+>//g'
+echo "This <strong> is </strong>a test." | sed -re 's/<\/+\w+>//g'
+echo "This <strong> is </strong>a test." | sed -re 's/<\/?\w+>//g'
+echo "This <strong> is </strong>a test." | sed -re 's/<\w+>//g'
+echo "This<strong> is </strong>a test." | sed -re 's/<\/?\w+>//g'
+echo "To je pa res èudno!"
+echo "What are the best Python scripts you've ever written" | tr ' ' '_'
+echo "What are the best Python scripts you've ever written" | tr ' ' '_' | tr "'" "-"
+echo "Who is havinga a MEM-o in head"
+echo "Who is havinga a MEMory in head" | grep -i "\(mm\)*\(ory\)*"
+echo "Who is havinga a MEMory in head" | grep -i "\(mm\).*\(ory\)*"
+echo "Who is havinga a MEMory in head" | grep -i "me.*\(ory\)*"
+echo "Who is havinga a MEMory in head" | grep -i "mm*\(ory\)*"
+echo "Who is havinga a MEMory in head" | grep -i "mm.*\(ory\)*"
+echo "Who is havinga a MEMory in head" | grep -iE "(mm)*(ory)*"
+echo "Who is havinga a MEMory in head" | grep -iE "mem"
+echo "Who is havinga a MEMory in head" | grep -iE "mem(ory)*"
+echo "Who is havinga a MEMory in head" | grep -iE "mem\(ory\)*"
+echo "Who is havinga a MEMory in head" | grep -iE "mm*(ory)*"
+echo "\"$AARG\""
+echo "\"${AARG}.txt\""
+echo "\#"
+echo "\x04"
+echo "^M 64"
+echo "^M63"
+echo "^M64"
+echo "alias kateof='cat <<EOF | ~/bin/snd.mm.hm.sh'"
+echo "alias kateof=\'cat <<EOF | ~/bin/snd.mm.hm.sh\'"
+echo "cp dnevno*.{html,html.bckp}"
+echo "for AAA in $(for FFF in $(ls -1 | grep -oE '[[:digit:]]{8}'); do echo $FFF; done | sort -n | uniq); do if [ $AAA -gt 20150411 ]; then ls -1 *${AAA}*; fi ; done"
+echo "greor Redelonghi5H5H"
+echo "http://www.linux-server-security.com/" >> seznami/_samostojni-URL-naslovi_20160530.txt
+echo $EDITOR
+echo $HOME
+echo $PATH | grep -v Win
+echo $PATH | sed '@s@/c/Win.*:@@'
+echo $PATH | sed 's@/c/Win.*:@@'
+echo $PATH | sed 's@/c/Win.*:@@' | tr ':' ' '
+echo $PATH | tr ':' ' '
+echo $PATH | tr ':' ' ' |grep -v Win
+echo $VISUAL
+echo Redelonghi | rev
+export LANG=sl_SI.UTF8
+export LC_ALL=C
+fg %1
+file --help
+file -bi "Finding Nemo 720p SLO.srt" 
+file -bi "Finding Nemo 720p.srt" 
+file -bi "Finding Nemo.txt" 
+file -bi fajel_2.txt 
+file fajel_2.txt 
+filename: chardet_python_module-and-cli-tool_20170412.txt
+find -inam "*pop*dwg"
+find -iname "*[-_]ip[-_]*"
+find -iname "*lisp*"
+find -iname "*pop*dwg"
+find -maxdepth -type d -iname "*sostro*dobr*"
+find -maxdepth 1 -type f -name "*PGD_V7_*"
+find -maxdepth 1 -type f -name "*_Pragersko-PGD_V7_*"
+find -maxdepth 1 \( -name "send*config*conf" -o -name "send*config*py" \)
+find -maxdepth 1 \( -name "send*config*conf" -o -name "send*config*py*" \)
+find -maxdepth 2 -type d -iname "*sostro*dobr*"
+find -name "*p*ss*"
+find -name "send*config*(conf\|py)"
+find -name "send*config*\(conf\|py\)"
+find -name "send*config*conf"
+find -name "send*config*py"
+find -name "send*config*{conf,py}"
+find -size -100K
+find -size -100k
+find -type d -iname "*dn*100*"
+find -type d -iname "*indent*guide*"
+find -type d -iname "*prik*dn*100*"
+find -type d -iname "*sor*"
+find -type d -maxdepth 2 -iname "*sostro*dobr*"
+find -type f -iname "*PP*dn*100*dwg"
+find -type f -iname "*dn*100*"
+find -type f -iname "*indent*guide*"
+find -type f -iname "*lisp*"
+find -type f -iname "*nad*ur*txt"
+find -type f -iname reindent.py
+find -type f -mtime -3 -mtime 2 -iname "*.dwg"
+find -type f -name "*_Pragersko-PGD_V7_*"
+find ../.. -name padec.py
+find ../2014 -type f -iname "*dn*100*"
+find ../2014 -type f -iname "*dn*100*dwg"
+find ../2015 -type f -iname "*dn*100*"
+find /c/Users/gregor.redelonghi/ -type -f -iname "*nad*ur*"
+find /c/Users/gregor.redelonghi/ -type d -iname "*indent*guide*"
+find /c/Users/gregor.redelonghi/ -type f -iname "*nad*ur*"
+find /c/Users/gregor.redelonghi/2017/ -type f -mtime -3 -mtime 2 -iname "*.dwg"
+find /c/Users/gregor.redelonghi/2017/-type f -mtime -3 -mtime 2 -iname "*.dwg"
+find \( -name "send*config*conf" -o -name "send*config*py" \)
+find \( -name "send*config*conf" -o -name "send*config*py*" \)
+find \( -name "send*config*py" -o -name "send*config*py" \)
+find _TXT/ -type f -iname "*lisp*"
+find _TXT/ -type f -iname "*lisp*" -exec mv {} _LISP/ \;
+fm
+for F in $(grep -lr '\/En\/gr' ./*); do sed -n 's/gr.01/gr.02/pg' $F; done
+for FFF in $(find -maxdepth 1 -type f -name "*PGD_V7_*"); do echo "mv -v ${FFF} --> ${FFF//V7/V8}"; done
+for FFF in $(find -maxdepth 1 -type f -name "*PGD_V7_*"); do mv -v ${FFF} ${FFF//V7/V8}; done
+for FFF in $(find -maxdepth 1 \( -name "send*config*conf" -o -name "send*config*py" \)); do echo $FFF; done
+for FFF in $(find -maxdepth 1 \( -name "send*config*conf" -o -name "send*config*py" \)); do grep '/En/gr.01/' $FFF; done
+for N in 1 2 3 4 5 6 7 8 9; do FFF="fajel_${N}.txt"; touch $FFF && echo "This is $FFF" > $FFF; done
+for gr_END in conf py; do sed 's/gr.01/gr.02/g' send_config_en.${gr_END}; done
+for gr_END in conf py; do sed -n 's/gr.01/gr.02/pg' send_config_en.${gr_END}; done
+for index, fibonacci_number in enumerate(fib()):
+git clone https://github.com/souravchk/dotfiles.git
+grep "dd.*iso" ~/seznami/*
+grep 'fjl.txt' ./*
+grep -i 'is ' ./*
+grep -i exi ./*
+grep -i file ./*
+grep -i if ./*
+grep -i is ./*
+grep -i mega otirks_20170205.txt
+grep -i path ./*
+grep -l '\/En\/gr' ./*
+grep -lr '\/En\/gr' ./*
+grep -m2 system nfs_howto-set-up-an-nfs-mount-on-ubuntu-14-04_20151117.txt 
+grep -m3 system ./*
+grep -s 'fjl.txt' ./*
+grep -s -m 3 argv ./*
+grep -s -m3 argv ./*
+grep -s argv ./*
+grep arg ./*
+grep arg ./*.py
+grep argv ./*
+grep clear ./*
+grep fjl.txt ./*
+grep if linear-sort.py
+grep parse ./*
+grep print fib2.py 
+grep range ./*
+grep sys ./PYTHON-en/*
+grep sys.argv ./*.py
+grep sys.argv ./PYTHON-en/*
+grep sys.argv ./PYTHON-en/*.py
+grep system -m 1 ./*
+grep system -m 1 nfs_howto-set-up-an-nfs-mount-on-ubuntu-14-04_20151117.txt 
+grep system -m 3 ./*
+grep system -m 5 ./*
+grep system -m 5 nfs_howto-set-up-an-nfs-mount-on-ubuntu-14-04_20151117.txt 
+grep system -m1 nfs_howto-set-up-an-nfs-mount-on-ubuntu-14-04_20151117.txt 
+grep system -m3 ./*
+grep system -m3./*
+grep system ./*
+grep while linear-sort.py
+head -c 1500 cat-vs-dd_the-cult-of-dd_20170331.txt > /c/Users/gregor.redelonghi/Desktop/test.txt
+history | grep pip
+history | grep pip3
+history | grep srt
+iconv -f WINDOWS-1250 -t UTF-8 "Finding Nemo 720p.srt" > "Finding Nemo 720p SLO.srt" 
+iconv -f WINDOWS-1252 -t UTF-8 "Finding Nemo 720p.srt" > "Finding Nemo 720p SLO.srt" 
+iconv -l
+iconv -l | grep -i WINDOWS
+iconv -l | grep -i windows
+iconv -l | grep 8859
+iconv -l | grep windows
+iconv -l | less
+l1 ~/seznami/history-en.dat_20170*
+lc_ALL=C
+less "')*"
+less "\'\)*"
+less -J typescript 
+less -U typescript 
+less -r typescript 
+less -u typescript 
+less -w typescript 
+less /c/Users/gregor.redelonghi/Desktop/test.txt
+less 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+less 20170418.py 
+less 20170419_A.py 
+less DANES.txt 
+less LCS.py 
+less PARCELE-SORTIRANO.txt 
+less README.md 
+less Split.2016.BDRip.x264-SPARKS.srt 
+less TEST-2-d_20170328.py 
+less TEST-d_20170328.py 
+less _TABLE_20170224.txt 
+less cat-vs-dd_the-cult-of-dd_20170331.txt 
+less check.py 
+less fjl.txt 
+less linear-sort_output.txt 
+less listulb_20170306.txt 
+less listulb_20170508.txt 
+less new.py
+less new.py 
+less new.py.bak
+less new.py.bak 
+less new.py.bak.bak 
+less odds.py 
+less otirks_20170205.txt 
+less password-update-en_20170104.onl.txt 
+less send
+less send_config_en.py
+less t2.py 
+less tmux.conf 
+listulb 
+lln -s /c/Users/gregor.redelonghi ~/_C_GREDELONGHI
+ln -s /c/Users/gregor.redelonghi/majstaf/BRISI ~/_BRISI
+ln -s /c/Users/gregor.redelonghi/Dropbox/ ~/_DROPBOX
+ln -s /g/SKUPNO/Redelonghi/ /home/gregor.redelonghi/_G_REDELONGHI
+ln -s /usr/bin/python2 /usr/local/bin/pyt2
+ln -s /usr/bin/python2 /usr/local/bin/pyt3
+ln -s /usr/bin/python3 /usr/local/bin/pyt3
+ln -s _DOWNLOADS _PRENOSI
+ln -s python2 python
+ln -s python3 python
+ln /usr/bin/python3 /usr/local/bin/pyt3
+ltrace
+lynxd "https://www.quora.com/Now-that-I-know-Python-what-can-I-do-with-it" python-what-can-I-do-with-it
+mkdir PREBERI
+mkdir TEMP
+mkdir _LISP
+mkshortcut
+mv *.DWG OPPN-43_Zadobrova_etapa-A_PID_risbe/
+mv *.dwg OPPN-43_Zadobrova_etapa-A_PID_risbe/
+mv /usr/local/bin/{s,S}1
+mv /usr/local/bin/{s,s}1
+mv Practical-Common-Lisp _LISP/
+mv TEST.py.txt TEST-d_20170328.py
+mv _Downloads_c-gredelonghi _DOWNLOADS
+mv _Prenosi _PRENOSI
+mv _cgr _C_GREDELONGHI
+mv _{g,G}_ARHIVA_PROJEKTI_Plin
+mv c{u,a}t-vs-dd_the-cult-of-dd_20170331.txt 
+mv en-BTP_20170424.tar.gz{,.txt} 
+mv fib_20170330.py.{txt,} 
+mv fib_20170330.py{.,} 
+mv lisp_setting-up-lisp-on-ubuntu-linux_{,multif_}20170327.txt 
+mv new.py{.bak.bak,}
+mv python_linuxconfig-org_inheritance_20170331.txt ../_PYTHON/
+mv python_linuxconfig{.,-}org_inheritance_20170331.txt 
+mv sendp3mymail_en.py.STARO _STARO-en/
+mv sendp3mymail_en.py{,.STARO} 
+mv sendp3mymail_en{_TEST,}.py 
+mv t2.py{.txt,} 
+mv {S,s}cience-or-god_20170413.txt 
+mv {S.s}cience-or-god_20170413.txt 
+nifs; for FFF in $(find $PWD -type f -iname "*.txt"); do unix2dos $FFF; done
+nt
+p3 09052016_test.py 
+p3 09052016_test.py 1 2 3 "One two three"
+p3 20170203_args.py 
+p3 20170203_args.py "Gregor Redelonghi"
+p3 20170418.py
+p3 20170419_A.py 
+p3 OO1.py 
+p3 TEST-2-d_20170328.py 
+p3 TEST-d_20170328.py 
+p3 __danes.py 
+p3 __today2.py 
+p3 check.py 
+p3 dicq
+p3 dict-test.py 
+p3 fctrl.py 
+p3 fib.py 
+p3 fib_20170330.py 
+p3 fib_20170330.py. 
+p3 odds.py 
+pip
+pip --version
+pip2 --version
+pip3
+pip3 --version
+pip3 instal reindent
+print f.next()
+print fibR(5)
+print fibm
+print map(fib, range(startNumber, endNumber))
+print("\nLongest Common Substring is:",LCS)
+ps -W
+ps aux
+ps aux 
+ps aux | grep pty
+ps aux | grep tmux
+ps aux | sort -k6
+pyt3 TEST-2-d_20170328.py
+pyt3 TEST-d_20170328.py 
+python 3 linear-sort.py 
+python2 /usr/lib/python2.7/site-packages/reindent.py
+python2 /usr/lib/python2.7/site-packages/reindent.py new.py.bak 
+python2 20170419_A.py 
+python2 TEST.py.txt 
+python2 fctrl.py 
+python2 fib2.py 
+python2 reindent new.py.bak 
+python3 $(find ../.. -name padec.py)
+python3 ./LCS.py
+python3 ./LCS.py 
+python3 ./OO1.py 
+python3 ./TEST-d_20170328.py 
+python3 ./check-encoding.py 
+python3 ./t2*
+python3 /c/Users/gregor.redelonghi/DANES/TEST.py.txt
+python3 20170419_A.py 
+python3 TEST.py.txt 
+python3 US-grades.py 
+python3 _BRISI/romb.py 
+python3 bin/testing-en/PYTHON-en_testing/ordered.dict.20170510.py 
+python3 cas.py 
+python3 cas2.py 
+python3 divide-list_
+python3 divide-list_02_20170420.py 
+python3 divide-list_20170420.py
+python3 divide-list_20170420.py 
+python3 factors.py 
+python3 fctrl.py 
+python3 fib.py 
+python3 fib2.py 
+python3 fib_*
+python3 linear-sort.py
+python3 linear-sort.py 
+python3 linear-sort.py | less
+python3 odds.py 
+python3 odds.py | less
+python3 ordered.dict.20170510.py 
+python3 ~/_BRISI/sum.py 
+python3 ~/bin/PYTHON-en/check-enc_2.py test.txt 
+python3 ~/bin/PYTHON-en/check-encoding.py
+python3 ~/bin/PYTHON-en/check-encoding.py 
+python3 ~/bin/PYTHON-en/check-encoding.py "Finding Nemo 720.srt" 
+python3 ~/bin/PYTHON-en/check-encoding.py "Finding Nemo 720p SLO.srt" 
+python3 ~/bin/PYTHON-en/check-encoding.py "Finding Nemo 720p.srt" 
+python3 ~/bin/PYTHON-en/check-encoding.py "test.txt" 
+python3 ~/bin/PYTHON-en/check-encoding.py Finding\ Nemo.srt
+python3 ~/bin/PYTHON-en/check-encoding.py Finding\ Nemo\ 720p.srt
+qc
+qcp
+qcp --help
+qcp --help | less
+qcp File1*
+qmv
+qmv --help
+qmv --help | less
+reindent new.py 
+reindent new.py.bak 
+reindent.py new.py 
+rewrap science-or-god_20170413.txt 
+s1 "https://www.linux.com/learn/intro-to-linux/2017/3/build-real-vpn-openvpn"
+s1 "test"
+sbr
+script
+sed '/^&/s/^$//' -i science-or-god_20170413.txt 
+sed '/^&/s/^$//' science-or-god_20170413.txt 
+sed '/s/Ans/And/' fjl.txt 
+sed 's/Ans/And/' fjl.txt 
+sed -e '/print /s/$/)/' -e '/print /s/print /print(/' fib2.py | grep print
+sed -e '/print /s/$/)/' -e '/print /s/print /print(/' fib2.py | less
+sed -e '/print /s/$/)/' -e '/print /s/print /print/' fib2.py 
+sed -e '/print /s/$/)/' -e '/print /s/print /print/' fib2.py | less
+sed -e '/print /s/$/\)/' -e '/print /s/print /print/' fib2.py | less
+sed -i 's/Ans/And/' fjl.txt 
+sed -i -e '/print /s/$/)/' -e '/print /s/print /print(/' fib2.py | grep print
+sed -n '/print /'p fib2.py 
+sed -n '/print /s/$/)/'p fib2.py 
+sed -n 's/gr.01/gr.02/pg' send_config_en.conf 
+sed -n 's/gr.01/gr.02/pg' send_config_en.py
+sed -n 's/gr.01/gr.02/pg' send_config_en.pyc
+shuf -n1 schaff.txt 
+shuf schaff.txt 
+tar -tvzf en-BTP_20170424.tar.gz | less
+tar -tvzf tinywm-1.3.tgz 
+tar -tzvf targz-file.tar.gz 
+tar -xvzf bckpbin-en.20170322-153321.tar.gz 
+tar -xvzf tinywm-1.3.tgz 
+tmux
+while read LL; do ${LL}; done < /c/Users/gregor.redelonghi/Desktop/povezave.txt 
+while read LL; do bash ${LL}; done < /c/Users/gregor.redelonghi/Desktop/povezave.txt 
+while read LL; do bash -c ${LL}; done < /c/Users/gregor.redelonghi/Desktop/povezave.txt 
+while read LL; do echo $LL; done < /c/Users/gregor.redelonghi/Desktop/povezave.txt 
+while read LL; do echo ${LL}; done < /c/Users/gregor.redelonghi/Desktop/povezave.txt 
+while true: do shuff -n1 schaff.txt; done
+while true: shuff -n1 schaff.txt ; done
+while true; do shuf -n1 schaff.txt; done
+while true; do shuf -n2 schaff.txt; done
+while true; do shuf -z schaff.txt; done
+while true; do shuff -n1 schaff.txt; done
+~/bin/PYTHON-en/check-encoding.py 
+~/bin/correct-indentation-with-reindent.sh 
+~/bin/correct-indentation-with-reindent.sh new.py 
+~/bin/lynx-multi-dump_fromlist-en_20141218.sh 
+$> chardetect "Finding Nemo 720p slo.srt"
+$> chardetect "Finding Nemo 720p.srt"
+$> chardetect --help
+(FJL=linear-sort.py && echo && echo; cat $FJL;  python3 $FJL) | less
+(FJL=linear-sort.py; cat $FJL;  python3 $FJL) | less
+(FJL=linear-sort.py; cat $FJL; echo -e "\n================================================\n"; python3 $FJL) > linear-sort_output.txt
+(FJL=linear-sort.py; cat $FJL; echo -e "\n================================================\n"; python3 $FJL) | less
+(FJL=linear-sort.py; echo -e "\n=====================================================\n"; cat $FJL;  python3 $FJL) | less
+./LCS.py
+./LCS.py 
+./check-encoding.py 
+./sendp3mymail_en
+./sendp3mymail_en_02.py 
+./sendp3mymail_en_TEST.py 
+FJL = linear-sort.py; cat $FJL &&  python3 $FJL | less
+FJL = linear-sort.py; cat $FJL; python3 $FJL | less
+FJL=linear-sort.py; cat $FJL;  python3 $FJL | less
+LCS = longest_common_substring(string1, string2)
+S1 "http://blog.hackerearth.com/2015/05/top-7-algorithms-and-data-structures-every-programmer-should-know-about.html"
+S1 "http://www.dedoimedo.com/computers/backup-strategy.html"
+S1 "https://cialu.net/brightness-control-not-work-i3wm/"
+bash /c/Users/gregor.redelonghi/Desktop/povezave.txt 
+bin/testing-en/PYTHON-en_testing/
+bin/testing-en/PYTHON-en_testing/fib.py 
+cat "def longest_common_substring(s1, s2):
+cat $FJL
+cat /proc/partitions 
+cat <<"EOF" > LCS.py
+cat <<EOF > MALTEKSTA.txt
+cat <<EOF > fib2.py
+cat MALTEKSTA.txt 
+cat fajel_*
+cat gremdomov.log | sed -n '/-[[:digit:]]'/p
+cat history-en.dat_20170412-104724 
+cat science-or-god_20170413.txt 
+cat send_config_en.conf 
+cat ~/_BRISI/sum.py 
+cat ~/seznami/history-en.dat_20170503-111441 | git
+cat ~/seznami/history-en.dat_20170503-111441 | grep -C3 git
+cat ~/seznami/history-en.dat_20170503-111441 | grep git
+chardet
+chardetect
+chardetect "Finding Nemo 720.srt" 
+chardetect "Finding Nemo 720p SLO.srt" 
+chardetect "Finding Nemo 720p slo.srt" 
+chardetect "Finding Nemo 720p.srt" 
+chardetect --help
+chardetect test.txt 
+chmod 755 LCS.py
+chmod 755 fib.py 
+cp -v ./* ~/bin/testing-en/PYTHON-en_testing/
+cp /c/Users/gregor.redelonghi/2017/N-19020_21923_obn_Dravlje_2F_PZI/obn_Dravlje_2F_PZI_podatki/obn_Dravlje_2F_PARCELE-02_20170421.txt ./
+cp TEST{,-2}-d_20170328.py 
+cp bckpbin-en.20170322-153321.tar.gz /home/gregor.redelonghi/RUT/home/rgregor/
+cp check-encoding.py ~/bin/PYTHON-en/
+cp send_config_en.* ~/bin/
+cp sendp3mymail_en{,_02}.py 
+cp sendp3mymail_en{,_TEST}.py 
+diff -C obn_Dravlje_2F_PARCELE-01_20170207.txt PARCELE-SORTIRANO_20170421.txt 
+diff -c obn_Dravlje_2F_PARCELE-01_20170207.txt PARCELE-SORTIRANO_20170421.txt 
+diff -c obn_Dravlje_2F_PARCELE-01_20170207.txt PARCELE-SORTIRANO_20170421.txt  >> ~/_BRISI/output.txt
+diff -y obn_Dravlje_2F_PARCELE-01_20170207.txt PARCELE-SORTIRANO_20170421.txt 
+diff obn_Dravlje_2F_PARCELE-01_20170207.txt PARCELE-SORTIRANO_20170421.txt 
+dos2unix sendp3mymail_en*
+dos2unix.exe send_config_en.py*
+du -sh ./
+du -sh /c/Users/gregor.redelonghi/Dropbox/
+du /c/Users/gregor.redelonghi/Dropbox/
