@@ -1,7 +1,0 @@
-bin/00_ukazi/repl_bash_en_V1_20180109.sh
-bin/PYTHON_en/PYTHON_en_testing/clean_movies_dirname_20180105/clean_movie_dirname_en_V2_20180105.py
-bin/PYTHON_en/PYTHON_en_testing/repl_blanks-and-punct_with-dashes-or_undsc_20180104/repl_en_V3_20180104.py
-bin/PYTHON_en/PYTHON_en_testing/repl_en_V5_20180109.py
-bin/PYTHON_en/PYTHON_en_testing/timestamp_and_timeit_20171122.py
-bin/testing_en/20180109/repl_bash_en_V1_20180109.sh
-bin/testing_en/repl_bash_en_V1_20180109.sh

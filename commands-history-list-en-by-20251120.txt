@@ -1,0 +1,2938 @@
+$((100 * 1024 * 1024))
+$((36*365+11))
+$(cygpath -u "C:\Users\gregor.redelonghi\majstaf\majprogs\mingw64\bin\x86_64-w64-mingw32-g++.exe") -o test abc.cpp
+$(cygpath -u "C:\Users\gregor.redelonghi\majstaf_en\majprogs\mingw64\bin\x86_64-w64-mingw32-g++.exe") -o test abc.cpp
+$(ralpath ./brth_test) 
+$(realpath ./brth_test)
+$(which yt-dlp)
+$DANES/
+$DANES/obletnica_z/zig-out/bin/obletnica_z 2033
+$EMRCS/
+B=2; for E in $(seq 1 18); do $R=$((${B}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do $R=$((${b}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%-4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%-4d)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%d)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%d)\n" "2" "${E}" "$((${R}/2))" ; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %8d (%3d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %wq8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-5d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "${B}, ${E}, ${R}"; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=$(($B-1))*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=($B-1)*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B} ${E} ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B} ${E} ${R}; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n", ${B} ${E} ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n", ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n, ${B}, ${E}, ${R}"; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = ${B}*2\n"; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n" ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n", ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n, ${B}*2"; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = \n"; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n ${B} ${E} ${B}*2"; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B} ${E} ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $(( ${B} * 2 )); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $((${B} * 2)); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $((${B}*2)); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n, ${B}, ${E}, ${B}*2"; done
+TZ=Europe/Amsterdam date -d '20250330 01:30:00'
+TZ=Europe/Amsterdam date -d '20250330 01:59:59'
+TZ=Europe/Amsterdam date -d '20250330 02:30:00'
+TZ=Europe/Ljubljana date -d '20250330 02:30:00'
+apt-cyg search glow
+apt-cyg search iconv
+apt-cyg search libxml2
+aptcyg search glow
+arr+="GRGEG"
+arr+="TDJ"
+arr+="tadeja"
+arr+=("greg")
+arr+=("tadeja")
+arr+=([ime]="Gregor" [pri]="Redelonghi")
+arr0+=([ena]=ena [dva]=dva)
+arr0=([ena]=ena [dva]=dva)
+arr2+="Mark"
+arr2+=("Mark")
+arr=( $(git status) )
+arr=("greg")
+arr=()
+arr=([ime]="Gregor" [pri]="Redelonghi")
+arr[0]="greg"
+arr[0]=greg
+array+="Gregorr"
+array+="Tadeja 'The Queen' Mali Redelonghi"
+array+="Tadeja \"The Queen\" Mali Redelonghi"
+array+='Tadeja "The Queen" Mali Redelonghi'
+array=()
+at
+awk '{print $NF,$0}' |sort -n < <(for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done)
+awk '{print $NF,$0}' |sort -nr < <(for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done)
+awk '{print $NF,$0}' |sort -nr <(for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done)
+bash
+cargo --help
+cargo --version
+cargo build
+cargo build --profile release-windows --locked
+cargo build --release
+cargo build --release --locked
+cargo build main.rs 
+cargo build src/test.rs 
+cargo check
+cargo clean
+cargo doc
+cargo doc --open
+cargo help build
+cargo init .
+cargo init 20240905_rust_testing
+cargo init rust_strings_testing_20240905/
+cargo new data_types
+cargo new functions
+cargo new guessing_game
+cargo new majtests
+cargo new methods
+cargo new quessing_game
+cargo new structs
+cargo new variables
+cargo ru
+cargo run
+cargo run --bin src/bin/
+cargo run --bin src/bin/test
+cargo run --bin src/bin/test.rs 
+cargo run --bin src/main.rs 
+cargo run --bin src/main.rs test
+cargo run --quiet
+cargo run --release
+cargo run | less
+cargo run |less
+cargo update
+cargo version
+cargorun
+cat 
+cat $EPRNS/changed-files-mdb-20250417.txt 
+cat $SECRETS
+cat *
+cat * > c-memory-magic-part-1-to-4-20250901.txt
+cat * | grep '^cargo'
+cat * | grep '^cargo' | less
+cat * | grep '^rustup'
+cat * | grep -i 'yt'
+cat *.tmp
+cat *.txt | less
+cat *txt*
+cat .SCRTS_*
+cat .SCRTS_en
+cat .SCRTS_en 
+cat .SCRTS_gg
+cat .SCRTS_yh
+cat .danes.swp 
+cat .gitignore 
+cat .local/bin/ytb-download-mp3
+cat .tmp/*
+cat /home/gregor.redelonghi/majstaf_en/seznami_en/history-en_20240820-163140.txt
+cat /home/gregor.redelonghi/majstaf_en/seznami_en/history-en_20250204-100824.txt |tail -n50 >> git_revert-to-previous-commit_20250204.txt 
+cat /proc/devices
+cat /proc/devices 
+cat /proc/filesystems 
+cat /proc/mounts
+cat /proc/mounts 
+cat /proc/partitions
+cat /proc/partitions 
+cat /proc/self/status
+cat /proc/sys/ArcName/
+cat /proc/sys/ArcName/multi\(0\)disk\(0\)rdisk\(0\)
+cat /proc/sys/Fat
+cat /proc/sys/clfs
+cat /usr/include/libxml2/libxml/parser.h
+cat 1_2_c_implementing-functional-type-safe-polymorphism_20250214.txt >> c_how-to-implement-interfaces_multif_20250214.txt 
+cat 2024/_2024_DOKUMENTI/eInzenir_prijavni-podatki_Gregor-Redelonghi_20230321.txt
+cat < <(/usr/bin/git push --dry-run ghen main)
+cat > bekap_en.log
+cat > bekap_en.log 
+cat > ~/.bash_history 
+cat COMMAND*
+cat Cargo.lock 
+cat Cargo.lock | less
+cat Cargo.toml 
+cat DELETEME 
+cat INFO.txt 
+cat Ma
+cat Makefile
+cat Makefile.backup 
+cat OUTPUT 
+cat ShrinkHalf_src.zip 
+cat ShrinkHalf_src.zip | grepc -i shrinkhalf
+cat TEST_20240919.txt 
+cat UTF-8-demo.txt 
+cat _DOWNLOADED_MOVIES.txt | sort -r
+cat _DOWNLOADED_MOVIES.txt | sort -r | uniq -c
+cat _DOWNLOADED_MOVIES.txt | sort -r | uniq -c | grep ' [234]'
+cat _DOWNLOADED_MOVIES.txt | sort -r | uniq -c | grep -e '^ *[234]'
+cat _EGT/knowledgedb/_BASH/bash_cheat-sheet_20170904.txt 
+cat _INSTALLATIONS*
+cat _LIST 
+cat _LIST | awk '{print $2}' | sed 's/.*majbin_en\/\(.*\):.*/\1/
+cat _LIST | awk '{print $2}' | sed 's/.*majbin_en\/\(.*\):.*/\1/'
+cat _LIST | awk '{print $2}' |sed 's/://'
+cat __SEZNAM >> ~/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat
+cat ___1_20250304.txt >> c_examples-of-quick-hash-tables-and-dynamic-arrays_20250304.txt 
+cat _______in-2-20250411.txt >> ___in-20250411.txt 
+cat _____in4_20250219.txt >> c_virtual_tables_20250219.txt 
+cat ___in-1_20250314.txt >> zig_intro-to-zigs-integer-casting-for-c-programmers_20250314.txt 
+cat ___in-20250411.txt >> zig_howto-build-and-use-packages-20250411.txt 
+cat ___in-20250416.txt >> zig-reading-json-config-20250416.txt 
+cat ___in-20250513.txt >> grobi-x11-monitor-autoconfig-20250513.txt 
+cat ___in-20250725.txt >> c-handles-vs-pointers-20250725.txt 
+cat ___in-multif_20250106.txt >> ~/_EGT/knowledgedb/_BASH/bash_process-substitution_20241219.txt 
+cat ___in1_20250219.txt >> c_using_function_pointers_in_struct_to_mimic_oop_20250219.txt 
+cat ___in1_20250228.txt >> git_deleting-commit-history_20250228.txt 
+cat ___in_20241118.txt >> primer-on-linux-container-filesystems_20241118.txt 
+cat ___in_20250214.txt >> mbr-vs-gpt-ssd-which-partition-style-is-better_20250214.txt 
+cat __in1_20250219.txt >> c_object-oriented-c-virtual-table-vtable_20250219.txt
+cat __in1_20250303.txt >> c_writing-custom-sqlite-function_20250303.txt 
+cat __in2_20250219.txt >> c_using_function_pointers_in_struct_to_mimic_oop_20250219.txt 
+cat ascii-codes.txt 
+cat bash 
+cat bash_redirections_p5_20250206.txt >> bash_howto-redirect-output-to-variable_20250206.txt 
+cat bekap_en.log 
+cat bin/elements_array.bin 
+cat changed-files-mdb-20250417.txt 
+cat colors 
+cat colors | fzf -m | xargs echo
+cat colors | fzf | echo
+cat colors | fzf | echo -
+cat colors | fzf | xargs echo
+cat common_packages.txt 
+cat compile_run.txt 
+cat compile_run_v1.0.2.txt 
+cat compile_run_v1.0.3.txt 
+cat ct_FUNCTIONS/isleapyear.h
+cat current_year_setup.txt 
+cat dotfiles/README.md 
+cat dotfiles/README.md | less
+cat elements_array.bin 
+cat en_sistem/Kyocera*txt
+cat encoded enc2
+cat encoded enc2 
+cat encoded enc2 > encoded2
+cat encoded enc2 | base64 -d
+cat encoded enc2 | base64 -d 
+cat encoded enc2 | base64 -d | join
+cat encoded enc2 | base64 -d | join -
+cat encoded enc2 | base64 -d | sed ':a;N;$!ba;s/\n/ /g'
+cat encoded enc2 | base64 -d | sed ':a;N;$!ba;s/\n/, /g'
+cat encoded enc2 | base64 -d | sed 's/$/, /'
+cat encoded enc2 | base64 -d | sed 's/$\n/, /'
+cat encoded enc2 | base64 -d | sed 's/$\r\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\$, /'
+cat encoded enc2 | base64 -d | sed 's/\$/, /'
+cat encoded enc2 | base64 -d | sed 's/\\\\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\\\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\n$/, /'
+cat encoded enc2 | base64 -d | sed 's/\n/, /'
+cat encoded enc2 | base64 -d | sed 's/\r\n$/, /'
+cat encoded enc2 | base64 -d | sed 's/\r\n/, /'
+cat encoded enc2 | base64 -d | tr '\n' ', '
+cat encoded enc2 | base64 -d | tr -d '\n'
+cat encoded enc2 | base64 -d |tr '\n' ' '
+cat encoded enc2 | base64 -d |tr '\n' ', '
+cat encoded enc2 | base64 -d |tr '\n' ','
+cat encoded |base64 -d
+cat encoded2
+cat encoded2 |base64 -d
+cat encoded2 |base64 -d | sed 's/$\n,/,/'
+cat encoded2 |base64 -d | sed 's/Ljubljana\n/Ljubljana/
+cat encoded2 |base64 -d | sed 's/Ljubljana\n/Ljubljana/'
+cat encoded2 |base64 -d | sed 's/\$\n,/,/'
+cat encoded2 |base64 -d | sed 's/\$\n/$/'
+cat encoded2 |base64 -d | sed 's/\$\n//'
+cat encoded2 |base64 -d | sed 's/\n,/,/'
+cat encoded2 |base64 -d | sed 's/\n//'
+cat encoded2 |base64 -d | sed tr '\n,' ','
+cat encoded2 |base64 -d | tr '\n' ' '
+cat encoded2 |base64 -d | tr '\n' ','
+cat encoded2 |base64 -d | tr '\n,' ','
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 2024
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 2024 | grepc bash
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202405
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202405 | grep -i google
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202405 |less
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202406
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202407
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 202408
+cat ff-en_bookmarks_202* | get_saved_link_address_and_name_by_timestamp 20240822
+cat ff-en_bookmarks_20241126_01.html_part-0* > test.html
+cat ff-en_bookmarks_20250129.html 
+cat ff-test_bookmarks.html 
+cat ffen-passwords-20250618.txt | tr ',' '\t'
+cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}'
+cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}' > ffen-passwords-20250618-reduced.txt
+cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}' | less
+cat from-jbe-not-in-en_20230331.txt 
+cat fsplit_en
+cat gitpusherror_20250130.txt 
+cat gregor.redelonghi.en_MEGA-RECOVERYKEY_20250618.txt
+cat gregor.redelonghi.en_MEGA-RECOVERYKEY_20250618.txt 
+cat history-en_202* | grep 'watch\?'
+cat history-en_202* | grep -i 'yt'
+cat history-en_20240819-164000.txt 
+cat history-en_20240819-164356.txt 
+cat history-en_20240819-164623.txt 
+cat links 
+cat majstaf_en/**
+cat mte.csv 
+cat mteData.txt 
+cat mteData.txt | tr -s ' ' | cut -d ' ' -f1-2
+cat mteData1.txt
+cat narocilo_20250429_1132.txt 
+cat pdtk_20220418.txt 
+cat rename_bin_to_build_20241203.sh 
+cat sample.txt 
+cat script.log >> output2
+cat seznam 
+cat seznam exit
+cat show-aliases-en 
+cat simple.txt 
+cat sites-with-quotes.txt 
+cat sites.txt
+cat sort_files_by_chapter_in_header_20240913.txt 
+cat src/main.rs > src/test.rs 
+cat src/main.rs src/test.rs 
+cat structs/src/struct_test_print.rs >> methods/src/main.rs 
+cat sw-design-the-simplest-thing-that-could-possibly-work-20250901.txt | wc -l
+cat tcount 
+cat test.c
+cat test.img 
+cat test.log 
+cat test.txt
+cat test.txt 
+cat test.txt.bak 
+cat twos-complement-1.txt >> twos-complement-multif-20250814.txt
+cat twos-complement-2-20250814.txt >> twos-complement-multif-20250814.txt
+cat vv
+cat | fzf
+cat ~/.bash_history
+cat ~/.bash_history2 
+cat ~/.local/bin/ghgl-push-en
+cat ~/.local/bin/gyes-add-commit-push
+cat ~/.local/bin/ytb-download-mp3
+cat ~/.tmp/GIT_REPORTS
+cat ~/_BRISI/metsys_en-remotes 
+cat ~/__DANES__/ff_cleaned.html
+cat ~/majstaf/majrcs/aliases-gredelonghi-en | sed '/^#/d'
+cat ~/majstaf/majrcs/aliases-gredelonghi-en | sed -e '/^#/d' -e '/^$/d'
+cat ~/majstaf/seznami/* | grep 'git diff'
+cat ~/majstaf/seznami/* |grep -w glow > ~/majstaf/metsys/glow-setup-20251027.txt
+cat ~/majstaf/seznami/* |grepc -w glow
+cat ~/majstaf/seznami/* |grepc glow
+cat ~/majstaf_en/majbin_en/w3mdump/w3mdump-webpage-to-file 
+cat ~/majstaf_en/seznami_en/* grep  '-end'
+cat ~/majstaf_en/seznami_en/* | grep -i 'git diff'
+cat ~/majstaf_en/seznami_en/* | grepc  '-end'
+cat ~/majstaf_en/seznami_en/* | grepc  '\-end'
+cat ~/majstaf_en/seznami_en/*.txt |grepc -E "yt"
+cat ~/majstaf_en/seznami_en/*.txt |grepc -E "yt-"
+cat ~/majstaf_en/seznami_en/*.txt |grepc -E "yt-*mp3"
+cat ~/majstaf_en/seznami_en/*.txt |grepc mp3
+cat ~/majstaf_en/seznami_en/history-en_20240819-164000.txt
+cat ~/majstaf_en/support/chtshts/tmx_chtsht.sh 
+curl "https://fake-coffee-api.vercel.app/api"
+curl "https://fake-coffee-api.vercel.app/api" | grep "\"
+curl "https://fake-coffee-api.vercel.app/api" | grep "\\"
+curl --version
+curl -D "https://fake-coffee-api.vercel.app/api"
+curl -D https://fake-coffee-api.vercel.app/api
+curl -D https://fake-coffee-api.vercel.app/api | jq
+curl -L https://get.oh-my.fish | fish
+curl -X GET https://fake-coffee-api.vercel.app/api
+curl -X GET https://fake-coffee-api.vercel.app/api | grep -i id
+curl -X GET https://fake-coffee-api.vercel.app/api | grepc -i id
+curl -X GET https://fake-coffee-api.vercel.app/api | grepc DATA
+curl -X GET https://fake-coffee-api.vercel.app/api | jq
+curl -X https://fake-coffee-api.vercel.app/api | jq
+curl -k -s https://fake-coffee-api.vercel.app/api | jq
+curl https://fake-cofee-api.vercel.app/api
+curl https://fake-coffee-api.vercel.app/api
+curl https://fake-coffee-api.vercel.app/api | grep "\"
+curl https://fake-coffee-api.vercel.app/api | grep 'Mocha'
+curl https://fake-coffee-api.vercel.app/api | grep '\'
+curl https://fake-coffee-api.vercel.app/api | grep -i 'Mocha'
+curl https://fake-coffee-api.vercel.app/api | grep DATA
+curl https://fake-coffee-api.vercel.app/api | grepc DATA
+curl https://fake-coffee-api.vercel.app/api | jq
+curl https://fake-coffee-api.vercel.app/api |jq
+cut -b 1-3 mte.csv
+cut -c 1,8 mte.csv
+cut -c 1-8 mte.csv
+cut -d',' -f1 mte.csv --complement
+cut -d',' -f1 mte.csv --complementwho
+cut -d',' -f1-3 --output-delimiter='-' mte.csv
+cut -d',' -f2 mte.csv
+date
+date -I
+date -Idate
+date -Ihours
+date -Iminutes
+date -Ims
+date -Ins
+date -Iseconds
+dialog "This is INSANE!" 200 300
+dialog --help
+dialog --help | grep info
+dialog --help | less
+dialog --infobox "Hy There!" 5 30
+dialog --infobox "Hy There" 5 30
+dialog --infobox "This is INSANE!" 200 300
+dialog --infobox "This is INSANE" 200 300
+dialog --msgbox "Hy There!" 5 30
+dialog --msgbox "Hy There" 5 30
+dialog --msgbox "Hy There\!" 10 20
+dialog --msgbox "Hy There\!" 5 30
+dialog --pause "Waiting for 5 secs ..." 10 30 5
+dialog --pause "Waiting for 5 secs ..." 15 20 5
+dialog --pause "Waiting for 5 secs ..." 15 40 5
+dialog --pause "Waiting for 5 secs ..." 5 30 5
+dialog --pause "Waiting for 5 secs ..." 6 30 5
+dialog --pause "Waiting for 5 secs ..." 7 30 5
+dialog --pause "Waiting for 5 secs ..." 7 40 5
+dialog --pause "Waiting for 5 secs ..." 8 40 5
+dialog --pause "Waiting for 5 secs ..." 9 40 5
+dialog --text "This is INSANE!" 200 300
+du -h --max-depth=1
+du -h --max-depth=1 .git
+du -h --max-depth=1 .git |sort -hr | head
+du -h --max-depth=1 |sort -hr | head
+du -sh $(which go)
+du -sh --total
+du -sh --total *.iso
+du -sh --total -git | sort --hr | head
+du -sh --total -git | sort -hr | head
+du -sh --total .* | sort -hr | clm
+du -sh --total .* | sort -nr
+du -sh --total .* | sort -nr | clm
+du -sh --total .git | sort -hr | head
+du -sh --total /e/ext_SANDISK_USB_128G/n_bekaps /d/ext_WD_usbHDD_2TB/n_bekaps
+du -sh --total 7-Zip/ 7z-source/ go1.23.0.windows-amd64/
+du -sh --total bin
+du -sh --total maj*
+du -sh --total majscripts/
+du -sh .*
+du -sh .git
+du -sh /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/cygwin64
+du -sh /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/go1.19.windows-amd64
+du -sh /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/zig-windows-x86_64-0.14.0/
+du -sh c_testing/
+du -sh downloads_en.tar.gz 
+du -sh majstaf_en/
+du .git
+duf
+duh
+echo [1;5;33;42mABCDEFG\x1b[m'
+echo  ${GEEKSFORGEEKS[@]}
+echo "[1;5;33;42mABCDEFG[m"
+echo "[1;5;33;42mABCDEFG\E[m"
+echo "[1;5;33;42mABCDEFG\x1b[m"
+echo " ena dva tri" | cut -d' ' -f1
+echo " ena dva tri" | cut -d' ' -f2
+echo " ena dva tri" | tr ' ' ':'
+echo " ena dva tri" | tr ' ' ':' | cut -d':' -f1
+echo " ena dva tri" | tr ' ' ':' | cut -d':' -f2
+echo " ena dva tri" | xargs | tr ' ' ':' | cut -d':' -f1
+echo "$( [ -Z $PWD ] )"
+echo "$((3+2))"
+echo "$(head -n1 sort_files_by_chapter_in_header_20240913.txt)"
+echo "$KNOW
+echo "$[3+2]"
+echo "$a[ime]"
+echo "$arr[@]"
+echo "$fname --> $(string-spaces-to-hypens_en $fname)"
+echo "${#arr}
+echo "${#arr}"
+echo "${URLS[@]}"
+echo "${URLS[@]}" | fzf
+echo "${a[ime]"
+echo "${a[ime]}"
+echo "${a[pri]}"
+echo "${a[priimek]}"
+echo "${arr[*]}"
+echo "${arr[+*]}"
+echo "${arr[+]}"
+echo "${arr[0]}"
+echo "${arr[1]}"
+echo "${arr[@]}"
+echo "${arri[0]}"
+echo "((3+2))"
+echo ", gredelonghi@gmail.com" |base64 > enc2
+echo "---" >> ~/update_from_en_20240912.txt
+echo ":: D :: \n:: E ::" | fzf
+echo "BEERS" | base64
+echo "DOOM" | ./am_I_being_piped_to.sh 
+echo "Ena\nDva\nTRi\nŠtiri" |fzf
+echo "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana"
+echo "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana" | base64
+echo "Gregor Redelonghi, Valvasorjeva ulica 5, 1000 Ljubljana" | base64 > encoded
+echo "HOLA!" | AT time now + 1 minute
+echo "HOLA!" |at now + 1 minute
+echo "Hea!" >> $GIT_REPORTS
+echo "Hey! Geeks Welcome to Maketecheasier.com" | cut -d ' ' -f 5
+echo "How to run valgrind on a CGI program in C" | tr " " "_" | tr "[:upper:]" "[:lower:]
+echo "How to run valgrind on a CGI program in C" | tr " " "_" | tr "[:upper:]" "[:lower:]"
+echo "Kva je zej $(echo -e "Mami\nOči\nsestra" |fzf) ??"
+echo "My new File.txt\nHa Ha Ha.txt" | string-to-lower-with-hypens
+echo "My new File.txt\nHa Ha Ha.txt" | string-to-lower-with-hypens -
+echo "QkVFUlMK" |base64 -d
+echo "TEST 20250930" > test.txt
+echo "Visual guide to SSH tunneling and port forwarding" | spaces-to-hypens 
+echo "Visual guide to SSH tunneling and port forwarding" | tr ' ' '-' | tr ':upper:' ':lower'
+echo "Visual guide to SSH tunneling and port forwarding" | tr ' ' '-' | tr '[:upper:]' '[:lower:]'
+echo "Visual guide to SSH tunneling and port forwarding" | tr ' ' '-' | tr '[:upper:]' '[:lower]'
+echo "XXXXXX" | wc -m
+echo "[ $(date +"%D %C") ]"
+echo "[ $(date +"%D %T") ]"
+echo "[ $(date +"%D" ][ $(date +"%T") ]"
+echo "[ $(date +"%D" ][$(date +%T)]"
+echo "[ $(date +%D %C) ]"
+echo "[ $(date +%D ][ $(date +%T) ]"
+echo "[ $(date +%D ][$(date +%T)]"
+echo "[ $(date +%D) ][ $(date +%T) ]"
+echo "[ -L $PWD ]"
+echo "[ -Z $PWD ]"
+echo "[ -z $KNOWLEDGEBASE ]
+echo "[$(date +%D %C)]"
+echo "[$(date +%D)] [$(date +%T)]"
+echo "\033[1;5;33;42mABCDEFG\x1b[m"
+echo "\[$(date +%D %C)\]"
+echo "c\Users\gregor.redelonghi\AppData\Roaming\Autodesk\AutoCAD 2022\R24.1\enu\Plotters" | tr '\' '_'
+echo "c\Users\gregor.redelonghi\AppData\Roaming\Autodesk\AutoCAD 2022\R24.1\enu\Plotters" | tr '\\' '_'
+echo "c_Users_gregor.redelonghi_AppData_Roaming_Autodesk_AutoCAD 2022_R24.1_enu_Plotters" |tr ' ' '-'
+echo "ena dva tri" | cut -d' ' -f0
+echo "ena dva tri" | cut -d' ' -f1
+echo "ena dva tri" | cut -d' ' -f3
+echo "for FFF in $(find -type f -name Makefile); do sed -i 's:/mingw6./build:/mingw6/bin:g' $FFF; done" >> rename_bin_to_build_20241203.sh 
+echo "gredelonghi@gmail.com, 00386 40 88 55 60" | base64 > enc2
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface"
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface" | cut -d '/' -f3-
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface" | cut -d '/' -f4-
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface" | cut -d '/' -f4- | tr '[:iupper:]' '[:lower:]'
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface" | cut -d '/' -f4- | tr '[:upper:]' '[:lower:]'
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/"
+echo "mama"
+echo "obase=10; ibase=16; 11000187D6CAA7BD" | bc
+echo "obase=10; ibase=16; ADADAD" | bc
+echo "obase=10; ibase=16; D"
+echo "obase=10; ibase=16; D" | bc
+echo "obase=10; ibase=16; \"ADADAD\"" | bc
+echo "obase=10; ibase=64; ADADAD" | bc
+echo "sed 's/\(.*\) ADD_DATE=.*\(>.* \)/\1\2/' $fname > $(basename $fname .html)_2.html"
+echo "sed -e 's:BIN:BUILD:g' -e 's:./bin:./build:g'" >> rename_bin_to_build_20241203.sh 
+echo $#{arr}"
+echo $$
+echo $(((16<<20)/1000))
+echo $(((16<<20)/1000000))
+echo $((1370/60))
+echo $((16<<20))
+echo $((36*365+11))
+echo $((4096 / 8))
+echo $((44*365+11))
+echo $((4>>1))
+echo $((4>>2))
+echo $((4>>4))
+echo $((61*365+15))
+echo $(basename $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren)
+echo $(basename $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren))
+echo $(basename ${PWD})
+echo $(cf)
+echo $(cygpath -w "target/doc/methods/index.html") 
+echo $(cygpath -w $(pwd))
+echo $(cygpath -w $(realpath "target/doc/methods/index.html"))
+echo $(cygpath -w $PWD)
+echo $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025)
+echo $(date +%A)
+echo $(date +%C)
+echo $(date +%S)
+echo $(date +%T)
+echo $(date +[%D %C])
+echo $(head -n1 sort_files_by_chapter_in_header_20240913.txt)
+echo $(head -n1 sort_files_by_chapter_in_header_20240913.txt)[B
+echo $(realpath ~/.local/bin/rbekap-ENGIT-sync-mega-gren)
+echo $(string-to-lower-with-hypens "$FFS")
+echo $?
+echo $CDPATH 
+echo $CTEST 
+echo $CTST 
+echo $CURRENT_YEAR_ENV 
+echo $CURRYR 
+echo $DANES
+echo $DOWNLOADS
+echo $DOWNLOADS 
+echo $EGT 
+echo $EMJBIN 
+echo $ENGIT_STATUS_REPORTS
+echo $EPRNS
+echo $FFF
+echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]'
+echo $FJLS
+echo $GIT_REPORTS
+echo $GOHOME
+echo $GOPATH
+echo $GOROOT
+echo $GPATH
+echo $G_ARHIVA 
+echo $HISTFILE
+echo $HSTLP
+echo $KNOWLEDGEBAS
+echo $KNOWLEDGEBASE
+echo $KNOWLEDGEBASE"
+echo $MAJSTAFEN
+echo $MAJSTAFEN 
+echo $MBIN
+echo $MBIN 
+echo $MRCS
+echo $MRCS 
+echo $NM
+echo $O
+echo $PATH
+echo $PATH | grep majp
+echo $PATH | grepc 'majprog/'
+echo $PATH | grepc majp
+echo $PATH |grep godu
+echo $PATH |grepc cargo
+echo $PATH |grepc godu
+echo $PS1
+echo $PSSWD_SCRTS_YH
+echo $PSSWD_SCRTS_YH 
+echo $PTN
+echo $PWD
+echo $SECRETS
+echo $TERM
+echo $URL
+echo $URL | cut -d' ' $1
+echo $URL | cut -d' ' -f1
+echo $URL |sed 's/\(.* \).*/\1/'
+echo $URL |sed 's/\(.*\) *.*/\1/'
+echo $URL |sed 's/\(.*\) */\1/'
+echo $URL |sed 's/\(.*\) .*/\1/'
+echo $URL |sed 's/\(.\+\) *.*/\1/'
+echo $URLS
+echo $USER
+echo $VALUE
+echo $VAR
+echo $WHO
+echo $WHOA
+echo $WHOAMI
+echo $_ZD_DATA_DIR
+echo $_ZD_ECHO
+echo $_ZD_FZF_OPTS
+echo $appslist 
+echo $arr
+echo $arr2
+echo $arr3
+echo $array
+echo $botg
+echo $both
+echo $cmd
+echo $ftp_proxy
+echo $http*
+echo $http_proxy
+echo $names
+echo $names[@]
+echo $out
+echo $output
+echo $output 
+echo $pkgs
+echo $seznam
+echo $smd
+echo ${#arr1[22]}
+echo ${#arr1[23]}
+echo ${#arr1[@]}
+echo ${#arr2[@]}
+echo ${#arr3[@]}
+echo ${#arr[0]}
+echo ${#arr[@]}
+echo ${#dirs[@]}
+echo ${#nums[*]}
+echo ${#nums[+]}
+echo ${#output[@]}
+echo ${#output[@]} 
+echo ${#pkgs[@]}
+echo ${#seznam[@]}
+echo ${KNOWLEDGEBAS:-"MamaMia!"}
+echo ${KNOWLEDGEBAS:-"MamaMiaecho $KNOWLEDGEBAS"
+echo ${KNOWLEDGEBAS:-"MamaMiaecho ${KNOWLEDGEBAS:-"MamaMiaecho $KNOWLEDGEBAS""}
+echo ${KNOWLEDGEBASE:-"MamaMia!"}
+echo ${MYFILE[0]}
+echo ${MYFILE[@]}
+echo ${S//e/(&)}
+echo ${S//e/(\&)}
+echo ${S//e/--&--}
+echo ${URLS[@]}
+echo ${URLS[@]} | fzf --feverse
+echo ${URLS[@]} | fzf --reverse
+echo ${VAR##*.}
+echo ${VAR##*/}
+echo ${VAR##*th}
+echo ${VAR##.*p}
+echo ${VAR##.*}
+echo ${VAR##.}
+echo ${VAR##/*.}
+echo ${VAR##/*}
+echo ${VAR##/.*}
+echo ${VAR##/}
+echo ${VAR##\.*p}
+echo ${VAR#*.}
+echo ${VAR#*/}
+echo ${VAR#*on}
+echo ${VAR#*osn
+echo ${VAR#*os}
+echo ${VAR#*th}
+echo ${VAR#.*p}
+echo ${VAR#.*}
+echo ${VAR#.}
+echo ${VAR#/}
+echo ${VAR#\.*p}
+echo ${VAR%%*.}
+echo ${VAR%%*/}
+echo ${VAR%%.*}
+echo ${VAR%%.}
+echo ${VAR%%/*.}
+echo ${VAR%%/*}
+echo ${VAR%%/.*}
+echo ${VAR%%/}
+echo ${VAR%%}
+echo ${VAR%*.}
+echo ${VAR%*/}
+echo ${VAR%.*p}
+echo ${VAR%.*}
+echo ${VAR%.}
+echo ${VAR%/*}
+echo ${VAR%/}
+echo ${VAR%\.*p}
+echo ${VAR%on*}
+echo ${VAR}
+echo ${arr0[dva]}
+echo ${arr0[ena])
+echo ${arr0[ena]}
+echo ${arr1[23]}
+echo ${arr2[0]}
+echo ${arr2[1]}
+echo ${arr2[2]}
+echo ${arr2[2}
+echo ${arr2[3]}
+echo ${arr3[0]}
+echo ${arr3[10]}
+echo ${arr3[1]}
+echo ${arr[0]}
+echo ${arr[1]}
+echo ${arr[22]}
+echo ${arr[2]}
+echo ${arr[3]}
+echo ${arr[95]}
+echo ${arr[@]}
+echo ${arr[ime]}
+echo ${arr[prik]}
+echo ${arr}
+echo ${dirs[@]}
+echo ${exarr[ime]}
+echo ${exarr[pri]}
+echo ${names[@]}
+echo ${nums[0]}
+echo ${nums[4]}
+echo ${nums[5]}
+echo ${output[@]}
+echo ${output[@]} 
+echo ${pkgs[#@]}
+echo ${pkgs[0]}
+echo ${pkgs[1]}
+echo ${pkgs[@#]}
+echo ${pkgs[@]}
+echo ${seznam[0]}
+echo ${seznam[1]}
+echo ${seznam[@]}
+echo &?
+echo '[1;5;33;42mABCDEFG\033[m'
+echo '[1;5;33;42mABCDEFG\x1b[m'
+echo 'echo "[1;5;33;42mABCDEFG[m"' >> test
+echo 'echo -e "$STR\n${STR%-*}\n${STR%%-*}"; echo "---"; echo -e "${STR#*-}\n${STR##*-}"' >> $BRISI/param-subs-example.sh
+echo 'find -type f -name Makefile' >> rename_bin_to_build_20241203.sh 
+echo 'grep -r -H chapter * | sort -n -k 4' > sort_files_by_chapter_in_header_20240913.txt
+echo -e "[1;5;33;42mABCDEFG[m"
+echo -e "[1;5;33;42mABCDEFG\x1b[m"
+echo -e "$STR\n${STR$-*}"
+echo -e "$STR\n${STR%%-*}"
+echo -e "$STR\n${STR%-*}"
+echo -e "$STR\n${STR%-*}\n${STR%%-*}"
+echo -e "$STR\n${STR%-*}\n${STR%%-*}"; echo "---"; echo -e "${STR#*-}\n${STR##*-}"
+echo -e "$STR\n${STR%-*}\n${STR%%-*}"; echo -e "${STR#*-}"
+echo -e "$STR\n${STR%-*}\n${STR%%-*}"; iecho "---"; echo -e "${STR#*-}\n${STR##*-}"
+echo -e "${arr[0]}\n${arr[1]}
+echo -e "${arr[0]}\n${arr[1]}"
+echo -e "3000000000\n2147483647"
+echo -e "Mami\nOči\nsestra" |fzf | xargs -I{} echo "Kva je zej, {}?"
+echo -e "My new File.txt\nHa Ha Ha.txt" | string-to-lower-with-hypens
+echo -e "[1;38m"
+echo -e "\033[1;5;33;42mABCDEFG\x1b[m"
+echo -e "\[1;38m"
+echo -e "\e07;91m]RED-INVERSE${off}"
+echo -e "\e[07;91mRED-INVERSE${off}"
+echo -e "\e[07;91m]RED-INVERSE${off}"
+echo -e "\e[07m"
+echo -e "\e[1;38;5;64m"
+echo -e "\e[1;38;5;64m" KKK
+echo -e "\e[1;38m"
+echo -e "\n---\n" >> ~/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat 
+echo -e "empID,empName,empDesig\n101,Anees,Author\n102,Asghar,Manager\n103,Damian,CEO" > mte.csv
+echo -e "qqqq\rss"
+echo -e "qqqq\rssSSS"
+echo -e $choises | fzf
+echo -e $output
+echo -en $(git status)
+echo 16<<20
+echo KKK
+echo PS1
+echo Tadeja Mali Redelonghi, 
+echo Tadeja Mali Redelonghi, Valvasorjeva ulica 5, Ljubljana
+echo XXXXXX | wc -m
+echo XXXXXXXXXX | wc -m
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | wc -L
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | wc -c
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | wc -m
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | wc -L
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | wc -c
+echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | wc -l
+echo [ $(date +"%D" ][ $(date +"%T") ]
+echo [ -n $O ]
+echo [ -n O ]
+echo [$(date +%D %C)]
+echo [[ -n $O ]]
+echo [[ -n O ]]
+echo arr
+echo arr2
+echo arr3
+echo cf
+echo gredelonghi, Valvasorjeva ulica 5, 1000 Ljubljana
+echo mmm
+echo mv "$FJL" $(echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
+echo mv $FJL $(echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
+echo rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+echo string-to-lower-with-hypens "$FFS"
+echo string-to-lower-with-hypens $FFS
+echo while read FJL; do find -type f -iname "${FJL}"; done < ~/_BRISI/sends_20240926.txt 
+find ! -name "*.zip"
+find $KNOWLEDGEBASE -name "*cross*"
+find $KNOWLEDGEBASE -name "bash_cross*"
+find $KNOWLEDGEDB -type f -iname "*handle*"
+find $KNOWLEDGEDB -type f -iname "*handle*" | vview-mfjl-efzf
+find $KNOWLEDGEDB -type f -regex ".*[0-9]\{,8\}.txt"
+find $KNOWLEDGEDB -type f -regex ".*[0-9]\{,8\}\.txt"
+find '*' -maxdepth 4 -type d -iname "*emonika*"
+find *
+find * -iname "*.cu*"
+find * -iname "*.cui*"
+find * -iname "*.exe*"
+find * -iname "*.mn*"
+find * -iname "*.pc3"
+find * -maxdepth -2 -type d -iname "*nov*jar*"
+find * -maxdepth 0 -executable
+find * -maxdepth 0 -name "*.ido"
+find * -maxdepth 0 -name "*.iso"
+find * -maxdepth 0 -name "*_*"
+find * -maxdepth 0 -not -name "*branches*"
+find * -maxdepth 0 -not -name "*functions*"
+find * -maxdepth 0 -type d
+find * -maxdepth 0 -type d 
+find * -maxdepth 0 -type d |grep -v "cygwin\|OneC\|CodeB\|c3\|DB-B\|CyberC\|micro\|lf-w" |xargs du -sh --total |sort -hr
+find * -maxdepth 0 -type d |grep -v cygwin
+find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total
+find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total |sort -hr
+find * -maxdepth 0 -type f
+find * -maxdepth 0 -type f -not -name "_*"
+find * -maxdepth 0 -type f -not -name "_*" | clm
+find * -maxdepth 0 -type f -not -name "_*" | less
+find * -maxdepth 0 -type f | grep -v '_test'
+find * -maxdepth 0 -type f | grep -v '_test' |xargs -I{} softlink1-fname-to-ulb {}
+find * -maxdepth 0 type f
+find * -maxdepth 1 -type d
+find * -maxdepth 1 -type d -iname "*p*zito*"
+find * -maxdepth 1 -type d -iname "*zito*"
+find * -maxdepth 2 -iname "*cng*"
+find * -maxdepth 2 -type d -iname "*le*clerc*"
+find * -maxdepth 2 -type d -iname "*nov*jar*"
+find * -maxdepth 2 -type d -iname "*ukinitev*"
+find * -maxdepth 2 -type d -iname "p*ukinitev*"
+find * -maxdepth 3 -iname "vn*cenet*"
+find * -maxdepth 3 -iname "vn*vo*ka*"
+find * -maxdepth 3 -type -d -iname "*vrhovc*"
+find * -maxdepth 3 -type d -iname "*18200*"
+find * -maxdepth 3 -type d -iname "*28200*"
+find * -maxdepth 3 -type d -iname "*S*1000*"
+find * -maxdepth 3 -type d -iname "*brdo*"
+find * -maxdepth 3 -type d -iname "*emonika*"
+find * -maxdepth 3 -type d -iname "*hrade*eg*"
+find * -maxdepth 3 -type d -iname "*vrhovc*"
+find * -maxdepth 3 -type d -iname "v[-_]200*"
+find * -maxdepth 4 -type d -iname "*emonika*" 
+find * -maxdepzh 0 -type f | grep -v '_test'
+find * -not -name "*functions*"
+find * -type d
+find * -type d -iname "*.exe*"
+find * -type d -iname "*[zž]ito*"
+find * -type d -iname "*back*" -o -type d -iname "*bek*"
+find * -type d -iname "*backu*" -o -type d -iname "*beka*"
+find * -type d -name "*"  |fzf -e
+find * -type d -name ".git" -prune -o -name "*" 
+find * -type d -name ".git" -prune -o -name "*"  |fzf -e
+find * -type d -name ".git" -prune -o -name "*" |fzf -e
+find * -type d -name ".git" -prune -o name "*" |fzf -e
+find * -type d -name ".git" -prune |fzf -e
+find * -type d -name '.zig-cache'
+find * -type d -name 'zig-out'
+find * -type d -name bin
+find * -type d -not -name ".git" -name "*" |fzf -e
+find * -type d -not -name ".git" -not -name ".cache" -o -name "*" |fzf -e
+find * -type d -not -name ".git" -o -name "*" |fzf -e
+find * -type f  -name "*.txt" -o -name "*.csv" | fzf --multi --prompt "" | xargs --no-run-if-empty cat
+find * -type f  -name "*.txt" -o -name "*.csv" | fzf --multi --prompt "" | xargs -ro cat
+find * -type f  -name "*.txt" -o -name "*.csv" | fzf --multi | xargs --no-run-if-empty cat
+find * -type f -iname "*.cui*"
+find * -type f -iname "*\.h"
+find * -type f -iname "*\.h" | grep -v OSTALO
+find * -type f -iname "*debian*"
+find * -type f -iname "*debian*" | fzf -m | xargs -I{} cp -v {} _DEBIAN/
+find * -type f -iname "*debian*" | fzf -m | xargs -I{} mv -v {} _DEBIAN/
+find * -type f -iname "*ranger*"
+find * -type f -iname "*shema*dwg"
+find * -type f -iname "*shema*dwg" | grep -v '200*/
+find * -type f -iname "*shema*dwg" | grep -v '200*/'
+find * -type f -iname "*shema*dwg" | grep -v '2002'
+find * -type f -iname "*stebr*dwg"
+find * -type f -iname "\.h"
+find * -type f -name "*[0-9]*.txt"
+find * -type f -name "*[0-9][0-9][0-9]*.txt"
+find * -type f -name "*[0-9][0-9][0-9].txt"
+find * -type f -name "*[0-9]\{,8\}.txt"
+find * -type f -name "*{c,zig}*"
+find * -type f -name "*{c}*"
+find * -type f -name "[0-9][0-9][0-9].txt"
+find * -type f -name "\{c-\}*"
+find * -type f -name "c-*"
+find * -type f -name "read_*"
+find * -type f -name "{c,p}*"
+find * -type f -name "{c,zig}*"
+find * -type f -name "{c-*}"
+find * -type f -name "{c-}*"
+find * -type f -name *{c,zig}*
+find * -type f -not -iname "*\.exe" | xargs -I{} grep -l "exit" {}
+find * -type f -not -iname "*\.exe" | xargs -I{} grep -l "exit" {} |sort |uniq
+find * -type f -not -iname "*\.exe" | xargs -I{} grep -l "exit" {} |sort |uniq |wc -l
+find * -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {}
+find * -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {} | xargs -I{} cp -i {} $EMBIN/{}
+find * -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {} | xargs -I{} cp -rv {} $EMBIN/{}
+find * -type f -regex ".*[0-9][0-9][0-9].txt"
+find * -type f -regex ".*[0-9]\{,8\}\.txt"
+find * -type f -regex "[0-9][0-9][0-9].txt"
+find * -type f | fzf
+find * -type f | fzf -e
+find * -type f |grep -v .git
+find * maxdepth 0 -type f
+find * maxdepth 1 -type d
+find * type -f -iname "\.h"
+find -executable
+find -executable | grep -v "cache\|extract"
+find -executable | grep -v cache
+find -executablw
+find -iname "*${PATT}*txt"
+find -iname "*.c"
+find -iname "*.iso"
+find -iname "*.txt" | xargs -I{} grep -s -Hn $my_URL {}
+find -iname "*BECO*"
+find -iname "*BEKO*"
+find -iname "*ac*dolg*"
+find -iname "*beto*"
+find -iname "*bit*"
+find -iname "*bit*" |grep 2024
+find -iname "*bosch*"
+find -iname "*cht*"
+find -iname "*chtsht*"
+find -iname "*chtsht*" | xargs -I{} cp -nv {} ~/majstaf_en/support/chtshts/
+find -iname "*conica*" -o -iname "*minolta*" -o -imame "*myq*"
+find -iname "*conica*" -o -iname "*minolta*" -o -iname "*myq*"
+find -iname "*debian*"
+find -iname "*double*"
+find -iname "*double*" | fzvmp
+find -iname "*dual*"
+find -iname "*dual*" | fzvmr
+find -iname "*dup*"
+find -iname "*figlet*"
+find -iname "*gesl*"
+find -iname "*gesl*" -o -iname "*pass*"
+find -iname "*gesl*csv" -o -iname "*pass*csv"
+find -iname "*good*txt"
+find -iname "*grsl*"
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*inderscores*"
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*inderscores*" |grep -v "engit\|testing"
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*inderscores*" |grep -v dotfiles
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*inderscores*" |grep -v engit
+find -iname "*hypens" -o -iname "*spaces*" -o -iname "*underscores*"
+find -iname "*i3*txt"
+find -iname "*i3*txt" | xargs -I{} mv -v {} _TWMs/
+find -iname "*jur*k"
+find -iname "*kyocera*"
+find -iname "*mas*" |grep 2024
+find -iname "*maskin*"
+find -iname "*minolta*"
+find -iname "*myq*"
+find -iname "*ncur*" | fzvmr
+find -iname "*opaq*"
+find -iname "*print*"
+find -iname "*printer*"
+find -iname "*printer*txt"
+find -iname "*pvc*"
+find -iname "*qtile*"
+find -iname "*rofi*"
+find -iname "*roxtec*"
+find -iname "*stebr*"
+find -iname "*taska*"
+find -iname "*vodovod*"
+find -iname "*vrta*"
+find -iname "*vrta*[ia]"
+find -iname "*vrtanje_[vp]*"
+find -iname "BRISI*"
+find -iname "james*"
+find -iname "james*" | xargs -I{} cp -v {} ~/_DOWNLOADS/_IMAGES/
+find -iname "vstop*"
+find -iname *i3*
+find -iname dual
+find -inyme "*debian*"
+find -name "*-c*
+find -name "*-c*"
+find -name "*-c*W
+find -name "*.c"
+find -name "*.exe*" -o -name "*.pdb"
+find -name "*.iso"
+find -name "*.iso" | xargs -I{} mv -v {} __downloaded_isos/
+find -name "*.toml"
+find -name "*.txt" -print0 | while IFS= read -r -d '' FF; do mv "$FF" $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r -d '' FF; do mv ${FF} $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r -d FF; do mv "$FF" $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r -d'' FF; do mv "$FF" $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r FF; do mv "$FF" $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 | while IFS= read -r FF; do mv ${FF} $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 |xargs -0 -I{} echo mv -v {} $(spaces-to-underscores {})
+find -name "*.txt" -print0 |xargs -0 -I{} mv -v {} $(spaces-to-underscores {})
+find -name "*.txt" -print0 |xargs -0 echo
+find -name "*.txt" -print0 |xargs -0 echo 
+find -name "*.txt" -print0 |xargs -0 echo mv -v {} $(spaces-to-underscores {})
+find -name "*.txt" -print0 |xargs -0 echo | xargs -I{} mv {} $(spaces-to-underscores {})
+find -name "*.txt" -print0 |xargs -0 | while IFS= read FF; do mv ${FF} $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" -print0 |xargs -0 | while read FF; do mv "$FF" $(spaces-to-underscores "$FF"); done
+find -name "*.txt" -print0 |xargs -0 | while read FF; do mv $FF $(spaces-to-underscores $FF)
+find -name "*.txt" -print0 |xargs -0 | while read FF; do mv $FF $(spaces-to-underscores $FF); done
+find -name "*.txt" -print0 |xargs -0 | while read FF; do mv ${FF} $(spaces-to-underscores "${FF}"); done
+find -name "*.txt" | while read LINE; do mv "$LINE" $(spaces-to-underscores "$LINE"); done
+find -name "*.zig"
+find -name "*202408*txt"
+find -name "*202408*txt" | sort -g
+find -name "*202408*txt" | sort -n -t '.' -k1
+find -name "*202408*txt" | sort -n -t'.' -k1
+find -name "*202408*txt" | sort -n t'.' -k1
+find -name "*202408*txt" | sort -nr
+find -name "*202408*txt" | sort -nr --debug
+find -name "*202408*txt" | sort -nr -t'.'
+find -name "*202408*txt" | sort -nr -t'.' -k ,-1
+find -name "*202408*txt" | sort -nr -t'.' -k ,1
+find -name "*202408*txt" | sort -nr -t'.' -k ,2
+find -name "*202408*txt" | sort -nr -t'.' -k -1
+find -name "*202408*txt" | sort -nr -t'.' -k 0
+find -name "*202408*txt" | sort -nr -t'.' -k 0,2
+find -name "*202408*txt" | sort -nr -t'.' -k 0.1
+find -name "*202408*txt" | sort -nr -t'.' -k 1
+find -name "*202408*txt" | sort -nr -t'.' -k 3
+find -name "*202408*txt" | sort -nr -t'.' -k 4
+find -name "*202408*txt" | sort -nr -t'.' -k 5
+find -name "*202408*txt" | sort -nr -t'.' -k 6
+find -name "*202408*txt" | sort -nr -t'.' -k,1
+find -name "*202408*txt" | sort -nr -t'.' -k-1
+find -name "*202408*txt" | sort -nr -t'.' -k0,1
+find -name "*202408*txt" | sort -nr -t'.' -k0,2
+find -name "*202408*txt" | sort -nr -t'.' -k0.1
+find -name "*202408*txt" | sort -nr -t'.' -k1
+find -name "*202408*txt" | sort -nr -t'.' -k1,-1
+find -name "*202408*txt" | sort -nr -t'.' -k2
+find -name "*202408*txt" | sort -t
+find -name "*202408*txt" | sort -t -k
+find -name "*202408*txt" | sort -t -k ,1
+find -name "*202408*txt" | sort -t -k -1
+find -name "*202408*txt" | sort -t -k 0,1
+find -name "*202408*txt" | sort -t -k 3
+find -name "*202408*txt" | sort -t'.' -k1
+find -name "*202408*txt" | sort -t'.' -k2
+find -name "*202408*txt" | sort -t'.' -k2 -nr
+find -name "*202507**"
+find -name "*20250[89]**"
+find -name "*20250[89]**" |grep -v majprogs
+find -name "*20250[89]**" |grep -v majprogs | grep mat
+find -name "*SITU*"
+find -name "*\.zip" |grep podatki
+find -name "*_*"
+find -name "*ddbak*"
+find -name "*fname*"
+find -name "*func*poin*"
+find -name "*hex*txt"
+find -name "*jp*g"
+find -name "*know*"
+find -name "*onl*"
+find -name "*onl*" |grep onl
+find -name "*rclon*"
+find -name "*shortcuts*"
+find -name "*strlen*"
+find -name "*undersc*"
+find -name "*yt*"
+find -name "2-to-pow-seq-20250624.txt"
+find -name "202408*txt"
+find -name "DELETE*"
+find -name "DELETE.ME"
+find -name "ROJSTNIDNEVI.txt"
+find -name "ROJSTNIDNEVI.txt" | grep Jelena -
+find -name "ROJSTNIDNEVI.txt" | xargs -I{} grep Jelena {}
+find -name "UTF*"
+find -name "\.conf" -o -iname "config*"
+find -name "cron*"
+find -name "cron*" |grep 2024
+find -name "danes-check*"
+find -name "debian*"
+find -name "encode64_decode64_multiline_into_singleline_20241017.txt"
+find -name "ff*" |grep -v html
+find -name "main*"
+find -name "qtile*"
+find -name "qutile*"
+find -name "scale*"
+find -name "scale*" | xargs -I{} fname-underscores-to-hypens-en {}
+find -name "test.log" -exec chmod +x '{}' \;
+find -name '*.txt' while read LINE; do echo "$LINE"; done
+find -name '*.txt' | while read LINE; do echo "$LINE"; done
+find -name '*.txt' | while read LINE; do mv "$LINE" $(spaces-to-underscores "$LINE"); done
+find -name '*rust-analyzer*'
+find -name *.iso"
+find -name Cargo.toml
+find -name Makefile
+find -name Makefile | grep -v coding2
+find -name Makefile | grepv coding2
+find -name ddbak
+find -name debian*
+find -name rust-analyzer
+find -name zigbook
+find -not -name "*functions*"
+find -not name "*functions*"
+find -size +100M
+find -size +10M
+find -size +1G
+find -size +1M
+find -size +25M
+find -size +2G
+find -size +500M
+find -size +50M
+find -size 0
+find -size 0 -name "*.iso"
+find -type -d -iname "*book*"
+find -type -d -iname "\.git"
+find -type -d -name "mega_*"
+find -type -f name Makefile
+find -type -f name logout
+find -type -name "*BRISI*"
+find -type d
+find -type d *
+find -type d -iname "*.c*"
+find -type d -iname "*.cui"
+find -type d -iname "*.cui*"
+find -type d -iname "*back*" -o -iame "*beka*" -o -iname "*bck*"
+find -type d -iname "*back*" -o -iname "*bek*"
+find -type d -iname "*back*" -o -iname "*beka*" -o -iname "*bck*"
+find -type d -iname "*book*"
+find -type d -iname "*c*book*"
+find -type d -iname "*dolg*most*"
+find -type d -iname "*emonika*"
+find -type d -iname "*golg*most*"
+find -type d -iname "*jur*kov*"
+find -type d -iname "*rclone*"
+find -type d -iname "*tmux* -o -iname "*tmux*"
+find -type d -iname "*tool*"
+find -type d -iname "*vrta*"
+find -type d -iname "*vrta[cč]*"
+find -type d -iname "*wetrans*"
+find -type d -iname "\.git"
+find -type d -iname "v[-_]200*"
+find -type d -iname #*.cui"
+find -type d -name "*BRISI*"
+find -type d -name "*HPP[-_]NPN*"
+find -type d -name "*zig*book*
+find -type d -name "*zig*book*"
+find -type d -name "\.git"
+find -type d -name "\.git"f
+find -type d -name "danes*"
+find -type d -name "ext*"
+find -type d -name "mega_*"
+find -type d -name "zig*"
+find -type d -name '*ct_*build'
+find -type d -name 'build'
+find -type d -name 'ct_*build'
+find -type d -name bin
+find -type d -name build
+find -type d -name build | grep 'ct_'
+find -type d -name build | grep -E 'ct_[0-9]'
+find -type d -name target
+find -type d 2024*
+find -type f
+find -type f -I{} mv -v {} v1/
+find -type f -iname "*.c*"
+find -type f -iname "*.zip"
+find -type f -iname "*.zip" | du -sh --total
+find -type f -iname "*.zip" | grep -v sora
+find -type f -iname "*.zip" | grep -vi "sora\|emonika"
+find -type f -iname "*.zip" | xargs -ro du -sh --total
+find -type f -iname "*[-_]nov*"
+find -type f -iname "*[-_]nov[-_]*"
+find -type f -iname "*\.h"
+find -type f -iname "*\.h" |grep -v "OSTALO\|SCRI\|FUNC" 
+find -type f -iname "*\.h" |grep -v OSTALO
+find -type f -iname "*_*"
+find -type f -iname "*_*" | grep cs
+find -type f -iname "*_*" | grepc cs
+find -type f -iname "*_*" | wc -l
+find -type f -iname "*bash*txt" |grep -v knowledgedb
+find -type f -iname "*bash*txt" |grep -v knowledgedb |wc -l
+find -type f -iname "*bit*"
+find -type f -iname "*bitw*"
+find -type f -iname "*bitw*" | cat
+find -type f -iname "*bitw*" | cat -
+find -type f -iname "*bitw*" | xargs -ro cat
+find -type f -iname "*bitw*" | xargs -ro cat >> ~/_BRISI/bitwise_bitmasking_20241128.txt
+find -type f -iname "*c*book*"
+find -type f -iname "*cargo*html"
+find -type f -iname "*ctag*"
+find -type f -iname "*ctag*" | fzvmp
+find -type f -iname "*ctag*" | uimp 
+find -type f -iname "*debian*"
+find -type f -iname "*e*inze*"
+find -type f -iname "*field*" -o -iname "*mask*"
+find -type f -iname "*flex*"
+find -type f -iname "*handle*"
+find -type f -iname "*handle*pointer*"
+find -type f -iname "*kvm*" -o -iname "*qemu*"
+find -type f -iname "*kvm*txt"
+find -type f -iname "*kvm*txt" -o -iname "*qemu*txt"
+find -type f -iname "*maski*"
+find -type f -iname "*proj*"
+find -type f -iname "*proj*" | grep -v knowled
+find -type f -iname "*proj*" | grep -v kowled
+find -type f -iname "*proxy*"
+find -type f -iname "*proxy*txt"
+find -type f -iname "*qemu*txt"
+find -type f -iname "*ranger*"
+find -type f -iname "*raychem*"
+find -type f -iname "*shema*dwg"
+find -type f -iname "*shema*dwg" | grep -vE "200[0-9]"
+find -type f -iname "*skic*dwg" -o -iname "*detajl*dwg"
+find -type f -iname "*tag*"
+find -type f -iname "*tm*x*ch*"
+find -type f -iname "*tm*x*ch*" | fzf -m |xargs -I{} cp -iv {} ~/majstaf_en/metsys_en/
+find -type f -iname "*tmux*"
+find -type f -iname "*tmux*" -a -iname "*cht*"
+find -type f -iname "*tmux*" -and -iname "*che*"
+find -type f -iname "*tmux*" -and -iname "*che*" | xargs -I{} mv -v {} tmx_cheat-sheat-s/
+find -type f -iname "*tmux*" -and -iname "*che*" | xargs mv tmx_cheat-sheat-s/
+find -type f -iname "*tmux*" -and -iname "*cht*"
+find -type f -iname "*tmux*" -o -iname "*tmux*"
+find -type f -iname "*tmux*" -o -iname "*tmux*" -and -iname "*cht*"
+find -type f -iname "*tmx*" -and -iname "*che*"
+find -type f -iname "*tmx*" -and -iname "*cht*"
+find -type f -iname "*tmx*" -and -iname "*cht*" | xargs -I{} mv -v {} tmx_cheat-sheat-s/
+find -type f -iname "*undersc*"
+find -type f -iname "*wetrans*"
+find -type f -iname "*xargs*"
+find -type f -iname "*zenity*"
+find -type f -iname "ROJSTNIDNEVI.txt"
+find -type f -iname "xargs*"
+find -type f -iname "xargs*" | xargs -I{} mv -v {} _AWK_SED_GREP_XARGS/
+find -type f -iname "xargs*" | xargs -I{} mv -v{} _AWK_SED_GREP_XARGS/
+find -type f -iname tmux
+find -type f -inme "*handle*"
+find -type f -iregex ".*system.*" | grep '_C_and'
+find -type f -iregex ".*system.*" | grep '_C_andd'
+find -type f -iregex ".*system.*" |less
+find -type f -name "*.c" -size +100k
+find -type f -name "*.jpg" -exec cp -v {} . \;
+find -type f -name "*error*"
+find -type f -name "*error*zig"
+find -type f -name "*hex*"
+find -type f -name "debian*"
+find -type f -name *cut*
+find -type f -name *cut* | grepc [-_]cut[-_]
+find -type f -name *cut* | grepc ^cut
+find -type f -name *cut* | grepc cut[-_]
+find -type f -name *cut* | grepc cut_
+find -type f -name Makefile
+find -type f -name logout
+find -type f -not (-iname "c-*" -iname "zig-*")
+find -type f -not -iname "*\.exe" | xargs -I{} grep "exit" {}
+find -type f -not -iname "*\.exe" | xargs -I{} grep -l "exit" {}
+find -type f -not -iname "*\.exe" |less
+find -type f -not -name "*.exe"
+find -type f -not -name "*.exe" | grep ERROR
+find -type f -not -name "*.exe" | xargs -I{} grep --color -l ERROR {}
+find -type f -not -name "*.exe" | xargs -I{} grep --color ERROR {}
+find -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {}
+find -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {} | xargs -I{} cp -i {} $EMBIN
+find -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {} | xargs -I{} cp -i {} $EMBIN/{}
+find -type f -not \( -iname "c-*" -iname "zig-*" \)
+find -type f -not \( -iname "c-*" -o -iname "zig-*" \)
+find -type f -not \(-iname "c-*" -iname "zig-*"\)
+find -type f name logout
+find -type f | fzf
+find -type f | grep -r "exit"
+find -type f | grep -v '.git' | fzf
+find -type f | xargs -I{} cp {} staro/
+find -type f | xargs -I{} mv -v {} v1/
+find -type f | xargs -I{} mv {} ct_999_xmlparsesr-test-20250918/
+find -type f |grep 20241126
+find -type f |grep 2024112[56]
+find -type f |grep 2024112[56] | xargs -I{} grep bit {}
+find -type f |grep 2024112[56] | xargs -I{} grep mask {}
+find . -maxdepth 3 -type d -iname "*emonika*"
+find . -maxdepth 4 -type d -iname "*emonika*"
+find . -name "*.txt"
+find . -name "*.txt" | while read FJL; do echo $(spaces-to-underscores "$FJL"); done
+find . -name "*.txt" | while read FJL; do echo $(spaces-to-underscores $FJL); done
+find . -name "*.txt" | while read FJL; do mv "$FJL" $(spaces-to-underscores "$FJL"); done
+find . -name "*.txt" | while read FJL; do mv $FJL $(spaces-to-underscores "$FJL"); done
+find . -print0 | xargs -0 file | grep -i "broken symbolic link"
+find / -name 'c_compile_clean_target' *
+find / -name mc.keymap
+find / -type d -iname "ncs*guess*"
+find / -type d -name 'c_compile_clean_target*'
+find /* -type d -not -name ".git" -not -name ".cache" -o -name "*" |fzf -e
+find /c -iname "ACAD.CUI"
+find /c/Users/gregor.redelonghi -iname "ACAD.CUI"
+find /c/Users/gregor.redelonghi/ -type f -name "rename_basenames*"
+find /c/Users/gregor.redelonghi/* -type d
+find /c/Users/gregor.redelonghi/* -type d -name "*zig*book*"
+find /h/2025/_2025_podloge/* -type f -iname "*skic*dwg" -o -iname "*detajl*dwg"
+find /home/gregor.redelonghi/majstaf_en/engit/knowledgedb/* -iname "*diff*"
+find /home/gregor.redelonghi/majstaf_en/engit/knowledgedb/* -iname "*diff-*"
+find /home/gregor.redelonghi/majstaf_en/majbin_en/* -iname "*color*"
+find /home/gregor.redelonghi/majstaf_en/majbin_en/* -iname "*color*" | fzf | bash -
+find /home/gregor.redelonghi/majstaf_en/scripts_majbin_en/ -type d -iname "*pipe*"
+find 2024 -maxdepth 1 -type d 
+find 2024 -maxdepth 2 -type d 
+find 2024 -type d 
+find N-30280_22403_PO_prestavitev_Pregljeva_PZI -type d
+find N-30280_22403_PO_prestavitev_Pregljeva_PZI -type d | tr 'PZI' 'DGD' |xargs -I{} mkdir -vp {}
+find N-30280_22403_PO_prestavitev_Pregljeva_PZI -type d | tr 'PZI' 'PID'
+find N-30280_22403_PO_prestavitev_Pregljeva_PZI -type d | tr 'PZI' 'PID' |xargs -I{} mkdir -vp {}
+find name "*ddbak*"
+find ~ -type f | fzf -e
+find ~/.config -name "*\.conf*" -o -iname "config*"
+find ~/.config -name "\.conf" -o -iname "config*"
+find ~/.config -type f -name "*\.conf*" -o -iname "config*"
+find ~/.config -type f -name "*conf" -o -iname "config*"
+find ~/.config -type f -name "*conf" -o -iname "config*" | fvmp
+find ~/.config -type f -name "*conf" -o -iname "config*" | fvvmp
+find ~/.config -type f -name "*conf" -o -iname "config*" | fzf
+find ~/.config -type f -name "*conf" -o -iname "config*" | fzf -m | uimp
+find ~/.config -type f -name "*conf" -o -iname "config*" | fzvmp
+find ~/.config -type f -name "*conf" -o -iname "config*" | uimp
+find ~/.config -type f -name "*conf" -o -iname "config*" |fzvmp
+find ~/.congif -name "\.conf" -o -iname "config*"
+find ~/majstaf/ -name "*ext*"
+find ~/majstaf/ -name "*ext[-_]*"
+find ~/majstaf_en/coding2/testing/rust_testing/ -type f
+find ~/majstaf_en/coding2/testing/rust_testing/ -type f |grep mut
+find ~/majstaf_en/coding2/testing/rust_testing/ -type f |grepc mut
+find ~/majstaf_en/engit/knowledgedb/ -name "tui*"
+fish
+for (( i=0; i<${#arr[@]}; i++)); do echo ${arr[$i]}; done
+for (( i=0; i<${#arr[@]}; i++); do echo ${arr[$i]}; done
+for (( i=0; i<${#arr[@]}; i++); do echo ${arr[$i]}; donr
+for ((i=0;i<${#dirs[@]};i++)); do printf "dir %02d: %s\n" $[i+1] ${dirs[$i]}; done
+for ((i=0;i<${#dirs[@]};i++)); do printf "dir%02d %s\n" $i ${dirs[$i]}; done
+for ((i=0;i<${#dirs[@]};i++)); do printf "dir%02d: %s\n" $[i+1] ${dirs[$i]}; done
+for ((i=0;i<${#dirs[@]};i++)); do printf "dir%02d: %s\n" $i ${dirs[$i]}; done
+for DDD in $(find * -type d -name bin); do echo "mv -v $DDD ${DDD//bin/build}"; done
+for DDD in $(find -type d -name "\.git"); do echo $DDD; done
+for DDD in $(find -type d -name bin): do echo "mv -v $DDD build"; done
+for DDD in $(find -type d -name bin); do echo "mv -v $DDD ${DDD//bin/build}"; done
+for DDD in $(find -type d -name bin); do echo "mv -v $DDD build"; done
+for DDD in $(find -type d -name build | grep -E 'ct_[0-9]'); do mv -v $DDD ${DDD//build/bin}; done
+for DDD in $(find -type d -name build); do mv -v $DDD ${DDD//build/bin}; done
+for DDD in $(find . -type d -name bin); do echo "mv -v $DDD ${DDD//bin/build}"; done
+for DDD in $(find . -type d -name bin); do mv -v $DDD ${DDD//bin/build}; done
+for DDD in $(find 2024 -maxdepth 1 -type d); do echo mkdir -p ${DDD//2024/2025}; done
+for DDD in $(find 2024 -maxdepth 1 -type d); do mkdir -p ${DDD//2024/2025}; done
+for DDD in *; do echo $DDD; done
+for DDD in *; do echo mv $DDD ${DDD//[-_]en/}; done
+for DDD in *; do mv $DDD ${DDD//[-_]en/}; done
+for DDD in majbin majrcs metsys; do check-git-diffs-en $DDD; done
+for E in $(seq 1 18); do echo "2**${E}"; done
+for E in $(seq 1 18); do printf "2^${E} = "; done
+for E in $(seq 1 18); do printf "2^${E} = \n"; done
+for E in $(seq 1 19); do echo "2**${E}"; done
+for F in $arr2; do echo $F; done
+for F in ${arr2[@]; do echo $F; done
+for F in ${arr2[@]}; do echo $F; done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo "$FF $(./convert-fname-to-lower-with-hypens "$FF")"; done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo "$FF --> $(./convert-fname-to-lower-with-hypens "$FF")"; done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo "$FF" --> $(./convert-fname-to-lower-with-hypens "$FF"); done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo $FF --> $(./convert-fname-to-lower-with-hypens "$FF"); done
+for FF in "New File 1.txt" "New Book 2.txt"; do echo $FF --> $(./convert-fname-to-lower-with-hypens $FF); done
+for FF in "TESTDIR1/New File 1.txt" "TESTDIR1/New Book 2.txt"; do echo "$FF --> $(./convert-fname-to-lower-with-hypens "$FF")"; done
+for FF in "TESTDIR1/New File 1.txt" "TESTDIR1/New Book 2.txt"; do echo "$FF --> $(./string-to-lower-with-hypens "$FF")"; done
+for FF in $(find ~/_DOWNLOADS/figlet_fonts/ -type f); do echo $FF; done
+for FF in $(find ~/_DOWNLOADS/figlet_fonts/*); do echo $FF; done
+for FF in (find ~/_DOWNLOADS/figlet_fonts/*); do echo $FF; done
+for FF in *; do echo $FF; done
+for FF in *; do echo $FF; figlet -f $FF "Just A Test"; done
+for FF in *; do echo $FF; figlet -f $FF "Just A Test"; done |less
+for FF in *; do echo $FF; figlet -f $FF "Just A Test"; echo; done
+for FF in *; do echo $FF; figlet -f $FF "Just A Test"; echo; done | less
+for FF in *; do echo -e $FF; figlet -f $FF; done
+for FF in *; do echo -e $FF; figlet -f $FF; done |less
+for FF in *; do echo -e $FF; figlet -f $FF; echo ""; done |less
+for FF in *; do echo -e $FF; figlet -f $FF; echo "Just A Test"; done |less
+for FF in *; do echo -e $FF; figlet -f $FF; echo "Just A Test"; echo; done |less
+for FF in *; doe echo $FF; done
+for FF in ~/_DOWNLOADS/figlet_fonts/*; do echo $FF; done
+for FF in ~/majstaf_en/metsys_en/fig; do echo $FF; done
+for FFF in "$(find -name "*.txt")"; do echo "$FFF"; done
+for FFF in "$(find -name "*.txt")"; do mv "$FFF" $(spaces-to-hypens "$FFF"); done
+for FFF in $(/home/gregor.redelonghi/majstaf_en/majbin_en/rsort-by-*); do softlink1-fname-to-ulb $FFF; done
+for FFF in $(cat ~/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat); do contains "$FFF"; done
+for FFF in $(cat ~/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat); do echo $FFF; done
+for FFF in $(find ${HOME}/.local/bin/ -type l); do echo $FFF | cut -d'/' -f6-; done
+for FFF in $(find ${HOME}/.local/bin/ -type l); do echo $FFF; done
+for FFF in $(find * -maxdepth 0 -executable); do echo mv $FFF ${FFF//_/-}; done
+for FFF in $(find * -maxdepth 0 -executable); do mv $FFF ${FFF//_/-}; done
+for FFF in $(find * -maxdepth 0 -executable); do softlink1-fname-to-ulb $FFF; done
+for FFF in $(find * -maxdepth 0 -type f); do echo "mv -v $FFF ${FFF//_/-}"; done
+for FFF in $(find * -maxdepth 0 -type f); do echo $FFF; done
+for FFF in $(find * -maxdepth 0 -type f); do echo mv $FFF ${FFF//_/-}; done
+for FFF in $(find * -maxdepth 0 -type f); do mv $FFF ${FFF//_/-}; done
+for FFF in $(find * -maxdepth 0 -type f); do mv $FFF ${FFF}_en; done
+for FFF in $(find * -maxdepth 0 -type f); do mv -v $FFF ${FFF//_/-}; done
+for FFF in $(find * -maxdepth 0 -type f); do softlink1-fname-to-ulb $FFF; done
+for FFF in $(find * -type f |grep -v .git); do grep "https://thenewstack.io/linux-create-and-connect-to-an-nfs-share/" $FFF; done
+for FFF in $(find -iname "*.c"); do stat $FFF; done 
+for FFF in $(find -iname "*.c"); do wc -l $FFF; done 
+for FFF in $(find -iname "*.c"); do wc -l $FFF; done | sort -nr | head -n15
+for FFF in $(find -name "*.txt"); do echo "$FFF $(spaces-to-underscores "$FFF")"; done
+for FFF in $(find -name "*.txt"); do echo "$FFF $(spaces-to-underscores "$FFF"); done
+for FFF in $(find -name "*.txt"); do echo "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in $(find -name "*.txt"); do echo "$FFF"; done
+for FFF in $(find -name "*.txt"); do echo mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in $(find -name "*.txt"); do mv "$FFF" $(spaces-to-hypens "$FFF"); done
+for FFF in $(find -name "*.txt"); do mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in $(find -name "*.txt); do echo "$FFF"; done
+for FFF in $(find -name "*rclon*"); do mv $FFF _RCLONE/; done
+for FFF in $(find -name "Brth*"); do echo $FFF; done
+for FFF in $(find -name "Brth*"); do fname-underscores-to-hypens-en $FFF; done
+for FFF in $(find -name Makefile); do grep --color=always 'bin' $FFF; done
+for FFF in $(find -name Makefile); do grep --color=always 'build' $FFF; done
+for FFF in $(find -type f -iname "*.c" -o -iname "*.h" |grep -v OSTALO); do wc -l $FFF; done | sort -nr | head -n15
+for FFF in $(find -type f -iname "*.c" |grep -v OSTALO); do wc -l $FFF; done | sort -nr | head -n15
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do echo "sed -i /'Jelena Nolimal,19.11.1970'/'Jelena Nolimal,19.11.1973'/" $FFF; done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do echo "sed -i /Jelena Nolimal,19.11.1970/Jelena Nolimal,19.11.1973/" $FFF; done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do grep Jelena $FFF; done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do grep Jelena: done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do grep Jelena; done
+for FFF in $(find -type f -iname "ROJSTNIDNEVI.txt"); do sed -i "s/Jelena Nolimal,19.11.1970/Jelena Nolimal,19.11.1973/" $FFF; done
+for FFF in $(find -type f -name "*.c -o name *.h"); do echo $FFF; done
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do du $FFF; done
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do du $FFF; done | grep -v "OSTALO\|TEST" | sort -hr | less
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do du $FFF; done | sort -hr | less
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do du $FFF; done | sort -hr |head
+for FFF in $(find -type f -name "*.c" -o -name "*.h"); do echo $FFF; done
+for FFF in $(find -type f -name "*.c" -o name "*.h"); do echo $FFF; done
+for FFF in $(find -type f -name Makefile); do grep BIN $FFF; done
+for FFF in $(find -type f -name Makefile); do grep BUILD $FFF; done
+for FFF in $(find -type f -name Makefile); do grep bin $FFF; done
+for FFF in $(find -type f -name Makefile); do sed 's:/mingw6./build:/mingw6/bin:g' $FFF; done
+for FFF in $(find -type f -name Makefile); do sed -i 's:/mingw6./build:/mingw6/bin:g' $FFF; done
+for FFF in $(find -type f -name Makefile); do sed s:/mingw6./build:/mingw6/bin:g' $FFF; done
+for FFF in $(find -type f); do grep "https://thenewstack.io/linux-create-and-connect-to-an-nfs-share/" $FFF; done
+for FFF in $(find /h/2025/_2025_podloge/* -type f -iname "*skic*dwg" -o -iname "*detajl*dwg"); do echo $(cygpath -w $FFF); done
+for FFF in $(find 2024 -maxdepth 1 -type d); do echo mkdir -p ${DDD//2024/2025}; done
+for FFF in $(grep -l n_bekaps *); do sed -i 's/n_bekaps/bekaps_en/g' $FFF; done
+for FFF in $(grep -l n_bekaps *); do sed -i 's/n_bekaps/en_bekaps/g' $FFF; done
+for FFF in *
+for FFF in * ; do echo $FFF; done
+for FFF in *.c ; do echo $FFF; done
+for FFF in *.c ; do echo sed "s/daysdiff.h/daysdiff_v1.h/g" $FFF; done
+for FFF in *.c ; do sed -i "s/daysdiff.h/daysdiff_v1.h/g" $FFF; done
+for FFF in *.txt; do echo $FFF; done
+for FFF in *.txt; do mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in *: do echo $FFF; done
+for FFF in *; do echo "${FFF//debian_debian_/debian_"; done 
+for FFF in *; do echo "${FFF//debian_debian_/debian_}"; done 
+for FFF in *; do echo "mv {,debian_}${FFF}"; done 
+for FFF in *; do echo $(basename $FFF .iso).tar.gz; done
+for FFF in *; do echo $(basename $FFF .iso); done
+for FFF in *; do echo $(basename $FFF); done
+for FFF in *; do echo $FFF: done
+for FFF in *; do echo $FFF; done
+for FFF in *; do echo FFF; done
+for FFF in *; do echo mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in *; do echo mv $FFF $(spaces-to-underscores "$FFF"); done
+for FFF in *; do echo mv $FFF ${FFF//_/-}; done
+for FFF in *; do echo mv $FFF ${FFF}.jpg; done
+for FFF in *; do fname-underscores-to-hypens-en $FFF; done
+for FFF in *; do mv "$FFF" "${FFF// /-}"; done
+for FFF in *; do mv "$FFF" $(spaces-to-underscores "$FFF"); done
+for FFF in *; do mv $FFF $(spaces-to-underscores "$FFF"); done
+for FFF in *; do mv $FFF $(spaces-to-underscores $FFF); done
+for FFF in *; do mv $FFF ${FFF//_/-}; done
+for FFF in *; do mv $FFF ${FFF//debian_deb_/debian_}; done 
+for FFF in *; do mv $FFF ${FFF//debian_debian-/debian_}; done 
+for FFF in *; do mv $FFF ${FFF//debian_debian_/debian-}; done 
+for FFF in *; do mv $FFF ${FFF//debian_debian_/debian_}; done 
+for FFF in *; do mv $FFF ${FFF/_/-}; done
+for FFF in *; do mv $FFF ${FFF}.jpg; done
+for FFF in *; do mv -v $FFF ${FFF//bekap/rbekap}; done
+for FFF in *; do mv -v $FFF ${fff//bekap/rbekap}; done
+for FFF in *; do mv {,debian_}${FFF}; done 
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+for FFF in *; do softlink1-fname-to-ulb $FFF; donefo
+for FFF in *; do softlink1-fname-to-ulb $FFF; donefor
+for FFF in *; do yes | fname-underscores-to-hypens-en $FFF; done
+for FFF in *_new; do echo "mv -v ${FFF//_new/} prejsnje-verzije/${FFF//new/20241218}"; done
+for FFF in *_new; do echo $FFF; done
+for FFF in *_new; do grefresh_fjl_to_git_repo $FFF; done
+for FFF in *_new; do mv -v $FFF ${FFF//_new/}; done
+for FFF in *_new; do mv -v ${FFF//_new/} prejsnje-verzije/${FFF//new/20241218}; done
+for FFF in /home/gregor.redelonghi/majstaf_en/majbin_en/dirlist/*; do softlink1-fname-to-ulb $FFF; done
+for FFF in /home/gregor.redelonghi/majstaf_en/majbin_en/python-venv-and-pip-setup/*; do softlink1-fname-to-ulb $FFF; done
+for FFF in /home/gregor.redelonghi/majstaf_en/majbin_en/show*; do softlink1-fname-to-ulb $FFF; done
+for FFF in /home/gregor.redelonghi/majstaf_en/majbin_en/vns-*; do softlink1-fname-to-ulb $FFF; done
+for FFF in 0*; do echo $FFF; done
+for FFF in 0*; do echo sed "'s/-rltD/rltDW/g'" $FFF; done
+for FFF in 0*; do echo sed 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -F rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -H rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -n rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc rltD
+for FFF in 0*; do sed -i 's/-rltD/-rltD/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltD/-rltDW/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltDWW/-rltDW/g' $FFF; done
+for FFF in 0*; do sed -i 's/rltD/-rltD/g' $FFF; done
+for FFF in BrthReminder_c*; do echo mv ${FFF} ${FFF//_/-}; done
+for FFF in BrthReminder_c*; do mv ${FFF} ${FFF//_/-}; done
+for FFF in TES*; do ./convert-linenedings-from-unix-to-dos $FFF; done
+for FFF in TES*; do echo $FF; done
+for FFF in TES*; do echo $FFF; done
+for FFF in bash*; do cat $FFF >> _bash-useful-hacks-20250929.txt; echo -e "---\n" >> _bash-useful-hacks-20250929.txt; done
+for FFF in bash*; do echo $FFF; done
+for FFF in bash*; do echo -e "---\n$FFF\n\n" >> _bash-useful-hacks-20250929.txt; cat $FFF >> _bash-useful-hacks-20250929.txt; done
+for FFF in bash*; do echo cat $FFF >> _bash-useful-hacks-20250929.txt; echo -e "---\n" >> _bash-useful-hacks-20250929.txt; done
+for FFF in bash*; do echo cat $FFF >> _bash-useful-hacks-20250929.txt; printf "---\n" >> _bash-useful-hacks-20250929.txt; done
+for FFF in bash*; do echo cat $FFF >> _bash-useful-hacks-20250929.txt; printf "---\n" >>> _bash-useful-hacks-20250929.txt; done
+for FFF in fname_4-spaces-to-tabs fnames-from-unix2dos hypens-to-underscores lower-to-upper spaces-to-* string-to-lower-with-hypens upper-to-lower; do $cmd $FFF; done
+for FFF in fname_4-spaces-to-tabs fnames-from-unix2dos hypens-to-underscores lower-to-upper spaces-to-* string-to-lower-with-hypens upper-to-lower; do echo $FFF; done
+for FFF in rbekap-H-2025-PODLOGE-*; do softlink1-fname-to-ulb $FFF; done
+for FFF in ~/majstaf_en/majbin_en/lynxdump/_multi_dump_list.dat; do echo $FFF; done
+for FFF in ~/majstaf_en/majrcs_en/bashrc_prompt_*; do echo $(basename $FFF); done 
+for FFF in ~/majstaf_en/majrcs_en/bashrc_prompt_*; do echo $(basename $FFF); done | fzf
+for FFFin $(grep -l n_bekaps *); do sed -i 's/n_bekaps/bekaps_en/g' $FFF; done
+for FFS in "My New Filename.txt" "Ha Ha Ha.txt"; do echo $(string-to-lower-with-hypens "$FFS"); done
+for FFS in "My New Filename.txt" "Ha Ha Ha.txt"; do echo $FFS --> $(string-to-lower-with-hypens $FFS); done
+for LINE in $(cat ~/__DANES__/ff_cleaned.html); do echo $LINE $(echo $LINE |wc -m) ; done
+for LINE in $(cat ~/__DANES__/ff_cleaned.html); do echo $LINE |wc -m ; done
+for LINE in $(cat ~/__DANES__/ff_cleaned.html); do echo wc -m $LINE; done
+for LINE in $(cat ~/__DANES__/ff_cleaned.html); do if [ $(echo "$LINE" |wc -m) -gt 300 ]; then echo $LINE; fi ; done
+for LINE in $(cat ~/__DANES__/ff_cleaned.html); do if [ $(echo "$LINE" |wc -m) -gt 300; then echo $LINE; fi ; done
+for LINE in $(cat ~/__DANES__/ff_cleaned.html); do if [ $(echo "$LINE" |wc -m) -gt 300i ]; then echo $LINE; fi ; done
+for MM in 01 02 03 04 05 06 07 08 09 10 11 12; do for DD in 01 08 12 15 22 28; do touch filename-add-2025${MM}${DD}.txt; done; done
+for MM in 02 03 06 07 08 09 10 ; do for DD in 01 08 12 15 22 28; do touch filename-add-2024${MM}${DD}.txt; done; done
+for N in $(seq 1 15 2); do echo $N; done
+for N in $(seq 1 15); do echo $(rand $N); done
+for N in $(seq 1 15); do echo $(shuf -i 1 - 15 -n 1); done
+for N in $(seq 1 15); do echo $(shuf -i 1-15 -n 1); done
+for N in $(seq 1 15); do echo $N; done
+for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done
+for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done | sort -k-1
+for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done | sort -k1-
+for N in $(seq 1 15); do echo rand($N); done
+for N in $(seq 1 2 12); do echo $N; done
+for N in $(seq 1 3); do echo $N; done
+for N in 1 2 3 4 5 6 7 8 9; do touch "My new Fname $N.txt"; done
+for N in 1 2 3 4 5 6 7 8 9; do touch file-${N}.txt; done
+for N in 1 2 3 4 5 6 7 8 9; do touch fname_${N}.txt; done
+for N in 1 2 3 4 5 6 7 8 9; do touch ~/majstaf_en/majbin_en/BRISIME_${N}; done
+for N in seq 1 3; do echo $N; done
+for NAME in majbin metsys majrcs; do check_git_diffs_en ${NAME}_en; done
+for NM in $fst $scnd $thrd $frth; do echo $NM; done
+for NM in ${pkgs[@]}; do echo "Name: $NM"; done
+for NM in fst scnd thrd frth; do echo $NM; done
+for NM in metsys majrcs majbin; do check_git_diffs_en ${NM}_en; done
+for RMT in $(rclone listremotes); do echo $RMT; done
+for RMT in $(rclone listremotes); do echo $RMT; rclone about $RMT; done
+for RMT in $(rclone listremotes); do echo $RMT; rclone about $RMT; echo "---";done
+for SITE in "${SITES[@]}"; do echo $SITE; done
+for URL in "${URLS[@]}"; do echo "$URL"; done
+for URL in $(cat __SEZNAM); do contains $URL; done
+for URL in $(cat __SEZNAM); do echo $URL; done
+for URL in $(cat __SEZNAM); do echo contains $URL; done
+for URL in $(cat __SEZNAM); do echo cpntains $URL; done
+for URL in ${URLS[@]}; do echo "$URL"; done
+for URL in ${URLS[@]}; do echo "$URL; done
+for URL in __SEZNAM; do echo $URL: done
+for URL in __SEZNAM; do echo $URL; done
+for exp in $(grep '()' startfuncs_en | sed 's/(.*//'); do grep $exp funclist_en; done
+for exp in $(grep '()' startfuncs_en | sed 's/(.*//'); do grep --color $exp funclist_en; done
+for i in  0 1 2; do echo "${arr1[$i]}"; done
+for i in  0 1; do echo "${arr1[$i]}"; done
+for i in  1 2; do echo "${arr1[$i]}"; done
+for i in $(#seznam[@]); do echo "seznam[$i] = ${seznam[$i]}"; done
+for i in $(#seznam[@]); do echo ${seznam[$i]}; done
+for i in $(#seznam[@]); do echo ${seznam[i]}; done
+for i in $(seq 0 ${#arr[@]}); do echo $i ${arr[$i]}; done
+for i in $(seq 0 ${#seznam[@]}); do echo "seznam[$i] = ${seznam[$i]}"; done
+for i in $(seq 0 ${#seznam[@]}); do echo $i; done
+for i in $(seq 0 ${#seznam[@]}; do echo $i; done
+for i in $(seq 1 ${#arr[@])); do echo $i; done
+for i in $(seq 1 ${#arr[@]); do echo $1; done
+for i in $(seq 1 ${#arr[@]); do echo $i; done
+for i in $(seq 1 ${#arr[@]}); do echo $i ${arr[$i]}; done
+for i in $(seq 1 ${#arr[@]}); do echo $i; done
+for i in 0 1 2; do echo "${arr1[$i]}"; done
+for i in 0 1 2; do echo "${arr[$i]}"; done
+for i in 0 1 2; do echo ${arr[$i]}; done
+for line in $(./bin/test6); do echo "$line"; done
+for line in $(./bin/test6); do echo $line; done
+for line in $(./bin/test6); do iecho $line; done
+for line in $(./bin/test6); do wc line; done
+for nm in "${arr[@]}"; do echo $nm; done
+for nm in $arr; do echo $nm; done
+for nm in ${arr[@]; do echo $nm; done
+for nm in ${arr[@]}; do echo $nm; done
+for prg in git huh bash numpy; do ech -n "$prg: "
+for sdir in dir1 dir2 dir3; do echo "copying $sdir"; done
+fzf 'Brth
+fzf 'Brth'
+fzf --help
+fzf --help | grep mov
+fzf --help | less
+fzf -f list
+fzf -h
+fzf -h | grep query
+fzf .
+fzf ./
+fzf help
+fzf help | grep "query"
+fzf help | grep -i font
+fzf majstaf_en/majrcs_en/
+fzf | cat
+fzf | cf
+fzf_aliases 
+fzv
+gir diff
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs push ghven main
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs push glven main
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs remote -v
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs remote-v
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs status
+git --git-dir=~/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs status
+git add --verbose .
+git add -A
+git add .
+git add .gitignore
+git add .gitignore 
+git add _PDF
+git add ct_OSTALO
+git branch
+git branch -D main
+git branch -M main
+git branch -m main
+git bransc
+git checkout 3e7defa90c4e1c312befaf1886fff24a0152f338
+git checkout main
+git clone "https://github.com/koleffel/qtile-ubuntu"
+git clone "https://github.com/mylinuxforwork/dotfiles.git"
+git clone "https://github.com/r-gregor/dotfiles_mdb.git"
+git clone "https://github.com/r-gregor/metsys_jbe.git"
+git clone "https://github.com/tsoding/skedudle.git"
+git clone "https://github.com/tsoding/sv.git"
+git clone https://github.com/ChrisTitusTech/Debian-titus.git
+git clone https://github.com/ChrisTitusTech/mybash.git
+git clone https://github.com/gotbletu/fzf-nova.git
+git clone https://github.com/linuxdabbler/personal-dot-files.git
+git clone https://github.com/pedropark99/zig-book.git
+git clone https://github.com/r-gregor/majbin_jbe.git
+git clone https://github.com/r-gregor/majbin_mdb
+git clone https://github.com/r-gregor/majbin_mdb.git
+git clone https://github.com/r-gregor/majrcs_mdb
+git clone https://github.com/r-gregor/metsys_en
+git clone https://github.com/r-gregor/metsys_en.git
+git clone https://github.com/r-gregor/prenos.git
+git clone https://github.com/ranger/colorschemes.git
+git clone https://github.com/sxyazi/yazi.git
+git clone"https://github.com/tsoding/skedudle.git"
+git commit --amend
+git commit -a
+git commit -am "History clear-up 20250923-0940-en"
+git commit -m "Initial commit 20250729_1006"
+git commit -m "Resolving PluggUpdate error 20250312"
+git commit -m "added .gitignore 20250110_1022_en"
+git commit -m "another update 20250729"
+git commit -m "initial commit 20250110_1017"
+git commit -m "initial push 20250729"
+git commit -m "removed ff-bookmarks ... 20250727"
+git commit -m "removed ff-en ..."
+git commit -m "reset 20250204"
+git commit -m "test"
+git commit -m "update 20240820_1041_en"
+git commit -m "update 20240820_1602_en"
+git commit -m "update 20240821_1023_en"
+git commit -m "update 20240821_1039_en"
+git commit -m "update 20240822_1000_en"
+git commit -m "update 20250729-1002"
+git commit -m "updated .gitignore: bin --> build 20241205_0908_en"
+git config --global --list
+git config --global init.defaultBranch main
+git diff
+git diff --cached
+git diff --caches
+git diff .bashrc
+git diff .bashrc HEAD ~HEAD
+git diff .bashrc HEAD~ HEAD
+git diff 2de44 0b73d
+git diff 2f8483 d9bd66
+git diff 2f8483 d9bd66 rst_007_dereferencing_cloning_test_20240919/dereferencing_cloning_test/src/main.rs
+git diff 2f8483 d9bd66 src/main.rs
+git diff 2f848c d9bd66e
+git diff 2f848ce d9bd66e
+git diff 2f848ce...d9bd66e
+git diff 2f848ce..d9bd66e
+git diff 43e83a6 ct_FUNCTIONS/abspath.c
+git diff 43e83a6 ct_FUNCTIONS/abspath.h
+git diff 43e83a6 ct_FUNCTIONS/getcurryear.h
+git diff 43e83a6 ct_FUNCTIONS/isleapyear.h
+git diff 43e83a6..0f74993
+git diff 43e83a6..c153b70
+git diff 43e83a6..c153b70 ct_FUNCTIONS/abspath.c
+git diff 43e83a6..c153b70 ct_FUNCTIONS/isleapyear.h
+git diff 43e83a6..c15b70 ct_FUNCTIONS/abspath.c
+git diff 6369dd..43e83 ct_FUNCTIONS/isleapyear.h
+git diff 6369dd..c153b7 ct_FUNCTIONS/isleapyear.h
+git diff 6369dd..c153b7 ct_FUNCTIONS/isleapyear.h | tee
+git diff HEAD
+git diff HEAD HEAD~
+git diff HEAD HEAD~3
+git diff HEAD^ HEAD
+git diff HEAD^ HEAD .bashrc
+git diff HEAD~
+git diff HEAD~ HEAD
+git diff HEAD~-1 HEAD
+git diff HEAD~1 HEAD
+git diff HEAD~2 HEAD
+git diff HEAD~3 HEAD
+git diff HEAD~4 HEAD
+git diff b40ff3 1d8953 rst_007_dereferencing_cloning_test_20240919/dereferencing_cloning_test/src/main.rs
+git diff b40ff3 2f8483 rst_007_dereferencing_cloning_test_20240919/dereferencing_cloning_test/src/main.rs
+git diff b40ff3 d9bd66 rst_007_dereferencing_cloning_test_20240919/dereferencing_cloning_test/src/main.rs
+git diff c153b70..43e83 ct_FUNCTIONS/isleapyear.h
+git diff ghct/main main
+git diff ghen/main 
+git diff 43e83a6d631d56
+git diff-index --quiet HEAD --
+git diff-index HEAD --
+git fetch
+git fiff
+git hash-object test-brisi-me.zig
+git help clone
+git help depth
+git help diff
+git help log
+git help push
+git help remote
+git help show
+git help status
+git init
+git log
+git log --oneline
+git log --oneline | tee
+git log --oneline | tee |head
+git log --oneline |tee -
+git log --oneline |tee - | head
+git log oneline
+git log todays_knowledgedb_files
+git log todays_knowledgedb_files_en
+git log | tee
+git log | tee | head -n10
+git log | tee | head -n60
+git loge --one-line
+git loge --oneline
+git loge -oneline
+git push
+git push --set-upstream ghmts main
+git push -f
+git push -f ghcb main 
+git push -f ghprns main 
+git push -f glcb main 
+git push -f glen main
+git push -f glen main 
+git push -f glprns  main 
+git push -u ghcb main 
+git push ghcb main 
+git push ghct main 
+git push ghct main --set-upstream
+git push ghct main -u
+git push ghen main
+git push ghen main 
+git push ghen main --upstream
+git push ghen main -u
+git push ghgt main -u
+git push ghnct main -u
+git push ghprns main -u
+git push ghpt main -u
+git push ghrst main -u
+git push glct main 
+git push glen main
+git push glen main 
+git push glprns main 
+git push glpt main 
+git push zght main -u
+git push zglt main 
+git push zglt main -f
+git rebase --abort
+git rebase --continue
+git rebase --edit-todo
+git rebase --skip
+git rebase -i HEAD~2
+git rebase -i bec875db9b097341ff74ed89853de0f68f549274
+git reflog
+git reflog 
+git reflog |tee
+git reflog |teee
+git remote
+git remote 
+git remote  -v
+git remote -v
+git remote -v > ~/_BRISI/metsys_en-remotes
+git remote ad ddghprns git@github.com:r-gregor/prenos.git
+git remote ad dghprns git@github.com:r-gregor/prenos.git
+git remote ad ghprns git@github.com:r-gregor/prenos.git
+git remote add ghct git@github.com:r-gregor/c_testing.git
+git remote add ghen git@github.com:r-gregor/metsys_en.git
+git remote add ghenszn git@github.com:r-gregor/seznami_en.git
+git remote add ghmts git@github.com:r-gregor/metsys_en.git
+git remote add ghprns git@github.com/r-gregor/prenos.git
+git remote add ghprns git@github.com:r-gregor/prenos.git
+git remote add zght git@github.com:r-gregor/zig_testing.git
+git reset
+git reset --hard 3e7defa90c4e1c312befaf1886fff24a0152f338
+git reset HEAD -- .
+git reset HEAD --hard
+git reset HEAD~
+git show
+git show 
+git show HEAD~1
+git show HEAD~2
+git show HEAD~3
+git siff --cached
+git statsu
+git statud
+git status
+git status 
+git status --oneline
+git status -b
+git status -oneline
+git status -sb
+git status oneline
+git staus
+git sttaus
+git update-index --refresh 
+glow --help
+glow -p README.md
+glow README.md
+glow README.md | less
+glow README.md | less --use-color --color C
+glow README.md | less --use-color --color=C
+glow README.md | less --use-color C
+glow mrkdwn-tst-01.md
+glow mrkdwn-tst-02.md
+glow mrkdwn-tst-02.md | less
+glow mrkdwn-tst-02.md | less -R
+glow mrkdwn-tst-02.md | less -r
+glow mrkdwn-tst-02.md |less
+glow mrkdwn-tst-02.md |less --color
+glow mrkdwn-tst-02.md |less --color always
+glow mrkdwn-tst-02.md |less --color=always
+go
+go --version
+go -version
+go build
+go build BrthdReminder_1.1.0.go 
+go build BrthdReminder_1.1.0_colors.go 
+go build help
+go build test2
+go help build
+go help build | less
+go mod init
+go mod tidy
+go run .
+go run ./BrthdReminder_1.1.0_colors.go ./ROJSTNIDNEVI.txt 
+go run ./rsort_by_enddate_g $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/") | less
+go run BrthdReminder_1.1.0_colors.go 
+go run rsort_by_enddate_V3.go 
+go run rsort_by_enddate_V3.go $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/")
+go run rsort_by_enddate_V3.go $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/") | less
+go run rsort_by_enddate_V3.go $(cygpath -w "~/majstaf_en/engit/knowledgedb/_GIT/")
+go run rsort_by_enddate_V3.go $(cygpath -w ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/)
+go run rsort_by_enddate_V3.go $(cygpath -w ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/) |less
+go run rsort_by_enddate_V3.go $KNOWLEDGEBASE/_C_and_Cpp/
+go run rsort_by_enddate_V3.go ../
+go run rsort_by_enddate_V3.go testdir/
+go run rsort_by_enddate_V3.go ~/majstaf_en/engit/knowledgedb/_C_and_Cpp/
+go run rsort_by_enddate_V3.go ~/majstaf_en/engit/knowledgedb/_GIT
+go run rsort_by_enddate_V3.go ~/majstaf_en/engit/knowledgedb/_GIT/
+go run rsort_by_enddate_V3.go ~/majstaf_en/engit/knowledgedb/_GO/
+go run rsort_by_enddate_g $(cygpath -w "/home/gregor.redelonghi/majstaf_en/engit/knowledgedb/_GIT/") | less
+grep
+grep "BASH_SOURCE" *
+grep "^pddbak" *
+grep ' <DT><A HREF="https://www.omgubuntu.co.uk/2023/11/firefox-120-released-tracking-protection"' ../../ff-test_bookmarks.html 
+grep ' <DT><A HREF="https://www.omgubuntu.co.uk/2023/11/firefox-120-released-tracking-protection"' ../../ff-test_bookmarks.html |grep '">'
+grep ' <DT><A HREF="https://www.omgubuntu.co.uk/2023/11/firefox-120-released-tracking-protection"' ../../ff-test_bookmarks.html |grepc '">'
+grep '!bash'
+grep '!bash' *
+grep '#include' libxml/*.h
+grep '()' funclist_en 
+grep '()' startfuncs_en 
+grep '()' startfuncs_en | sed 's/(.*//'
+grep '()' startfuncs_en | sed 's/\(.*//'
+grep '---\nhttps://' default-filename-multyf_20250127.txt 
+grep '64' ~/majstaf_en/seznami_en/*
+grep '= std.debug' exercises/*
+grep '?search' new.html 
+grep '\*T' *
+grep '\. ' .* | grep -i fzf
+grep '\. ' .bashrc
+grep '\. ' majstaf/majrcs/bashrc-*
+grep '\/home\/gregor.redelonghi\/majstaf\/engit\/' *
+grep '\[e' *
+grep '^[! c]' *
+grep '^alias' $MRCS/aliases-gredelonghi-en
+grep '^alias' $MRCS/aliases-gredelonghi-en 
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' -f1
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' -f2
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' printf -f1
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed 's/alias //'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed 's/alias //' |sed 's/=/\t\t/'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/ --> /'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t/'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t\t/'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t\t/' |less
+grep '_prompt' *
+grep '_prompt/ *
+grep 'banner(' files/lib_linux_setup.sh 
+grep 'git diff' ~/majstaf_en/seznami_en/*
+grep 'go1.19.windows' *
+grep 'https://' default-filename-multyf_20250127.txt 
+grep 'majstaf/majbin' *
+grep 'map(' *
+grep 'metsys_' *
+grep 'my(' *
+grep 'n_bekaps *
+grep 'n_bekaps' *
+grep 'n_bekaps' * | cut -d' ' -f2
+grep 'n_bekaps' * | cut -d':' -f1
+grep 'pub fn' *
+grep 'pub fn' * | grep general
+grep 'source ' .* | grep -i fzf
+grep 'source ' .* | less
+grep --color -H chapter *
+grep --color -Hr 'chapter' *
+grep --color -i fzf ./.*
+grep --color -i fzf ./.* | less
+grep --color -lr 'Arena' * 
+grep --color -r 'Arena' * 
+grep --color -rE "is.*leap()" *
+grep --color fzf *
+grep --color=always -rlE '".*\.h"' *
+grep -C 5 fzf ~/majstaf_en/majrcs_en/funclist_en
+grep -E "define.*\\" *
+grep -E "define.*\\\\" *
+grep -E '"
+grep -E '.*()' funclist_en 
+grep -E 'cod.*64' ~/majstaf_en/seznami_en/*
+grep -E 'code64' ~/majstaf_en/seznami_en/*
+grep -E .*() funclist_en 
+grep -Er "fzf.*rev" *
+grep -Hr 'chapter' *
+grep -Lrn 'chapter' *
+grep -Lrn chapter *
+grep -W ddbak
+grep -i 'align' ./*
+grep -i Win src/*
+grep -i fzf ~/.bashrc
+grep -i hirsch sites
+grep -i hirsch sites.txt
+grep -i ignor *
+grep -i mrc ~/majstaf/majrcs/bashrc-gredelonghi-en
+grep -i mrc ~/majstaf/majrcs/bashrc-gredelonghi-en 
+grep -i proxy *
+grep -i rust *
+grep -il 'align' ./*
+grep -il 'align' ./* |sort | uniq
+grep -il 'alignment' ./* |sort | uniq
+grep -ilr "region\|arena" *
+grep -ilr "region\|arena" * | grep -v OSTAL
+grep -ilr "region\|arena" * | grep -v OSTAL | grep -E "*.\.c"
+grep -ilr "region\|arena" * | grep -v OSTAL | grep -E ".*\.c"
+grep -ir "\/C\/Users" *
+grep -ir "\/C\/Users\/gregor.redelonghi\/majstaf" *
+grep -ir "\/C\/Usres" *
+grep -ir "\/c\/Users\/gregor.redelonghi\/majstaf" * | grep 'majstaf/'
+grep -ir "\/c\/Users\/gregor.redelonghi\/majstaf" * | grep 'majstaf\/'
+grep -ir "\/c\/Users\/gregor.redelonghi\/majstaf" * | grep 'majstaf\/' -
+grep -ir "\/c\/Users\/gregor.redelonghi\/majstaf" * | grep 'majstaf_en\/'
+grep -ir "\/c\/Users\/gregor.redelonghi\/majstaf" * | grepc 'majstaf_en'
+grep -ir "array" * | grep -v "bookmark\|testing"
+grep -ir "array" * | grep -v "bookmark\|testing\|matches"
+grep -ir "array" * | grep -v bookmark
+grep -ir "array" * | grep -v bookmark |less
+grep -ir "pass"
+grep -ir "pss"
+grep -ir "region\|arena" *
+grep -ir '\##type' *
+grep -ir 'majstaf_en'
+grep -ir 'majstaf_en' | grep -v 'Users'
+grep -ir 'majstaf_en' | grep -v 'Users' | grep -l majstaf_en
+grep -ir 'majstaf_en' | grep -v 'Users' | grep -l majstaf_en -
+grep -ir 'majstaf_en' | grep -v 'Users' | grep majstaf_en
+grep -ir 'majstaf_en' | grep -v 'Users' | grepc majstaf_en
+grep -ir 'majstaf_en' | grepc -v 'Users'
+grep -ir 'stat(' *
+grep -ir compl ~/.*
+grep -ir compl ~/majstaf/majrcs/*
+grep -ir completiti *
+grep -ir completiti ~/.*
+grep -ir proxy *
+grep -ir socket
+grep -ir wpad *
+grep -irE "prehodni.*pvc" *
+grep -irl "\/c\/Users\/gregor.redelonghi\/majstaf" *
+grep -irl '## type' *
+grep -irl '##type' *
+grep -irl '\##type' *
+grep -irl 'matrix' * | less
+grep -irl 'stat(' * | less
+grep -irl -regex '## *type' *
+grep -irl cast * | clm
+grep -irl cast * | grep struct
+grep -irl representat * | clm
+grep -l "BASH_SOURCE" *
+grep -l ' en_bekaps' *
+grep -l ' n_bekaps' *
+grep -l '\--header' _*
+grep -l 'en_bekaps' *
+grep -l majstaf_en *
+grep -l n_bekaps *
+grep -l vol *
+grep -lE "env.*bash" * | wc -l
+grep -ln chapter *
+grep -lr "<windows.h>" ./* |grep -v OSTALO
+grep -lr lib_linux *
+grep -lr netcat *
+grep -lrn chapter *
+grep -r "BASH_SOURCE" *
+grep -r "SOURCE" *
+grep -r "\/majstaf_en\/majbin_em" *
+grep -r "\/majstaf_en\/majbin_en" *
+grep -r '.zig-' *
+grep -r '=\~' *
+grep -r '=~' *
+grep -r '[e' *
+grep -r '\[e' *
+grep -r '\\[e' *
+grep -r '\\\[e' *
+grep -r '\\\\[e' *
+grep -r '\e' *
+grep -r '^# ' * |wc -l
+grep -r 'git diff' ~/majstaf_en/seznami_en/*
+grep -r 'majstaf_' *
+grep -r 'map(' *
+grep -r 'metsys_' *
+grep -r 'print!' *
+grep -r 'zig ' ~/majstaf/seznami/*.txt
+grep -r --color "tr ' " 
+grep -r --color 'git ' *
+grep -r --color -H chapter *
+grep -r --color def ~/majstaf_en/coding2/testing/c_testing/* |less
+grep -r --color typedef ~/majstaf_en/coding2/testing/c_testing/* |less
+grep -r -H chapter *
+grep -r -H chapter * | sort -n -k 4
+grep -r -H chapter * | sort -n -k 4,1
+grep -r -H chapter * | sort -n -k 4.1
+grep -r -H chapter * | sort -n -k3
+grep -r -H chapter * | sort -n -k5
+grep -r -H chapter * | sort -n -k6
+grep -r -H chapter * | sort -n -k7
+grep -r 2024 *
+grep -r BASH *
+grep -r HIST *
+grep -r RUT *
+grep -r SOURCE *
+grep -r base64 *
+grep -r bash *
+grep -r danes *
+grep -r ddbak *
+grep -r exit *
+grep -r exit * |grep -v ZIGLING
+grep -r fncs *
+grep -r getDiff
+grep -r mut ~/majstaf_en/coding2/testing/rust_testing/*
+grep -r nohup *
+grep -r pdd *
+grep -r reada *
+grep -r reada ~/majstaf/majbin/*
+grep -r reader *
+grep -r reader * | grep -v ZIGLING 
+grep -r script *
+grep -r sprintf
+grep -r sprintf *
+grep -r use *
+grep -rE ".*\_.*" | grep -v "majstaf\|majbin" *
+grep -rE ".*\_.*" | grep -v "majstaf\|majbin" * | less
+grep -rE ".*_.*" | grep -v "majstaf\|majbin" *
+grep -rE "/majstaf_en/majbin_em" *
+grep -rE "\/majstaf_en\/majbin_em" *
+grep -rE '".*\.h"' *
+grep -rE '\*\*.*=.*{' *
+grep -rEl '"abc"' *
+grep -rEl '\*\*.*= *{' *
+grep -rEl 'comp.*literal' *
+grep -rEl 'literal' *
+grep -rH --color 'print!' *
+grep -re '^# ' *
+grep -re '^# ' * |less
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | grep -v "zig bild\|zig run"
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | grep -v "zig build\|zig run"
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | less
+grep -rh '^zig ' ~/majstaf/seznami/*.txt | less
+grep -rh 'i^zig ' ~/majstaf/seznami/*.txt | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 4-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 4- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 5-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 5- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 6-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 6- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | less
+grep -rh --color=always "^ *git \|/usr/bin/git " * |less
+grep -rh --color=always ' *git ' * |less
+grep -rh --color=always 'git ' * |less
+grep -rh --color=always 'git push' * |less
+grep -rh --color=always -E "/usr/bin/git " * |less
+grep -rh --color=always -E "^ *git \| */usr/bin/git " * |less
+grep -rh --color=always -E "^ *git \|/usr/bin/git " * |less
+grep -rh --color=always -E "^ *git \|^ */usr/bin/git " * |less
+grep -rh --color=always -E "^ *git \|^ *\/usr\/bin\/git " * |less
+grep -rh --color=always -E "^ *git \|^ *\\/usr\\/bin\\/git " * |less
+grep -rh --color=always -E "^ *git \|^ *\\\/usr\\\/bin\\\/git " * |less
+grep -rh --color=always -E '^ *git ' * |less
+grep -rh --color=always -E '^ *git \|^ */usr/bin/git ' * |less
+grep -rh --color=never "^ *git \|/usr/bin/git " *
+grep -ri curry *
+grep -ri reader *
+grep -ri reader * | grep -v ZIGLING
+grep -ri reader * |grep -v ZIGLLING
+grep -rl  "bash" * | sort | uniq
+grep -rl  "bash" * | sort | uniq |grep -v html
+grep -rl  "bash" * | sort | uniq |grep -v html | wc -l
+grep -rl "HOME\/majstaf_en\/majbin_en"
+grep -rl 'HOME\/majstaf_en\/majbin_en'
+grep -rl 'HOME\/majstaf_en\/majbin_en' *
+grep -rl '^# test' * |sort | uniq
+grep -rl 'banner(' *
+grep -rl 'majstaf_' *
+grep -rl 'majstaf_' * |grep -v prej
+grep -rl banner *
+grep -rl banner( *
+grep -rlE "${.*##.*" *
+grep -rlE '".*\.h"' *
+grep -rlE '".*\.h"' * | grep -v "OSTALO\|ct_129"
+grep -rlE '".*\.h"' * | grep -v OSTALO
+grep -rlE '$\{.*##.*' *
+grep -rlE '${.*##.*' *
+grep -rlE '${.*\##.*' *
+grep -rlE '${.*\#\#.*' *
+grep -rlE '${.*\#q#.*' *
+grep -rlE '${.\*##.*' *
+grep -rlE '\$\{.*##.*' *
+grep -rlE '\*\*.*=.*{' *
+grep -ro 'zig ' ~/majstaf/seznami/*.txt
+grep -w ddbak *
+grep -wr RUT *
+grep CUR *
+grep CURR
+grep CURR *
+grep CURRE *
+grep CURRY *
+grep HIST .bash*
+grep Jelen .local/bin/ROJSTNIDNEVI.txt 
+grep Jelena .local/bin/ROJSTNIDNEVI.txt
+grep ROJSTN *
+grep RUT *
+grep RUT ./*
+grep Win src/*
+grep ^[! c]
+grep bbc ~/majstaf_en/majrcs_en/aliases_gredelonghi_en 
+grep check *
+grep danes *
+grep daysdiff *
+grep ddbak *
+grep export $ERCS
+grep export $E_MJRCS/bashrc_gredelonghi_en 
+grep export $E_MJRCS/bashrc_gredelonghi_en >> _new_env_variables_en_20250220.txt
+grep export $E_MJRCS/bashrc_gredelonghi_en >> new_env_variables_en_20250220.txt
+grep export majstaf_en/majrcs_en/bashrc_gredelonghi_en >> new_env_variables_en_20250220.txt 
+grep export ~/majstaf_en/majrcs_en/bashrc_gredelonghi_en 
+grep fzf $MRCS/aliases-gredelonghi-en
+grep fzf $MRCS/aliases-gredelonghi-en 
+grep fzf *
+grep fzf ~/majstaf_en/majrcs_en/aliases_gredelonghi_en 
+grep fzf ~/majstaf_en/majrcs_en/funclist_en
+grep hypen *
+grep let *
+grep lynx ~/majstaf_en/majbin_en/lynxdump/lynxd
+grep majbin *
+grep mp3 *
+grep n_bekaps *
+grep nohup *
+grep original 058a_quiz7.zig 
+grep prompt ~/majstaf_en/majrcs_en/funclist_en 
+grep rl *
+grep rust *
+grep rust ./.*
+grep search ~/_BRISI/ff_bookmarks_20250204.html 
+grep search ~/_BRISI/ff_cleaned.html
+grep sh *
+grep support *
+grep switch *
+grep unreach exercises/*
+grep unreach exercises/* | head
+grep vol
+grep vol *
+grep xclip *
+grepc ' \*T' *
+grepc '--header' _*
+grepc '?search' new.html 
+grepc '\ *T' *
+grepc '\* T ' *
+grepc '\* T' *
+grepc '\*T ' *
+grepc '\--header' _*
+grepc '\/home\/gregor.redelonghi\/majstaf\/engit\/' *
+grepc '\/metsys_en\/' *
+grepc 'majstaf\/majbin' *
+grepc 'metsys' *
+grepc -C 5 fzf ~/majstaf_en/majrcs_en/funclist_en
+grepc -C5 fzf ~/majstaf_en/majrcs_en/funclist_en 
+grepc -E "define.* T.*\\\\" * | less
+grepc -E "define.* type.*\\\\" * | less
+grepc -E "define.*T.*\\\\" * | less
+grepc -E "define.*\\\\" *
+grepc -E "define.*\\\\" * | less
+grepc -Ei "define.*(type.*\\\\" * | less
+grepc -Ei "define.*\(type.*\\\\" * | less
+grepc -H rltD *
+grepc -H rltDW *
+grepc -i '\* T ' *
+grepc -i '\* T' *
+grepc -i view *
+grepc -ir "\/C\/Users\/gregor.redelonghi\/majstaf" *
+grepc -ir "\/c\/Users\/gregor.redelonghi\/majstaf" *
+grepc -ir "\/c\/Users\/gregor.redelonghi\/majstaf" * | less
+grepc -ir '_view' *
+grepc -ir 'majstaf_en'
+grepc -ir -A5 '^# test ' * | less
+grepc -ir color *
+grepc -ir gview *
+grepc -ir view *
+grepc -ire '^# test ' * |less
+grepc -ire '^# test' * |less
+grepc -ire -A5 '^# test ' * |less
+grepc -ireA5 '^# test ' * |less
+grepc -irl "\/C\/Users\/gregor.redelonghi\/majstaf" *
+grepc -r "String " *
+grepc -r "\/majstaf_en\/majbin_en" *
+grepc -r "\/majstaf_en\/majbin_en\/" *
+grepc -r "majstaf" *
+grepc -r "majstaf" * | less
+grepc -r "majstaf_en" *
+grepc -r '\$?' * | less
+grepc -r '\/majstaf_en\/' *
+grepc -r '\\e' * | less
+grepc -r '\e' *
+grepc -r '\e' * | less
+grepc -r '_en\/' *
+grepc -r '_en\/' * | less
+grepc -r 'getStdOut' *
+grepc -r 'if \[ ' * | less
+grepc -r 'majstaf_' *
+grepc -r 'map' *
+grepc -r 'map(' *
+grepc -r 'map[' *
+grepc -r 'map\[' *
+grepc -r 'map\[' * | less
+grepc -r 'ncurses.h' ./*
+grepc -r String *
+grepc -r String * |grep -v test
+grepc -r String * |grep -v test |less
+grepc -r assert *
+grepc -r base64 *
+grepc -r fzf *
+grepc -r fzf ~/majstaf_en/majrcs_en/*
+grepc -r lib_linux *
+grepc -r majstaf_en *
+grepc -rE ".*\_.*" | grep -v "majstaf\|majbin" * | less
+grepc -rE "typedef .*String " *
+grepc -re '^# ' * |less
+grepc -rh 'map\[' * | less
+grepc -rh 'map\[f' * | less
+grepc -rh 'map\[i' * | less
+grepc -riE "typedef .*String " *
+grepc -riE "typedef.*String " *
+grepc -riE "typedef.*String" *
+grepc -rl '^# ' * |less
+grepc -rl '^# ' * |sort | uniq
+grepc -rl '^# ' * |sort | uniq |wc -l
+grepc -rl '^# test' * |sort | uniq
+grepc -rl '^# test' * |sort | uniq |wc -l
+grepc -rs '\$?' * | grep -v matches
+grepc -rs '\$?' * | less
+grepc -wr RUT *
+grepc daysdiff *
+grepc fzf *
+grepc fzf ~/majstaf_en/majrcs_en/*
+grepc majbin *
+grepc majbin * | less
+grepc majprogs *
+grepc majstaf_en *
+grepc sh *
+head -n 2 mte.csv | cut -d ',' -f2,3
+head -n1 great_NEW_movies_2024-25_trailers_20241011.txt 
+head -n1 sort_files_by_chapter_in_header_20240913.txt
+head -n1 sort_files_by_chapter_in_header_20240913.txt 
+head -n1 sort_files_by_chapter_in_header_20240913.txt | bash -
+head __2_20250121.txt 
+head ___1_20250121.txt 
+head testing_gtgh_status_en 
+head testing_gtgh_testpush_en 
+head zig_intro-to-zigs-integer-casting-for-c-programmers_20250314.txt
+if [ -z $PWD ]; then echo "emptyprepare-fjl-for-knowledgebase ffmpeg_convert-hd-video-gif_20240826.txt 
+mapfile -n 2 GEEKSFORGEEKS < example.txt
+mapfile -t -O arr < <(echo -e $s2)
+mapfile -t GEEKSFORGEEKS < <(printf "Item 1\nItem 2\nItem 3\n")
+mapfile -t both < <(echo "ena dva tri stiri")
+mapfile -t both <<<"ena dva tri stiri"
+mapfile GEEKSFORGEEKS < <(printf "Item 1\nItem 2\nItem 3\n")
+mapfile MYFILE < example.txt
+mintty --version
+mintty -e bash --init-file ~/.bashrc.ORIGINAL
+netstat -an | grep "EST" | grep :22
+netstat -an | grep "EST" | grep :80
+netstat -an | grep "EST" | grep :8080
+oifs
+printenv >> printenv_output1
+printenv | less
+printf "%-20s" "$NAME"
+printf "%-20s" "$NAME" 
+printf "%20s" "$NAME"
+printf "%20s" "$NAME" 
+printf "%s\n" "${GEEKSFORGEEKS[@]}"
+printf "%x\n" "0xf"
+printf "%x\n" "0xff"
+printf "%x\n" "15"
+printf "%x\n" "255"
+printf "%x\n" "256"
+printf "%x\n" "f"
+printf "%x\n" 0
+printf "%x\n" f
+printf ":: D :: \n:: E ::" | fzf
+printf ":: D :: \n:: E ::" | fzf --prompt="Chose ext HDD"
+printf "D\nE" | fzf
+printf "D\nE" | fzf --prompt="Chose ext USB HDD"
+printf "D\nE" | fzf --prompt=#
+printf "D\nE" | fzf --prompt=''
+printf "D\nE" | fzf --prompt='<'
+printf "D\nE" | fzf --prompt='>'
+printf "D\nE" | fzf --prompt=->
+printf "D\nE" | fzf --prompt=<
+printf "D\nE" | fzf --promt "Chose ext USB HDD"
+printf "D\nE" | fzf --promt="Chose ext USB HDD"
+printf "D\nE" | fzf --promt_"Chose ext USB HDD"
+printf "Ena\nDva\nTRi\nŠtiri\n" |fzf
+printf "[$(date +%D)] [$(date +%T)]"
+printf "\033c"
+printf "\33 E"
+printf "\33E"
+printf "\E7;61H
+printf "\E7;61H"
+printf "\E[7;61H"
+printf "\E[7;61H"; echo "UAHAHAHAHA"
+printf "\e[07m"
+printf "\u23FB - power off" 
+printf "\u23FB"
+printf "\uf001"
+printf "\uf011"
+printf "\uf233"
+printf "\uf2db"
+printf "\x1Bc"
+printf '\r\33[5m%s\33[25m' EXAMPLE; sleep 5; printf '\r%s\n' EXAMPLE
+ps -W | grep "notepad\|firefox"
+ps -W | grep "notepad\|firefox" | awk '{print $1,$4}'
+ps -W | grep "notepad\|firefox" | awk '{print $1,$4}' |grep 111
+ps -W | grep "notepad\|firefox" | cut -d' ' -f1
+ps -a | grep sleep
+ps -ae | grep sleep
+ps -x | grep sleep
+ps aix | grep sleep
+ps aux | grep "\bsh\b"
+ps aux | grep -i notepad
+ps aux | grep mint
+ps aux | grep sleep
+ps aux | less
+ps auxw | less
+ps | grep sleep
+psswdchange-en
+rclone --help | less
+rclone abour mega_gren
+rclone abour mega_gren:
+rclone about meg_en:
+rclone about mega_en:
+rclone about mega_gren:
+rclone about mega_gren:ENERGETIKA
+rclone about meganz:
+rclone config
+rclone copy $(cygpath -w "$PWD/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rclone copy $(cygpath -w "$PWD/_2025_podloge") mega_gren_ENERGETIKA/h_2025_podloge
+rclone copy $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025") mega_gren:ENERGETIKA/Tehnicne-zahteve_2025 --progress
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads --progress
+rclone copy -r AVIONI mega_gren:ENERGETIKA/Downloads/AVIONI
+rclone copy /c/Users/gregor.redelonghi/Downloads mega_gren:ENERGETIKA/Downloads
+rclone copy AVIONI mega_gren:ENERGETIKA/Downloads/AVIONI
+rclone copy Tehnicne-zahteve_2025 mega_en:ENERGETIKA
+rclone copy Tehnicne-zahteve_2025 mega_en:ENERGETIKA/Tehnicne-zahteve_2025
+rclone copy Tehnicne-zahteve_2025 mega_gren:ENERGETIKA/Tehnicne-zahteve_2025
+rclone copy _2025_1_PROJEKTI mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+rclone copy _IMAGES mega_gren:ENERGETIKA/Downloads/_IMAGES
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from /majprogs-yes-no.txt --progress
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress --update
+rclone copyto dotfiles-en-20250619.zip mega_gren:ENERGETIKA/dotfiles-en-20250619.zip
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING/
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING/dotfiles-testing.zip
+rclone help
+rclone help exclude
+rclone help | grep exclude
+rclone help | grep remote
+rclone help | grep show
+rclone help | grep size
+rclone help | less
+rclone help |less
+rclone listremotes
+rclone listremotes | xargs -I{} echo -n "{}: "; rclone about {}; echo "---\n"
+rclone listremotes | xargs -I{} echo {} && rclone about {}; echo "---\n"
+rclone listremotes | xargs -I{} echo {}; rclone about {}; echo "---\n"
+rclone listremotes | xargs -I{} rclone about {}; echo "---\n"
+rclone remote
+rclone remotes
+rclone remoteslist
+rclone show mega_gren:
+rclone size mega_gren:
+rclone size mega_gren: -vv
+rclone sync $(cygpath -w "/h/2025/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rclone sync $(cygpath -w "/h/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGEIKA/Tehnicne-zahreve_2025
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGETIKA/Tehnicne-zahreve_2025
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGETIKA/Tehnicne-zahteve_2025
+rclone sync --help
+rclone sync --progress _2025_1_PROJEKTI mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+rclone sync --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+rclone sync help
+rclone syns --help
+rclonr remote
+read -r both <<<"ena dva tri stiri"
+read -r first second <<<"ena dva tri stiri pet sest"
+read -r fst scnd thrd frth <<<"ena dva tri stiri"
+read -t both <<<"ena dva tri stiri"
+readarray -t -O "${#arr[@]}" arr < <(echo -e $s2)
+readarray -t -O "${#arr[@]}" arr < <(echo -en $(git status))
+readarray -t -O "${#arr[@]}" arr < <(echo -n $(git status))
+readarray -t -O "${#arr[@]}" arr < <(git status)
+readarray -t -O "${#arr[@]}" arr <(echo -n $(git status))
+readarray -t -O ${#arr[@]} < <(git status)
+readarray -t -O ${#arr[@]} arr < <(git status)
+readarray -t -O ${#output[@]} output < <(/usr/bin/git push --dry-run ghen main | tee)
+readarray -t -O ${#output[@]} output < <(/usr/bin/git push --dry-run ghen main)
+readarray -t -O ${#output[@]} output <(/usr/bin/git push --dry-run ghen main)
+readarray -t -O arr < <(echo -e $s2)
+readarray -t SITES < <(sed -n "/\[.*\]/p" sites.txt | sed -e 's/\[//' -e 's/\]//')
+readarray -t URLS < <(sed -n "/\["${site}"\]/,/^$/p" ${SITES} | sed -n '2,$'p)
+readarray -t URLS < <(sed -n "/\[${site}\]/,/^$/p" ${SITES} | sed -n '2,$'p)
+readarray -t URLS< <(sed -n "/\[${site}\]/,/^$/p" ${SITES} | sed -n '2,$'p)
+readarray -t arr < <("$(echo -en $(git status))")
+readarray -t arr < <($(echo -en "$(git status)"))
+readarray -t arr < <(echo -e $s1)
+readarray -t arr < <(echo -en $(git status))
+readarray -t arr < <(echo -n $(git status))
+readarray -t arr < <(git status)
+readarray -t arr < <(git status))
+readarray -t arr1 < <(ghgl_testpush_en)
+readarray -t arr2 < <(git status)
+readarray -t arr3 < <(echo -e "$s2")
+readarray -t arr3 < <(echo -e "$sentence")
+readarray -t arr3 << <(echo -e "$s2")
+readarray -t out < <(echo -n $(git status))
+readarray -t out[C < <(echo -n $(git status))
+readarray -t output < <(git status)
+readarray arr <<< "$(echo a; echo b; echo c)"; echo ${#arr[@]}
+readarray arr1 < <(ghgl_testpush_en)
+readarray output <<< $(/usr/bin/git push --dry-run ghen main)
+readarray output <<< <(/usr/bin/git push --dry-run ghen main)
+realpath ./brth_test
+red='\e[91m'
+rsync -rltD --exclude "/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/cygwin64/home"  --progress /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/cygwin64 /d/ext_WD_usbHDD_2TB/CYGWINBCKP_20250220/
+rsync -rltD --exclude "/home"  --progress /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/cygwin64 /d/ext_WD_usbHDD_2TB/CYGWINBCKP_20250220/
+rsync -rltD --exclude "home"  --progress /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/cygwin64 /d/ext_WD_usbHDD_2TB/CYGWINBCKP_20250220/
+rsync -rltD --progress /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/cygwin64 /d/ext_WD_usbHDD_2TB/CYGWINBCKP_20250220/
+rsync -rltDn --exclude "home" --update --progress "/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/cygwin64" "/d/ext_WD_usbHDD_2TB/CYGWINBCKP/"
+rsync -rltDn --exclude "home" --update --progress /c/Users/gregor.redelonghi/majstaf_en/majprogs_en/cygwin64 /d/ext_WD_usbHDD_2TB/CYGWINBCKP/
+rsync config
+rustc
+rustc --help
+rustc --help |grep verbo
+rustc --verbose -o src/bin/struct_test_print src/struct_test_print.rs 
+rustc --version
+rustc -C src/bin/ src/test.rs 
+rustc -o src/bin/ src/test.rs 
+rustc -o src/bin/struct_test_print src/struct_test_print.rs 
+rustc -o src/bin/test src/test.rs 
+rustc help
+rustc main.rs 
+rustc mut_ref_test.rs 
+rustc src/test.rs 
+rustc version
+rustup component add rust-analyzer
+rustup doc --book
+rustup update
+rustup update stable
+s (20250605 -- check out):
+sed "s/'/$(printf "\u02bc")/g" bash-db-queries-project-pi-stats-20250916.txt | less
+sed "s/'/$(printf "u02bc")/g" bash-db-queries-project-pi-stats-20250916.txt | less
+sed "s/'/$(printf "u02bc")/g" bash-db-queries-project-pi-stats-20250916.txt | less[D
+sed "s/'/\%u02bc/g" bash-db-queries-project-pi-stats-20250916.txt
+sed "s/'/\%u02bc/g" bash-db-queries-project-pi-stats-20250916.txt | less
+sed "s/\(\w\)'\(\w\)/\1$(printf "\u02bc")\2/g" bash-db-queries-project-pi-stats-20250916.txt > test.txt
+sed "s/\(\w\)'\(\w\)/\1$(printf "\u02bc")\2/g" bash-db-queries-project-pi-stats-20250916.txt | less
+sed '/123/d' test.txt 
+sed '/Foo/Id' test.txt 
+sed '/Foo/d' test.txt 
+sed '/[Ff]oo/d' test.txt 
+sed '/\bfoo\b/d' test.txt 
+sed '/foo/d' test.txt 
+sed '/search\?/d' ff-en_bookmarks_20250129.html 
+sed '/search\?/p' ff-en_bookmarks_20250129.html 
+sed 's/ /,/g' mteData1.txt | cut -d ',' -f1,3
+sed 's/.*\(>.* \)/\1/'  ff-en_bookmarks_20250129.html 
+sed 's/.*\(>.*<\[aA]\)/\1/' ff-en_bookmarks_20250129.html 
+sed 's/.*\(>.*<\\[aA\]\)/\1/' ff-en_bookmarks_20250129.html 
+sed 's/.*\(>.*\)/\1/'  ff-en_bookmarks_20250129.html 
+sed 's/.*\(>.*\<\[aA]\)/\1/' ff-en_bookmarks_20250129.html 
+sed 's/.*\(\>.*<\[aA]\)/\1/' ff-en_bookmarks_20250129.html 
+sed 's/.*\(\>.*\<\[aA]\)/\1/' ff-en_bookmarks_20250129.html 
+sed 's/<\(libxml/.*\)>/"\1"/' xmlreader.h
+sed 's/<\(libxml\/.*\)>/"\1"/' *.h
+sed 's/<\(libxml\/.*\)>/"\1"/' xmlreader.h
+sed 's/<\(libxml\/.*\)>/"\1"/' xmlreader.h | head
+sed 's/<\(libxml\/.*\)>/"\1"/' xmlreader.h | head -n15
+sed 's/\(.*HREF=".*"\) ADD.*/\1/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*HREF=".*"\) ADD.*\(>\).*/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*HREF=".*"\) ADD.*\(>\)/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*HREF=".*"\) ADD.*\(>\)\(.*\)/\1\2\3/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*HREF=".*"\).*/\1/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*HREF=".*"\).*\(>\)\(.*\)/\1\2\3/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*HREF=".*"\).*\(\>\)\(.*\)/\1\2\3/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*\) ADD_DATE.*\(> .*\)/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*\) ADD_DATE.*\(>.*<\[aA]\)/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*\) ADD_DATE.*\(\>.*\<\[aA]\)/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*\) ADD_DATE=.* \(>.* \)/\1/'  ff-en_bookmarks_20250129.html 
+sed 's/\(.*\) ADD_DATE=.*\(>.* \)/\1/'  ff-en_bookmarks_20250129.html 
+sed 's/\(.*\) ADD_DATE=.*\(>.* \)/\1\2/'  ff-en_bookmarks_20250129.html 
+sed 's/\(.*\) ADD_DATE=.*\(>.* \)/\1\2/'  ff-en_bookmarks_20250129.html > ff-en_bookmarks_20250129_2.html 
+sed 's/\(.*\)ADD_DATE.*\(>.*\).*/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*\)ADD_DATE.*\(>.*\)/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*\)ADD_DATE=.*\(>.*\)/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\(.*\)ADD_DATEi=.*\(>.*\)/\1\2/' ff-en_bookmarks_20250129.html 
+sed 's/\<\(libxml/.*\)\>/"\1"/' xmlreader.h
+sed 's/libxml\///' xmlversion.h
+sed 's/libxml\///' xmlversion.h | head
+sed 's/libxml\///' xmlversion.h | head -n 15
+sed 's:re:ma:g' test.txt 
+sed 's:re:ma:gI' test.txt 
+sed 's|\(https.*\); \(.*\)|<li><a href="\1">\2</a></li>|g' links 
+sed 's|\(https.*\); \(.*\)|<li><a href="\1">\2</a></li>|g' links  >links_html
+sed 's|\(https.+\); \(.*\)|<li><a href="\1">\2</a></li>|' links 
+sed 's|\(https.+\); \(.*\)|<li><a href="\1">\2</a></li>|g' links 
+sed -e 's:BIN:BUILD:g' -e 's:./bin:./build:g' Makefile
+sed -i "s/'Jelena Nolimal,19.11.1970'/'Jelena Nolimal,19.11.1973'/" .local/bin/ROJSTNIDNEVI.txt 
+sed -i "s/Jelena Nolimal,19.11.1970/Jelena Nolimal,19.11.1973/" .local/bin/ROJSTNIDNEVI.txt 
+sed -i '/search\?/d' ff-en_bookmarks_20250129.html 
+sed -i 's/<\(libxml\/.*\)>/"\1"/' *.h
+sed -i 's/libxml\///' *.h
+sed -i /'Jelena Nolimal,19.11.1970'/'Jelena Nolimal,19.11.1973'/ .local/bin/ROJSTNIDNEVI.txt 
+sed -i.bak 's:re:ma:gI' test.txt 
+sed -n "/\["${site}"\]/,/^$/p" ${SITES} | sed -n '2,$'p
+sed -n "/\[${site}\]/,/^$/p" ${SITES} | sed -n '2,$'p
+sed -n "/\[.*\]/p" sites.txt
+sed -n "/\[.*\]/p" sites.txt | sed -e 's/\[//' -e 's/\]//'
+sed -n "/\[c programming\]/,/^$/p" sites.txt
+sed -n "/\[c programming\]/,/^$/p" sites.txt | sed -n '2,$'p
+sed -n "/\[c programming\]/p" sites.txt
+sed -n '/search\?/p' ff-en_bookmarks_20250129.html 
+sentence="Just a sentence with some addds"
+set mark-directories
+set mark-directories off
+set mark-directories on
+set | grep -i proxy
+set | grep dir
+set | grep direct
+set | grepc direct
+set | grepc direct |less
+set | grepc proxy
+set |grep export
+split -n 2 --additional-suffix="_part_" ff-en_bookmarks_20241126_01.html 
+split -n 2 --aditional-suffix=_part_ ff-en_bookmarks_20241126_01.html 
+split -n 2 -d --additional-suffix="_part-" ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01.html
+split -n 2 -d --additional-suffix="_part_" ff-en_bookmarks_20241126_01.html 
+split -n 2 -d --additional-sufix="_part-" ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01.html
+split -n 2 -d ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01.html
+split -n 2 -d ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01.html_part-
+split -n 2 ff-en_bookmarks_20241126_01.html 
+split -n 2 ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01
+split ff-en_bookmarks_20241126_01.html ff-en_bookmarks_20241126_01
+split n2 ff-en_bookmarks_20241126_01.html 
+strace --help
+strings elements_array.bin
+strings elements_array.bin 
+tar --help
+tar -h
+tar -t -f vv.tar
+tar -t vv.tar
+tar -tf vv.tar
+tar -tvzf downloads_en.tar.gz 
+tar -tvzf go-tui-onetab-en-20251107.tar.gz
+tar -tvzf list_to_fzf_tests_20240925.tgz 
+tar -xvf linux-6.12.52.tar.xz
+tar -xvf vv.tar 
+tar -xvzf c3-ubuntu-20.tar.gz 
+tar -xvzf linux-6.13-rc7.tar.gz
+tar -xvzf musl-1.2.5.tar.gz 
+tar -xvzf ncurses-examples.tar.gz
+tar -xvzf ventoy-1.0.99-linux.tar.gz 
+tar tvzf NEW-MACC.tgz
+tar tvzf NEW-MACC.tgz 
+tar tvzf dnevno_programiranje.tar.gz 
+tar tvzf godu_1.5.2_windows_amd64.tar.gz
+tar tvzf sistzagit.tar.gz 
+tar tzvf fzf_tests.tar.gz 
+tar xvf ldc2-1.40.0-linux-x86_64.tar.xz 
+tar xvzf godu_1.5.2_windows_amd64.tar.gz
+time ./speed_c && time ./speed_z
+time fast/bin/obletnica_z 2033
+time obletnica-c 2033
+time obletnica-z 2033
+time obletnica_c 2033
+time obletnica_z 2033
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "./RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w ".RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first --ignore-checksum $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first --ignore-checksum -u $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first -u $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first ~/majstaf/engit/knowledgedb/ RCLONETD/
+time rclone sync -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone sync -vP --transfers=1 --order-by name --check-first ${HOME}/majstaf/engit/knowledgedb/ ${PWD}/RCLONETD/
+time rclone sync -vP --transfers=1 --order-by name --check-first ~/majstaf/engit/knowledgedb/ RCLONETD/
+time release-fast/bin/obletnica_z 2033
+time release-safe/bin/obletnica_z 2033
+toilet
+top
+tput -V
+tput blink
+tput blink AAAAAA tput sgr0
+tput blink echo "AAAAAA" tput sgr0
+tput blink ecjjo "AAAAAA" tput sgr0
+tput blink; echo This is blinking text; tput sgr0
+tput cup $(( $(tput lines) / 2)) 15; echo "HY IN THE MIDDLE"
+tput cup $(( $(tput lines) / 2)) 15; echo "HY ITHE MIDDLEinfocmp!"
+tput cup 50 20
+tput cup 50 20 |echo "UUUUUUUUUUUUUU"
+tput cup 50 20; echo "UUUUUUUUUUUUUU"
+tput cup 6 20
+tput cup 6 20; echo "UUUUUUUUUUUUUUUU"
+tput cup 6 60 |hexdump -C
+tput lines
+tput sgr0
+tr '\n' ' ' < test_file_100MiB.txt > test_file_2_100MiB.txt
+tracert
+tracert google.com
+tree
+tree 
+tree -A
+tree -F
+tree -L 1
+tree -L 12
+tree -L 2
+tree -L2
+tree -a
+tree -a -L 1
+tree -a .*
+tree -d
+tree -d *
+tree -d -L 2 *
+tree -d -L 3
+tree -d -L 4
+tree -d -L 4 | less
+tree -d ~/majstaf_en/engit/metsys_en
+tree -d ~/majstaf_en/engit/metsys_en/cygwin_metsys/BRISIME_cygwin
+tree -l 1
+tree -l1
+tree -nF
+tree -s
+tree -sh
+tree .config/ -L 2
+tree 20241209/
+tree 2025/
+tree 202504*
+tree RUUT/
+tree TRII/
+tree bin
+tree bin/
+tree bion
+tree branches/
+tree bre
+tree brisi_me/
+tree build/
+tree ct_135_cm_to_feet_and_inches_20240926/
+tree ct_139_obletnica_20250115/
+tree defaultprojectname-rename-me_*
+tree doc
+tree jars/
+tree majconfig_en/
+tree nct_004_guessing_game_test_20250123/
+tree obletnica-c/
+tree obletnica_z/
+tree release/
+tree src/
+tree staro/
+tree support
+tree support | less
+tree support | less --color always
+tree support | less --color=always
+tree support | less -R
+tree support/
+tree support/ |less
+tree target/
+tree testdir1/
+tree working_versions*
+tree ~/_BRISI/testdir1/
+tree ~/majstaf_en/brisime_en/
+tree ~/majstaf_en/brisime_en/ >> internal_dir_structure_20241024.txt 
+trewe
+unzip -P z7m17s11G. dotfiles-en-20250619.zip
+unzip -P z7m17s11G. dotfiles-en-20250619.zip 
+unzip -l dotfiles-en-20250619.zip
+unzip -l dotfiles-en-20250619.zip 
+unzip -l dotfiles-en-20250619.zip | grep ss
+unzip -l dotfiles-en-20250619.zip | less
+unzip -l dotfiles-en-r-20250619.zip | grep "ssh\|SCR"
+unzip -l dotfiles-en-r-20250619.zip | less
+unzip -l test.zip
+unzip -l test.zip 
+unzip ShrinkHalf_src.zip 
+unzip Win32Processes_demo.zip
+unzip dark-blue-polygonal-background.zip 
+unzip dotfiles-en-20250619.zip
+unzip dotfiles-en-20250619.zip 
+unzip dotfiles-testing.zip
+unzip dotfiles-testing.zip 
+wc -l cm2feetinch_v2.c src/cm2feetinch_v1.c 
+while IFS= read -r line <&3; do echo mv $line $(spaces-to-underscores $line); done 3< <(find -name "*.txt")
+while IFS= read -r line; do ./build/string_to_hex_v3 $line; done
+while IFS=' ' read -r line; do ./build/string_to_hex_v3 $line; done
+while IFS=' ' read line; do ./build/string_to_hex_v3 $line; done
+while read FJL: do find -type f -iname "${FJL}"; done < ~/_BRISI/sends_20240926.txt 
+while read FJL; do echo "searching for: $FJL"; find $HOME/* -type f -iname \"${FJL}\"; done < ~/_BRISI/sends_20240926.txt
+while read FJL; do echo "searching for: $FJL"; find -type f -iname \"${FJL}\"; done < ~/_BRISI/sends_20240926.txt
+while read FJL; do echo searching for: $FJL"; find -type f -iname \"${FJL}\"; done < ~/_BRISI/sends_20240926.txt
+while read FJL; do echo searching for: $FJL"; find -type f -iname \"${FJL}\"; done < ~/_BRISI/sends_20240926.txt 
+while read FJL; do find -type f -iname "${FJL}"; done < ~/_BRISI/sends_20240926.txt 
+while read LINE; do echo "$LINE" | grep 'Google.com'; done < <(./bin/test6)
+while read LINE; do echo "$LINE" | grep 'google.com'; done < <(./bin/test6)
+while read LINE; do echo "$LINE" | grep 'search' | grep --color '&'; done < <(./bin/test6)
+while read LINE; do echo "$LINE" | grep 'search'; done < <(./bin/test6)
+while read LINE; do echo "$LINE" | grep --color '&'; done < <(./bin/test6)
+while read LINE; do echo "$LINE" |wc -m; done < <(./bin/test6)
+while read LINE; do echo "$LINE" |wc; done < <(./bin/test6)
+while read LINE; do echo $LINE | wc -m; done <ff_bookmarks_20250204.html 
+while read LINE; do echo $LINE | wc -m; done <ff_bookmarks_20250204.html | sort -nr | head
+while read LINE; do echo $LINE; done < <(./bin/test6)
+while read LINE; do echo $LINE; done < <(for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done)
+while read LINE; do if [ $(echo "$LINE" |wc -m) -gt 300 ]; then echo $LINE; fi ; done < <(cat ~/__DANES__/ff_cleaned.html)
+while read LINE; do wc $LINE; done < <(./bin/test6)
+while read LINE; do wc -l "$LINE"; done < <(./bin/test6)
+whiptail
+zig --help
+zig --help init
+zig --help readUntilDelimiter
+zig --help stdin
+zig --help |less
+zig --version
+zig -h
+zig -h 
+zig -h build
+zig -h init
+zig -p . --target=fast
+zig biild-exe --femit-bin=./bild/3-zigzagg
+zig buid
+zig buil-exe --help
+zig buil-exe --help | less
+zig buil-exe -h
+zig build
+zig build --help
+zig build -h
+zig build -h | grep clean
+zig build -h | less
+zig build -h |less
+zig build -p . --target=fast
+zig build -p EXT-IMPORT
+zig build -p fast --release=fast
+zig build -p fast --target=fast
+zig build -p release-fast --release=fast
+zig build -p release-safe --release=safe
+zig build cli-args-test_v2.zig 
+zig build help
+zig build test
+zig build |less
+zig build-exe --femit-bin=./bild/3-zigzagg
+zig build-exe --help
+zig build-exe --help |less
+zig build-exe -h
+zig build-exe 3-ziggzagg.zig
+zig build-exe cli-args-test.zig 
+zig build-exe cli-args-test_v1.zig 
+zig build-exe cli-args-test_v2.zig 
+zig build-exe help
+zig build-exe main.zig
+zig build-exe main.zig 
+zig build-exe main.zig get_curry.zig 
+zig build-exe speed_z.zig 
+zig build-exe test_and_brese_me.c -lc
+zig build-exe test_and_erase_me.c -lc
+zig build-exe tuples_test_stdout.zig 
+zig build.zig
+zig builftest_and_brese_me.c -lc
+zig clean
+zig help
+zig help bild-exe
+zig help build
+zig help build |less
+zig help build-exe
+zig help init
+zig help readUntilDelimiter
+zig help stdin
+zig init
+zig init zt_999_struct-test
+zig new zt_999_struct-test
+zig run
+zig run $BRISI/cli-args-test.zig 
+zig run $BRISI/prnttst.zig 
+zig run anonymous_structs_test.zig 
+zig run cli-args-test.zig 
+zig run cli-args-test.zig jaja nene haha 8560
+zig run cli-args-test_v1.zig -- AAA 999 BBB
+zig run cli-args-test_v2.zig -- 198
+zig run cli-args-test_v2.zig -- 198 AAA
+zig run cli-args-test_v2.zig -- AAA 1968
+zig run cli-args-test_v2.zig -- AAA BBB 1968
+zig run cli-args-test_v2.zig -- AAA BBB 1968 FF
+zig run main.zig
+zig run main.zig 
+zig run main.zig -- 2033
+zig run main.zig 2033
+zig run obletnica_v1.zig 
+zig run prnttst.zig 
+zig run src/main.zig
+zig run src/main.zig 
+zig run src/main.zig 2033
+zig run test-brisi-me.zig 
+zig run test.zig 
+zig run test_and_brese_me.c -lc
+zig run test_and_erase_me.c 
+zig run test_and_erase_me.c -lc
+zig run tuples_test.zig 
+zig run tuples_test_stdout.zig
+zig run tuples_test_stdout.zig 
+zig run zt_tuples_test.zig 
+zig std
+zig targets
+zig targets |less
+zig test
+zig test src/main.zig 
+zig tun
+zig version
+zig | less
+zig |less
+zig-clean
+zig-clean 
+zip -e dotfiles-en-20250619.zip .*
+zip -er dotfiles-en-r-20250619.zip .*
+zip -er dotfiles-en-r-20250619.zip .* -x ".cache/*" ".tmp/*" @
+zip test.zip .*
+zless test.zip
+zless test.zip 
+zoxide 
+zoxide --help
+zoxide -V
+zoxide .config
+zoxide add .
+zoxide edit
+zoxide foo
+zoxide init
+zoxide init bash
+zoxide query
+zoxide query *
+zoxide query .config
+zoxide query c
+zoxide query c*
+zoxide query c_
+zoxide query zig
