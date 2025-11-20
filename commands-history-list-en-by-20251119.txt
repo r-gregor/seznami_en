@@ -1,0 +1,909 @@
+$((100 * 1024 * 1024))
+$((36*365+11))
+$(cygpath -u "C:\Users\gregor.redelonghi\majstaf\majprogs\mingw64\bin\x86_64-w64-mingw32-g++.exe") -o test abc.cpp
+$(cygpath -u "C:\Users\gregor.redelonghi\majstaf_en\majprogs\mingw64\bin\x86_64-w64-mingw32-g++.exe") -o test abc.cpp
+$(which yt-dlp)
+/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/mingw64/bin/x86_64-w64-mingw32-g++ -o test abc.cpp
+/home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+{read -r first read -r second} <<<"ena dva tri stiri pet sest"
+{read -r first; read -r second} <<<"ena dva tri stiri pet sest"
+0a_povezave/c_toolbox/zp_padec/zp_padec
+0a_povezave/c_toolbox/zp_padec/zp_padec 297.38 298.87 44
+aptcyg search glow
+apt-cyg search glow
+apt-cyg search iconv
+apt-cyg search libxml2
+awk '{print $NF,$0}' |sort -n < <(for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done)
+awk '{print $NF,$0}' |sort -nr < <(for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done)
+awk '{print $NF,$0}' |sort -nr <(for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done)
+B=2; for E in $(seq 1 18); do $R=$((${b}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do $R=$((${B}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = ${B}*2\n"; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n" ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n", ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = %d\n, ${B}*2"; done
+B=2; for E in $(seq 1 18); do printf "${B}^${E} = \n"; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n ${B} ${E} ${B}*2"; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B} ${E} ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $(( ${B} * 2 )); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $((${B} * 2)); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, $((${B}*2)); done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n" ${B}, ${E}, ${B}*2; done
+B=2; for E in $(seq 1 18); do printf "%d^%d = %d\n, ${B}, ${E}, ${B}*2"; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %8d (%3d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%-4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%-4d)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%d)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %-8d (%d)\n" "2" "${E}" "$((${R}/2))" ; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-3d = %wq8d (%4d K)\n" "2" "${E}" "$((${R}/2))" "$(($R/2/1024))"; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%-5d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "${B}, ${E}, ${R}"; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} $((${R}/2)); let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=$(($B-1))*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" "2" ${E} ${R}; let B=($B-1)*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B} ${E} ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B} ${E} ${R}; let B=$B*2; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n" ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n", ${B} ${E} ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n", ${B}, ${E}, ${R}; done
+B=2; for E in $(seq 1 18); do R=$((${B}*2)); printf "%d^%d = %d\n, ${B}, ${E}, ${R}"; done
+bash 01-COLLECT-ALL-COMMANDS-from-history-en-dat-to-single-file.onl.txt
+BASH_HACKS
+BASH_HACKS |less
+bulkrename
+C:\Users\gregor.redelonghi\majstaf\majprogs\mingw64\bin\x86_64-w64-mingw32-g++.exe -o test abc.cpp
+cargo --help
+cargo run
+cargo --version
+cat * | grep '^cargo'
+cat * | grep '^cargo' | less
+cat * | grep '^rustup'
+cat * > c-memory-magic-part-1-to-4-20250901.txt
+cat .local/bin/ytb-download-mp3
+cat .SCRTS_*
+cat .SCRTS_en
+cat .SCRTS_gg
+cat .SCRTS_yh
+cat .tmp/*
+cat /proc/devices
+cat /proc/mounts
+cat /proc/partitions
+cat /proc/self/status
+cat /proc/sys/ArcName/
+cat /proc/sys/ArcName/multi\(0\)disk\(0\)rdisk\(0\)
+cat /proc/sys/clfs
+cat /proc/sys/Fat
+cat /usr/include/libxml2/libxml/parser.h
+cat _DOWNLOADED_MOVIES.txt | sort -r | uniq -c | grep -e '^ *[234]'
+cat ~/.local/bin/ghgl-push-en
+cat ~/.local/bin/gyes-add-commit-push
+cat ~/.local/bin/ytb-download-mp3
+cat ~/.tmp/GIT_REPORTS
+cat ~/majstaf/majrcs/aliases-gredelonghi-en | sed '/^#/d'
+cat ~/majstaf/majrcs/aliases-gredelonghi-en | sed -e '/^#/d' -e '/^$/d'
+cat ~/majstaf/seznami/* | grep 'git diff'
+cat ~/majstaf/seznami/* |grep -w glow > ~/majstaf/metsys/glow-setup-20251027.txt
+cat ~/majstaf/seznami/* |grepc glow
+cat ~/majstaf/seznami/* |grepc -w glow
+cat > bekap_en.log
+cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}' | less
+cat ffen-passwords-20250618.txt | tr ',' '\t' |awk '{print $1,$2,$3}' > ffen-passwords-20250618-reduced.txt
+cat gregor.redelonghi.en_MEGA-RECOVERYKEY_20250618.txt
+cat mteData.txt | tr -s ' ' | cut -d ' ' -f1-2
+cat sw-design-the-simplest-thing-that-could-possibly-work-20250901.txt | wc -l
+cat twos-complement-1.txt >> twos-complement-multif-20250814.txt
+cat twos-complement-2-20250814.txt >> twos-complement-multif-20250814.txt
+curl https://fake-coffee-api.vercel.app/api | grepc DATA
+curl --version
+curl -X GET https://fake-coffee-api.vercel.app/api
+curl -X GET https://fake-coffee-api.vercel.app/api | grep -i id
+curl -X GET https://fake-coffee-api.vercel.app/api | grepc DATA
+curl -X GET https://fake-coffee-api.vercel.app/api | grepc -i id
+curl -X GET https://fake-coffee-api.vercel.app/api | jq
+cut -b 1-3 mte.csv
+cut -c 1,8 mte.csv
+cut -c 1-8 mte.csv
+cut -d',' -f1 mte.csv --complement
+cut -d',' -f1 mte.csv --complementwho
+cut -d',' -f1-3 --output-delimiter='-' mte.csv
+cut -d',' -f2 mte.csv
+dd if=/dev/urandom of=big_100MB_file.txt bs=1M count=100
+dialog "This is INSANE!" 200 300
+dialog --help
+dialog --help | grep info
+dialog --help | less
+dialog --infobox "Hy There!" 5 30
+dialog --infobox "Hy There" 5 30
+dialog --infobox "This is INSANE!" 200 300
+dialog --infobox "This is INSANE" 200 300
+dialog --msgbox "Hy There!" 5 30
+dialog --msgbox "Hy There" 5 30
+dialog --msgbox "Hy There\!" 10 20
+dialog --msgbox "Hy There\!" 5 30
+dialog --pause "Waiting for 5 secs ..." 10 30 5
+dialog --pause "Waiting for 5 secs ..." 15 20 5
+dialog --pause "Waiting for 5 secs ..." 15 40 5
+dialog --pause "Waiting for 5 secs ..." 5 30 5
+dialog --pause "Waiting for 5 secs ..." 6 30 5
+dialog --pause "Waiting for 5 secs ..." 7 30 5
+dialog --pause "Waiting for 5 secs ..." 7 40 5
+dialog --pause "Waiting for 5 secs ..." 8 40 5
+dialog --pause "Waiting for 5 secs ..." 9 40 5
+dialog --text "This is INSANE!" 200 300
+dircolors --help
+dircolors --print-database
+direnv
+du -h --max-depth=1
+du -h --max-depth=1 .git
+du -h --max-depth=1 .git |sort -hr | head
+du -h --max-depth=1 |sort -hr | head
+du -sh .*
+du -sh .git
+du -sh --total .* | sort -hr | clm
+du -sh --total .* | sort -nr
+du -sh --total .* | sort -nr | clm
+du -sh --total .git | sort -hr | head
+du -sh --total 7-Zip/ 7z-source/ go1.23.0.windows-amd64/
+du -sh --total -git | sort -hr | head
+du -sh --total -git | sort --hr | head
+du -sh --total majscripts/
+duh majstaf/majscripts_en
+duh majstaf/majscripts_en/
+dukcijski film, 2021
+echo "$((3+2))"
+echo "$[3+2]"
+echo "${URLS[@]}"
+echo "${URLS[@]}" | fzf
+echo "((3+2))"
+echo "[1;5;33;42mABCDEFG[m"
+echo "[1;5;33;42mABCDEFG\E[m"
+echo "[1;5;33;42mABCDEFG\x1b[m"
+echo "\033[1;5;33;42mABCDEFG\x1b[m"
+echo "Hea!" >> $GIT_REPORTS
+echo "Hey! Geeks Welcome to Maketecheasier.com" | cut -d ' ' -f 5
+echo "HOLA!" |at now + 1 minute
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface"
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface" | cut -d '/' -f3-
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface" | cut -d '/' -f4-
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface" | cut -d '/' -f4- | tr '[:iupper:]' '[:lower:]'
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface" | cut -d '/' -f4- | tr '[:upper:]' '[:lower:]'
+echo "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/"
+echo "obase=10; ibase=16; \"ADADAD\"" | bc
+echo "obase=10; ibase=16; 11000187D6CAA7BD" | bc
+echo "obase=10; ibase=16; ADADAD" | bc
+echo "obase=10; ibase=16; D"
+echo "obase=10; ibase=16; D" | bc
+echo "obase=10; ibase=64; ADADAD" | bc
+echo "TEST 20250930" > test.txt
+echo $(((16<<20)/1000))
+echo $(((16<<20)/1000000))
+echo $((1370/60))
+echo $((16<<20))
+echo $((36*365+11))
+echo $((4>>1))
+echo $((4>>2))
+echo $((4>>4))
+echo $((4096 / 8))
+echo $((44*365+11))
+echo $((61*365+15))
+echo $(cygpath -w $(pwd))
+echo $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025)
+echo $_ZD_DATA_DIR
+echo $_ZD_ECHO
+echo $_ZD_FZF_OPTS
+echo ${#dirs[@]}
+echo ${dirs[@]}
+echo ${S//e/--&--}
+echo ${S//e/(&)}
+echo ${S//e/(\&)}
+echo ${URLS[@]}
+echo ${URLS[@]} | fzf --feverse
+echo ${URLS[@]} | fzf --reverse
+echo $botg
+echo $both
+echo $DANES
+echo $DOWNLOADS
+echo $ENGIT_STATUS_REPORTS
+echo $EPRNS
+echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]'
+echo $GIT_REPORTS
+echo $GOHOME
+echo $GOPATH
+echo $GOROOT
+echo $GPATH
+echo $MAJSTAFEN
+echo $MRCS
+echo $NM
+echo $PATH
+echo $PATH | grep majp
+echo $PATH | grepc majp
+echo $PATH | grepc 'majprog/'
+echo $PATH |grep godu
+echo $PATH |grepc godu
+echo $PSSWD_SCRTS_YH
+echo $TERM
+echo $URL | cut -d' ' $1
+echo $URL | cut -d' ' -f1
+echo $URL |sed 's/\(.* \).*/\1/'
+echo $URL |sed 's/\(.*\) *.*/\1/'
+echo $URL |sed 's/\(.*\) */\1/'
+echo $URL |sed 's/\(.*\) .*/\1/'
+echo $URL |sed 's/\(.\+\) *.*/\1/'
+echo $URLS
+echo $VALUE
+echo $WHO
+echo $WHOA
+echo $WHOAMI
+echo '[1;5;33;42mABCDEFG\033[m'
+echo [1;5;33;42mABCDEFG\x1b[m'
+echo '[1;5;33;42mABCDEFG\x1b[m'
+echo ~
+echo ~gredelonghi
+echo ~rgregor
+echo 16<<20
+echo -e "$STR\n${STR$-*}"
+echo -e "$STR\n${STR%%-*}"
+echo -e "$STR\n${STR%-*}"
+echo -e "$STR\n${STR%-*}\n${STR%%-*}"
+echo -e "$STR\n${STR%-*}\n${STR%%-*}"; echo "---"; echo -e "${STR#*-}\n${STR##*-}"
+echo -e "$STR\n${STR%-*}\n${STR%%-*}"; echo -e "${STR#*-}"
+echo -e "$STR\n${STR%-*}\n${STR%%-*}"; iecho "---"; echo -e "${STR#*-}\n${STR##*-}"
+echo -e "[1;5;33;42mABCDEFG[m"
+echo -e "[1;5;33;42mABCDEFG\x1b[m"
+echo -e "\033[1;5;33;42mABCDEFG\x1b[m"
+echo -e "empID,empName,empDesig\n101,Anees,Author\n102,Asghar,Manager\n103,Damian,CEO" > mte.csv
+echo -e "qqqq\rss"
+echo -e "qqqq\rssSSS"
+echo 'echo "[1;5;33;42mABCDEFG[m"' >> test
+echo 'echo -e "$STR\n${STR%-*}\n${STR%%-*}"; echo "---"; echo -e "${STR#*-}\n${STR##*-}"' >> $BRISI/param-subs-example.sh
+echo mv "$FJL" $(echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
+echo mv $FJL $(echo $FJL | tr ' ' '-' | tr '[:upper:]' '[:lower:]')
+echo rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+env | grep -i cargo
+env | grep -i cygw
+env | grep -i fzf
+env | grep -i fzf | grep ctrl
+env | grep -i fzf | grep -i history
+env | grep -i fzf | grep t
+env | grep -i fzf | history
+env | grep -i wind
+env | grepc -i cargo
+env | grepc -i wind
+env | less
+eval $(./srcmyownself.sh)
+eval $(srcredact)
+exec ./srcmyownself.sh
+export FZF_CTRL_T_OPTS=""
+export GIT_REPORTS=()
+export PS1='\u@\h \[\e[32m\]\w \[\e[91m\]$(__git_ps1)\[\e[00m\]$ '
+export PS1='\u@\h AAA\[\e[32m\]\w \[\e[91m\]$(__git_ps1)\[\e[00m\]$ '
+fastfetch
+fd-find
+file $(which glow)
+file $(which rclone)
+file $(which yt-dlp)
+file aclocal.m4
+file depcomp
+file t_gremdomov
+file test.tar.gz
+file Win32Processes_demo.zip
+find ! -name "*.zip"
+find $KNOWLEDGEDB -type f -iname "*handle*"
+find $KNOWLEDGEDB -type f -iname "*handle*" | vview-mfjl-efzf
+find $KNOWLEDGEDB -type f -regex ".*[0-9]\{,8\}.txt"
+find $KNOWLEDGEDB -type f -regex ".*[0-9]\{,8\}\.txt"
+find * -maxdepth 0 -type d |grep -v "cygwin\|OneC\|CodeB\|c3\|DB-B\|CyberC\|micro\|lf-w" |xargs du -sh --total |sort -hr
+find * -maxdepth 0 -type d |grep -v cygwin
+find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total
+find * -maxdepth 0 -type d |grep -v cygwin |xargs du -sh --total |sort -hr
+find * -maxdepth 0 -type f -not -name "_*"
+find * -maxdepth 0 -type f -not -name "_*" | clm
+find * -maxdepth 0 -type f -not -name "_*" | less
+find * -maxdepth 1 -type d -iname "*p*zito*"
+find * -maxdepth 1 -type d -iname "*zito*"
+find * -type d -iname "*[zž]ito*"
+find * -type d -iname "*back*" -o -type d -iname "*bek*"
+find * -type d -iname "*backu*" -o -type d -iname "*beka*"
+find * -type f -name "*[0-9]*.txt"
+find * -type f -name "*[0-9][0-9][0-9]*.txt"
+find * -type f -name "*[0-9][0-9][0-9].txt"
+find * -type f -name "*[0-9]\{,8\}.txt"
+find * -type f -name "*{c,zig}*"
+find * -type f -name "*{c}*"
+find * -type f -name "[0-9][0-9][0-9].txt"
+find * -type f -name "\{c-\}*"
+find * -type f -name "{c-*}"
+find * -type f -name "{c,p}*"
+find * -type f -name "{c,zig}*"
+find * -type f -name "{c-}*"
+find * -type f -name "c-*"
+find * -type f -name *{c,zig}*
+find * -type f -not -iname "*\.exe" | xargs -I{} grep -l "exit" {}
+find * -type f -not -iname "*\.exe" | xargs -I{} grep -l "exit" {} |sort |uniq
+find * -type f -not -iname "*\.exe" | xargs -I{} grep -l "exit" {} |sort |uniq |wc -l
+find * -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {}
+find * -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {} | xargs -I{} cp -i {} $EMBIN/{}
+find * -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {} | xargs -I{} cp -rv {} $EMBIN/{}
+find * -type f -regex ".*[0-9][0-9][0-9].txt"
+find * -type f -regex ".*[0-9]\{,8\}\.txt"
+find * -type f -regex "[0-9][0-9][0-9].txt"
+find -executable | grep -v "cache\|extract"
+find -executable | grep -v cache
+find -name "*\.zip" |grep podatki
+find -name "*20250[89]**"
+find -name "*20250[89]**" |grep -v majprogs
+find -name "*20250[89]**" |grep -v majprogs | grep mat
+find -name "*202507**"
+find -size +100M
+find -type d -iname "*back*" -o -iame "*beka*" -o -iname "*bck*"
+find -type d -iname "*back*" -o -iname "*bek*"
+find -type d -iname "*back*" -o -iname "*beka*" -o -iname "*bck*"
+find -type f | grep -r "exit"
+find -type f | xargs -I{} mv {} ct_999_xmlparsesr-test-20250918/
+find -type f | xargs -I{} mv -v {} v1/
+find -type f -I{} mv -v {} v1/
+find -type f -iname "*[-_]nov*"
+find -type f -iname "*[-_]nov[-_]*"
+find -type f -iname "*bash*txt" |grep -v knowledgedb
+find -type f -iname "*bash*txt" |grep -v knowledgedb |wc -l
+find -type f -iregex ".*system.*" | grep '_C_and'
+find -type f -iregex ".*system.*" | grep '_C_andd'
+find -type f -iregex ".*system.*" |less
+find -type f -not (-iname "c-*" -iname "zig-*")
+find -type f -not \( -iname "c-*" -iname "zig-*" \)
+find -type f -not \( -iname "c-*" -o -iname "zig-*" \)
+find -type f -not \(-iname "c-*" -iname "zig-*"\)
+find -type f -not -iname "*\.exe" | xargs -I{} grep "exit" {}
+find -type f -not -iname "*\.exe" | xargs -I{} grep -l "exit" {}
+find -type f -not -iname "*\.exe" |less
+find -type f -not -name "*.exe"
+find -type f -not -name "*.exe" | grep ERROR
+find -type f -not -name "*.exe" | xargs -I{} grep --color ERROR {}
+find -type f -not -name "*.exe" | xargs -I{} grep --color -l ERROR {}
+find -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {}
+find -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {} | xargs -I{} cp -i {} $EMBIN
+find -type f -not -name "*.exe" | xargs -I{} grep -l ERROR {} | xargs -I{} cp -i {} $EMBIN/{}
+for ((i=0;i<${#dirs[@]};i++)); do printf "dir %02d: %s\n" $[i+1] ${dirs[$i]}; done
+for ((i=0;i<${#dirs[@]};i++)); do printf "dir%02d %s\n" $i ${dirs[$i]}; done
+for ((i=0;i<${#dirs[@]};i++)); do printf "dir%02d: %s\n" $[i+1] ${dirs[$i]}; done
+for ((i=0;i<${#dirs[@]};i++)); do printf "dir%02d: %s\n" $i ${dirs[$i]}; done
+for DDD in $(find -type d -name "\.git"); do echo $DDD; done
+for DDD in majbin majrcs metsys; do check-git-diffs-en $DDD; done
+for E in $(seq 1 18); do echo "2**${E}"; done
+for E in $(seq 1 18); do printf "2^${E} = "; done
+for E in $(seq 1 18); do printf "2^${E} = \n"; done
+for E in $(seq 1 19); do echo "2**${E}"; done
+for FFF in $(find ${HOME}/.local/bin/ -type l); do echo $FFF | cut -d'/' -f6-; done
+for FFF in $(find ${HOME}/.local/bin/ -type l); do echo $FFF; done
+for FFF in $(find -name "*rclon*"); do mv $FFF _RCLONE/; done
+for FFF in $(grep -l n_bekaps *); do sed -i 's/n_bekaps/bekaps_en/g' $FFF; done
+for FFF in $(grep -l n_bekaps *); do sed -i 's/n_bekaps/en_bekaps/g' $FFF; done
+for FFF in *
+for FFF in *.txt; do echo $FFF; done
+for FFF in *; do fname-underscores-to-hypens-en $FFF; done
+for FFF in *; do mv "$FFF" "${FFF// /-}"; done
+for FFF in *; do mv -v $FFF ${fff//bekap/rbekap}; done
+for FFF in *; do mv -v $FFF ${FFF//bekap/rbekap}; done
+for FFF in *; do yes | fname-underscores-to-hypens-en $FFF; done
+for FFF in 0*; do echo $FFF; done
+for FFF in 0*; do echo sed "'s/-rltD/rltDW/g'" $FFF; done
+for FFF in 0*; do echo sed 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed -i 's/rltD/-rltD/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltD/-rltD/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltD/-rltDW/g' $FFF; done
+for FFF in 0*; do sed -i 's/-rltDWW/-rltDW/g' $FFF; done
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -F rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -H rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc -n rltD
+for FFF in 0*; do sed 's/-rltD/rltDW/g' $FFF; done |grepc rltD
+for FFF in bash*; do cat $FFF >> _bash-useful-hacks-20250929.txt; echo -e "---\n" >> _bash-useful-hacks-20250929.txt; done
+for FFF in bash*; do echo $FFF; done
+for FFF in bash*; do echo cat $FFF >> _bash-useful-hacks-20250929.txt; echo -e "---\n" >> _bash-useful-hacks-20250929.txt; done
+for FFF in bash*; do echo cat $FFF >> _bash-useful-hacks-20250929.txt; printf "---\n" >> _bash-useful-hacks-20250929.txt; done
+for FFF in bash*; do echo cat $FFF >> _bash-useful-hacks-20250929.txt; printf "---\n" >>> _bash-useful-hacks-20250929.txt; done
+for FFF in bash*; do echo -e "---\n$FFF\n\n" >> _bash-useful-hacks-20250929.txt; cat $FFF >> _bash-useful-hacks-20250929.txt; done
+for FFFin $(grep -l n_bekaps *); do sed -i 's/n_bekaps/bekaps_en/g' $FFF; done
+for N in $(seq 1 15 2); do echo $N; done
+for N in $(seq 1 15); do echo $(rand $N); done
+for N in $(seq 1 15); do echo $(shuf -i 1 - 15 -n 1); done
+for N in $(seq 1 15); do echo $(shuf -i 1-15 -n 1); done
+for N in $(seq 1 15); do echo $N; done
+for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done
+for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done | sort -k1-
+for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done | sort -k-1
+for N in $(seq 1 15); do echo rand($N); done
+for N in $(seq 1 2 12); do echo $N; done
+for N in $(seq 1 3); do echo $N; done
+for N in seq 1 3; do echo $N; done
+for NM in $fst $scnd $thrd $frth; do echo $NM; done
+for NM in fst scnd thrd frth; do echo $NM; done
+for RMT in $(rclone listremotes); do echo $RMT; done
+for RMT in $(rclone listremotes); do echo $RMT; rclone about $RMT; done
+for RMT in $(rclone listremotes); do echo $RMT; rclone about $RMT; echo "---";done
+for sdir in dir1 dir2 dir3; do echo "copying $sdir"; done
+for SITE in "${SITES[@]}"; do echo $SITE; done
+for URL in "${URLS[@]}"; do echo "$URL"; done
+for URL in ${URLS[@]}; do echo "$URL"; done
+for URL in ${URLS[@]}; do echo "$URL; done
+getconf -a
+getconf LEVEL1_DCACHE_LINESIZE
+getconf LEVEL1_DCACHE_LINESIZEgetconf LEVEL1_DCACHE_LINESIZE
+git add -A
+git add ct_OSTALO
+git add --verbose .
+git branch
+git branch -D main
+git branch -m main
+git branch -M main
+git commit -a
+git commit -am "History clear-up 20250923-0940-en"
+git commit -m "another update 20250729"
+git commit -m "Initial commit 20250729_1006"
+git commit -m "initial push 20250729"
+git commit -m "removed ff-bookmarks ... 20250727"
+git commit -m "update 20250729-1002"
+git diff .bashrc
+git diff .bashrc HEAD ~HEAD
+git diff .bashrc HEAD~ HEAD
+git diff 2de44 0b73d
+git diff HEAD^ HEAD
+git diff HEAD^ HEAD .bashrc
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs push ghven main
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs push glven main
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs remote -v
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs remote-v
+git --git-dir=/home/gregor.redelonghi/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs status
+git --git-dir=~/majstaf/engit/vlpprs_en --work-tree=/c/Users/gregor.redelonghi/majstaf_en/en_staf/majvolpejprs status
+git help clone
+git help depth
+git help push
+git log --oneline
+git log --oneline |tee -
+git log --oneline |tee - | head
+git push ghct main --set-upstream
+git push ghen main --upstream
+git push --set-upstream ghmts main
+git remote add ghct git@github.com:r-gregor/c_testing.git
+git remote add ghenszn git@github.com:r-gregor/seznami_en.git
+git remote add ghmts git@github.com:r-gregor/metsys_en.git
+git remote -v
+git reset
+git reset HEAD -- .
+git show
+git show HEAD~1
+git show HEAD~2
+git show HEAD~3
+glow --help
+glow mrkdwn-tst-01.md
+glow mrkdwn-tst-02.md
+glow mrkdwn-tst-02.md | less
+glow mrkdwn-tst-02.md | less -r
+glow mrkdwn-tst-02.md | less -R
+glow mrkdwn-tst-02.md |less
+glow mrkdwn-tst-02.md |less --color
+glow mrkdwn-tst-02.md |less --color always
+glow mrkdwn-tst-02.md |less --color=always
+glow -p README.md
+glow README.md
+glow README.md | less
+glow README.md | less --use-color C
+glow README.md | less --use-color --color C
+glow README.md | less --use-color --color=C
+go build
+go mod init
+go mod tidy
+go run .
+go version
+go --version
+godu | help
+godu help
+godu --help
+godu -l 1
+grep "BASH_SOURCE" *
+grep '#include' libxml/*.h
+grep '\. ' .* | grep -i fzf
+grep '\. ' .bashrc
+grep '\. ' majstaf/majrcs/bashrc-*
+grep '^[! c]' *
+grep '^alias' $MRCS/aliases-gredelonghi-en
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' -f1
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' -f2
+grep '^alias' $MRCS/aliases-gredelonghi-en | cut -d' ' printf -f1
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/ --> /'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t/'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t\t/'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed -e 's/alias //' -e 's/=/\t\t\t/' |less
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed 's/alias //'
+grep '^alias' $MRCS/aliases-gredelonghi-en | sed 's/alias //' |sed 's/=/\t\t/'
+grep --color -i fzf ./.*
+grep --color -i fzf ./.* | less
+grep --color=always -rlE '".*\.h"' *
+grep -Er "fzf.*rev" *
+grep fzf $MRCS/aliases-gredelonghi-en
+grep -i 'align' ./*
+grep -i fzf ~/.bashrc
+grep -i hirsch sites
+grep -i hirsch sites.txt
+grep -i mrc ~/majstaf/majrcs/bashrc-gredelonghi-en
+grep -il 'align' ./*
+grep -il 'align' ./* |sort | uniq
+grep -il 'alignment' ./* |sort | uniq
+grep -ilr "region\|arena" *
+grep -ilr "region\|arena" * | grep -v OSTAL
+grep -ilr "region\|arena" * | grep -v OSTAL | grep -E "*.\.c"
+grep -ilr "region\|arena" * | grep -v OSTAL | grep -E ".*\.c"
+grep -ir "array" * | grep -v "bookmark\|testing"
+grep -ir "array" * | grep -v "bookmark\|testing\|matches"
+grep -ir "array" * | grep -v bookmark
+grep -ir "array" * | grep -v bookmark |less
+grep -ir "region\|arena" *
+grep -ir '\##type' *
+grep -ir compl ~/.*
+grep -ir compl ~/majstaf/majrcs/*
+grep -ir completiti *
+grep -ir completiti ~/.*
+grep -ir 'stat(' *
+grep -irE "prehodni.*pvc" *
+grep -irl '## type' *
+grep -irl '##type' *
+grep -irl '\##type' *
+grep -irl cast * | clm
+grep -irl cast * | grep struct
+grep -irl 'matrix' * | less
+grep -irl -regex '## *type' *
+grep -irl representat * | clm
+grep -irl 'stat(' * | less
+grep -l '\--header' _*
+grep -lE "env.*bash" * | wc -l
+grep -lr "<windows.h>" ./* |grep -v OSTALO
+grep -lr netcat *
+grep 'my(' *
+grep 'n_bekaps' * | cut -d' ' -f2
+grep 'n_bekaps' * | cut -d':' -f1
+grep -r '^# ' * |wc -l
+grep -r '=\~' *
+grep -r '=~' *
+grep -r --color 'git ' *
+grep -rE '".*\.h"' *
+grep -rE '\*\*.*=.*{' *
+grep -re '^# ' *
+grep -re '^# ' * |less
+grep -rEl '"abc"' *
+grep -rEl '\*\*.*= *{' *
+grep -rEl 'comp.*literal' *
+grep -rEl 'literal' *
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | grep -v "zig bild\|zig run"
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | grep -v "zig build\|zig run"
+grep -rh ' zig ' ~/majstaf/seznami/*.txt | less
+grep -rh '^zig ' ~/majstaf/seznami/*.txt | less
+grep -rh --color=always ' *git ' * |less
+grep -rh --color=always "^ *git \|/usr/bin/git " * |less
+grep -rh --color=always -E "/usr/bin/git " * |less
+grep -rh --color=always -E "^ *git \| */usr/bin/git " * |less
+grep -rh --color=always -E "^ *git \|/usr/bin/git " * |less
+grep -rh --color=always -E "^ *git \|^ */usr/bin/git " * |less
+grep -rh --color=always -E "^ *git \|^ *\/usr\/bin\/git " * |less
+grep -rh --color=always -E "^ *git \|^ *\\/usr\\/bin\\/git " * |less
+grep -rh --color=always -E "^ *git \|^ *\\\/usr\\\/bin\\\/git " * |less
+grep -rh --color=always -E '^ *git ' * |less
+grep -rh --color=always -E '^ *git \|^ */usr/bin/git ' * |less
+grep -rh --color=always 'git ' * |less
+grep -rh --color=always 'git push' * |less
+grep -rh --color=never "^ *git \|/usr/bin/git " *
+grep -rh 'i^zig ' ~/majstaf/seznami/*.txt | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 4-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 4- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 5-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 5- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 6-
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | cut -d ' ' -f 6- | less
+grep -rh 'zig ' ~/majstaf/seznami/*.txt | less
+grep -rl  "bash" * | sort | uniq
+grep -rl  "bash" * | sort | uniq |grep -v html
+grep -rl  "bash" * | sort | uniq |grep -v html | wc -l
+grep -rl '^# test' * |sort | uniq
+grep -rl 'majstaf_' * |grep -v prej
+grep -rlE "${.*##.*" *
+grep -rlE '".*\.h"' *
+grep -rlE '".*\.h"' * | grep -v "OSTALO\|ct_129"
+grep -rlE '".*\.h"' * | grep -v OSTALO
+grep -rlE '$\{.*##.*' *
+grep -rlE '${.*##.*' *
+grep -rlE '${.*\##.*' *
+grep -rlE '${.*\#\#.*' *
+grep -rlE '${.*\#q#.*' *
+grep -rlE '${.\*##.*' *
+grep -rlE '\$\{.*##.*' *
+grep -rlE '\*\*.*=.*{' *
+grep 'source ' .* | grep -i fzf
+grep 'source ' .* | less
+grepc '\--header' _*
+grepc -ir -A5 '^# test ' * | less
+grepc -ire '^# test ' * |less
+grepc -ire '^# test' * |less
+grepc -ire -A5 '^# test ' * |less
+grepc -ireA5 '^# test ' * |less
+grepc -r '\$?' * | less
+grepc -r 'if \[ ' * | less
+grepc -r 'ncurses.h' ./*
+grepc -re '^# ' * |less
+grepc -rl '^# ' * |less
+grepc -rl '^# ' * |sort | uniq
+grepc -rl '^# ' * |sort | uniq |wc -l
+grepc -rl '^# test' * |sort | uniq
+grepc -rl '^# test' * |sort | uniq |wc -l
+grepc -rs '\$?' * | grep -v matches
+grepc -rs '\$?' * | less
+gzip --help
+gzip -l TEST.gz
+head -n 2 mte.csv | cut -d ',' -f2,3
+help strace
+hexdump elements_array.bin
+history | fzf --exact --reverse
+history | fzf --extended-exact --reverse
+history | grep "zip \|unzip "
+history | grep "zip\|unzip"
+history |grep rclone
+IFS=: read -r KEY VALUE <<< "OCE:GREGOR REDELONGHI"
+infocmp
+infocmp | grep setab
+infocmp -L -1
+infocmp -L -1 | less
+infocmp -L -1 > infocmp-en-20251030.txt
+ip -j address list $if | jq
+jarrun jars/RsortByEnddate.jar
+jarrun jars/RsortByEnddate.jar $(cygpath -w $KNOWLEDGEDB/_C_and_Cpp/)
+jarrun jars/RsortByEnddate.jar $(cygpath -w $KNOWLEDGEDB/_C_and_Cpp/) | less
+jarrun jars/RsortByEnddate.jar $KNOWLEDGEDB/_C_and_Cpp/
+jars/RsortByEnddate.jar .
+jt_100_rsort-by-datestamp_20220129/RsortByEnddate_run $KNOWLEDGEDB/_CS_and_other_PL/
+jt_100_rsort-by-datestamp_20220129/RsortByEnddate_run $KNOWLEDGEDB/_CS_and_other_PL/ | head
+jt_100_rsort-by-datestamp_20220129/RsortByEnddate_run .
+jt_100_rsort-by-datestamp_20220129/RsortByEnddate_run | head
+KEY=${KEY,,}
+KEY=${KEY;;}
+longest-filename-in-curdir $KNOWLEDGEDB/_C_and_Cpp/
+mapfile -t both < <(echo "ena dva tri stiri")
+mapfile -t both <<<"ena dva tri stiri"
+mc --nocolor
+ncores
+neofetch
+nvol commit -m "20250911 0914 en"
+p3 -m pip uninstal yt-dlp
+pip list
+printf "%20s" "$NAME"
+printf "%-20s" "$NAME"
+printf "\033c"
+printf "\33 E"
+printf "\33E"
+printf "\E[7;61H"
+printf "\E[7;61H"; echo "UAHAHAHAHA"
+printf "\E7;61H
+printf "\E7;61H"
+printf "\x1Bc"
+printf '\r\33[5m%s\33[25m' EXAMPLE; sleep 5; printf '\r%s\n' EXAMPLE
+prompt-switch
+ps aux | grep -i notepad
+ps aux | less
+ps auxw | less
+ps -W | grep "notepad\|firefox"
+ps -W | grep "notepad\|firefox" | awk '{print $1,$4}'
+ps -W | grep "notepad\|firefox" | awk '{print $1,$4}' |grep 111
+ps -W | grep "notepad\|firefox" | cut -d' ' -f1
+rclone abour mega_gren:
+rclone about mega_gren:ENERGETIKA
+rclone about meganz:
+rclone config
+rclone copy $(cygpath -w "$PWD/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rclone copy $(cygpath -w "$PWD/_2025_podloge") mega_gren_ENERGETIKA/h_2025_podloge
+rclone copy $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads
+rclone copy /c/Users/gregor.redelonghi/Downloads mega_gren:ENERGETIKA/Downloads
+rclone copy _2025_1_PROJEKTI mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+rclone copy _IMAGES mega_gren:ENERGETIKA/Downloads/_IMAGES
+rclone copy AVIONI mega_gren:ENERGETIKA/Downloads/AVIONI
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from /majprogs-yes-no.txt --progress
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress
+rclone copy majprogs_en mega_gren:ENERGETIKA/majprogs_en --filter-from majprogs-yes-no.txt --progress --update
+rclone copy -r AVIONI mega_gren:ENERGETIKA/Downloads/AVIONI
+rclone copy Tehnicne-zahteve_2025 mega_en:ENERGETIKA
+rclone copy Tehnicne-zahteve_2025 mega_en:ENERGETIKA/Tehnicne-zahteve_2025
+rclone copy Tehnicne-zahteve_2025 mega_gren:ENERGETIKA/Tehnicne-zahteve_2025
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025") mega_gren:ENERGETIKA/Tehnicne-zahteve_2025 --progress
+rclone copy --update $(cygpath -w "/c/Users/gregor.redelonghi/Downloads") mega_gren:ENERGETIKA/Downloads --progress
+rclone copyto dotfiles-en-20250619.zip mega_gren:ENERGETIKA/dotfiles-en-20250619.zip
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING/
+rclone copyto dotfiles-en-20250619.zip mega_gren:TESTING/dotfiles-testing.zip
+rclone help | grep exclude
+rclone help | grep remote
+rclone help | grep show
+rclone help | grep size
+rclone help | less
+rclone help exclude
+rclone listremotes | xargs -I{} echo {} && rclone about {}; echo "---\n"
+rclone listremotes | xargs -I{} echo {}; rclone about {}; echo "---\n"
+rclone listremotes | xargs -I{} echo -n "{}: "; rclone about {}; echo "---\n"
+rclone listremotes | xargs -I{} rclone about {}; echo "---\n"
+rclone remoteslist
+rclone show mega_gren:
+rclone size mega_gren:
+rclone size mega_gren: -vv
+rclone sync $(cygpath -w "/h/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rclone sync $(cygpath -w "/h/2025/_2025_podloge") mega_gren:ENERGETIKA/h_2025_podloge
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGEIKA/Tehnicne-zahreve_2025
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGETIKA/Tehnicne-zahreve_2025
+rclone sync $(cygpath -w /c/Users/gregor.redelonghi/2025/Tehnicne-zahteve_2025) mega_en:ENERGETIKA/Tehnicne-zahteve_2025
+rclone sync --progress _2025_1_PROJEKTI mega_gren:ENERGETIKA/_2025_1_PROJEKTI
+rclone sync --update $(cygpath -w "/c/Users/gregor.redelonghi/2025/_2025_1_PROJEKTI") mega_gren:ENERGETIKA/_2025_1_PROJEKTI --progress
+read -r both <<<"ena dva tri stiri"
+read -r first second <<<"ena dva tri stiri pet sest"
+read -r fst scnd thrd frth <<<"ena dva tri stiri"
+read -t both <<<"ena dva tri stiri"
+readarray -t SITES < <(sed -n "/\[.*\]/p" sites.txt | sed -e 's/\[//' -e 's/\]//')
+readarray -t URLS < <(sed -n "/\["${site}"\]/,/^$/p" ${SITES} | sed -n '2,$'p)
+readarray -t URLS < <(sed -n "/\[${site}\]/,/^$/p" ${SITES} | sed -n '2,$'p)
+readarray -t URLS< <(sed -n "/\[${site}\]/,/^$/p" ${SITES} | sed -n '2,$'p)
+rsort-by-tmstmp-c  | head
+rsort-by-tmstmp-c  | less
+rsort-by-tmstmp-c  | vview-sfjl-efzf
+rsort-by-tmstmp-c | grep ssh
+rsort-by-tmstmp-c | head
+rsort-by-tmstmp-c |clm
+rsync config
+rustup update
+rustup update stable
+schtasks /?
+schtasks /h
+schtasks \h
+schtasks -h
+schtasks --help
+sed "s/'/$(printf "\u02bc")/g" bash-db-queries-project-pi-stats-20250916.txt | less
+sed "s/'/$(printf "u02bc")/g" bash-db-queries-project-pi-stats-20250916.txt | less
+sed "s/'/$(printf "u02bc")/g" bash-db-queries-project-pi-stats-20250916.txt | less[D
+sed "s/'/\%u02bc/g" bash-db-queries-project-pi-stats-20250916.txt
+sed "s/'/\%u02bc/g" bash-db-queries-project-pi-stats-20250916.txt | less
+sed "s/\(\w\)'\(\w\)/\1$(printf "\u02bc")\2/g" bash-db-queries-project-pi-stats-20250916.txt | less
+sed "s/\(\w\)'\(\w\)/\1$(printf "\u02bc")\2/g" bash-db-queries-project-pi-stats-20250916.txt > test.txt
+sed -i 's/<\(libxml\/.*\)>/"\1"/' *.h
+sed -i 's/libxml\///' *.h
+sed -n "/\["${site}"\]/,/^$/p" ${SITES} | sed -n '2,$'p
+sed -n "/\[${site}\]/,/^$/p" ${SITES} | sed -n '2,$'p
+sed -n "/\[.*\]/p" sites.txt
+sed -n "/\[.*\]/p" sites.txt | sed -e 's/\[//' -e 's/\]//'
+sed -n "/\[c programming\]/,/^$/p" sites.txt
+sed -n "/\[c programming\]/,/^$/p" sites.txt | sed -n '2,$'p
+sed -n "/\[c programming\]/p" sites.txt
+sed 's/ /,/g' mteData1.txt | cut -d ',' -f1,3
+sed 's/\<\(libxml/.*\)\>/"\1"/' xmlreader.h
+sed 's/<\(libxml/.*\)>/"\1"/' xmlreader.h
+sed 's/<\(libxml\/.*\)>/"\1"/' *.h
+sed 's/<\(libxml\/.*\)>/"\1"/' xmlreader.h
+sed 's/<\(libxml\/.*\)>/"\1"/' xmlreader.h | head
+sed 's/<\(libxml\/.*\)>/"\1"/' xmlreader.h | head -n15
+sed 's/libxml\///' xmlversion.h
+sed 's/libxml\///' xmlversion.h | head
+sed 's/libxml\///' xmlversion.h | head -n 15
+set | grep dir
+set | grep direct
+set | grepc direct
+set | grepc direct |less
+set mark-directories
+set mark-directories off
+set mark-directories on
+show-aliases-en | grep fzf
+show-aliases-en | grep -i fzf
+show-aliases-en | grep -i git
+show-aliases-en | grep vlp
+show-aliases-en fzf
+show-aliases-en fzf java
+show-exports-en
+shutdown -r now
+slistulb | less
+spremokolj
+strace --help
+strings elements_array.bin
+sysconf (_SC_LEVEL1_DCACHE_LINESIZE)
+tar tvzf godu_1.5.2_windows_amd64.tar.gz
+tar -tvzf go-tui-onetab-en-20251107.tar.gz
+tar tvzf NEW-MACC.tgz
+tar -xvf linux-6.12.52.tar.xz
+tar xvzf godu_1.5.2_windows_amd64.tar.gz
+tar -xvzf linux-6.13-rc7.tar.gz
+tar -xvzf ncurses-examples.tar.gz
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "./RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w ".RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cgpath -w "~/majstaf/engit/knowledgedb/") $(cygpath -w "RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone copy -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first ~/majstaf/engit/knowledgedb/ RCLONETD/
+time rclone copy -vP --transfers=1 --order-by name --check-first --ignore-checksum $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first --ignore-checksum -u $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone copy -vP --transfers=1 --order-by name --check-first -u $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "/d/ext_WD_usbHDD_2TB/RCLONE_KNOWLEDGEDB/")
+time rclone sync -vP --transfers=1 --order-by name --check-first $(cygpath -w "${HOME}/majstaf/engit/knowledgedb/") $(cygpath -w "${PWD}/RCLONETD/")
+time rclone sync -vP --transfers=1 --order-by name --check-first ${HOME}/majstaf/engit/knowledgedb/ ${PWD}/RCLONETD/
+time rclone sync -vP --transfers=1 --order-by name --check-first ~/majstaf/engit/knowledgedb/ RCLONETD/
+tput blink
+tput blink AAAAAA tput sgr0
+tput blink echo "AAAAAA" tput sgr0
+tput blink ecjjo "AAAAAA" tput sgr0
+tput blink; echo This is blinking text; tput sgr0
+tput cup $(( $(tput lines) / 2)) 15; echo "HY IN THE MIDDLE"
+tput cup $(( $(tput lines) / 2)) 15; echo "HY ITHE MIDDLEinfocmp!"
+tput cup 50 20
+tput cup 50 20 |echo "UUUUUUUUUUUUUU"
+tput cup 50 20; echo "UUUUUUUUUUUUUU"
+tput cup 6 20
+tput cup 6 20; echo "UUUUUUUUUUUUUUUU"
+tput cup 6 60 |hexdump -C
+tput lines
+tput sgr0
+tput -V
+tree -d
+tree -d *
+tree -d -L 2 *
+tree TRII/
+type $(which yt-dlp)
+unset $GIT_REPORTS
+unset $WHOAMI
+unset dirs
+unset GIT_REPORTS
+unset WHOAMI
+unzip dotfiles-en-20250619.zip
+unzip dotfiles-testing.zip
+unzip -l dotfiles-en-20250619.zip
+unzip -l dotfiles-en-20250619.zip | grep ss
+unzip -l dotfiles-en-20250619.zip | less
+unzip -l dotfiles-en-r-20250619.zip | grep "ssh\|SCR"
+unzip -l dotfiles-en-r-20250619.zip | less
+unzip -l test.zip
+unzip -P z7m17s11G. dotfiles-en-20250619.zip
+unzip Win32Processes_demo.zip
+uzip dotfiles-en-20250619.zip
+vmstat 1 5
+which glow
+while read LINE; do echo $LINE; done < <(for N in $(seq 1 15); do echo fname-$(shuf -i 1-15 -n 1).txt; done)
+whiptail
+who | cut -c 1-5
+ydl -f 398 "https://www.youtube.com/watch?v=rJrd2QMVbGM"
+ytb-download-mp3 "https://www.youtube.com/watch?v=mcaGJIZNhdA"
+yt-dlp --help | grep update
+yt-dlp -U
+zig | less
+zig build
+zig clean
+zig -h
+zig run main.zig
+zig run main.zig -- 2033
+zig run main.zig 2033
+zig run src/main.zig
+zig run src/main.zig 2033
+zig-clean
+zig-out/bin/obletnica-z
+zig-out/bin/obletnica-z 2033
+zip -e dotfiles-en-20250619.zip .*
+zip -er dotfiles-en-r-20250619.zip .*
+zip -er dotfiles-en-r-20250619.zip .* -x ".cache/*" ".tmp/*" @
+zip test.zip .*
+zless test.zip
+zoxide add .
+zoxide --help
+zoxide init
+zoxide query
+zoxide query .config
+zoxide query c
+zoxide query c*
+zoxide query c_
+zoxide query zig
+zoxide -V

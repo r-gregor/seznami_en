@@ -1,0 +1,27 @@
+     1	134G	/c
+     2	48G	/c/Users
+     3	41G	/c/Windows
+     4	23G	/c/Program Files
+     5	6.4G	/c/Program Files (x86)
+     6	4.1G	/c/ProgramData
+     7	1.9G	/c/$Recycle.Bin
+     8	1.2G	/c/Autodesk
+     9	833M	/c/temp
+    10	45M	/c/home
+    11	18M	/c/PREREZ
+    12	1.3M	/c/Utils
+    13	100K	/c/Dell
+    14	0	/c/tempini
+    15	0	/c/System Volume Information
+    16	0	/c/Recovery
+    17	0	/c/PerfLogs
+    18	0	/c/Intel
+    19	0	/c/inetpub
+    20	0	/c/Civil 3D Projects
+---------------------------------------------------------------
+134G	/c/
+48G	/c/Users
+47G	/c/Users/gregor.redelonghi
+41G	/c/Windows
+23G	/c/Program Files
+---------------------------------------------------------------
