@@ -2768,8 +2768,8 @@ tree ~/_BRISI/testdir1/
 tree ~/majstaf_en/brisime_en/
 tree ~/majstaf_en/brisime_en/ >> internal_dir_structure_20241024.txt 
 trewe
-unzip -P z7m17s11G. dotfiles-en-20250619.zip
-unzip -P z7m17s11G. dotfiles-en-20250619.zip 
+unzip -P <password> dotfiles-en-20250619.zip
+unzip -P <password> dotfiles-en-20250619.zip 
 unzip -l dotfiles-en-20250619.zip
 unzip -l dotfiles-en-20250619.zip 
 unzip -l dotfiles-en-20250619.zip | grep ss
