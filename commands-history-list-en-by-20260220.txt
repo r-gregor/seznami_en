@@ -1,0 +1,1073 @@
+/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/go1.25.5.windows-amd64/bin/go
+/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/go1.25.5.windows-amd64/bin/go version
+/c/Users/gregor.redelonghi/majstaf_en/majprogs_en/OneCommander/OneCommander
+/home/gregor.redelonghi/majstaf/majbin/BrthReminder/BrthReminder-c-color.exe
+/home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+~/majstaf/coding2/testing/c_testing/ct_045_rsort-by-tmstmp_20220212/bin/f20_sort-by-tmstmp .
+~/majstaf/coding2/testing/c_testing/ct_045_rsort-by-tmstmp_20220212/bin/f20_sort-by-tmstmp ../_FZF/
+~/majstaf/coding2/testing/c_testing/ct_149_rsort-by-tmstmp-absp_20251201/bin/rsort-by-tmstmp-absp-c-v3 
+~/majstaf/coding2/testing/c_testing/ct_149_rsort-by-tmstmp-absp_20251201/bin/rsort-by-tmstmp-absp-c-v3 .
+~/majstaf/coding2/testing/c_testing/ct_149_rsort-by-tmstmp-absp_20251201/bin/rsort-by-tmstmp-absp-c-v3 ../_CODING/
+~/majstaf/coding2/testing/c_testing/ct_149_rsort-by-tmstmp-absp_20251201/bin/rsort-by-tmstmp-absp-c-v3 ../_CODING1
+~/majstaf/majbin/hstl_en/collect_hstl 
+~/majstaf/majbin/hstl_en/hstl_en 
+~/majstaf/majbin/w3mdump/w3m-multi-dump-fromlist-en seznam 
+~/majstaf/majbin/w3mdump/w3m-multi-dump-fromlist-en seznam c-who-owns-the-memory
+apt-cyg --help
+apt-cyg --help |grep -C 5 upgrade
+apt-cyg --help |grep upgrade
+b-convert-txt-to-pdf-v2 c__attribute__constructor-destructor-multif-20251210.txt 
+b-convert-txt-to-pdf-v2 c__attribute__directives_01-20251210.txt 
+b-convert-txt-to-pdf-v2 c-5p-function-pointers-20220603.txt 
+b-convert-txt-to-pdf-v2 c-bit-manipulation-5pp-20250812.txt 
+b-convert-txt-to-pdf-v2 c-cleanup-5pp-20251222.txt 
+b-convert-txt-to-pdf-v2 c-cleanup-attribute-01-20251222.txt 
+b-convert-txt-to-pdf-v2 c-cleanup-attribute-02-multif-20251223.txt 
+b-convert-txt-to-pdf-v2 c-gcc-function-attributes-20251210.txt 
+b-convert-txt-to-pdf-v2 c-who-owns-the-memory-multif-20260106.txt 
+cargo --help
+cat _BASH/bash-delete-all-files-in-directory-except-few-20140606.txt | sed "s/\(\w\)'\(\w\)/\1\´\2/g" | sed "s/\(\w\+\)' / \1\´ /g"
+cat _BASH/bash-delete-all-files-in-directory-except-few-20140606.txt | sed "s/\(\w\)'\(\w\)/\1\´\2/g" | sed "s/\(\w\+\)' / \1\´ /g" > $DANES/testf-1.txt 
+cat _GIT/git-tips-and-tricks-multif-20250310.txt | sed "s/\(\w\)'\(\w\)/\1\´\2/g" | "s/\( \w\)' /\1\´ /g"
+cat _GIT/git-tips-and-tricks-multif-20250310.txt | sed "s/\(\w\)'\(\w\)/\1\´\2/g" | sed "s/ \(\w\)' / \1\´ /g" > $DANES/testf-1.txt 
+cat _GIT/git-tips-and-tricks-multif-20250310.txt | sed "s/\(\w\)'\(\w\)/\1\´\2/g" | sed "s/ \(\w\)'/ \1\´/g" > $DANES/testf-1.txt 
+cat _GIT/git-tips-and-tricks-multif-20250310.txt | sed "s/\(\w\)'\(\w\)/\1\´\2/g" | sed "s/\( \w\)' /\1\´ /g"
+cat _GIT/git-tips-and-tricks-multif-20250310.txt | sed "s/\(\w\)'\(\w\)/\1\´\2/g" | sed "s/\( \w\)' /\1\´ /g" > $DANES/testf-1.txt 
+cat _GIT/git-tips-and-tricks-multif-20250310.txt | sed "s/\(\w\)'\(\w\)/\1\´\2/g" | sed "s/\(\w\+\)' / \1\´ /g" > $DANES/testf-1.txt 
+cat ~/majstaf/seznami/* | fzf -e --reverse
+cat ~/majstaf/seznami/* | fzf --reverse
+cat commands-history-list-en-by-20251120.txt | grep 'z '
+cat commands-history-list-en-by-20251120.txt | grep zze
+cat commands-history-list-en-by-20251120.txt | sort |uniq -c
+cat ff-en-passwords.csv | column -d ',' -t
+cat ff-en-passwords.csv | column -s ',' -t
+cat ff-en-passwords.csv | column -s ',' -t | less
+cat ff-en-passwords.csv | column -s ',' -t >> ff-en-passwords.txt
+cat ff-en-passwords.csv | column -t
+cat ff-en-passwords.csv | columnt -t
+cat ff-en-passwords.csv | columnt -t | less
+cat hstl-en-20251120-* | grep -v -f ~/majstaf/majbin/hstl_en/excludes-hstl.txt |less
+chmod +x $BRISI/sort-files-by-numlines.sh
+chmod +x add-file-to-prenos 
+chmod +x bash-bmp
+chmod +x build_and_run_object_pool.sh 
+chmod +x gradient 
+chmod +x knowledgedb-files-from-tmpstmp-en 
+chmod +x lsth-upgraded-20260126.sh 
+chmod +x onecmd_D2 
+chmod +x output 
+chmod +x rbekap-DAILY-mega-gren 
+chmod +x run.sh 
+chmod +x run_object_pool.sh 
+chmod +x show-vim-mappings 
+chmod +x showw
+chmod +x test.sh 
+chmod +x vedit-files-from-vim-history
+chmod 644 ./*
+chmod 644 wikipedia-base64-20251217.txt 
+chmod 755 pddr
+chmod 755 rcln-check-all-remotes-about
+chmod 755 secret/
+chmod -x *.c
+chmod -x *.h
+chmod -x Makefile 
+chmod -x secret/
+chmof 755 secret/
+chmos 755 secret/
+chnod +x bash-bmp
+chnod 644 ./*
+chnod -x secret/
+clang --help
+clang -o test array-of-structs-sort-test_v2.c 
+clang -o test rsort-by-tmstmp-absp-c.c 
+clang -o test-win test.c -lws2_32
+clang -o test-win.exe test.c -lws2_32
+clang -Wall -o test rsort-by-tmstmp-absp-c.c 
+clang -Wall -o test test.c 
+clang -Wall -Werror -o test test.c 
+cygcheck -p git | grep ^git
+cygcheck -p paps
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe -o /c/Users/gregor.redelonghi/majstaf/majbin")
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe" -o "/c/Users/gregor.redelonghi/majstaf/majbin")
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe" -o "/c/Users/gregor.redelonghi/majstaf/majbin")"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe")
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o "$(cygpath -w "/c/Users/gregor.redelonghi/majstaf/majbin")"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o $(cygpath -w "/c/Users/gregor.redelonghi")"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o $(cygpath -w "/c/Users/gregor.redelonghi/")"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o $(cygpath -w "/c/Users/gregor.redelonghi/majstaf/majbin")"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o $(cygpath -w '/c/Users/gregor.redelonghi')"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o \"$(cygpath -w "/c/Users/gregor.redelonghi")\""
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o \"$(cygpath -w /c/Users/gregor.redelonghi)\""
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o \"$(cygpath -w '/c/Users/gregor.redelonghi')\""
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o c:\\\\Users\\gregor.redelonghi"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o 'c:\\\\Users\\gregor.redelonghi'"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o c:\\Users\\gregor.redelonghi"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o c:\\Users\\greor.redelonghi"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o 'c:\Users\gregor.redelonghi'"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe") -o c\:\\Users\\gregor.redelonghi"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe")"
+cygstart "$(cygpath -w "/c/Users/Public/below average/Super Launcher/SuperLauncher.exe")" -o "$(cygpath -w "/c/Users/gregor.redelonghi/majstaf/majbin")"
+cygstart "$(cygpath -w /c/users/gregor.redelonghi/majstaf_en/majprogs_en/OneCommander/OneCommander -openwin D2)"
+cygstart "$(cygpath -w /c/users/gregor.redelonghi/majstaf_en/majprogs_en/OneCommander/OneCommander.exe -openwin D2)"
+cygstart "$(cygpath -w /c/users/gregor.redelonghi/majstaf_en/majprogs_en/OneCommander/OneCommander.exe) -openwin D2"
+cygstart "c:\Users\gregor.redelonghi\majstaf_en\majprogs_en\OneCommander\OneCommander.exe -openwin D2"
+cygstart "c:\Users\gregor.redelonghi\majstaf_en\majprogs_en\OneCommander\OneCommander.exe" -openwin D2
+diff .vimrc $EGDTFJLS/.vimrc
+diff ~/.local/bin/lsth ./lsth-upgraded-20260126.sh 
+diff ~/majstaf/majbin/BrthReminder-c/src/BrthReminder-c-colors.c ./BrthReminder-c-colors.c 
+diff majstaf/majbin/add-file-to-prenos-en $EGMJBN/add-file-to-prenos-en 
+diff majstaf/majbin/BrthReminder-c/src/BrthReminder-c.c $EGMJBN/BrthReminder-c/src/BrthReminder-c.c 
+diff majstaf/majbin/BrthReminder-c/src/BrthReminder-c.c $MJBN/BrthReminder-c/src/BrthReminder-c.c 
+diff majstaf/majbin/BrthReminder-c/src/BrthReminder-c-colors.c $EGMJBN/BrthReminder-c/src/BrthReminder-c-colors.c 
+diff majstaf/majbin/BrthReminder-c/src/BrthReminder-c-colors.c $MJBN/BrthReminder-c/src/BrthReminder-c-colors.c 
+diff -q majstaf/majbin/rbekap-meganz/ $EGMJBN/rbekap-meganz/
+diff regex_test2-1.c regex_test2-f2.c 
+diff rsort-by-accdate_V1.c rsort-by-accdate-c-v1.c 
+diff rsort-by-tmstmp_c.c src/f18_sort-by-tmstmp.c 
+diff simple-bmp src/v3/simple-bmp 
+diff -y .vimrc $EGDTFJLS/.vimrc
+echo "^[[1;31mHello" | fzf --ansi
+echo $([ -f "/home/gregor.redelonghi/majstaf/_NERAZPOREJENO/__DANES__/bash-getopts-5pp-20260210.txt" ])
+echo $PATH |tr ':' '\n'
+echo $PATH |tr ':' '\n'|sort
+echo $PATH |tr ':' '\n'|sort | uniq -c
+echo $PATH |tr ':' '\n'|sort | uniq -c |sort -n
+echo $PATH |tr ':' '\n'|sort | uniq -c |sort -nr
+echo -e "MAMA\nJAMA\nAGAMA" | grep "AJ\|JAJA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep "AM\|JAJA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep "AMA\|JAJA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep "JA\|JAJA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep -c "AJ\|JAJA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep -c "JA\|JAJA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep -c "MA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep -co "MA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep -o "MA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep -o "MA" | wc -l
+echo -e "MAMA\nJAMA\nAGAMA" | grep -oc "MA"
+echo -e "MAMA\nJAMA\nAGAMA" | grep -wc "MA"
+echo fname_{1..4}
+echo 'for FFF in $(find * -type f); do echo "$(wc -l $FFF)"; done |sort -nr | column -t | less' >> $BRISI/sort-files-by-numlines.sh
+echo 'for FFF in $(find * -type f);do (echo $(file -ib $FFF) | grep 'shellscript') > /dev/null; if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done' >> $BRIS/sort2
+echo 'for FFF in $(find * -type f);do (echo $(file -ib $FFF) | grep 'shellscript') > /dev/null; if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done' >> $BRISI /sort2
+echo 'for FFF in $(find * -type f);do (echo $(file -ib $FFF) | grep 'shellscript') > /dev/null; if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done' >> $BRISI/sort2
+echo 'gcc -Wall -o bin/example objpool.c example.c' >> run_object_pool.sh
+echo GREG[a-d]OR
+echo 'time bin/example && read -p "OK?" && time bin/example_w_freelist' >> run.sh
+echo WGREG[a-d]ORW
+env -i $(which bash) --norc --noprofile
+env -i /usr/bin/bash --norc --noprofile
+env -i bash --norc --noprofile
+export LC_ALL=C && cat commands-history-list-en-by-20251120.txt | sort |uniq -c >> commands-history-list-en-by-20251120-1.txt 
+export PATH=$PATH:~/.local/bin
+export PS1=$'\h@\w& '
+export PS1='\h@\W$ '
+export PS1='\h@\w& '
+export PS1='\u@\h$ '
+export PS1='\u@\h\$ '
+export TERM=rxvt
+export TERM=rxvt-256color
+export TERM=xrvt
+export TERM=xterm_256color
+export TERM=xterm256color
+find $KNOWLEDGEDB | grep -iE "base.*64.*txt"
+find $KNOWLEDGEDB | iname "*base*64*txt"
+find $KNOWLEDGEDB -iname "*ffmp*"
+find $KNOWLEDGEDB/_BASH/* -type f 
+find $KNOWLEDGEDB/_BASH/* -type -f 
+find $KNOWLEDGEDB/_BASH/* -type f | grep slow
+find $KNOWLEDGEDB/_BASH/* -type f | grep slow | vim -
+find $KNOWLEDGEDB/_BASH/* -type f | grep slow | xargs -ro vim
+find $MJBN -name "*.exe"
+find $MJBN/* -type f -newermt "20260201"
+find $MJBN/* -type f -newermt "20260201" 
+find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt'
+find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt' | vview-mfjl-efzf -
+find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt' | xargs -ro vim -pM
+find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt' | xargs -ro vview-mfjl-efzf 
+find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt' | xargs -ro vview-mfjl-efzf -
+find * -iname "*sort*tm*"
+find * -iname "*sort*tm*" |less
+find * -iname "*strateg*"
+find * -iname "rsort*tm*"
+find * maxdepth 0 -type d
+find * -maxdepth 0 -type d
+find * -maxdepth 0 -type d | xargs ro tree
+find * -maxdepth 0 -type d | xargs -ro tree
+find * -maxdepth 0 -type d | xargs -ro tree -L 1
+find * -maxdepth 0 -type d | xargs -ro tree -L 2
+find * -maxdepth 0 -type f
+find * -name "*20251*" | grep -v "\.git" | fzf -m -e --reverse |xargs -ro vim -p
+find * -name "*20251*" | grep -v "\.git" | fzf -m --reverse |xargs -ro vim -p
+find * -name "*202511*" | fzf -m -e |xargs -ro vim -p
+find * -name "*202511*" | fzf -M -e |xargs -ro vim -p
+find * -name "*202511*" | fzf -m -e --reverse |xargs -ro vim -p
+find * -name "*202511*" | fzf -me --reverse |xargs -ro vim -p
+find * -name "*202511*" | grep -v "\.git" | fzf -m -e --reverse |xargs -ro vim -p
+find * -name "*202511.." | fzf -M -e |xargs -ro vim -p
+find * -name "*make*" | grep -v "\.git" | fzf -m --reverse |xargs -ro vim -p
+find * -name "202511.." | fzf -M -e |xargs -ro vim -p
+find * -name "202511.." | fzf -M -e --reverse |xargs -ro vim -p
+find * -name "202511.." | fzf -me --reverse |xargs -ro vim -p
+find * -name "202511.." | fzf -Me --reverse |xargs -ro vim -p
+find * -name "202511.." | vedit-mfjl-efzf 
+find * -type d -iname "*polje*"
+find * -type f -iname "*5p*" | grep '_C_and_'
+find * -type f -iname "*5p*" | grep '_C_and_' |fzf -e -m | xargs -I{} cp -rv {} $DANES/convert-to-pdf/
+find * -type f -iname "*5p*" | grep '_C_and_' |fzf -e -m | xargs -ro vim -M
+find * -type f -iname "*attr*" | grep '_C_and_' |fzf -e -m | xargs -I{} cp -rv {} $DANES/convert-to-pdf/
+find * -type f -iname "*i3*"
+find * -type f -iname "*i3*" |xargs -ro vim -p
+find /c/Users/gregor.redelonghi/ -iname "lazy*"
+find /c/Users/gregor.redelonghi/ -iname "lazy*git*"
+find /c/Users/gregor.redelonghi/ -name "go1*25*"
+find /home/gregor.redelonghi/majstaf/majbin/ -type f | grep by
+find ~ -type f -name "bash-commands-en*txt"
+find -iname "*attr*"
+find -iname "*-bit-*"
+find -iname "*-bit-*20251204*"
+find -iname "*i3*"
+find -iname "*obraz*"
+find -iname "*obraz*" | grep -viE "tehn.*zaht"
+find -iname "*p*ss*w*"
+find -iname "*potrdilo*"
+find -iname "*rclon*"
+find -iname "*zip*"
+find -iname "*zip*" | xargs -ro vim
+find -iname "lazyg*"
+find -iname "majbin*"
+find -name "*.exe"
+find -name "*fzf*"
+find -name "*makefile*"
+find -name "*makefile*" | fzf -m |xargs -ro vim -p
+find -name "*makefile*" | fzf -m -e |xargs -ro vim -p
+find -name "fzf*"
+find -name "sed-*"
+find -name "sed-*txt"
+find -newermt "20251216"
+find -newermt "20251216" -iname "*.txt"
+find -newermt "20251216" -iname "*\.txt"
+find -newermt "20251218 08:00:00" | grep -v '\.git' | fzf -m -e | xargs -ro vim
+find -newermt "20251218 08:00:00" | grep -ve '\.git' -ve 'engit' | fzf -m -e | xargs -ro vim
+find -newermt "20251218 08:00:00" -type f | grep -ve '\.git' -ve 'engit' | fzf -m -e | xargs -ro vim
+find -newermt "20251219 08:00:00"
+find -newermt "20251219 08:00:00" | fzf -m -e | xargs -ro vim
+find -tpe f -iname "*202511??*.txt"
+find -type d -exec rm -rv
+find -type d -exec rm -rv \;
+find -type d -iname "*allocation*"
+find -type d -iname "*arena*"
+find -type d -iname "*pdf*"
+find -type d iname "*polje*"
+find -type d -iname "*strateg*"
+find -type f
+find -type f | grepc -e 'gred' -e 'mum'
+find -type f | grepc -e 'gred' -e 'mum' | grep -v repe
+find -type f |grep -e 'gre'
+find -type f |grep -e 'gred'
+find -type f |grep -e 'gred' -e 'mum'
+find -type f |grep -e 'rgr'
+find -type f |grepc -e 'gred' -e 'mum'
+find -type f |grepc -e 'gred' -e 'mum' -ev repe
+find -type f |grepc -e 'gred' -e 'mum' -ev 'repe'
+find -type f |grepc -e 'gred' -e 'mum' -v 'repe'
+find -type f -iname "*202511??*.txt"
+find -type f -iname "*202511??*.txt" | sort -nr
+find -type f -iname "*202511??*.txt" | sort -nr | head
+find -type f -iname "*202511??*.txt" | sort -r | head
+find -type f -iname "*5p*"
+find -type f -iname "*5p*" | grep '_C_and_'
+find -type f -iname "*bookmark*"
+find -type f -iname "*cert*"
+find -type f -iname "*component*"
+find -type f -iname "*font*"
+find -type f -iname "*font*" | fzf -m -e --reverse | xargs -ro vim
+find -type f -iname "*font*" | fzf -me --reverse | xargs -ro vim
+find -type f -iname "*font*" | grep '007'
+find -type f -iname "*font*" | grep '50'
+find -type f -iname "*font*" | grepc -i font | less
+find -type f -iname "*font*" | xargs -I{} grep '007' {}
+find -type f -iname "*font*" | xargs -I{} grep -l '\]' {}
+find -type f -iname "*font*" | xargs -I{} grep -l '007' {}
+find -type f -iname "*font*" | xargs -I{} grep -l '50\]' {}
+find -type f -iname "*font*" | xargs -I{} grep -l '50]' {}
+find -type f -iname "*preber*"
+find -type f -iname "*preberi*"
+find -type f -iname "*rxvt*"
+find -type f -iname "*tehni*n* risb*"
+find -type f- iname "*tehni*n* risb*"
+find -type f -name "*TR*"
+find -type f -name "*TR*pdf"
+find -type f -name "*TR[-_]*pdf"
+for "FFF" in $(ls -1 | grep -i "Fwd"); do rm "$FFF"; done
+for DDD in $(find -type d); do rm -rv $DDD; done
+for DDD in _C_and_Cpp/ _BASH/ _FZF; do rsort-by-tmstmp-c $DDD | head; done
+for DDD in _C_and_Cpp/ _BASH/ _FZF; do rsort-by-tmstmp-c $DDD | head; done | sort .nr 
+for DDD in _C_and_Cpp/ _BASH/ _FZF; do rsort-by-tmstmp-c $DDD | head; done | sort -n 
+for DDD in _C_and_Cpp/ _BASH/ _FZF; do rsort-by-tmstmp-c $DDD | head; done | sort -nr 
+for DEST in $MJBN $EGMJBN; do cp -iv vedit-files-from-vim-history $DEST/; done
+for F in "${arr1[*]}"; do echo $F; done
+for F in "${arr1[@]}"; do echo $F; done
+for F in "${arr1[@]}"; do echo -n " $F"; done
+for F in "${arr1[@]}"; do echo -n "$F "; done
+for F in "${arr1[@]}"; do echo -n "$F"; done
+for F in "${arr1[@]}"; do if [ $F ~= "bar" ]; then echo $F; fi; done
+for F in "${arr1[@]}"; do if [ $F ~= a ]; then echo $F; fi; done
+for F in "${arr1[@]}"; do if [ $F =~ a ]; then echo $F; fi; done
+for F in "${arr1[@]}"; do if [ $F == "bar" ]; then echo $F; fi; done
+for F in "${arr1[@]}"; do if [ a ~= $F ]; then echo $F; fi; done
+for F in "${arr1[@]}"; do if [[ "$F" =~ "ba" ]]; then echo $F; fi; done
+for F in "${arr1[@]}"; do if [[ "$F" =~ "bar" ]]; then echo $F; fi; done
+for F in "${arr1[@]}"; do if [[ $F ~= "bar" ]]; then echo $F; fi; done
+for F in "${arr1[@]}"; do if [[ $F =~ "bar" ]]; then echo $F; fi; done
+for F in ${arr1[*]}; do echo $F; done
+for F in ${arr1[@]}; do echo $F; done
+for FFF in "$(ls -1 | grep -i "Fwd")"; do rm "$FFF"; done
+for FFF in $(find * -executable); do rm -rv $FFF; done
+for FFF in $(find * -maxdepth 0 -type f); do echo "$(wc -l $FFF)"; done
+for FFF in $(find * -maxdepth 0 -type f); do echo "$(wc -l $FFF)"; done |sort -nr
+for FFF in $(find * -maxdepth 0 -type f); do echo "$(wc -l $FFF)"; done |sort -nr |head
+for FFF in $(find * -type f); /usr/bin/grep 'shellscript' $(file -ib $FFF); if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done
+for FFF in $(find * -type f); do echo "$(wc -l $FFF)"; done |sort -nr | column -t
+for FFF in $(find * -type f); do echo "$(wc -l $FFF)"; done |sort -nr | column -t | less
+for FFF in $(find * -type f); do echo "$(wc -l $FFF)"; done |sort -nr |head
+for FFF in $(find * -type f); do echo "$(wc -l $FFF)"; done |sort -nr |head | column -t
+for FFF in $(find * -type f); do echo "$(wc -l $FFF)"; done |sort -nr |head | columnt -t
+for FFF in $(find * -type f); grep shellscript $(file -ib $FFF); if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done
+for FFF in $(find * -type f);do (echo $(file -ib $FFF) | grep 'shellscript') > /dev/null; if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done
+for FFF in $(find * -type f);do /usr/bin/grep 'shellscript' $(file -ib $FFF); if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done
+for FFF in $(find * -type f);do {echo $(file -ib $FFF) | grep 'shellscript'} > /dev/null; if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done
+for FFF in $(find * -type f);do echo "$FFF: $(file -ib $FFF)"; done
+for FFF in $(find * -type f);do echo $(file -ib $FFF) | grep 'shellscript'; if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done
+for FFF in $(find * -type f);do grep 'shellscript' $FFF; if [ $? == 0 ]; then echo "shellscript: $FFF"; fi; done
+for FFF in $(ls -1 *); do echo $FFF; done
+for FFF in $(ls -1 *); do echo $FFF;done
+for FFF in $(ls -1 *); do echo mv $FFF ${FFF/-v/-c-v}; done
+for FFF in $(ls -1 *); do mv $FFF ${FFF/-v/-c-v}; done
+for FFF in $(ls -1 *); do NM=${FFF:0:3}; echo $NM; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; echo "${FFF/f../r}"; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; echo "${FFF/f??_/r}"; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; echo "$FFF --> $NM"; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; echo ${FFF} | sed -e "s/^f.../r/" $FFF; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; echo $NM; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; S1="${FFF/f??_/r}"; echo $S1; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; S1="${FFF/f??_/r}"; S2=${S1/.c/-v${NM}.c}; echo "$S1 -> $S2"; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; S1="${FFF/f??_/r}"; S2=${S1/.c/-v${NM}.c}; echo "mv -v $FFF $S2"; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; S1="${FFF/f??_/r}"; S2=${S1/.c/-v${NM}.c}; mv -v $FFF $S2; done
+for FFF in $(ls -1 *); do NM=${FFF:1:2}; S1="${FFF/f??_/r}"; S2=${S1/.c/-v${NM}}; echo "$S1 -> $S2"; done
+for FFF in $(ls -1 *); do NM=${FFF:1:3}; echo $FFF --> $NM; done
+for FFF in $(ls -1 *); do NM=${FFF:1:3}; echo $NM; done
+for FFF in $(ls -1 *); do NM=${FFF0:3}; echo $FFF --> $NM; done
+for FFF in $(ls -1 | grep -i "Fwd"); do rm "$FFF"; done
+for FFF in *.txt; do printf -- "---\n%s\n\n" "$FFF"; cat "$FFF"; done | less
+for FFF in *.txt; do printf -- "---\n%s\n\n" "$FFF"; cat $FFF; done | less
+for FFF in *.txt; do printf -- "\n---\n%s\n\n" "$FFF"; cat "$FFF"; done | less
+for FFF in *.txt; do printf -- "\n---\n%s\n\n" "filename: $FFF"; cat "$FFF"; done | less
+for FFF in *.txt; do printf "---\n"%s\n\n" $(cat "$FFF"); done | less
+for FFF in *.txt; do printf "---\n%s\n\n" "$(cat "$FFF")"; done | less
+for FFF in *.txt; do printf "---\n%s\n\n" "$FFF"; cat $FFF; done | less
+for FFF in *.txt; do printf "---\n%s\n\n" $(cat "$FFF"); done | less
+for FFF in *; do echo "---"; cat "$FFF"; done | less
+for FFF in *; do echo "---"; cat "$FFF"; done |less
+for FFF in *; do echo "---"; cat $FFF; done
+for FFF in *; do echo "---"; cat $FFF; done |less
+for FFF in *; do echo "---";echo "$FFE; cat "$FFF"; done | less
+for FFF in *; do echo "---";echo "$FFF: "; cat "$FFF"; done | less
+for FFF in *; do echo "$FFF"; done
+for FFF in *; do echo "filename: $FFF"; cat "$FFF"; echo "---"; done |less
+for FFF in *; do echo "filename: $FFF"; cat "$FFF"; echo -e "\n---"; done |less
+for FFF in *; do echo "filename: $FFF"; cat $FFF; echo "---"; done
+for FFF in *; do echo "filename: $FFF"; cat $FFF; echo "---"; done |less
+for FFF in *; do echo "filename: $FFF"; done
+for FFF in *; do echo $FFF; done
+for FFF in *; do echo -e "\n---"; echo "filename: $FFFwq"; cat "$FFF"; done | less
+for FFF in *; do echo mv ${FFF} ${FFF}-en; done
+for FFF in *; do grep "subject\|^https" "$FFF"; done
+for FFF in *; do grep "subject\|^https" $FFF; done
+for FFF in *; do grep "subject\|^https"; done
+for FFF in *; do grep -i "subject\|^https" "$FFF"; done
+for FFF in *; do grep -i "subject\|^https" "$FFF";echo "---"; done
+for FFF in *; do grep -iv "facebook" "$FFF"; done |less
+for FFF in *; do grep -l "facebook" "$FFF"; done
+for FFF in *; do grep -l "facebook" $FFF; done
+for FFF in *; do grep -v "facebook" "$FFF"; done
+for FFF in *; do grep -v "facebook" "$FFF"; done |less
+for FFF in *; do grep -vl "facebook" "$FFF"; done
+for FFF in *; do mv ${FFF} ${FFF}-en; done
+for FFF in *; do sed '/1/\n/3/p' $FFF; done
+for FFF in *; do sed -e '/1/p' -e '/3/p' "$FFF"; done
+for FFF in *; do sed -e '/1/p' -e '/3/p' "$FFF"; done | less
+for FFF in *; do sed -e '/1/p' -e '/3/p' $FFF; done
+for FFF in *; do sed -en '/1/p' "$FFF"; done | less
+for FFF in *; do sed -en '/1/p' -e '/3/p' "$FFF"; done | less
+for FFF in *; do sed -n '/1/p' "$FFF"; done | less
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+for FFF in messages/*; do echo -e "\n---\n"; cat "$FFF"; done |less
+for FFF in messages/*; do echo -e "\n---\n"; cat $FFF; done |less
+for FFF in messages/*; do echo -e "\n---\n"; cat $FFF;; done |less
+for FNM in onecmd*; do cp -v $FNM $EGMJBN/; done
+for FNM in onecmd*; do echo $FNM; done
+for FNM in onecmd*; do softlink1-fname-to-ulb $FNM; done
+for N in $(seq 1 11); do echo $N; done
+for N in $(seq 1 11); do echo $N; done | paste -d ","
+for N in $(seq 1 11); do echo $N; done | paste -sd ", "
+for N in $(seq 1 11); do echo $N; done | paste -sd ","
+for N in $(seq 1 11); do echo $N; done | paste -sd ','
+for N in $(seq 1 11); do echo $N; done | paste -sd ', '
+for N in $(seq 1 11); do printf "$d\n" $N; done
+for NAME in bare color nerd; do cpi $MRCS/bashrc-prompt-${NAME}* $EGMRCS/; done
+for NM in jbe mdb; do cp -i showw $EGPRNS/update-${NM}/; done
+for NM in jbe mdb; do cp -i showw $EGPRNS/update_${NM}/; done
+for NM in jbe mdb; do cp -i sort-shell-scripts-by-numlines $EGPRNS/update-${NM}/; done
+for NM in jbe mdb; do cp -i sort-shell-scripts-by-numlines $EGPRNS/update_${NM}/; done
+for RMT in $(rclone listremotes); do echo $RMT; rclone about $RMT; echo "---";done
+for URL in 
+for URL in "https://www.youtube.com/@gotbletu" "https://www.youtube.com/@aliawan6245" "https://www.youtube.com/@bootdotdev" "https://www.youtube.com/@yousuckatprogramming"; do /home/gregor.redelonghi/.local/bin/contains "$URL"; done
+for URL in "https://www.youtube.com/@gotbletu" "https://www.youtube.com/@aliawan6245" "https://www.youtube.com/@bootdotdev" "https://www.youtube.com/@yousuckatprogramming"; do /home/gregor.redelonghi/.local/bin/contains "$URL"; done >> add-to-sites 
+for URL in "https://www.youtube.com/@gotbletu" "https://www.youtube.com/@aliawan6245" "https://www.youtube.com/@bootdotdev" "https://www.youtube.com/@yousuckatprogramming"; do /home/gregor.redelonghi/.local/bin/contains $URL >> add-to-sites; echo "-------------------------------------"; done
+for URL in "https://www.youtube.com/@TheInvisibleHandCo" "https://www.youtube.com/@johannes4gnu_linux96" "https://www.youtube.com/@alexhyettdev" "https://www.youtube.com/@LowLevelTV"; do contains "$URL";echo -e "\n----------------------------------\n"; done
+for URL in "https://www.youtube.com/@TheInvisibleHandCo" "https://www.youtube.com/@johannes4gnu_linux96" "https://www.youtube.com/@alexhyettdev" "https://www.youtube.com/@LowLevelTV"; do contains "$URL";echo -e "\n----------------------------------\n"; done | less
+for URL in "https://www.youtube.com/@TheInvisibleHandCo" "https://www.youtube.com/@johannes4gnu_linux96" "https://www.youtube.com/@alexhyettdev" "https://www.youtube.com/@LowLevelTV"; do contains "$URL";echo -e "\n----------------------------------\n"; done >> add-to-sites 
+for URL in $(head ___in* | grep htt); do contains $URL; done
+fzf config
+fzf -m --reverse -e | tee -a TEST.txt | xargs -ro vim -Mp
+fzf -m --reverse -e | -tee -a TEST.txt | xargs -ro vim -Mp
+fzf --man
+gcc -o bin/example objpool.c exa
+gcc -o test test.c 
+gcc -o test-nix test.c -lws2_32
+gcc -Wall -o bin/example objpool.c example.c 
+gcc -Wall -o test test.c 
+git add bash-mapfile-command-with-examples-20251126.txt 
+git add -f bash-mapfile-command-with-examples-20251126.txt 
+git clone --bare https://github.com/r-gregor/metsys_mdb.git
+git clone --depth 0 https://github.com/r-gregor/metsys_mdb.git smallest
+git clone --depth 1 https://github.com/r-gregor/dotfiles_jbe
+git clone --depth 1 https://github.com/r-gregor/dotfiles_mdb
+git clone --depth 1 https://github.com/r-gregor/majbin_jbe
+git clone --depth 1 https://github.com/r-gregor/majbin_mdb
+git clone --depth 1 https://github.com/r-gregor/majbin_mdb.git
+git clone --depth 1 https://github.com/r-gregor/majrcs_jbe
+git clone --depth 1 https://github.com/r-gregor/majrcs_mdb
+git clone --depth 1 https://github.com/r-gregor/metsys_jbe
+git clone --depth 1 https://github.com/r-gregor/metsys_mdb
+git clone --depth 1 https://github.com/r-gregor/metsys_mdb.git -o small
+git clone --depth 1 https://github.com/r-gregor/metsys_mdb.git -o small.git
+git clone --depth 1 https://github.com/r-gregor/metsys_mdb.git small
+git clone --depth 1 -o majstaf_en_small https://github.com/r-gregor/metsys_mdb.git
+git clone https://github.com/r-gregor/dotfiles_jbe.git
+git clone https://github.com/r-gregor/dotfiles_mdb.git
+git clone https://github.com/r-gregor/metsys_jbe.git
+git clone https://github.com/r-gregor/metsys_mdb.git
+git help pull
+git help reflog
+git help stash
+git log
+git log --oneline
+git log --oneline --decorate
+git log --oneline --decorate --parent
+git log --oneline --decorate --parents
+git log --oneline --decorate --parents | grep -v update
+git log --oneline --grapf --decorate
+git log --oneline --graph
+git log --oneline --graph --decorate
+git pull
+git push -f ghen main 
+git push -f ghprns main 
+git push -f glen  main 
+git push -f glen main 
+git push -f glprns  main 
+git reflog
+git stash help
+git --version
+git-stash help
+glog-status-en 
+go help
+go help | grep dein
+go help | grep install
+go help | grep remov
+go help | grep uni
+go install github.com/jesseduffield/lazygit@latest
+go remove lazygit
+go run get-imdb-info.go 
+go run get-imdb-info.go conan
+go run lazygit
+go uninstall lazygit
+grep "https://www.youtube.com/@alexhyettdev" *
+grep "let's" *
+grep '^for ' ~/majstaf/seznami/command*
+grep -A3 cmopila
+grep -A3 cmopila test.c 
+grep -A3 -i cmop test.c 
+grep -A3 -i cmopila test.c 
+grep -A3 -i ming test.c 
+grep Codotak sites.txt >> add-to-sites 
+grep --color=always -ir mingw *
+grep --color=always -ir mingw * |less
+grep --color=always -r "zip -P" *
+grep --color=always -r WIN32 *
+grep -E "[0-9]{8}" ~/.viminfo 
+grep -E "[0-9]{8}\.txt" ~/.viminfo 
+grep -E "[0-9]{8}\.txt" ~/.viminfo | less
+grep -E "\d\{8\}" ~/.viminfo 
+grep -E "\d{8}" ~/.viminfo 
+grep -E "^> .*[0-9]{8}\.txt" ~/.viminfo | cut -d' ' -f1-
+grep -E "^> .*[0-9]{8}\.txt" ~/.viminfo | cut -d' ' -f2-
+grep -E "^> .*[0-9]{8}\.txt" ~/.viminfo | cut -d' ' -f2- | less
+grep -E "^> .*[0-9]{8}\.txt" ~/.viminfo | cut -d' ' -f2- | wc -l
+grep -E "^> .*[0-9]{8}\.txt" ~/.viminfo | less
+grep -E "^> .*[0-9]{8}\.txt" ~/.viminfo | tr '> ' ''
+grep -E "^https://" *
+grep -E "hse\.si"
+grep -Er "#.*doub" *
+grep -Er "\#.*doub" *
+grep -Er "\#.*quot" *
+grep -Er "\[@\]"
+grep -Er --color "#.*\"" *
+grep -Er --color "#.*doub" *
+grep -Er --color "#.*double" *
+grep -Er --color "#.*quot" *
+grep -Er --color "#.*quota" *
+grep -Er --color "#.*single" *
+grep -Er --color "\[@\]"
+grep -Er -l "\[@\]"
+grep -Er -l "\[@\]" |xargs -ro vim -M
+grep fzf *
+grep go ~/.vimrc
+grep GOROOT *
+grep -h '^for ' ~/majstaf/seznami/command*
+grep -H '^for ' ~/majstaf/seznami/command*
+grep -h 'for ' ~/majstaf/seznami/command*
+grep -h 'for ' ~/majstaf/seznami/command* | grep 
+grep -hi 'for ' ~/majstaf/seznami/command* |grep -i --color sed
+grep -hi 'for ' ~/majstaf/seznami/command* |grep -i --color 'sed -i'
+grep -hi 'for ' ~/majstaf/seznami/command* |grep -i --color 'sed -i' |less
+grep -hi 'for ' ~/majstaf/seznami/command* |grep -i --color=always 'sed -i' |less
+grep -hi 'for ' ~/majstaf/seznami/command* |grep -i sed
+grep hstl
+grep hstl *
+grep -i family $EGPRNS/_DSVM.txt 
+grep -ir ' zip' *
+grep -ir coding2 *
+grep -ir --color ' zip' *
+grep -ir --color ' zip' * |less
+grep -ir --color=always ' gunzip' * |less
+grep -ir --color=always ' gzip' * |less
+grep -ir --color=always ' zip' * |less
+grep -ir polk *
+grep -ir toolbox *
+grep -ir 'z7m17s11' *
+grep -ir zip *
+grep -irE "*5p\\+" *
+grep -irE "*5p\+" *
+grep -irE "5p\\+" *
+grep -irE "5p\+" *
+grep -irE "file.*5p\+" *
+grep -irl "$URL" *
+grep -irl "s complement " *
+grep -irl "s complement " * | xargs -ro vim -M
+grep -irl complement *
+grep -it toolbox *
+grep -lr fzf ./*
+grep -lr fzf ./* | xargs -ro vim
+grep -lr fzf ~/majstaf/majbin/* | xargs -ro vim
+grep PATH .bashrc
+grep PATH ~/.bashrc
+grep PATH ~/majstaf/majrcs/bashrc-gredelonghi-en
+grep PATH ~/majstaf/majrcs/bashrc-gredelonghi-en > exports
+grep PS1 .bashrc
+grep PS1 ~/majstaf/majrcs/*
+grep PS1 ~/majstaf/majrcs/bashrc-gredelonghi-en 
+grep -r "BASH_" ../*
+grep -r "let's" *
+grep -r "'s" * | less
+grep -r 'coding2' *
+grep -r --color "\~=" ~/majstaf/majbin/*
+grep -r --color "~=" ~/majstaf/majbin/*
+grep -r --color "=~" ~/majstaf/majbin/*
+grep -r CURRENT_YEAR_ENV ~/*
+grep -r 'export CURRENT_YEAR_ENV' ~/*
+grep -r FZF *
+grep -r FZF .*
+grep -r FZF .* | grep -vi "vim\|tmux"
+grep -r FZF .* | grep -vi "vim\|tmux\|pip"
+grep -r FZF .* 2>/dev/null
+grep -r FZF .* 2>/dev/null | grep -vi "vim"
+grep -r FZF .* 2>/dev/null | grep -vi "vim\|tmux\|pip"
+grep -r fzf ./*
+grep -r getopts
+grep -r getopts ~/majstaf/majbin/*
+grep -r getopts -l
+grep -r getopts -l | xargs -I{} vim
+grep -r getopts -l | xargs -I{} vim -
+grep -r getopts -l | xargs -ro vim
+grep -r polk *
+grep -r pool *
+grep -r poolk *
+grep -r realpath *
+grep -r srand *
+grep -r srand ../../*
+grep -r 'tool' *
+grep rand *
+grep -rE "\\033\]50" *
+grep -rE "\\033\]50" .*
+grep -rE "\\033]50" .*
+grep -rE "\033\]50" .*
+grep -rE "hse\.si" *
+grep -rE "rsort.*tm" *
+grep -rE '\\\033\]50' .*
+grep -rE '\\033' **/.*
+grep -rE '\\033\]' **/.*
+grep -rE '\\033\]50' *
+grep -rE '\\033\]50' .*
+grep -rE '\\e\]5.*0' **/.*
+grep -rE '\\e\]50' *
+grep -rE '\\e\]50' **/.*
+grep -rE '\\e\]50' .*
+grep -rE '\].*007' *
+grep -rE 'printf .\\e\[' *
+grep -rEl '\].*\\a' *
+grep -rEl '\].*\\a' * | fzf -m -e --reverse | xargs -ro vim
+grep -rEl '\].*\\a' * | less
+grep -rEl '\].*007' *
+grep -ril pool *
+grep -rl "let's" *
+grep TERM .bashrc
+grep TERM ~/majstaf/majrcs/bashrc-gredelonghi-en
+grep tool *
+grepc fzf *
+grepc -ir "no such directory" ~/majstaf/majbin/*
+grepc -ir polk *
+grepc -ir polk .*
+grepc -irl 'sys.argv' *
+grepc -r "'s" * | less
+grepc -r fzf *
+grepc -rE " .\+'.\+ " *
+grepc -rE " .\+'.+ " *
+grepc -rE " .\+'\.+ " *
+grepc -rE " .\+'\+ " *
+grepc -rE " .\+'\+ " * | less
+grepc -rE " .+'.+ " *
+grepc -rE " \w'\w " *
+grepc -rE " \w'\w " * | less
+grepc -rE "hse\.si" *
+grepc -rE '\[.*5*m' * | less
+grepc -rE '\[.*50m' * | less
+grepc -rE '\[.*m' * | less
+grepc -rE '\[.*m' .config/kitty/*
+grepc -rE '\[.*m' .config/kitty/.*
+grepc -rE '\[.*m' .Xresources 
+grepc -rE '\\033.*\]' **/.*
+grepc -rE '\\033.*\].*007' **/.*
+grepc -rE '\\033\[' *
+grepc -rE '\\033\[' .*
+grepc -rE '\\033\]' **/.*
+grepc -rE '\\e\[' *
+grepc -rE '\\e\[' * | less
+grepc -rE '\\e\[' .*
+grepc -rE '\\x1\[' .*
+grepc -rE '50m' * | less
+grepc -rE 'printf .*\[.*50m' * | less
+grepc -rE 'printf .*50m' *
+grepc -rE 'printf .\\033\[' *
+grepc -rE 'printf .\\033\[' * | less
+grepc -rE 'printf .\\0x\[' * | less
+grepc -rE 'printf .\\e\[' *
+grepc -rE 'printf .\\e\[' * | less
+grepc -rE 'printf .\\x\[' * | less
+grepc -rE 'printf .\\x1b\[' * | less
+grepc -rEw " .+'.+ " *
+if [ -f vedit-files-from-history ]; then echo "OK"; else echo "NOT"; fi
+if [ -f vedit-files-from-vim-history ]; then echo "OK"; else echo "NOT"; fi
+l | grep "rsort*tmp"
+l | grep "rsort-*tmp"
+l | grep -E "rsort-.*tmp"
+l | grep rsort*tmp
+l | head
+l ~/majstaf/coding2/testing/c_testing/
+l grep rsort*tmp
+LC_ALL=C cat commands-history-list-en-by-20251120.txt | sort |uniq -c >> commands-history-list-en-by-20251120-1.txt 
+ld libc
+ldd /usr/bin/cygwin1.dll
+ldd /usr/bin/gcc
+ldd /usr/bin/ls
+ldd gcc
+ldd libc
+ldd memset
+ln -s hstl_en hstl
+ln -snf ~/majstaf/majtoolbox/c_toolbox c_toolbox 
+ln -snf ~/majstaf/majtoolbox/c_toolbox/BrthReminder/BrthReminder-c.exe 
+ln -snf ~/majstaf/majtoolbox/c_toolbox/BrthReminder/BrthReminder-c.exe BrthReminder
+ln -snf ~/majstaf/majtoolbox/c_toolbox/BrthReminder/BrthReminder-c.exe BrthReminder-c2
+ln -snf ~/majstaf/majtoolbox/c_toolbox/BrthReminder/BrthReminder-c-colors.exe BrthReminder_color 
+ln -snf ~/majstaf/majtoolbox/c_toolbox/BrthReminder/BrthReminder-c-colors.exe BrthReminder-c-colors2 
+ln -snf ~/majstaf/majtoolbox/c_toolbox/cm2feetinch/cm2feetinch.exe cm2feetinch 
+ln -snf ~/majstaf/majtoolbox/c_toolbox/hex2rgb/hex2rgb.exe hex2rgb 
+ln -snf ~/majstaf/majtoolbox/c_toolbox/obletnica-c/obletnica-c.exe obletnica-c
+ln -snf ~/majstaf/majtoolbox/c_toolbox/scales-of-displays/scales-of-displays.exe scales-of-displays 
+ln -snf ~/majstaf/majtoolbox/c_toolbox/timediff/timediff.exe timediff 
+ln -snf ~/majstaf/majtoolbox/go_toolbox/BrthReminder/BrthdReminder_1.1.0.exe brthdReminder_go
+ln -snf ~/majstaf/majtoolbox/go_toolbox/BrthReminder/BrthdReminder_1.1.0_colors.exe brthdReminder_go_colors 
+ln -snf ~/majstaf/majtoolbox/zig_toolbox/obletnica-z/obletnica-z.exe obletnica-z 
+ls **/*.txt
+ls **/*.txt | less
+ls *.txt | less
+ls *by*20250* |grep -v "2.txt"
+ls *by*20250* |grep -v "2.txt" | xargs rm
+ls /home/gregor.redelonghi/ -R >> disk-usage.txt 
+ls -1 **/*.txt
+ls -1 **/ct_151*/**/*.c > /dev/pty3
+ls -1 rsort-by-*c* | xargs -I{} cp -iv {} $EGMJBN 
+ls -1 rsort-by-*c* | xargs -I{} cp -v {} $EGMJBN 
+ls -l **/*.txt
+ls -l >(cat)
+ls -l --color=always
+ls -l secret/
+ls -l secret/*
+ls messages/
+ls -sec
+ls secret/
+ls show*
+ls -t
+ls -t $(realpath "$KNOWLEDGEDB/_BASH")
+man 2 mmap
+man 2 realpath
+man 3 mmap
+man 3 realpath
+man apt-cyg
+man basename
+man bash
+man column
+man cp
+man execv
+man fd
+man fdopendir
+man file
+man fopendir
+man fzf
+man gcc
+man getopt
+man getopts
+man git-clone
+man grep
+man gzip
+man man
+man mapfile
+man memset
+man mmap
+man mset
+man nm
+man opendir
+man paste
+man printf
+man pstree
+man qsort
+man ranger
+man realpath
+man rg
+man sed
+man setmap
+man shopt
+man stat
+man strlwr
+man strtol
+man strtonum
+man tolower
+man tty > /dev/pty3
+man tty > /dev/pty3 &
+man unzip
+man wc
+man xxd
+man zip
+mapfile MYFILE < example.txt 
+pdfjoin _teksti/pdf/_TEKSTI.pdf _risbe/pdf/01_V-200_41935_Gradascica-etapa-1A_B2_PID_SIT-P_v2.pdf cat output _CN.pdf
+pdfjoin _teksti/pdf/_TEKSTI.pdf _risbe/pdf/01_V-200_41935_Gradascica-etapa-1A_B3_PID_SIT-P.pdf cat output _CN.pdf
+pdfjoin _teksti/pdf/_TEKSTI.pdf _risbe/pdf/01_V-200_41935_Gradascica-etapa-1A_B4_PID_SIT-P.pdf cat output _CN.pdf
+pdfjoin 01_Streliska-ul-36_NPP_TLORIS_SHEMA.pdf 02_Streliska-ul-36_NPP_SKICE-DETAJLI.pdf output _RISBE.pdf
+pdfjoin GD_obn-PO-Trg-OF_PZI.pdf SD_obn-PO-Trg-OF_PZI.pdf output _POPISI.pdf
+pdfjoin GD_prest_HPP_Medenska-c-143_PZI_popis_GR.pdf SD_prest_HPP_Medenska-c-143_PZI_popis_GR.pdf output _POPISI.pdf
+pdfjoin N=_CN_PO-Bohoriceva-DNZO_2.pdf R=grafika/pdf/_RISBE.pdf cat N1-13 R output _CN_PO-Bohoriceva-DNZO.pdf 
+pdfjoin P=odsek-B2-plin-prve-strani-podpisane.pdf T=01_V-200_41935_Gradascica-etapa-1A_B2_PID_teksti.pdf cat P T3-end output _TEKSTI.pdf
+pdfjoin P=odsek-B3-plin-prve-strani-podpisane.pdf T=01_V-200_41935_Gradascica-etapa-1A_B3_PID_teksti.pdf cat P T3-end output _TEKSTI.pdf
+pdfjoin P=odsek-B4-plin-prve-strani-podpisane.pdf T=01_V-200_41935_Gradascica-etapa-1A_B4_PID_teksti.pdf cat P T3-end output _TEKSTI.pdf
+pdfjoin T=_CN_obn-PO-Trg-OF_PZI2.pdf R=grafika/pdf/_RISBE.pdf cat T1-27 R output _CN_obn-PO-Trg-OF_PZI.pdf 
+pdfjoin T=Obrazec-2_VLOGA-ZA-ZAPLINJANJE-NOTRANJE-PLINSKE-NAPELJAVE.pdf cat T1 output Obrazec-2_VLOGA-ZA-ZAPLINJANJE-NOTRANJE-PLINSKE-NAPELJAVE-2.pdf 
+pdfjoin teksti/pdf/_TEKSTI.pdf grafika/pdf/_RISBE.pdf cat output _CCN.pdf
+pdfjoin teksti/pdf/_TEKSTI.pdf grafika/pdf/_RISBE.pdf cat output _CN2.pdf
+pdfjoin teksti/Streliska-ul-36-NPN_TR_podpisano.pdf grafika/pdf/01_Streliska-ul-36_NPP_TLORIS_SHEMA.pdf grafika/pdf/02_Streliska-ul-36_NPP_SKICE-DETAJLI.pdf cat output _CN.pdf
+prinf "Hello\nWorld"
+printf "%b" "\x00\x01\xFF" |xxd
+printf "%b\n" "\x00\x01\xFF"
+printf "%b\n" "\x00\x01\xFF" |xxd
+printf "%b\n" "0xFFFFFFE2"
+printf "%b\n" 0xFFFFFFE2
+printf "%d\n" "0xFFFFFFE2"
+printf "%d\n" 0xFFFFFFE2
+printf "%d\n" 0xFFFFFFE2"
+printf "%d\n" 0xFFFFFFFF
+printf "db\n" "0xFFFFFFE2"
+printf "Hello\0World"
+printf "Hello\nWorld"
+printf a=$("Hello\nWorld")
+printf a=$(printf "Hello\nWorld")
+printf 'Hello\0World'
+printf 'Hello\0World' | cat -v
+printf 'Hello\0World' | xxd
+printf 'Hello\nWorld'
+printf 'Hello\nWorld' |xxd
+println "${TT/#/${$PTH}}"
+println "${TT/#/${PTH}/}"
+println "${TT/#/${PTH}}"
+println "${TT/#/__}"
+println "${TT/%/__}"
+println "ADA" "MADA"
+println ${TT/#/__}
+println() { printf "%s\n" "$@" }
+println() { printf "%s\n" "$@"; }
+println() {printf "%s\n" "$@"}
+py -m pip install --upgrade pip
+py -m pip install --upgrade yt-dlp
+py -m yt-dlp -F "https://www.youtube.com/watch?v=6K0wU23qu68"
+python3 -m pip install --upgrade yt-dlp
+python3 -m pip install --uprade yt-dlp
+python3 -m pip update yt-dlp
+python3 -m pip -update yt-dlp
+python3 -m pip --update yt-dlp
+python3 -m pip upgrade yt-dlp
+python3 -m pip -upgrade yt-dlp
+python3 -m pip --upgrade yt-dlp
+python3 -m yt-dlp --upgrade
+rclone
+rclone | grep remot
+rclone about mega_gren:
+rclone find help
+rclone help
+rclone help | grep du
+rclone help find
+rclone listremotes
+rclone lsl mega_gren:
+rclone lsl mega_gren: |grep -i "\.zip"
+rclone lsl mega_gren: |grep -i conf
+rclone lsl mega_gren: |grep -iE "rclone.*"
+rclone lsl mega_gren: |grep -iE "rclone.*conf"
+rclone ncdu mega_gren:ENERGETIKA
+readarray -r DAYS < <(echo 202511{1..31})
+readarray -t DAYS < <(echo 202511{1..31})
+realpath $PWD
+reaplath $PWD
+rg "https://www.youtube.com/user/caseymuratori" 
+rg "https://www.youtube.com/user/caseymuratori" *
+rg --color always -h 'polk' * |less
+rg --color always -H 'polk' * |less
+rg --color always -I 'polk' * |less
+rg --color always -l 'polkit' * |less
+rg --color always -n 'polk' * |less
+rg --color always -N 'polk' * |less
+rg --color always polk' *
+rg --color always 'polk' *
+rg --color always 'polk' * |less
+rg --color always 'polkit' * |less
+rg --color always -r 'grep' *
+rg --color always -r 'ripgrep' *
+rg --color -h always 'polk' * |less
+rg --color -H always 'polk' * |less
+rg --color -n always 'polk' * |less
+rg --color 'polk' *
+rg 'grep' *
+rg help
+rg --help
+rg --help | less
+rg --help | rg -C 3 --color always 'lev' | less
+rg --help | rg -C 3 --color always 'recur' | less
+rg --help | rg -C 3 recur
+rg --help | rg -C 3 recur | less
+rg --help | rg color
+rg --help | rg color | less
+rg --help | rg COLOR_SPEC
+rg --help | rg recur
+rg --help |grep filename
+rg --help |grep recur
+rg -l 'polkit' * |less
+rg -r --color always  'polk' *
+rg -r --color polk *
+rg -r --color 'polk' *
+rg -r --color polk * |less
+rg -r --color=always  'polk' *
+rg -r --color=always  'polk' * |less
+rg -r --color=always polk *
+rg -r 'grep' *
+sed "s/\( \w\)'\(\w \)/\1`\2/" _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s/\(\w\)'\(\w\)/\1 \2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s/\(\w\)'\(\w\)/\1\´\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s/\(\w\)'\(\w\)/\1\´\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt > $DANES/testf-1.txt 
+sed "s/\(\w\)'\(\w\)/\1AOP\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s: \(.\+\)'\(.\+\) :\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s: \(.\+\)'\(.\+\) :\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt > $DANES/testf-1.txt 
+sed "s: \(\ w\)'\(\w [C\) :\1APOS\2:"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s: \(\w\)'\(\w ) : \1\;\2 :"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s: \(\w\)'\(\w ) : \1\`\2 :"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s: \(\w\)'\(\w ) : \1`\2 :"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s: \(\w\)'\(\w\) : \1\;\2 :"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s: \(\w\)'\(\w\) : \1\;\2 :"  _GIT/git-tips-and-tricks-multif-20250310.txt | grep ';'
+sed "s:\ (.\+\)'\(.\+\) :\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( .\+\)'\(.\+ \) :\1APOS\2:"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( .\+\)'\(.\+ \) :\1APOS\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( .\+\)'\(.\+ \):\1\.\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( .\+\)'\(.\+ \):\1\`\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( .\+\)'\(.\+ \):\1\`\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt >> $DANES/testf-2.txt
+sed "s:\( .\+\)'\(.\+ \):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( .\+\)'\(.\+ \):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt >> $DANES/testf-1.txt
+sed "s:\( .\+\)'\(.\+ \):\1`\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( .\+\)'\(.\+ \):\1APOS\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( .\+\{1\}\)'\(\b \):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s:\( .\+{1}\)'\(.\+{1} \):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s:\( .\+{1}\)'\(\b \):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s:\( .\b\)'\(.\b \):\1\`\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s:\( .{1}\)'\(.{1} \):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s:\( \b\)'\(\b \):\1\`\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s:\( \b\)'\(\b \):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s:\( \w\)'\(\w \) :\1APOS\2:"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\( \w\)'\(\w \):\1`\2:"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed "s:\(.\+\)'\(.\+\):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt > $DANES/testf-1.txt 
+sed "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g"  _GIT/git-tips-and-tricks-multif-20250310.txt > $DANES/testf-1.txt 
+sed -E "s/\(\w\)'\(\w\)/\1 \2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -E "s/\(\w\)'\(\w\)/\1\´\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -e "s/\(\w\)'\(\w\)/\1\´\2/g" -e "s/\( \w\)' /\1\´ /g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -e "s/\(\w\)'\(\w\)/\1\´\2/g" -e "s/\( \w\)' /\1\´ /g" _GIT/git-tips-and-tricks-multif-20250310.txt > $DANES/testf-1.txt 
+sed -e "s/\(\w\)'\(\w\)/\1\´\2/g" -e "s/\( \w\)' /\1\´ /g" _GIT/git-tips-and-tricks-multif-20250310.txt->
+sed -E "s/\(\w\)'\(\w\)/\1´\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -E "s/\(\w\)'\(\w\)/\1AOP\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -E "s/\(\w\)\'\(\w\)/\1\´\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -E "s/\w'\w/\1\´\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -E "s/\w'\w/\1´\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -E "s/\w'\w/´/g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -e "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g" _GIT/git-tips-and-tricks-multif-20250310.txt > $DANES/testf-1.txt 
+sed -e "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g" -e "s:\(\{.*\b\)' :\1´ :g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -e "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g" -e "s:\(\{.*\b\)' :\1´:g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -e "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g" -e "s:\(\{.*\b\)' :\3´ :g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -e "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g" -e "s:\(\b.*\b\)' :\1\´ :g"  _GIT/git-tips-and-tricks-multif-20250310.txt > $DANES/testf-1.txt 
+sed -e "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g" -e "s:\(\b.*\b\)' :\1´ :g"  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -e "s:\(\b.*\b\)'\(\b.*\b\):\1\´\2:g" -e "s:\(\b.*\b\)' :\1´ :g"  _GIT/git-tips-and-tricks-multif-20250310.txt > $DANES/testf-1.txt 
+sed -E "s:\(\w.*\w\)'\(\w.*\w\):\1\´\2:g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -E "s:\(\w\)'\(\w\):\1\´\2:g" _GIT/git-tips-and-tricks-multif-20250310.txt
+sed -n "/ \w'\w /p" _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed -n "/\\v(^|)/p" commands-history-list-en-from-20180104-till-20241231-2-2.txt
+sed -n "/\\v(^|)\\&(^grep)/p" commands-history-list-en-from-20180104-till-20241231-2-2.txt
+sed -n "\\v(^\|)\\&(^grep)/p" commands-history-list-en-from-20180104-till-20241231-2-2.txt
+sed -n "\\v(^|)\\&(^grep)/p" commands-history-list-en-from-20180104-till-20241231-2-2.txt
+sed -n "\\v(^|)\\&(grep)/p" commands-history-list-en-from-20180104-till-20241231-2-2.txt
+sed -n "s/\( \w\)'\(\w \)/\1`\2/" _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed -n "s/\( \w\)'\(\w \)/\1`\2/g" _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed -n "s/\( \w\)'\(\w \)/\1`\2/p" _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed -n "s/\( \w\)'\(\w \)/\1`\2/p" < _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed -n "s:\( \w\)'\(\w \):\1`\2:p"  _GIT/git-tips-and-tricks-multif-20250310.txt 
+sed 's:\( .\+\)'\(.\+ \) :\1APOS\2:g'  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed 's:\( .\+\)'\(.\+ \):\1APOS\2:g'  _GIT/git-tips-and-tricks-multif-20250310.txt
+sed 's:\( .\+\)\'\(.\+ \) :\1APOS\2:g'  _GIT/git-tips-and-tricks-multif-20250310.txt
+setsid sh -c majapps-launch-en </dev/pty4 >/dev/pty4
+setsid sh -c majapps-launch-en </dev/pty4 >/dev/pty4 2>&1
+setsid sh -c majapps-launch-en </dev/tty4 >/dev/tty4 2>&1
+shellcheck
+shopt | grep glob
+shopt | grep globstar
+shopt autocd
+shopt cdspell
+shopt -o globstar
+shopt -s autocd
+shopt -s cdspell
+shopt -s globstar
+show-terminal-colors 
+spremokolj
+start_time=$(date +%s); for i in {1..1000}; do echo "Processing item $i at $start_time"; done
+tail ~/.vimrc
+tail -n 10 ~/.vimrc
+tail -n 5 ~/.vimrc
+tail -n 5 ~/.vimrc >> $EGPRNS/add-to-vimrc-from-en-20260209.txt
+tail -n 6 ~/.vimrc
+tail -n 6 ~/.vimrc >> $EGPRNS/add-to-vimrc-replace-leading-spaces-eith-tabs-20260219.txt
+tail -n13 ~/.vimrc
+tail -n13 ~/.vimrc > $EGPRNS/add-to-vimrc-02-20260210.txt
+tail -n15 ~/.vimrc
+tail -n15 ~/.vimrc >> add-to-vimrc-en-20260211.txt
+tar -cvzf en-onetab-20251121-1605.tar.gz en-onetab-20251121-1605*
+tar -cvzf en-onetab-20251121-1605.tar.gz en-onetab-20251121-1609*
+tar cvzf en-onetab-freelists-20251209.tar.gz en-onetab-freelists-20251209*
+tar tvzf en-onetab-20251121-1605.tar.gz 
+tar xvzf c3-linux.tar.gz 
+tar -xvzf en-onetab-20251121-1605.tar.gz en-onetab*
+tar -xvzf gmali__from-ME_20260214.tar.gz 
+time bin/example
+time bin/example && read -p "OK?" && time bin/example_w_freelist 
+time bin/example bin/example_w_freelist.exe 
+time bin/example_
+time bin/example_w_freelist 
+time bin/example_w_freelist.exe 
+tmux list-pane
+tmux list-pane -F
+tmux list-panes -aF "#{pane_tty}:#{pane_id}"
+tmux list-panes -aF "#{pane_tty}:#{pane_id}" | sort
+tree $EGPRNS/update_*
+tree bin
+tree bin/
+tree DEST_*
+tree -L 2 update_*
+tree -L 2 update_* | less
+tree myc3project/
+tree src/
+tree update-*
+tree update_*
+tree update_* | less
+tty --list
+unset $CURRENT_YEAR_ENV 
+unset CURRENT_YEAR_ENV 
+unzip go1.25.5.windows-amd64.zip 
+ure
+wc disk-usage.txt 
+wc disk-usage.txt missing-file.txt > results.txt
+wc disk-usage.txt missing-file.txt 1> results.txt 2> error.txt
+wget "https://raw.githubusercontent.com/r-gregor/c_testing/refs/heads/main/ct_154_size-of-array-struct-func-20260112/sizeofarray.c"
+while read LINE: do grep -i oops $LINE; done <fb_files_list.txt 
+while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*  | grep -i "facebook")
+while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*  | grep -i "Fwd")
+while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*  | grep -i "Re:")
+while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/* | grep -i "facebook")
+while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/* | grep -i facebook)
+while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*)
+while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*) | grep -i 're'
+while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*) | grep -i 're_'
+while read line; do echo $line; done
+while read line; do echo $line; done |xargs -ro vim
+while read line; do echo $line; done |xargs -ro vim -
+while read line; do echo $line; done |xargs -ro vim - <TEST.txt 
+while read line; do echo $line; done <TEST.txt | xargs -ro vim
+while read line; do echo $line; done <TEST.txt | xargs -ro vim -
+while read line; do echo $line; done <TEST.txt | xargs -ro vim -p
+while read LINE; do grep -i oops "$LINE"; done <fb_files_list.txt 
+while read LINE; do grep -i oops $LINE; done <fb_files_list.txt 
+while read LINE; do grep -il oops "$LINE"; done <fb_files_list.txt 
+while read LINE; do grep -il oops "$LINE"; done <fb_files_list.txt |xargs -ro cat
+while read LINE; do rm "$LINE"; done < <(ls -1 | grep -i "Fwd")
+while read LINE; do rm -v "$LINE"; done < <(ls -1 ./messages/* | grep -i 're_')
+while true; do printf "\033]0;%(%H:%M:%S)T\007"; sleep 1; done
+while true; do printf "\033]0;%(%H:%M:%S)T\007"; sleep 1; done &
+while true; do printf “\033]0;%(%H:%M:%S)T\007”; sleep 1; done &
+ydl -f 136
+ydl -f 136 "https://www.youtube.com/shorts/7-pRp2W7NiI"
+ydlF "https://www.youtube.com/shorts/7-pRp2W7NiI"
+yes | for DDD in $(find -type d); do rm -rv $DDD; done
+yes | for FFF in $(find * -executable); do rm -rv $FFF; done
+yes | rm -r ./*
+yes | rm -r .git
+yes | rm -r 20251126/
+yes | rm -r metsys_mdb.git/
+yes | rm -r metsys_mdb/ small/
+yes rm -r 20251126/
+yt-dlp -F "https://www.youtube.com/shorts/7-pRp2W7NiI"
+yt-dlp -F "https://www.youtube.com/watch?v=6K0wU23qu68"
+yt-dlp --help
+yt-dlp --help |grep update
+yt-dlp --proxy $PRXY -F "https://www.youtube.com/watch?v=6K0wU23qu68"
+yt-dlp --proxy $PRXY -f 18 "https://www.youtube.com/watch?v=6K0wU23qu68"
+yt-dlp -U
+---
+
