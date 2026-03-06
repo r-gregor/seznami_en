@@ -1,0 +1,2561 @@
+    1  2026-03-03 10:49:56 cd 
+    2  2026-02-11 12:47:14 cd $MTSYS
+    3  2026-02-11 12:47:16 grep -Er --color "#.*doub" *
+    4  2026-02-11 12:47:25 grep -Er --color "#.*quot" *
+    5  2026-02-11 12:47:32 grep -Er --color "#.*quota" *
+    6  2026-02-11 12:47:41 grep -Er --color "#.*single" *
+    7  2026-02-11 12:47:48 grep -Er --color "#.*double" *
+    8  2026-02-11 12:47:56 grep -Er --color "#.*\"" *
+    9  2026-02-11 12:48:19 grep -Er --color "\[@\]"
+   10  2026-02-11 12:49:00 grep -Er "\[@\]"
+   11  2026-02-11 12:49:06 grep -Er -l "\[@\]"
+   12  2026-02-11 12:49:16 grep -Er -l "\[@\]" |xargs -ro vim -M
+   13  2026-02-11 12:51:00 cd
+   14  2026-02-11 15:27:39 exit
+   15  2026-02-11 08:23:45 engt-run-all 
+   16  2026-02-11 08:29:03 cd $EGPRNS
+   17  2026-02-11 08:29:07 git pull
+   18  2026-02-11 08:29:18 tree update_*
+   19  2026-02-11 08:29:26 rbekap-DAILY-mega-gren 
+   20  2026-02-11 15:41:44 mxks
+   21  2026-02-11 15:41:47 tmxks
+   22  2026-02-11 08:23:16 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+   23  2026-02-11 08:23:47 pddr
+   24  2026-02-11 15:43:34 tree $EGPRNS/update_*
+   25  2026-02-11 15:43:41 exit
+   26  2026-02-11 15:46:37 majapps-launch-en 
+   27  2026-02-11 15:48:16 exit
+   28  2026-02-11 08:23:00 majapps-launch-en 
+   29  2026-02-11 08:23:10 tmxns
+   30  2026-02-11 15:41:49 ll
+   31  2026-02-11 15:42:05 vedit-files-from-vim-history 
+   32  2026-02-11 15:45:22 vim
+   33  2026-02-11 15:51:30 vedit-files-from-vim-history 
+   34  2026-02-11 15:52:22 ll
+   35  2026-02-11 15:52:28 exit
+   36  2026-02-16 08:26:14 testing-gtgh-run-all-en 
+   37  2026-02-16 08:26:59 exit
+   38  2026-02-16 11:47:44 ls
+   39  2026-02-16 11:47:48 cat fb_files_list.txt 
+   40  2026-02-16 11:48:40 exit
+   41  2026-02-16 13:10:04 cat fb_files_list.txt 
+   42  2026-02-16 13:10:16 xit
+   43  2026-02-16 13:10:18 exit
+   44  2026-02-16 08:26:59 exit
+   45  2026-02-16 10:01:38 cd $BRISI
+   46  2026-02-16 10:01:40 ll
+   47  2026-02-16 10:01:48 cd __GMAIL_dump/gmali__from-ME_20260214/__from-ME_20260214-1305/__from-ME/
+   48  2026-02-16 10:01:49 ll
+   49  2026-02-16 10:01:52 cd messages/
+   50  2026-02-16 10:01:53 l
+   51  2026-02-16 10:02:10 cat "*AKRON*"
+   52  2026-02-16 10:02:26 ech "20251020-Re_SERVIS  -  AKRON-481.txt
+   53  2026-02-16 10:02:37 vat "20251020-Re_SERVIS  -  AKRON-481.txt"
+   54  2026-02-16 10:02:41 cat "20251020-Re_SERVIS  -  AKRON-481.txt"
+   55  2026-02-16 10:02:51 cat '20251020-Re_SERVIS  -  AKRON-481.txt'
+   56  2026-02-16 10:03:04 ll 20251020*
+   57  2026-02-16 10:03:16 ll 20251020* |grep AKRON
+   58  2026-02-16 10:03:32 l2 -1 20251020* |grep AKRON
+   59  2026-02-16 10:03:37 ls -1 20251020* |grep AKRON
+   60  2026-02-16 10:03:45 ls -1 20251020* |grep AKRON | cat -
+   61  2026-02-16 10:03:48 ls -1 20251020* |grep AKRON | cat
+   62  2026-02-16 10:04:05 cat $(ls -1 20251020* |grep AKRON)
+   63  2026-02-16 10:04:13 cat "$(ls -1 20251020* |grep AKRON)"
+   64  2026-02-16 10:04:29 ll
+   65  2026-02-16 10:04:39 rm "$(ls -1 20251020* |grep AKRON)"
+   66  2026-02-16 10:05:22 ls 1 | grep -i "AKRON"
+   67  2026-02-16 10:05:26 ls -1 | grep -i "AKRON"
+   68  2026-02-16 10:05:38 rm -i $(ls -1 | grep -i "AKRON")
+   69  2026-02-16 10:05:44 rm -i "$(ls -1 | grep -i "AKRON")"
+   70  2026-02-16 10:06:26 ls -1 | grep -i "Pomembne"
+   71  2026-02-16 10:06:40 rm -i "$(ls -1 | grep -i "Pomembne")
+   72  2026-02-16 10:06:44 rm -i "$(ls -1 | grep -i "Pomembne")"
+   73  2026-02-16 10:07:20 rm -i "$(ls -1 | grep -i "Fwd")"
+   74  2026-02-16 10:07:36 ls -1 | grep -i "Fwd"
+   75  2026-02-16 10:08:28 for FFF in $(ls -1 | grep -i "Fwd"); do rm "$FFF"; done
+   76  2026-02-16 10:08:47 for "FFF" in $(ls -1 | grep -i "Fwd"); do rm "$FFF"; done
+   77  2026-02-16 10:09:02 for FFF in "$(ls -1 | grep -i "Fwd")"; do rm "$FFF"; done
+   78  2026-02-16 10:09:57 while read LINE; do rm "$LINE"; done < <(ls -1 | grep -i "Fwd")
+   79  2026-02-16 10:10:09 hstl
+   80  2026-02-16 10:12:04 cp /home/gregor.redelonghi/majstaf/seznami/hstl-en-20260216-101009.txt .
+   81  2026-02-16 10:12:13 mv get-fb-mails.sh ../
+   82  2026-02-16 10:12:18 mv hstl-en-20260216-101009.txt ../
+   83  2026-02-16 10:12:20 cd ../
+   84  2026-02-16 10:12:21 ll
+   85  2026-02-16 10:12:25 vim get-fb-mails.sh 
+   86  2026-02-16 10:24:36 ll
+   87  2026-02-16 10:24:42 vim get-fb-mails.sh 
+   88  2026-02-16 10:25:05 ./get-fb-mails.sh 
+   89  2026-02-16 10:26:19 vim hstl-en-20260216-101009.txt 
+   90  2026-02-16 10:26:46 vim ./hstl-en-20260216-101009.txt 
+   91  2026-02-16 10:27:07 history
+   92  2026-02-16 10:27:40 history > commands_20260216.txt
+   93  2026-02-16 10:27:46 vim commands_20260216.txt 
+   94  2026-02-16 10:31:03 while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*  | grep -i "Fwd")
+   95  2026-02-16 10:31:10 while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*  | grep -i "Re:")
+   96  2026-02-16 10:31:19 while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*  | grep -i "facebook")
+   97  2026-02-16 10:31:34 while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/* | grep -i "facebook")
+   98  2026-02-16 10:31:46 while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*)
+   99  2026-02-16 10:32:00 while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/* | grep -i facebook)
+  100  2026-02-16 10:32:39 while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*) | grep -i 're'
+  101  2026-02-16 10:32:51 while read LINE; do echo "$LINE"; done < <(ls -1 ./messages/*) | grep -i 're_'
+  102  2026-02-16 10:33:34 while read LINE; do rm -v "$LINE"; done < <(ls -1 ./messages/* | grep -i 're_')
+  103  2026-02-16 10:33:55 vim commands_20260216.txt 
+  104  2026-02-16 10:36:01 ./get-fb-mails.sh 
+  105  2026-02-16 10:38:40 vim get-fb-mails.sh 
+  106  2026-02-16 10:47:29 ./get-fb-mails.sh 
+  107  2026-02-16 10:47:45 touch fb_files_list.txt
+  108  2026-02-16 10:47:47 vim get-fb-mails.sh 
+  109  2026-02-16 10:48:01 ./get-fb-mails.sh 
+  110  2026-02-16 10:48:55 cat fb_files_list.txt 
+  111  2026-02-16 10:48:59 cat fb_files_list.txt |wc -l
+  112  2026-02-16 10:49:04 vim ./get-fb-mails.sh 
+  113  2026-02-16 10:52:42 vim get-fb-mails.sh 
+  114  2026-02-16 10:56:32 ./get-fb-mails.sh 
+  115  2026-02-16 10:57:49 cat fb_files_list.txt |less
+  116  2026-02-16 10:58:52 while read LINE: do grep -i oops $LINE; done <fb_files_list.txt 
+  117  2026-02-16 10:59:01 while read LINE; do grep -i oops $LINE; done <fb_files_list.txt 
+  118  2026-02-16 10:59:09 while read LINE; do grep -i oops "$LINE"; done <fb_files_list.txt 
+  119  2026-02-16 10:59:28 while read LINE; do grep -il oops "$LINE"; done <fb_files_list.txt 
+  120  2026-02-16 10:59:49 while read LINE; do grep -il oops "$LINE"; done <fb_files_list.txt |xargs -ro cat
+  121  2026-02-16 11:00:25 vim get-fb-mails.sh 
+  122  2026-02-16 11:01:07 hstl
+  123  2026-02-16 11:01:31 cat messages/*oo*
+  124  2026-02-16 11:01:38 cat messages/*oop*
+  125  2026-02-16 11:01:46 cat messages/*oop* | less
+  126  2026-02-16 11:02:16 cat messages/*Ooop* | less
+  127  2026-02-16 11:02:27 cat messages/*Ooop*
+  128  2026-02-16 11:02:44 vim get-fb-mails.sh 
+  129  2026-02-16 11:02:54 ./get-fb-mails.sh 
+  130  2026-02-16 11:03:33 vim get-fb-mails.sh 
+  131  2026-02-16 11:04:58 ./get-fb-mails.sh 
+  132  2026-02-16 11:06:11 vim get-fb-mails.sh 
+  133  2026-02-16 11:06:38 cd
+  134  2026-02-16 13:13:38 exit
+  135  2026-02-16 08:37:06 cd majstaf/majbin/ff-personal-launch-en/
+  136  2026-02-16 08:37:10 ./ff-personal-launch-en 
+  137  2026-02-16 08:37:38 vim ff-personal-launch-en 
+  138  2026-02-16 08:39:23 ./ff-personal-launch-en 
+  139  2026-02-16 08:40:01 vim -O ff-personal-launch-en ../ff-launch-en/ff-launch-en 
+  140  2026-02-16 08:40:40 ./ff-personal-launch-en 
+  141  2026-02-16 08:41:33 ll
+  142  2026-02-16 08:41:36 vim ff-personal-launch-en 
+  143  2026-02-16 08:45:22 ff-launch-en 
+  144  2026-02-16 08:45:41 cd ..
+  145  2026-02-16 08:45:56 cp -r ff-personal-launch-en/ $EGMJBN 
+  146  2026-02-16 08:46:19 cp ff-launch-en/ff-launch-en $EGMJBN/ff-launch-en/
+  147  2026-02-16 08:46:28 cd $EGMJBN/ff-launch-en/
+  148  2026-02-16 08:46:29 ll
+  149  2026-02-16 08:46:36 cpi ff-launch-en/ff-launch-en $EGMJBN/ff-launch-en/
+  150  2026-02-16 08:46:51 cd $EGMJBN
+  151  2026-02-16 08:46:54 lsth
+  152  2026-02-16 08:46:58 cd ff-launch-en/
+  153  2026-02-16 08:46:59 ll
+  154  2026-02-16 08:47:01 cd
+  155  2026-02-16 08:47:08 cd $MJBN
+  156  2026-02-16 08:47:11 cd ff-launch-en/
+  157  2026-02-16 08:47:21 cpi ff-launch-en $EGMJBN/ff-launch-en/
+  158  2026-02-16 08:47:25 cd $EGMJBN/ff-launch-en/
+  159  2026-02-16 08:47:27 cd ..
+  160  2026-02-16 08:47:29 gst
+  161  2026-02-16 08:47:34 gyes-add-commit-push 
+  162  2026-02-16 08:47:44 cd
+  163  2026-02-16 08:47:53 rbekap-DAILY-mega-gren 
+  164  2026-02-16 08:51:13 cd $BRISI
+  165  2026-02-16 08:51:30 mkdir __GMAIL_dump
+  166  2026-02-16 08:51:39 cd __GMAIL_dump/
+  167  2026-02-16 08:51:55 cp $EGPRNS/gmali__from-ME_20260214.tar.gz .
+  168  2026-02-16 08:52:08 ll
+  169  2026-02-16 08:52:39 tar -xvzf gmali__from-ME_20260214.tar.gz 
+  170  2026-02-16 08:52:42 ll
+  171  2026-02-16 08:52:46 cd gmali__from-ME_20260214/
+  172  2026-02-16 08:52:49 ll
+  173  2026-02-16 08:52:52 cd __from-ME_20260214-1305/
+  174  2026-02-16 08:52:53 ll
+  175  2026-02-16 08:52:55 cd __from-ME/
+  176  2026-02-16 08:52:56 ll
+  177  2026-02-16 08:52:59 cd messages/
+  178  2026-02-16 08:53:01 ll
+  179  2026-02-16 08:53:03 cd ..
+  180  2026-02-16 08:53:08 ffn index.html 
+  181  2026-02-16 08:53:24 ff index.html 
+  182  2026-02-16 08:54:27 ll
+  183  2026-02-16 08:54:30 cd messages/
+  184  2026-02-16 08:54:31 ll
+  185  2026-02-16 08:54:51 cat *
+  186  2026-02-16 08:56:02 for FFF in *; do grep "subject\|^https"; done
+  187  2026-02-16 08:56:11 for FFF in *; do grep "subject\|^https" $FFF; done
+  188  2026-02-16 08:56:35 for FFF in *; do grep "subject\|^https" "$FFF"; done
+  189  2026-02-16 08:56:46 for FFF in *; do grep -i "subject\|^https" "$FFF"; done
+  190  2026-02-16 08:57:03 for FFF in *; do grep -i "subject\|^https" "$FFF";echo "---"; done
+  191  2026-02-16 09:10:14 cat * | less
+  192  2026-02-16 09:10:42 ll
+  193  2026-02-16 09:11:12 for FFF in *; do echo "---"; cat $FFF; done
+  194  2026-02-16 09:11:19 for FFF in *; do echo "---"; cat $FFF; done |less
+  195  2026-02-16 09:11:29 for FFF in *; do echo "---"; cat "$FFF"; done |less
+  196  2026-02-16 09:13:47 for FFF in *; do sed '/1/\n/3/p' $FFF; done
+  197  2026-02-16 09:14:09 for FFF in *; do sed -e '/1/p' -e '/3/p' $FFF; done
+  198  2026-02-16 09:14:17 for FFF in *; do sed -e '/1/p' -e '/3/p' "$FFF"; done
+  199  2026-02-16 09:14:27 for FFF in *; do sed -e '/1/p' -e '/3/p' "$FFF"; done | less
+  200  2026-02-16 09:14:51 for FFF in *; do sed -en '/1/p' -e '/3/p' "$FFF"; done | less
+  201  2026-02-16 09:15:09 for FFF in *; do sed -en '/1/p' "$FFF"; done | less
+  202  2026-02-16 09:15:17 for FFF in *; do sed -n '/1/p' "$FFF"; done | less
+  203  2026-02-16 09:16:14 l
+  204  2026-02-16 09:17:34 for FFF in *; do echo "---"; cat "$FFF"; done | less
+  205  2026-02-16 09:17:57 for FFF in *; do echo "---";echo "$FFE; cat "$FFF"; done | less
+  206  2026-02-16 09:18:13 for FFF in *; do echo "---";echo "$FFF: "; cat "$FFF"; done | less
+  207  2026-02-16 09:18:44 for FFF in *; do echo -e "\n---"; echo "filename: $FFFwq"; cat "$FFF"; done | less
+  208  2026-02-16 09:19:17 ll
+  209  2026-02-16 09:19:26 l
+  210  2026-02-16 09:19:48 for FFF in *; do echo "$FFF"; done
+  211  2026-02-16 09:19:55 for FFF in *; do echo "filename: $FFF"; done
+  212  2026-02-16 09:20:18 for FFF in *; do echo "filename: $FFF"; cat $FFF; echo "---"; done
+  213  2026-02-16 09:20:23 for FFF in *; do echo "filename: $FFF"; cat $FFF; echo "---"; done |less
+  214  2026-02-16 09:20:32 for FFF in *; do echo "filename: $FFF"; cat "$FFF"; echo "---"; done |less
+  215  2026-02-16 09:20:57 for FFF in *; do echo "filename: $FFF"; cat "$FFF"; echo -e "\n---"; done |less
+  216  2026-02-16 09:27:02 for FFF in *; do grep -l "facebook" $FFF; done
+  217  2026-02-16 09:27:11 for FFF in *; do grep -l "facebook" "$FFF"; done
+  218  2026-02-16 09:27:37 for FFF in *; do grep -vl "facebook" "$FFF"; done
+  219  2026-02-16 09:27:50 for FFF in *; do grep -v "facebook" "$FFF"; done
+  220  2026-02-16 09:28:21 for FFF in *; do grep -v "facebook" "$FFF"; done |less
+  221  2026-02-16 09:28:46 for FFF in *; do grep -iv "facebook" "$FFF"; done |less
+  222  2026-02-16 09:29:59 vim test.sh
+  223  2026-02-16 09:31:42 chmod +x test.sh 
+  224  2026-02-16 09:31:45 ./test.sh 
+  225  2026-02-16 09:31:53 chmod +x test.sh 
+  226  2026-02-16 09:31:55 vim test.sh
+  227  2026-02-16 09:32:20 chmod +x test.sh 
+  228  2026-02-16 09:32:22 ./test.sh 
+  229  2026-02-16 09:32:28 vim test.sh
+  230  2026-02-16 09:32:52 ./test.sh | less
+  231  2026-02-16 09:33:08 vim test.sh
+  232  2026-02-16 09:33:36 ./test.sh | less
+  233  2026-02-16 09:33:55 vim test.sh
+  234  2026-02-16 09:34:13 ./test.sh | less
+  235  2026-02-16 09:34:45 vim test.sh
+  236  2026-02-16 09:38:52 ./test.sh
+  237  2026-02-16 09:38:56 ll
+  238  2026-02-16 09:39:00 vim test.sh
+  239  2026-02-16 09:39:20 ./test.sh
+  240  2026-02-16 09:39:47 vim test.sh
+  241  2026-02-16 09:40:10 ./test.sh
+  242  2026-02-16 09:40:13 vim test.sh
+  243  2026-02-16 09:40:22 ./test.sh
+  244  2026-02-16 09:40:50 ll
+  245  2026-02-16 09:41:24 vim test.sh
+  246  2026-02-16 09:42:22 ./test.sh
+  247  2026-02-16 09:42:27 vim test.sh
+  248  2026-02-16 09:42:38 ./test.sh
+  249  2026-02-16 09:43:35 vim test.sh
+  250  2026-02-16 09:44:20 ./test.sh
+  251  2026-02-16 09:44:47 vim test.sh
+  252  2026-02-16 09:45:50 ./test.sh
+  253  2026-02-16 09:46:17 vim test.sh
+  254  2026-02-16 09:46:27 ./test.sh
+  255  2026-02-16 09:47:00 vim test.sh
+  256  2026-02-16 09:47:15 ./test.sh
+  257  2026-02-16 09:47:40 vim test.sh 
+  258  2026-02-16 09:47:55 mv test.sh get_fb_mails.sh
+  259  2026-02-16 09:48:06 mv get_fb_mails.sh get-fb-mails.sh 
+  260  2026-02-16 09:48:09 vim get-fb-mails.sh 
+  261  2026-02-16 09:48:43 ./get-fb-mails.sh 
+  262  2026-02-16 09:49:14 vim get-fb-mails.sh 
+  263  2026-02-16 09:51:29 ./get-fb-mails.sh 
+  264  2026-02-16 09:52:26 vim get-fb-mails.sh 
+  265  2026-02-16 09:52:52 ./get-fb-mails.sh 
+  266  2026-02-16 09:54:21 vim get-fb-mails.sh 
+  267  2026-02-16 09:55:53 ./get-fb-mails.sh 
+  268  2026-02-16 09:56:40 vim get-fb-mails.sh 
+  269  2026-02-16 09:57:33 ./get-fb-mails.sh 
+  270  2026-02-16 09:59:05 vim get-fb-mails.sh 
+  271  2026-02-16 09:59:58 ./get-fb-mails.sh 
+  272  2026-02-16 11:41:34 cd ..
+  273  2026-02-16 11:41:37 ll
+  274  2026-02-16 11:41:48 vim get-fb-mails.sh 
+  275  2026-02-16 11:42:47 ./get-fb-mails.sh 
+  276  2026-02-16 11:42:58 vim get-fb-mails.sh 
+  277  2026-02-16 11:43:08 ./get-fb-mails.sh 
+  278  2026-02-16 11:43:46 ll
+  279  2026-02-16 11:43:54 cat hstl-en-20260216-101009.txt 
+  280  2026-02-16 11:44:00 rm hstl-en-20260216-101009.txt
+  281  2026-02-16 11:44:01 ll
+  282  2026-02-16 11:44:17 vim get-fb-mails.sh 
+  283  2026-02-16 11:44:56 ./get-fb-mails.sh 
+  284  2026-02-16 11:46:40 vim get-fb-mails.sh 
+  285  2026-02-16 11:49:01 ./get-fb-mails.sh 
+  286  2026-02-16 11:50:18 cat messages/* | less
+  287  2026-02-16 11:51:50 for FFF in messages/*; do echo -e "\n---\n"; cat $FFF;; done |less
+  288  2026-02-16 11:51:55 for FFF in messages/*; do echo -e "\n---\n"; cat $FFF; done |less
+  289  2026-02-16 11:52:01 for FFF in messages/*; do echo -e "\n---\n"; cat "$FFF"; done |less
+  290  2026-02-16 11:52:27 vim get-fb-mails.sh 
+  291  2026-02-16 11:53:25 grep -r getopts ~/majstaf/majbin/*
+  292  2026-02-16 11:53:37 vin get-fb-mails.sh 
+  293  2026-02-16 11:53:40 vim get-fb-mails.sh
+  294  2026-02-16 11:55:30 ./get-fb-mails.sh 
+  295  2026-02-16 11:55:32 vin get-fb-mails.sh 
+  296  2026-02-16 11:55:36 vim get-fb-mails.sh 
+  297  2026-02-16 11:55:52 ./get-fb-mails.sh 
+  298  2026-02-16 11:55:58 vim get-fb-mails.sh 
+  299  2026-02-16 11:56:14 ./get-fb-mails.sh 
+  300  2026-02-16 11:56:16 vim get-fb-mails.sh 
+  301  2026-02-16 12:00:06 ./get-fb-mails.sh 
+  302  2026-02-16 12:00:10 vim get-fb-mails.sh 
+  303  2026-02-16 12:01:01 ./get-fb-mails.sh 
+  304  2026-02-16 12:01:48 vim get-fb-mails.sh 
+  305  2026-02-16 12:02:17 ./get-fb-mails.sh 
+  306  2026-02-16 12:02:22 vim get-fb-mails.sh 
+  307  2026-02-16 12:02:52 ./get-fb-mails.sh 
+  308  2026-02-16 12:02:57 vim get-fb-mails.sh 
+  309  2026-02-16 12:03:02 ./get-fb-mails.sh 
+  310  2026-02-16 12:03:05 vim get-fb-mails.sh 
+  311  2026-02-16 12:03:26 ./get-fb-mails.sh 
+  312  2026-02-16 12:04:28 ls messages/
+  313  2026-02-16 12:05:17 vim get-fb-mails.sh 
+  314  2026-02-16 12:05:51 ./get-fb-mails.sh 
+  315  2026-02-16 12:06:01 vim get-fb-mails.sh 
+  316  2026-02-16 12:06:26 ./get-fb-mails.sh 
+  317  2026-02-16 12:06:50 vim get-fb-mails.sh 
+  318  2026-02-16 12:07:34 ./get-fb-mails.sh --update
+  319  2026-02-16 12:07:39 vim get-fb-mails.sh 
+  320  2026-02-16 12:08:35 ./get-fb-mails.sh --update
+  321  2026-02-16 12:09:27 im *Kranj*
+  322  2026-02-16 12:09:30 vim *Kranj*
+  323  2026-02-16 12:09:39 vim messages/*Kranjc*
+  324  2026-02-16 12:10:13 vim get-fb-mails.sh 
+  325  2026-02-16 12:12:29 ./get-fb-mails.sh 
+  326  2026-02-16 12:12:36 vim get-fb-mails.sh 
+  327  2026-02-16 12:12:56 ./get-fb-mails.sh 
+  328  2026-02-16 12:13:00 vim get-fb-mails.sh 
+  329  2026-02-16 12:13:11 ./get-fb-mails.sh 
+  330  2026-02-16 12:13:16 vim get-fb-mails.sh 
+  331  2026-02-16 12:13:24 ./get-fb-mails.sh 
+  332  2026-02-16 12:13:27 vim get-fb-mails.sh 
+  333  2026-02-16 12:14:05 ./get-fb-mails.sh 
+  334  2026-02-16 12:14:36 vim get-fb-mails.sh 
+  335  2026-02-16 12:16:01 ./get-fb-mails.sh 
+  336  2026-02-16 12:16:10 vim get-fb-mails.sh 
+  337  2026-02-16 12:16:28 ./get-fb-mails.sh 
+  338  2026-02-16 12:16:31 vim get-fb-mails.sh 
+  339  2026-02-16 12:16:40 ./get-fb-mails.sh 
+  340  2026-02-16 12:16:44 vim get-fb-mails.sh 
+  341  2026-02-16 12:16:56 ./get-fb-mails.sh 
+  342  2026-02-16 12:17:06 vim get-fb-mails.sh 
+  343  2026-02-16 12:17:16 ./get-fb-mails.sh 
+  344  2026-02-16 12:17:41 man fzf
+  345  2026-02-16 12:18:26 ./get-fb-mails.sh 
+  346  2026-02-16 12:18:39 ./get-fb-mails.sh |fzf
+  347  2026-02-16 12:18:48 ./get-fb-mails.sh |fzf -e --reverse
+  348  2026-02-16 12:19:10 vim get-fb-mails.sh 
+  349  2026-02-16 12:24:57 ./get-fb-mails.sh
+  350  2026-02-16 12:25:34 vim get-fb-mails.sh 
+  351  2026-02-16 12:28:43 ./get-fb-mails.sh
+  352  2026-02-16 12:29:41 vim get-fb-mails.sh 
+  353  2026-02-16 12:30:06 vim fb_files_list.txt 
+  354  2026-02-16 12:30:28 vim get-fb-mails.sh 
+  355  2026-02-16 12:34:00 echo "PPP" | grep AA
+  356  2026-02-16 12:34:03 echo "PPP" | grep PP
+  357  2026-02-16 12:34:07 vim get-fb-mails.sh 
+  358  2026-02-16 12:37:51 ./get-fb-mails.sh 
+  359  2026-02-16 12:39:48 cat fb_files_list.txt 
+  360  2026-02-16 12:39:55 vim get-fb-mails.sh 
+  361  2026-02-16 12:41:51 ./get-fb-mails.sh 
+  362  2026-02-16 12:42:41 cat fb_files_list.txt 
+  363  2026-02-16 12:42:46 vim get-fb-mails.sh 
+  364  2026-02-16 12:43:36 ./get-fb-mails.sh 
+  365  2026-02-16 12:44:15 cat fb_files_list.txt 
+  366  2026-02-16 12:44:24 vim get-fb-mails.sh 
+  367  2026-02-16 12:52:19 ./get-fb-mails.sh 
+  368  2026-02-16 12:52:32 vim get-fb-mails.sh 
+  369  2026-02-16 12:52:57 ./get-fb-mails.sh 
+  370  2026-02-16 12:53:02 vim get-fb-mails.sh 
+  371  2026-02-16 12:54:09 ./get-fb-mails.sh 
+  372  2026-02-16 12:54:12 vim get-fb-mails.sh 
+  373  2026-02-16 12:54:53 ./get-fb-mails.sh 
+  374  2026-02-16 12:54:56 vim get-fb-mails.sh 
+  375  2026-02-16 12:57:26 ./get-fb-mails.sh 
+  376  2026-02-16 12:57:33 vim get-fb-mails.sh 
+  377  2026-02-16 12:57:56 ./get-fb-mails.sh 
+  378  2026-02-16 12:57:59 vim get-fb-mails.sh 
+  379  2026-02-16 13:00:55 ./get-fb-mails.sh 
+  380  2026-02-16 13:01:27 vim get-fb-mails.sh 
+  381  2026-02-16 13:03:01 ./get-fb-mails.sh 
+  382  2026-02-16 13:03:45 lll
+  383  2026-02-16 13:03:46 ll
+  384  2026-02-16 13:03:50 cat fb_files_list.txt 
+  385  2026-02-16 13:03:55 lll
+  386  2026-02-16 13:04:00 vim get-fb-mails.sh 
+  387  2026-02-16 13:09:23 ./get-fb-mails.sh 
+  388  2026-02-16 13:09:31 vim get-fb-mails.sh 
+  389  2026-02-16 13:11:27 ./get-fb-mails.sh 
+  390  2026-02-16 13:12:03 vim get-fb-mails.sh 
+  391  2026-02-16 13:12:38 ./get-fb-mails.sh -u
+  392  2026-02-16 13:12:44 vim get-fb-mails.sh 
+  393  2026-02-16 13:13:01 ./get-fb-mails.sh -u
+  394  2026-02-16 13:13:07 vim get-fb-mails.sh 
+  395  2026-02-16 13:13:19 ./get-fb-mails.sh -u
+  396  2026-02-16 13:14:35 vim get-fb-mails.sh 
+  397  2026-02-16 13:18:03 ./get-fb-mails.sh -u
+  398  2026-02-16 13:19:09 vim get-fb-mails.sh 
+  399  2026-02-16 13:20:03 ./get-fb-mails.sh
+  400  2026-02-16 13:20:38 vim get-fb-mails.sh 
+  401  2026-02-16 13:21:01 ./get-fb-mails.sh
+  402  2026-02-16 13:21:08 vim get-fb-mails.sh 
+  403  2026-02-16 13:21:17 ./get-fb-mails.sh
+  404  2026-02-16 13:22:36 vim get-fb-mails.sh 
+  405  2026-02-16 13:23:58 ./get-fb-mails.sh -u
+  406  2026-02-16 13:26:25 vim fb_files_list.txt 
+  407  2026-02-16 13:27:24 ./get-fb-mails.sh -u
+  408  2026-02-16 13:27:29 vim get-fb-mails.sh 
+  409  2026-02-16 13:30:00 ./get-fb-mails.sh -u
+  410  2026-02-16 13:32:29 cat fb_files_list.txt 
+  411  2026-02-16 13:33:03 vim get-fb-mails.sh 
+  412  2026-02-16 13:33:33 ./get-fb-mails.sh
+  413  2026-02-16 13:36:46 vim get-fb-mails.sh 
+  414  2026-02-16 13:36:56 ./get-fb-mails.sh
+  415  2026-02-16 13:37:53 vim get-fb-mails.sh 
+  416  2026-02-16 13:38:01 ./get-fb-mails.sh
+  417  2026-02-16 13:40:12 cd
+  418  2026-02-16 13:40:15 cd $DANES
+  419  2026-02-16 13:40:40 lynxd "https://dev.to/heinanca/stop-writing-slow-bash-scripts-performance-optimization-techniques-that-actually-work-181b" bash-slow-scripts-performance-optimization-techniques
+  420  2026-02-16 13:40:45 prepare-fjl-for-knowledgebase bash-slow-scripts-performance-optimization-techniques-20260216.txt 
+  421  2026-02-16 13:42:17 rewrapp bash-slow-scripts-performance-optimization-techniques-20260216.txt
+  422  2026-02-16 13:42:21 prepare-fjl-for-knowledgebase bash-slow-scripts-performance-optimization-techniques-20260216.txt
+  423  2026-02-16 13:54:51 lynxd "https://oneuptime.com/blog/post/2026-01-24-bash-arrays/view" bash-arrays-in-scripts-5p
+  424  2026-02-16 13:54:59 prepare-fjl-for-knowledgebase bash-arrays-in-scripts-5p-20260216.txt 
+  425  2026-02-16 14:03:55 ll
+  426  2026-02-16 14:04:01 vim bash-slow-scripts-performance-optimization-techniques-20260216.txt 
+  427  2026-02-16 14:07:22 cd -
+  428  2026-02-16 14:07:31 cd $BRISI
+  429  2026-02-16 14:07:33 lsth
+  430  2026-02-16 14:07:39 cd __GMAIL_dump/gmali__from-ME_20260214/__from-ME_20260214-1305/__from-ME/
+  431  2026-02-16 14:07:40 ll
+  432  2026-02-16 14:07:46 vim get-fb-mails.sh 
+  433  2026-02-16 14:10:25 ./get-fb-mails.sh 
+  434  2026-02-16 14:10:32 vim get-fb-mails.sh 
+  435  2026-02-16 14:10:43 ./get-fb-mails.sh 
+  436  2026-02-16 14:11:25 vim get-fb-mails.sh 
+  437  2026-02-16 14:12:42 ./get-fb-mails.sh 
+  438  2026-02-16 14:13:28 im get-fb-mails.sh 
+  439  2026-02-16 14:13:32 vim get-fb-mails.sh
+  440  2026-02-16 14:14:44 ./get-fb-mails.sh 
+  441  2026-02-16 14:15:31 im get-fb-mails.sh 
+  442  2026-02-16 14:15:33 vim get-fb-mails.sh
+  443  2026-02-16 14:17:32 ./get-fb-mails.sh 
+  444  2026-02-16 14:18:22 ll
+  445  2026-02-16 14:18:41 vim -O get-fb-mails.sh ~/majstaf/majbin/ff-launch-en/ff-launch-en 
+  446  2026-02-16 14:21:28 ./get-fb-mails.sh 
+  447  2026-02-16 14:22:13 vim -O get-fb-mails.sh ~/majstaf/majbin/ff-launch-en/ff-launch-en 
+  448  2026-02-16 14:23:20 ./get-fb-mails.sh 
+  449  2026-02-16 14:24:22 vim get-fb-mails.sh
+  450  2026-02-16 14:25:09 ./get-fb-mails.sh 
+  451  2026-02-16 14:26:34 vim get-fb-mails.sh 
+  452  2026-02-16 14:28:55 ./get-fb-mails.sh 
+  453  2026-02-16 14:29:00 vim get-fb-mails.sh 
+  454  2026-02-16 14:30:39 ./get-fb-mails.sh 
+  455  2026-02-16 14:33:35 vim get-fb-mails.sh 
+  456  2026-02-16 14:40:18 ./get-fb-mails.sh -u
+  457  2026-02-16 14:41:32 cat fb_files_list.txt 
+  458  2026-02-16 14:41:50 q
+  459  2026-02-16 14:41:54 vim get-fb-mails.sh 
+  460  2026-02-16 14:45:56 ./get-fb-mails.sh -u
+  461  2026-02-16 14:46:03 ./get-fb-mails.sh
+  462  2026-02-16 14:46:16 vim get-fb-mails.sh 
+  463  2026-02-16 14:47:04 ./get-fb-mails.sh
+  464  2026-02-16 14:47:26 vim get-fb-mails.sh 
+  465  2026-02-16 14:47:39 ./get-fb-mails.sh
+  466  2026-02-16 14:48:15 vim get-fb-mails.sh 
+  467  2026-02-16 14:49:03 cat fb_files_list.txt 
+  468  2026-02-16 14:49:18 vim get-fb-mails.sh 
+  469  2026-02-16 14:49:57 cat fb_files_list.txt -u
+  470  2026-02-16 14:50:04 vim get-fb-mails.sh 
+  471  2026-02-16 14:50:59 ./get-fb-mails.sh -u
+  472  2026-02-16 14:51:53 cat fb_files_list.txt 
+  473  2026-02-16 14:51:58 cat fb_files_list.txt |wc -l
+  474  2026-02-16 14:52:07 ./get-fb-mails.sh 
+  475  2026-02-16 14:52:58 ff-launch-en 
+  476  2026-02-16 14:53:44 vim -O get-fb-mails.sh ~/majstaf/majbin/ff-launch-en/ff-launch-en 
+  477  2026-02-16 14:56:41 ./get-fb-mails.sh 
+  478  2026-02-16 14:57:45 vim -O get-fb-mails.sh
+  479  2026-02-16 14:57:55 ./get-fb-mails.sh 
+  480  2026-02-16 14:58:17 vim -O get-fb-mails.sh
+  481  2026-02-16 15:00:47 ./get-fb-mails.sh -u
+  482  2026-02-16 15:01:45 vim get-fb-mails.sh
+  483  2026-02-16 15:01:52 cat fb_files_list.txt 
+  484  2026-02-16 15:02:04 vim get-fb-mails.sh 
+  485  2026-02-16 15:04:00 ./get-fb-mails.sh 
+  486  2026-02-16 15:05:06 cd $DANES
+  487  2026-02-16 15:05:07 ll
+  488  2026-02-16 15:06:30 mv bash-slow-scripts-performance-optimization-techniques-{,multif-}20260216.txt 
+  489  2026-02-16 15:06:35 vim bash-slow-scripts-performance-optimization-techniques-multif-20260216.txt 
+  490  2026-02-16 15:06:53 lynxd "https://moldstud.com/articles/p-how-to-avoid-common-performance-issues-in-bash-scripting-tips-and-best-practices" in1
+  491  2026-02-16 15:06:58 prepare-fjl-for-knowledgebase in1-20260216.txt 
+  492  2026-02-16 15:14:49 ll
+  493  2026-02-16 15:15:02 cat in1-20260216.txt >> bash-slow-scripts-performance-optimization-techniques-multif-20260216.txt 
+  494  2026-02-16 15:15:07 vim bash-slow-scripts-performance-optimization-techniques-multif-20260216.txt
+  495  2026-02-16 15:23:26 cd -
+  496  2026-02-16 15:23:27 ll
+  497  2026-02-16 15:23:53 mkdir get-fb-mails-dir
+  498  2026-02-16 15:25:08 mv commands_20260216.txt fb_files_list.txt get-fb-mails.sh get-fb-mails-dir/
+  499  2026-02-16 15:25:09 ll
+  500  2026-02-16 15:25:49 mv get-fb-mails{-dir,}
+  501  2026-02-16 15:25:59 mv index.html messages/ get-fb-mails/
+  502  2026-02-16 15:26:01 ll
+  503  2026-02-16 15:26:03 cd get-fb-mails/
+  504  2026-02-16 15:26:04 ll
+  505  2026-02-16 15:26:08 vim commands_20260216.txt 
+  506  2026-02-16 15:26:27 mv get-fb-mails{.sh,} 
+  507  2026-02-16 15:26:29 ll
+  508  2026-02-16 15:26:36 cd ..
+  509  2026-02-16 15:26:48 cp -r get-fb-mails/ ~/majstaf/majbin/
+  510  2026-02-16 15:26:59 cd ~/majstaf/majbin/get-fb-mails/
+  511  2026-02-16 15:27:01 ll
+  512  2026-02-16 15:27:08 softlink1-fname-to-ulb get-fb-mails 
+  513  2026-02-16 15:27:10 cd
+  514  2026-02-16 15:27:16 get-fb-mails 
+  515  2026-02-16 15:27:42 cd -
+  516  2026-02-16 15:27:49 vim get-fb-mails 
+  517  2026-02-16 15:28:08 get-fb-mails -u
+  518  2026-02-16 15:29:27 get-fb-mails
+  519  2026-02-16 15:32:25 cd
+  520  2026-02-16 15:32:27 get-fb-mails
+  521  2026-02-16 15:33:16 cd $MJBN
+  522  2026-02-16 15:33:32 cp -r get-fb-mails/ $EGMJBN 
+  523  2026-02-16 15:33:37 cd $EGMJBN
+  524  2026-02-16 15:33:39 gst
+  525  2026-02-16 15:33:51 gyes-add-commit-push 
+  526  2026-02-16 15:34:13 ll
+  527  2026-02-16 15:34:14 l
+  528  2026-02-16 15:34:17 cd
+  529  2026-02-16 15:34:20 cd -
+  530  2026-02-16 15:34:24 cd $MJBN
+  531  2026-02-16 15:34:53 mv get-fb-mails{,-en}
+  532  2026-02-16 15:34:56 cd get-fb-mails-en/
+  533  2026-02-16 15:35:01 mv get-fb-mails{,-en}
+  534  2026-02-16 15:35:02 ll
+  535  2026-02-16 15:35:10 softlink1-fname-to-ulb get-fb-mails-en 
+  536  2026-02-16 15:35:12 cd
+  537  2026-02-16 15:35:21 cd .local/bin/
+  538  2026-02-16 15:35:24 broken-symlinks-list 
+  539  2026-02-16 15:35:30 rm get-fb-mails
+  540  2026-02-16 15:35:32 cd
+  541  2026-02-16 15:35:47 cd -
+  542  2026-02-16 15:35:49 cd
+  543  2026-02-16 15:35:53 cd majstaf/majbin/
+  544  2026-02-16 15:36:06 cp -r get-fb-mails-en/ $EGMJBN 
+  545  2026-02-16 15:36:09 cd $EGMJBN
+  546  2026-02-16 15:36:17 rm -r get-fb-mails
+  547  2026-02-16 15:36:22 gst
+  548  2026-02-16 15:36:27 gyes-add-commit-push 
+  549  2026-02-16 15:36:51 cp -r get-fb-mails-en/ $EGPRNS 
+  550  2026-02-16 15:36:55 cd $EGPRNS
+  551  2026-02-16 15:36:56 ll
+  552  2026-02-16 15:37:00 gst
+  553  2026-02-16 15:37:06 gyes-add-commit-push 
+  554  2026-02-16 15:37:25 cd
+  555  2026-02-16 15:37:28 get-endiffs 
+  556  2026-02-16 15:39:02 cpi .vimrc $EGDTFJLS 
+  557  2026-02-16 15:39:05 cd $EGDTFJLS
+  558  2026-02-16 15:39:08 gyes-add-commit-push 
+  559  2026-02-16 15:39:18 engt-diffs-check-all 
+  560  2026-02-16 15:39:26 engt-status 
+  561  2026-02-16 15:39:31 testing-gtgh-status-en 
+  562  2026-02-16 15:39:39 rbekap-DAILY-mega-gren 
+  563  2026-02-16 15:43:27 rclone about mega_gren:
+  564  2026-02-16 15:43:44 rbekap-DAILY-mega-gren 
+  565  2026-02-16 15:50:15 ure
+  566  2026-02-16 15:50:40 majapps-launch-en 
+  567  2026-02-16 15:50:45 ff-launch-en 
+  568  2026-02-16 15:50:56 cd
+  569  2026-02-16 15:51:09 cd majstaf/majbin/ff-personal-launch-en/
+  570  2026-02-16 15:51:15 softlink1-fname-to-ulb ff-personal-launch-en 
+  571  2026-02-16 15:51:19 ff-personal-launch-en 
+  572  2026-02-16 15:55:40 cd
+  573  2026-02-16 15:55:53 cd $EGMJBN
+  574  2026-02-16 15:55:59 ll -d ff-*
+  575  2026-02-16 15:56:06 ff-personal-launch-en
+  576  2026-02-16 15:56:38 cd ~/majstaf/majbin/
+  577  2026-02-16 15:56:54 vim -O ff-personal-launch-en/ff-personal-launch-en ff-launch-en/ff-launch-en 
+  578  2026-02-16 15:57:50 ff-personal-launch-en
+  579  2026-02-16 15:58:08 cd ff-personal-launch-en/
+  580  2026-02-16 15:58:24 cpi ff-personal-launch-en $EGMJBN/ff-personal-launch-en/
+  581  2026-02-16 15:58:45 cd $EGMJBN/
+  582  2026-02-16 15:58:49 gyes-add-commit-push 
+  583  2026-02-16 15:59:25 cp ff-personal-launch-en/ff-personal-launch-en ../prenos/update_jbe/
+  584  2026-02-16 15:59:29 cd ../prenos/update_jbe/
+  585  2026-02-16 15:59:31 ll
+  586  2026-02-16 15:59:50 mv {,update-}ff-personal-launch-en 
+  587  2026-02-16 16:00:01 mv update-ff-personal-launch{-en,} 
+  588  2026-02-16 16:00:06 vim update-ff-personal-launch 
+  589  2026-02-16 16:01:21 cp update-ff-personal-launch ../update_mdb/
+  590  2026-02-16 16:01:23 cd ..
+  591  2026-02-16 16:01:26 lsth
+  592  2026-02-16 16:01:59 rm gmali__from-ME_20260214.tar.gz 
+  593  2026-02-16 16:02:04 gst
+  594  2026-02-16 16:02:08 gyes-add-commit-push 
+  595  2026-02-16 16:02:25 tree -L 2 update_*
+  596  2026-02-16 16:02:34 cd
+  597  2026-02-16 16:02:37 get-c
+  598  2026-02-16 16:02:42 engt-check-reports 
+  599  2026-02-16 16:02:49 engt-empty-reports 
+  600  2026-02-16 16:02:55 engt-diffs-check-all 
+  601  2026-02-16 16:03:11 get-endiffs 
+  602  2026-02-16 16:03:58 engt-status 
+  603  2026-02-16 16:04:02 cd
+  604  2026-02-16 16:04:04 exit
+  605  2026-02-16 08:26:22 engt-run-all 
+  606  2026-02-16 08:27:04 cd EGP
+  607  2026-02-16 08:27:10 cd $EGPRNS
+  608  2026-02-16 08:27:13 git pull
+  609  2026-02-16 08:27:31 lsth
+  610  2026-02-16 08:27:43 cd update_en/
+  611  2026-02-16 08:27:44 ll
+  612  2026-02-16 08:28:10 mv ff-personal-launch-{mdb,en}
+  613  2026-02-16 08:28:18 mv ff-personal-launch-en/ $MJBN 
+  614  2026-02-16 08:28:21 cd $MJBN
+  615  2026-02-16 08:28:24 cd ff-personal-launch-en/
+  616  2026-02-16 08:28:34 mv ff-personal-launch-{mdb,en}
+  617  2026-02-16 08:28:38 vim ff-personal-launch-en 
+  618  2026-02-16 08:29:21 ./ff-personal-launch-en 
+  619  2026-02-16 08:29:28 vim ff-personal-launch-en 
+  620  2026-02-16 08:29:55 ./ff-personal-launch-en 
+  621  2026-02-16 08:30:07 vim ff-personal-launch-en 
+  622  2026-02-16 08:31:23 ./ff-personal-launch-en 
+  623  2026-02-16 08:31:29 vim ff-personal-launch-en 
+  624  2026-02-16 08:32:44 ./ff-personal-launch-en 
+  625  2026-02-16 08:32:51 vim ff-personal-launch-en 
+  626  2026-02-16 08:33:22 ./ff-personal-launch-en 
+  627  2026-02-16 08:33:33 vim ff-personal-launch-en 
+  628  2026-02-16 08:33:49 ./ff-personal-launch-en 
+  629  2026-02-16 08:33:52 vim ff-personal-launch-en 
+  630  2026-02-16 08:34:42 ./ff-personal-launch-en 
+  631  2026-02-16 08:34:46 vim ff-personal-launch-en 
+  632  2026-02-16 08:35:38 ./ff-personal-launch-en 
+  633  2026-02-16 08:35:49 vim ff-personal-launch-en 
+  634  2026-02-16 08:36:48 ./ff-personal-launch-en 
+  635  2026-02-16 08:37:27 cd
+  636  2026-02-16 16:31:45 tmxks
+  637  2026-02-16 08:25:53 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+  638  2026-02-16 08:26:25 pddr
+  639  2026-02-16 08:25:48 tmxns
+  640  2026-02-16 16:31:46 exit
+  641  2026-02-17 08:19:32 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+  642  2026-02-17 08:38:44 engt-empty-reports 
+  643  2026-02-17 08:38:47 engt-check-reports 
+  644  2026-02-17 08:38:51 tmxks
+  645  2026-02-17 08:20:56 engt-run-all 
+  646  2026-02-17 08:20:51 testing-gtgh-run-all-en 
+  647  2026-02-17 08:21:54 cd $EGPRNS
+  648  2026-02-17 08:21:58 cd update_en/
+  649  2026-02-17 08:22:00 ll
+  650  2026-02-17 08:22:04 cd ..
+  651  2026-02-17 08:22:08 git pull
+  652  2026-02-17 08:22:22 cd update_en/
+  653  2026-02-17 08:22:23 ll
+  654  2026-02-17 08:23:02 vim -O ~/majstaf/majbin/get-fb-mails-en/get-fb-mails-en 1-update-get-fb-mails-en 
+  655  2026-02-17 08:26:11 get-fb-mails-en 
+  656  2026-02-17 08:27:04 cd
+  657  2026-02-17 08:27:46 cd $MJBN
+  658  2026-02-17 08:27:50 cd get-fb-mails-en/
+  659  2026-02-17 08:28:03 cpi get-fb-mails-en $EGMJBN/get-fb-mails-en/
+  660  2026-02-17 08:28:08 cd $EGMJBN/get-fb-mails-en/
+  661  2026-02-17 08:28:09 cd ..
+  662  2026-02-17 08:28:11 gyes-add-commit-push 
+  663  2026-02-17 08:28:20 cd $EGPRNS
+  664  2026-02-17 08:28:23 cd update_en/
+  665  2026-02-17 08:28:24 ll
+  666  2026-02-17 08:28:29 rm 1-update-get-fb-mails-en 2-update-get-fb-mails 
+  667  2026-02-17 08:28:31 ll
+  668  2026-02-17 08:28:33 cd ..
+  669  2026-02-17 08:28:38 tree update_*
+  670  2026-02-17 08:28:40 cd ..
+  671  2026-02-17 08:28:42 lsth
+  672  2026-02-17 08:28:46 cd prenos/
+  673  2026-02-17 08:28:48 lsth
+  674  2026-02-17 08:28:59 gst
+  675  2026-02-17 08:29:02 gyes-add-commit-push 
+  676  2026-02-17 08:29:11 rbekap-DAILY-mega-gren 
+  677  2026-02-17 08:38:25 cd
+  678  2026-02-17 16:43:00 exit
+  679  2026-02-17 09:09:19 opnu "C:\Users\gregor.redelonghi\2026\Tehnicne-zahteve_2026\Tehnicne-zahteve_2026-02\OBRAZCI_2026-02"
+  680  2026-02-17 09:09:20 ll
+  681  2026-02-17 09:10:18 FJL='Obrazec-2_VLOGA ZA ZAPLINJANJE NOTRANJE PLINSKE NAPELJAVE.pdf' 
+  682  2026-02-17 09:10:32 mv $FJL ${FJL// /-}
+  683  2026-02-17 09:10:49 mv "$FJL" "${FJL// /-}"
+  684  2026-02-17 09:10:51 ll
+  685  2026-02-17 09:11:53 pdfjoin T=Obrazec-2_VLOGA-ZA-ZAPLINJANJE-NOTRANJE-PLINSKE-NAPELJAVE.pdf cat T1 output Obrazec-2_VLOGA-ZA-ZAPLINJANJE-NOTRANJE-PLINSKE-NAPELJAVE-2.pdf 
+  686  2026-02-17 09:12:38 cd
+  687  2026-02-17 11:21:15 opnu C:\Users\gregor.redelonghi\2026\Tehnicne-zahteve_2026\Tehnicne-zahteve_2026-02\RISBE_2026-02\_pdf_2026-02
+  688  2026-02-17 11:21:24 opnu "C:\Users\gregor.redelonghi\2026\Tehnicne-zahteve_2026\Tehnicne-zahteve_2026-02\RISBE_2026-02\_pdf_2026-02"
+  689  2026-02-17 11:21:27 ll
+  690  2026-02-17 11:21:30 vim command 
+  691  2026-02-17 11:22:19 bash command 
+  692  2026-02-17 12:07:50 pddr
+  693  2026-02-17 16:43:08 cd
+  694  2026-02-17 16:43:10 exit
+  695  2026-02-17 08:19:26 tmxns
+  696  2026-02-17 08:38:56 get-endiffs 
+  697  2026-02-17 08:47:13 engt-diffs-check-all 
+  698  2026-02-17 08:55:41 cd majstaf/majbin/rbekap-meganz/
+  699  2026-02-17 08:55:42 ll
+  700  2026-02-17 08:56:06 cp rbekap-TZ-202{5,6}-sync-mega-gren 
+  701  2026-02-17 08:56:13 vim rbekap-TZ-2026-sync-mega-gren 
+  702  2026-02-17 08:58:47 softlink1-fname-to-ulb rbekap-TZ-2026-sync-mega-gren 
+  703  2026-02-17 08:58:53 rbekap-TZ-2026-sync-mega-gren 
+  704  2026-02-17 09:05:49 rcloabout mega_gren:
+  705  2026-02-17 09:05:54 rclone about mega_gren:
+  706  2026-02-17 14:07:45 d
+  707  2026-02-17 14:07:48 cd
+  708  2026-02-17 14:07:52 pddr
+  709  2026-02-17 16:42:02 opnu "C:\Users\gregor.redelonghi\2026\Tehnicne-zahteve_2026\Tehnicne-zahteve_2026-02\RISBE_2026-02\_pdf_2026-02"
+  710  2026-02-17 16:42:04 ll
+  711  2026-02-17 16:42:12 bash command 
+  712  2026-02-17 16:42:29 cd
+  713  2026-02-17 16:42:41 rbekap-DAILY-mega-gren 
+  714  2026-02-17 16:43:49 rbekap-TZ-2026-sync-mega-gren 
+  715  2026-02-17 16:44:47 exit
+  716  2026-02-17 16:42:33 pddr
+  717  2026-02-17 16:45:03 exit
+  718  2026-02-18 07:11:42 testing-gtgh-run-all-en 
+  719  2026-02-18 09:42:09 xit
+  720  2026-02-18 09:42:11 exit
+  721  2026-02-18 14:13:15 cd $MTSYS
+  722  2026-02-18 14:13:38 vim firefox-load-bookmarks-into-new-tab-setup-en-20260218.txt
+  723  2026-02-18 14:18:08 cpi firefox-load-bookmarks-into-new-tab-setup-en-20260218.txt $EGMTSYS 
+  724  2026-02-18 14:18:11 cd $EGMTSYS
+  725  2026-02-18 14:18:13 gyes-add-commit-push 
+  726  2026-02-18 14:19:11 exit
+  727  2026-02-18 07:11:28 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+  728  2026-02-18 07:11:53 pddr
+  729  2026-02-18 07:29:20 rbekap-DAILY-mega-gren 
+  730  2026-02-18 09:42:02 pddr
+  731  2026-02-18 07:11:48 engt-run-all 
+  732  2026-02-18 09:42:25 rbekap-PROJEKTI-sync-mega-gren -y
+  733  2026-02-18 12:01:49 ure
+  734  2026-02-18 13:35:34 majapps-launch-en 
+  735  2026-02-18 13:56:13 rbekap-DAILY-mega-gren 
+  736  2026-02-18 14:03:09 rbekap-TZ-2026-sync-mega-gren -y
+  737  2026-02-18 14:10:27 majapps-launch-en 
+  738  2026-02-18 14:19:14 tmxks
+  739  2026-02-18 07:11:23 tmxns
+  740  2026-02-18 14:19:16 exit
+  741  2026-02-18 07:43:34 ure
+  742  2026-02-18 07:44:35 cd $DANES
+  743  2026-02-18 07:44:37 ll
+  744  2026-02-18 07:44:59 head -n3 * 
+  745  2026-02-18 07:45:33 grep -E "^https://" *
+  746  2026-02-18 07:46:03 rm in1-20260216.txt 
+  747  2026-02-18 07:46:04 ll
+  748  2026-02-18 07:46:22 cp -i bash-* $KNOWLEDGEDB/_BASH/
+  749  2026-02-18 07:46:28 cd $KNOWLEDGEDB/_BASH/
+  750  2026-02-18 07:46:32 cd ..
+  751  2026-02-18 07:46:34 gst
+  752  2026-02-18 07:46:37 gyes-add-commit-push 
+  753  2026-02-18 07:46:45 cd -
+  754  2026-02-18 07:46:46 cd
+  755  2026-02-18 07:46:49 cd $DANES
+  756  2026-02-18 07:46:59 lynxd "https://linuxize.com/cheatsheet/scp/"
+  757  2026-02-18 07:47:10 lynxd "https://linuxize.com/cheatsheet/scp/" scp-chtsht
+  758  2026-02-18 07:47:18 prepare-fjl-for-knowledgebase scp-chtsht-20260218.txt 
+  759  2026-02-18 08:00:13 lynxd "https://linuxize.com/cheatsheet/crontab/" crontab-chtsht
+  760  2026-02-18 08:00:20 prepare-fjl-for-knowledgebase crontab-chtsht-20260218.txt 
+  761  2026-02-18 08:07:21 ll
+  762  2026-02-18 12:14:13 cpi crontab-chtsht-20260218.txt scp-chtsht-20260218.txt $EGMTSYS 
+  763  2026-02-18 12:14:23 cpi crontab-chtsht-20260218.txt scp-chtsht-20260218.txt $KNOWLEDGEDB/_LINUX_SYSTEM/
+  764  2026-02-18 12:14:27 cd $EGMTSYS
+  765  2026-02-18 12:14:30 gyes-add-commit-push 
+  766  2026-02-18 12:14:40 cd $KNOWLEDGEDB/_LINUX_SYSTEM/
+  767  2026-02-18 12:14:41 cd ..
+  768  2026-02-18 12:14:43 gst
+  769  2026-02-18 12:14:46 gyes-add-commit-push 
+  770  2026-02-18 12:14:54 cd
+  771  2026-02-18 12:14:56 get-endiffs 
+  772  2026-02-18 12:16:50 cd $EGMTSYS
+  773  2026-02-18 12:16:55 lsth
+  774  2026-02-18 12:17:20 cpi scp-chtsht-20260218.txt crontab-chtsht-20260218.txt $MTSYS 
+  775  2026-02-18 12:17:22 cd
+  776  2026-02-18 12:17:27 get-endiffs 
+  777  2026-02-18 12:25:26 opnu "C:\Users\gregor.redelonghi\2026\Tehnicne-zahteve_2026\Tehnicne-zahteve_2026-02\RISBE_2026-02\_pdf_2026-02"
+  778  2026-02-18 12:25:28 ll
+  779  2026-02-18 12:25:38 bash command 
+  780  2026-02-18 12:26:53 pddr
+  781  2026-02-18 13:07:43 cd
+  782  2026-02-18 13:07:56 vview-mfjl-efzf 
+  783  2026-02-18 14:19:30 exit
+  784  2026-02-18 14:42:08 find $MJBN/* -type f -newermt "20260201" 
+  785  2026-02-18 14:42:28 find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt'
+  786  2026-02-18 14:42:44 find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt' | xargs -ro vview-mfjl-efzf 
+  787  2026-02-18 14:42:49 find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt' | xargs -ro vview-mfjl-efzf -
+  788  2026-02-18 14:43:38 ll ~/.local/bin/vv*
+  789  2026-02-18 14:43:53 find $MJBN/* -type f -newermt "20260201"
+  790  2026-02-18 14:43:58 find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt'
+  791  2026-02-18 14:44:08 find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt' | vview-mfjl-efzf -
+  792  2026-02-18 14:44:30 find $MJBN/* -type f -newermt "20260201" | grep -v '\.txt' | xargs -ro vim -pM
+  793  2026-02-18 14:49:41 ll
+  794  2026-02-18 14:49:44 vi
+  795  2026-02-18 14:49:49 vim
+  796  2026-02-18 15:51:01 opnu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\N-27000_22551_obn-PO-Trg-OF_PZI\nacrt\grafika\pdf"
+  797  2026-02-18 15:51:03 ll
+  798  2026-02-18 15:51:13 mv _RISBE{,2}.pdf 
+  799  2026-02-18 15:51:20 risbe-join-en 
+  800  2026-02-18 15:51:23 ll
+  801  2026-02-18 15:51:28 vim _RISBE.pdf 
+  802  2026-02-18 15:52:31 opniu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\N-27000_22551_obn-PO-Trg-OF_PZI\nacrt"
+  803  2026-02-18 15:52:36 opnu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\N-27000_22551_obn-PO-Trg-OF_PZI\nacrt"
+  804  2026-02-18 15:52:38 ll
+  805  2026-02-18 15:52:55 mv _CN_obn-PO-Trg-OF_PZI{,2}.pdf 
+  806  2026-02-18 15:52:57 ll
+  807  2026-02-18 15:54:38 pdfjoin T=_CN_obn-PO-Trg-OF_PZI2.pdf R=grafika/pdf/_RISBE.pdf cat T1-27 R output _CN_obn-PO-Trg-OF_PZI.pdf 
+  808  2026-02-18 15:55:01 cd
+  809  2026-02-18 15:55:04 pddr
+  810  2026-02-18 15:58:54 ll
+  811  2026-02-18 15:59:11 rbekap-PROJEKTI-sync-mega-gren -y
+  812  2026-02-18 16:11:23 rbekap-DAILY-mega-gren 
+  813  2026-02-18 16:12:08 get-endiffs 
+  814  2026-02-18 16:13:41 engt-diffs-check-all 
+  815  2026-02-18 16:14:11 cd $EGMJBN
+  816  2026-02-18 16:14:16 gst
+  817  2026-02-18 16:14:19 gyes-add-commit-push 
+  818  2026-02-18 16:14:31 engt-diffs-check-all 
+  819  2026-02-18 16:14:44 engt-status 
+  820  2026-02-18 16:14:49 testing-gtgh-status-en 
+  821  2026-02-18 16:15:04 exit
+  822  2026-02-18 16:23:15 NM="Long Distance (2024)"
+  823  2026-02-18 16:23:20 s2 "$NM" "$NM"
+  824  2026-02-18 16:28:10 exit
+  825  2026-02-19 08:29:43 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+  826  2026-02-19 08:37:21 pddr
+  827  2026-02-19 08:40:26 exit
+  828  2026-02-19 08:41:02 cd majstaf/majbin/git-commands/
+  829  2026-02-19 08:41:07 l1
+  830  2026-02-19 08:42:45 mv engt-check-reports engt-reports-check
+  831  2026-02-19 08:42:53 softlink1-fname-to-ulb engt-reports-check
+  832  2026-02-19 08:43:11 mv engt-empty-reports engt-reports-empty
+  833  2026-02-19 08:43:15 softlink1-fname-to-ulb engt-reports-empty
+  834  2026-02-19 08:43:18 l1
+  835  2026-02-19 08:43:38 mv engt-run-all engt-all
+  836  2026-02-19 08:43:44 softlink1-fname-to-ulb engt-all
+  837  2026-02-19 08:44:04 hstl
+  838  2026-02-19 08:44:41 history >> rneming-en-20260219.txt
+  839  2026-02-19 08:44:54 mv rneming-en-20260219.txt renaming-en-20260219.txt 
+  840  2026-02-19 08:44:57 vim renaming-en-20260219.txt 
+  841  2026-02-19 08:48:55 cd ~/.local/bin/
+  842  2026-02-19 08:48:58 broken-symlinks-list 
+  843  2026-02-19 08:49:16 rm engt-check-reports engt-empty-reports engt-run-all 
+  844  2026-02-19 08:49:18 broken-symlinks-list 
+  845  2026-02-19 08:49:23 cd -
+  846  2026-02-19 08:49:27 lsth
+  847  2026-02-19 08:49:41 ll
+  848  2026-02-19 08:50:15 ls1 -t
+  849  2026-02-19 08:50:18 ls -1t
+  850  2026-02-19 08:50:39 ll
+  851  2026-02-19 08:50:47 vim check-git-diffs-en 
+  852  2026-02-19 08:51:07 ./check-git-diffs-en 
+  853  2026-02-19 08:51:19 vim renaming-en-20260219.txt 
+  854  2026-02-19 08:51:45 history
+  855  2026-02-19 08:52:20 l1
+  856  2026-02-19 08:52:36 ll check-git-diffs-en engt-diffs-check-all 
+  857  2026-02-19 08:52:59 vim check-git-diffs-en engt-diffs-check-all 
+  858  2026-02-19 08:53:06 vim -O check-git-diffs-en engt-diffs-check-all 
+  859  2026-02-19 08:53:42 lsth
+  860  2026-02-19 08:54:18 rm -r $EGMJBN/git-commands/*
+  861  2026-02-19 08:54:38 cp -r ./* $EGMJBN/git-commands/
+  862  2026-02-19 08:54:43 cd $EGMJBN/git-commands/
+  863  2026-02-19 08:54:44 ll
+  864  2026-02-19 08:54:49 rm -r prejsnje-verzije/
+  865  2026-02-19 08:54:54 cd ..
+  866  2026-02-19 08:54:57 gyes-add-commit-push 
+  867  2026-02-19 08:55:09 lsth
+  868  2026-02-19 08:55:13 cd git-commands/
+  869  2026-02-19 08:55:15 lsth
+  870  2026-02-19 08:55:44 cp renaming-en-20260219.txt $EGPRNS/update_mdb/
+  871  2026-02-19 08:55:51 cp renaming-en-20260219.txt $EGPRNS/update_jbe/
+  872  2026-02-19 08:56:06 cd $EGPRNS/update_jbe/
+  873  2026-02-19 08:56:18 xit
+  874  2026-02-19 08:56:20 exit
+  875  2026-02-19 13:17:55 cd /c/Users/gregor.redelonghi/
+  876  2026-02-19 13:18:17 find -type f -iname "*cert*"
+  877  2026-02-19 13:23:27 cd
+  878  2026-02-19 13:25:55 engt-all
+  879  2026-02-19 13:26:35 cd $EGPRNS
+  880  2026-02-19 13:26:37 gst
+  881  2026-02-19 13:26:41 gyes-add-commit-push 
+  882  2026-02-19 13:26:53 engt-status 
+  883  2026-02-19 13:27:05 testing-gtgh-status-en 
+  884  2026-02-19 13:27:22 get-endiffs 
+  885  2026-02-19 13:28:33 exit
+  886  2026-02-19 10:00:13 OPNU "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\N-27070_22564_PO-Bohoriceva-DNZO\nacrt\za-mnenja\grafika\pdf"
+  887  2026-02-19 10:00:14 LL
+  888  2026-02-19 10:00:16 ll
+  889  2026-02-19 10:00:20 opnu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\N-27070_22564_PO-Bohoriceva-DNZO\nacrt\za-mnenja\grafika\pdf"
+  890  2026-02-19 10:00:22 ll
+  891  2026-02-19 10:00:25 risbe-join-en 
+  892  2026-02-19 10:02:44 opnu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\N-27070_22564_PO-Bohoriceva-DNZO\nacrt\za-mnenja"
+  893  2026-02-19 10:02:46 ll
+  894  2026-02-19 10:03:42 pdfjoin N=_CN_PO-Bohoriceva-DNZO_2.pdf R=grafika/pdf/_RISBE.pdf cat N1-13 R output _CN_PO-Bohoriceva-DNZO.pdf 
+  895  2026-02-19 10:04:15 cd
+  896  2026-02-19 10:04:17 pddr
+  897  2026-02-19 13:28:40 exit
+  898  2026-02-19 13:29:57 which wc
+  899  2026-02-19 13:30:01 man wc
+  900  2026-02-19 13:30:14 exit
+  901  2026-02-19 13:30:01 man wc
+  902  2026-02-19 13:30:14 exit
+  903  2026-02-19 13:33:13 start_time=$(date +%s); for i in {1..1000}; do echo "Processing item $i at $start_time"; done
+  904  2026-02-19 13:33:38 # Or batch operations
+  905  2026-02-19 13:33:38 { 	for i in {1..1000}; do 		echo "Processing item $i"; 	done; } | while IFS= read -r line; do 	echo "$line at $(date +%s)"; done
+  906  2026-02-19 13:33:55 start_time=$(date +%s); for i in {1..1000}; do echo "Processing item $i at $start_time"; done
+  907  2026-02-19 13:38:12 :Man grep
+  908  2026-02-19 13:38:16 man grep
+  909  2026-02-19 13:39:34 echo "MAMA JAMA AGAMA" | grep -c "MA"
+  910  2026-02-19 13:40:21 echo -e "MAMA\nJAMA\nAGAMA" | grep -c "MA"
+  911  2026-02-19 13:40:30 echo -e "MAMA\nJAMA\nAGAMA" | grep -wc "MA"
+  912  2026-02-19 13:40:40 echo -e "MAMA\nJAMA\nAGAMA" | grep -co "MA"
+  913  2026-02-19 13:40:49 man grep
+  914  2026-02-19 13:41:33 echo -e "MAMA\nJAMA\nAGAMA" | grep -o "MA"
+  915  2026-02-19 13:41:41 echo -e "MAMA\nJAMA\nAGAMA" | grep -o "MA" | wc -l
+  916  2026-02-19 13:41:51 echo -e "MAMA\nJAMA\nAGAMA" | grep -oc "MA"
+  917  2026-02-19 13:42:24 echo -e "MAMA\nJAMA\nAGAMA" | grep "AMA\|JAJA"
+  918  2026-02-19 13:42:35 echo -e "MAMA\nJAMA\nAGAMA" | grep "AM\|JAJA"
+  919  2026-02-19 13:42:45 echo -e "MAMA\nJAMA\nAGAMA" | grep "JA\|JAJA"
+  920  2026-02-19 13:43:00 echo -e "MAMA\nJAMA\nAGAMA" | grep "AJ\|JAJA"
+  921  2026-02-19 13:43:07 echo -e "MAMA\nJAMA\nAGAMA" | grep -c "AJ\|JAJA"
+  922  2026-02-19 13:43:11 echo -e "MAMA\nJAMA\nAGAMA" | grep -c "JA\|JAJA"
+  923  2026-02-19 14:39:36 man bash
+  924  2026-02-19 14:41:06 man printf
+  925  2026-02-19 15:32:55 vim
+  926  2026-02-19 15:34:40 fg %1
+  927  2026-02-19 16:13:40 tail -n 6 ~/.vimrc
+  928  2026-02-19 16:14:24 tail -n 6 ~/.vimrc >> $EGPRNS/add-to-vimrc-replace-leading-spaces-eith-tabs-20260219.txt
+  929  2026-02-19 16:14:27 vim $EGPRNS/add-to-vimrc-replace-leading-spaces-eith-tabs-20260219.txt
+  930  2026-02-19 16:15:19 cpi $EGPRNS/add-to-vimrc-replace-leading-spaces-eith-tabs-20260219.txt $MTSYS/vim_metsys/
+  931  2026-02-19 16:15:26 cpi $EGPRNS/add-to-vimrc-replace-leading-spaces-eith-tabs-20260219.txt $EGMTSYS/vim_metsys/
+  932  2026-02-19 16:15:37 cd $EGPRNS
+  933  2026-02-19 16:15:39 ll
+  934  2026-02-19 16:15:59 cp add-to-vimrc-replace-leading-spaces-eith-tabs-20260219.txt update_jbe/
+  935  2026-02-19 16:16:03 cp add-to-vimrc-replace-leading-spaces-eith-tabs-20260219.txt update_mdb/
+  936  2026-02-19 16:16:10 rm add-to-vimrc-replace-leading-spaces-eith-tabs-20260219.txt 
+  937  2026-02-19 16:16:13 gst
+  938  2026-02-19 16:16:15 gyes-add-commit-push 
+  939  2026-02-19 16:16:26 cd $EGMTSYS
+  940  2026-02-19 16:16:29 gst
+  941  2026-02-19 16:16:31 gyes-add-commit-push 
+  942  2026-02-19 16:16:38 cd
+  943  2026-02-19 16:16:45 cpi .vimrc $EGDTFJLS 
+  944  2026-02-19 16:16:48 cd $EGDTFJLS
+  945  2026-02-19 16:16:51 gyes-add-commit-push 
+  946  2026-02-19 16:17:03 vim ~/.vimr
+  947  2026-02-19 16:17:08 vim ~/.vimrc
+  948  2026-02-19 16:17:21 cd
+  949  2026-02-19 16:17:24 get-endiffs 
+  950  2026-02-19 16:24:04 exit
+  951  2026-02-19 08:56:28 cd -
+  952  2026-02-19 08:56:29 cd
+  953  2026-02-19 08:56:36 cd $MJBN/git-commands/
+  954  2026-02-19 08:56:39 lsth
+  955  2026-02-19 08:56:45 ls
+  956  2026-02-19 08:56:46 l
+  957  2026-02-19 08:56:51 cd
+  958  2026-02-19 08:56:55 engt-reports-check 
+  959  2026-02-19 08:56:59 engt-reports-empty 
+  960  2026-02-19 08:57:07 engt-diffs-check-all 
+  961  2026-02-19 08:57:44 cd $EGMJBN/git-commands/
+  962  2026-02-19 08:57:45 ll
+  963  2026-02-19 08:57:50 cd
+  964  2026-02-19 08:57:56 cd $MJBN/git-commands/
+  965  2026-02-19 08:57:57 ll
+  966  2026-02-19 08:58:01 rm -r prejsnje-verzije/
+  967  2026-02-19 08:58:05 engt-diffs-check-all 
+  968  2026-02-19 08:58:13 rbekap-DAILY-mega-gren 
+  969  2026-02-19 08:59:00 rclone about mega_gren:
+  970  2026-02-19 08:59:15 cd
+  971  2026-02-19 09:01:31 vview-mfjl-efzf 
+  972  2026-02-19 13:51:21 lsth $KNOWLEDGEDB 
+  973  2026-02-19 13:51:35 lsth -n 10 -p $KNOWLEDGEDB/_BASH
+  974  2026-02-19 13:51:47 lsth -n 10 -p $KNOWLEDGEDB/_BASH | vedit-sfjl-efzf 
+  975  2026-02-19 13:52:05 lsth --color=newer -n 10 -p $KNOWLEDGEDB/_BASH | vedit-sfjl-efzf 
+  976  2026-02-19 13:52:11 lsth
+  977  2026-02-19 13:52:51 \ls -t $KNOWLEDGEDB/_BASH | vedit-sfjl-efzf 
+  978  2026-02-19 13:53:15 \ls -t $KNOWLEDGEDB/_BASH
+  979  2026-02-19 13:53:33 \ls -t $(realpath $KNOWLEDGEDB/_BASH)
+  980  2026-02-19 13:53:44 \ls -t $(realpath "$KNOWLEDGEDB/_BASH")
+  981  2026-02-19 13:53:58 ls -t $(realpath "$KNOWLEDGEDB/_BASH")
+  982  2026-02-19 13:54:18 find $KNOWLEDGEDB/_BASH/* -type -f 
+  983  2026-02-19 13:54:21 find $KNOWLEDGEDB/_BASH/* -type f 
+  984  2026-02-19 13:54:38 find $KNOWLEDGEDB/_BASH/* -type f | grep slow
+  985  2026-02-19 13:54:45 find $KNOWLEDGEDB/_BASH/* -type f | grep slow | vim -
+  986  2026-02-19 13:55:00 find $KNOWLEDGEDB/_BASH/* -type f | grep slow | xargs -ro vim
+  987  2026-02-19 13:58:54 cd $KNOWLEDGEDB
+  988  2026-02-19 13:58:57 gyes-add-commit-push 
+  989  2026-02-19 13:59:05 cd
+  990  2026-02-19 16:19:37 cd $MTSYS/vim_metsys/
+  991  2026-02-19 16:20:13 vim vim-convert-leading-spaces-to-tabs-20260219.txt
+  992  2026-02-19 16:20:57 rewrapp vim-convert-leading-spaces-to-tabs-20260219.txt
+  993  2026-02-19 16:21:01 prepare-fjl-for-knowledgebase vim-convert-leading-spaces-to-tabs-20260219.txt
+  994  2026-02-19 16:23:00 cpi vim-convert-leading-spaces-to-tabs-20260219.txt $EGMTSYS/vim_metsys/
+  995  2026-02-19 16:23:02 cd $EGMTSYS/vim_metsys/
+  996  2026-02-19 16:23:10 cd ..
+  997  2026-02-19 16:23:15 gyes-add-commit-push 
+  998  2026-02-19 16:23:22 cd -
+  999  2026-02-19 16:23:37 cpi vim-convert-leading-spaces-to-tabs-20260219.txt $EGPRNS 
+ 1000  2026-02-19 16:23:39 cd $EGPRNS
+ 1001  2026-02-19 16:23:41 gyes-add-commit-push 
+ 1002  2026-02-19 16:23:49 cd
+ 1003  2026-02-19 16:24:12 get-endiffs 
+ 1004  2026-02-19 16:24:44 engt-status 
+ 1005  2026-02-19 16:24:51 engt-diffs-check-all 
+ 1006  2026-02-19 16:24:57 cd
+ 1007  2026-02-19 16:25:20 exit
+ 1008  2026-02-19 08:37:05 testing-gtgh-run-all-en 
+ 1009  2026-02-19 08:38:06 cd $EGPRNS
+ 1010  2026-02-19 08:38:10 git pull
+ 1011  2026-02-19 08:40:43 cd
+ 1012  2026-02-19 13:25:33 rbekap-DAILY-mega-gren 
+ 1013  2026-02-19 16:26:04 exit
+ 1014  2026-02-19 08:37:17 engt-run-all 
+ 1015  2026-02-19 08:40:50 rbekap-DAILY-mega-gren 
+ 1016  2026-02-19 10:04:31 rbekap-PROJEKTI-sync-mega-gren -y
+ 1017  2026-02-19 12:37:20 zze
+ 1018  2026-02-19 13:25:27 pddr
+ 1019  2026-02-19 16:27:35 tmxks
+ 1020  2026-02-19 08:29:38 tmxns
+ 1021  2026-02-19 16:27:37 exit
+ 1022  2026-02-20 08:50:07 cd $MJBN
+ 1023  2026-02-20 08:50:19 grep -E "hse\.si"
+ 1024  2026-02-20 08:50:28 grep -rE "hse\.si" *
+ 1025  2026-02-20 08:50:34 grepc -rE "hse\.si" *
+ 1026  2026-02-20 08:50:42 cd
+ 1027  2026-02-20 08:50:47 cd $EGMJBN
+ 1028  2026-02-20 08:50:50 grepc -rE "hse\.si" *
+ 1029  2026-02-20 08:50:55 git pull
+ 1030  2026-02-20 08:51:03 grepc -rE "hse\.si" *
+ 1031  2026-02-20 08:51:22 cd $MJBN/get-fb-mails-en/
+ 1032  2026-02-20 08:51:23 ll
+ 1033  2026-02-20 08:51:33 rm -r index.html messages/*
+ 1034  2026-02-20 08:51:50 cp $EGMJBN get-fb-mails-en messages/* messages/
+ 1035  2026-02-20 08:51:59 cp $EGMJBN/get-fb-mails-en messages/* messages/
+ 1036  2026-02-20 08:52:08 cp -r $EGMJBN/get-fb-mails-en messages/* messages/
+ 1037  2026-02-20 08:52:20 cp -r $EGMJBN/get-fb-mails-en messages/* ./messages/
+ 1038  2026-02-20 08:52:37 cp -r $EGMJBN/get-fb-mails-en/messages/* ./messages/
+ 1039  2026-02-20 08:52:47 cp -r $EGMJBN/get-fb-mails-en/index.html .
+ 1040  2026-02-20 08:52:53 grepc -rE "hse\.si" *
+ 1041  2026-02-20 08:52:57 cd
+ 1042  2026-02-20 08:53:02 cd $EGPRNS
+ 1043  2026-02-20 08:53:05 git pull
+ 1044  2026-02-20 08:53:20 cd update_en/
+ 1045  2026-02-20 08:53:21 ll
+ 1046  2026-02-20 08:53:24 cd ..
+ 1047  2026-02-20 08:53:25 ll
+ 1048  2026-02-20 08:53:42 lsth
+ 1049  2026-02-20 08:53:56 rm-r messages-celaned-hhssee-dot-ssii/ index-removed-hhssee-dot-ssii.html 
+ 1050  2026-02-20 08:54:03 rm -r messages-celaned-hhssee-dot-ssii/ index-removed-hhssee-dot-ssii.html 
+ 1051  2026-02-20 08:54:08 gyes-add-commit-push 
+ 1052  2026-02-20 08:54:18 cd
+ 1053  2026-02-20 08:54:24 cd $MJBN/get-fb-mails-en/
+ 1054  2026-02-20 08:54:31 cd messages/
+ 1055  2026-02-20 08:54:36 cat * | less
+ 1056  2026-02-20 08:54:55 ll
+ 1057  2026-02-20 08:55:06 cat 20260207-Cool\ mambo-588.txt 
+ 1058  2026-02-20 08:56:35 for FFF in *.txt; do printf "---\n"%s\n\n" $(cat "$FFF"); done | less
+ 1059  2026-02-20 08:56:52 for FFF in *.txt; do printf "---\n%s\n\n" $(cat "$FFF"); done | less
+ 1060  2026-02-20 08:57:08 for FFF in *.txt; do printf "---\n%s\n\n" "$(cat "$FFF")"; done | less
+ 1061  2026-02-20 08:57:33 for FFF in *.txt; do printf "---\n%s\n\n" "$FFF"; cat $FFF; done | less
+ 1062  2026-02-20 08:58:28 for FFF in *.txt; do printf -- "---\n%s\n\n" "$FFF"; cat $FFF; done | less
+ 1063  2026-02-20 08:58:41 for FFF in *.txt; do printf -- "---\n%s\n\n" "$FFF"; cat "$FFF"; done | less
+ 1064  2026-02-20 08:59:04 for FFF in *.txt; do printf -- "\n---\n%s\n\n" "$FFF"; cat "$FFF"; done | less
+ 1065  2026-02-20 08:59:36 for FFF in *.txt; do printf -- "\n---\n%s\n\n" "filename: $FFF"; cat "$FFF"; done | less
+ 1066  2026-02-20 09:00:47 get-fb-mails-en 
+ 1067  2026-02-20 09:10:05 yt-dlp 
+ 1068  2026-02-20 09:10:26 python3.10
+ 1069  2026-02-20 12:03:52 opnu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\N-27000_22551_obn-PO-Trg-OF_PZI\nacrt"
+ 1070  2026-02-20 12:04:01 narocilo-KOPILAB 
+ 1071  2026-02-20 12:06:02 KOPILAB1 "Naročilo: 20260220_1204_N-27000_22551_obn-PO-Trg-OF_PZI"
+ 1072  2026-02-20 12:06:19 KOPILAB1-create-pdf-name "Naročilo: 20260220_1204_N-27000_22551_obn-PO-Trg-OF_PZI"
+ 1073  2026-02-20 12:07:33 cd
+ 1074  2026-02-20 12:07:36 exit
+ 1075  2026-02-20 09:25:01 cd $MTSYS
+ 1076  2026-02-20 09:25:27 vim yt-dlp-install-on-python3-10-20260220.txt
+ 1077  2026-02-20 10:19:23 rg help
+ 1078  2026-02-20 10:19:29 man rg
+ 1079  2026-02-20 10:19:34 which rg
+ 1080  2026-02-20 10:19:41 ll
+ 1081  2026-02-20 12:02:13 cd
+ 1082  2026-02-20 12:02:17 get-endiffs 
+ 1083  2026-02-20 12:07:51 cd $MRCS
+ 1084  2026-02-20 12:08:09 cpi aliases-gredelonghi-en bashrc-prompt-* $EGMRCS 
+ 1085  2026-02-20 12:08:16 cd $EGMRCS
+ 1086  2026-02-20 12:08:18 gst
+ 1087  2026-02-20 12:08:21 gyes-add-commit-push 
+ 1088  2026-02-20 12:08:31 cd
+ 1089  2026-02-20 12:08:33 ll
+ 1090  2026-02-20 12:08:35 sbr
+ 1091  2026-02-20 12:08:37 ll
+ 1092  2026-02-20 12:08:43 exit
+ 1093  2026-02-20 08:49:05 testing-gtgh-run-all-en 
+ 1094  2026-02-20 12:10:38 exit
+ 1095  2026-02-20 09:22:19 pyrhon3.10 -m yt-dlp -F "https://www.youtube.com/watch?v=2SIhrmaqIxg"
+ 1096  2026-02-20 09:22:25 python3.10 -m yt-dlp -F "https://www.youtube.com/watch?v=2SIhrmaqIxg"
+ 1097  2026-02-20 09:23:48 python3-10 -m pip install -U "yt-dlp[default]"
+ 1098  2026-02-20 09:23:53 python3.10 -m pip install -U "yt-dlp[default]"
+ 1099  2026-02-20 09:26:07 python3.10 -m pip install --upgrade pip
+ 1100  2026-02-20 09:27:35 hstl
+ 1101  2026-02-20 09:27:49 python3.10 -m yt-dlp -h
+ 1102  2026-02-20 09:28:21 python3.10 -m pip install "yt-dlp"
+ 1103  2026-02-20 09:28:41 python3.10 -m yt-dlp
+ 1104  2026-02-20 09:29:04 opnu "c:\users\gregor.redelonghi\appdata\local\packages\pythonsoftwarefoundation.python.3.10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages"
+ 1105  2026-02-20 09:29:07 ll
+ 1106  2026-02-20 09:30:01 cd
+ 1107  2026-02-20 09:30:06 vim .bashrc
+ 1108  2026-02-20 09:30:20 cd $MRCS
+ 1109  2026-02-20 09:30:32 vim bashrc-gredelonghi-en 
+ 1110  2026-02-20 09:31:48 sbr
+ 1111  2026-02-20 09:31:54 yt-dlp
+ 1112  2026-02-20 09:32:09 opnu "'C:\Users\gregor.redelonghi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts"
+ 1113  2026-02-20 09:32:17 opnu "C:\Users\gregor.redelonghi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts"
+ 1114  2026-02-20 09:32:19 ll
+ 1115  2026-02-20 09:32:34 mv yt-dlp.exe yt-dlp3.exe 
+ 1116  2026-02-20 09:32:35 cd
+ 1117  2026-02-20 09:32:40 yt-dlp3
+ 1118  2026-02-20 09:32:48 sbr
+ 1119  2026-02-20 09:32:52 yt-dlp3
+ 1120  2026-02-20 09:33:04 which yt-dlp
+ 1121  2026-02-20 09:33:09 cd /usr/local/bin/
+ 1122  2026-02-20 09:33:10 ll
+ 1123  2026-02-20 09:33:24 mv yt-dlp{,-staro}
+ 1124  2026-02-20 09:33:34 man ln
+ 1125  2026-02-20 09:33:47 ll
+ 1126  2026-02-20 09:34:00 touch SRC
+ 1127  2026-02-20 09:34:09 ln -s SRC majsrc
+ 1128  2026-02-20 09:34:10 ll
+ 1129  2026-02-20 09:34:24 echo "OH" >> SRC 
+ 1130  2026-02-20 09:34:27 catr majsrc 
+ 1131  2026-02-20 09:34:31 cat majsrc 
+ 1132  2026-02-20 09:35:39 ln -s $(cygpath -u "C:\Users\gregor.redelonghi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts\yt-dlp3.exe" yt-dlp3
+ 1133  2026-02-20 09:35:50 ln -s $(cygpath -u "C:\Users\gregor.redelonghi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts\yt-dlp3.exe") yt-dlp3
+ 1134  2026-02-20 09:35:52 ll
+ 1135  2026-02-20 09:35:57 ./yt-dlp
+ 1136  2026-02-20 09:36:07 ./yt-dlp3
+ 1137  2026-02-20 09:36:33 ./yt-dlp3 -F "https://www.facebook.com/reel/1154929202695307"
+ 1138  2026-02-20 09:37:45 ./yt-dlp3 -f 1184097173666544v "https://www.facebook.com/reel/1154929202695307"
+ 1139  2026-02-20 09:39:06 ./yt-dlp3 -f hd "https://www.facebook.com/reel/1154929202695307"
+ 1140  2026-02-20 09:39:26 yt-dlp3 -h
+ 1141  2026-02-20 09:39:29 yt-dlp3 -h | less
+ 1142  2026-02-20 09:40:23 which ydlF
+ 1143  2026-02-20 09:40:29 type ydlF
+ 1144  2026-02-20 09:40:54 ll
+ 1145  2026-02-20 09:40:57 cd
+ 1146  2026-02-20 09:41:04 cd $MRCS
+ 1147  2026-02-20 09:41:07 vim aliases-gredelonghi-en 
+ 1148  2026-02-20 09:41:35 sbr
+ 1149  2026-02-20 09:41:39 cd $BRISI
+ 1150  2026-02-20 09:41:53 ydlF "https://www.facebook.com/reel/1154929202695307"
+ 1151  2026-02-20 09:42:41 ydl -f 1620138815817246v "https://www.facebook.com/reel/1154929202695307"
+ 1152  2026-02-20 09:43:39 echo "https://www.facebook.com/reel/1154929202695307"
+ 1153  2026-02-20 09:47:58 ydl -f 1620138815817246v -o "salsa.%(ext)s" "https://www.facebook.com/reel/1154929202695307"
+ 1154  2026-02-20 09:48:04 ll
+ 1155  2026-02-20 09:48:10 fm
+ 1156  2026-02-20 09:48:40 ydl -f -o "salsa2.%(ext)s" "https://www.facebook.com/reel/1154929202695307"
+ 1157  2026-02-20 09:48:56 ydl -o "salsa2.%(ext)s" "https://www.facebook.com/reel/1154929202695307"
+ 1158  2026-02-20 09:50:14 ydlF "https://www.facebook.com/reel/1154929202695307"
+ 1159  2026-02-20 09:50:40 ydl -f "1620138815817246v" -o "salsa2.%(ext)s" "https://www.facebook.com/reel/1154929202695307"
+ 1160  2026-02-20 09:50:59 ydl -f "1620138815817246v" -o "salsa3.%(ext)s" "https://www.facebook.com/reel/1154929202695307"
+ 1161  2026-02-20 09:51:26 ydl -o "salsa3.%(ext)s" "https://www.facebook.com/reel/1154929202695307"
+ 1162  2026-02-20 09:52:58 hstl
+ 1163  2026-02-20 09:53:19 cd $SZNM
+ 1164  2026-02-20 09:53:20 ll
+ 1165  2026-02-20 09:53:23 l
+ 1166  2026-02-20 09:53:44 vim clean-seznami-commands-list-awk-cut-sed-combo-20161202.onl.txt 
+ 1167  2026-02-20 09:54:48 cat hstl-en-202* | sort -c
+ 1168  2026-02-20 09:54:57 cat hstl-en-202*
+ 1169  2026-02-20 09:55:29 cat hstl-en-202* | cut -b 21-
+ 1170  2026-02-20 09:55:34 cat hstl-en-202* | cut -b 28-
+ 1171  2026-02-20 09:55:45 cat hstl-en-202* | cut -b 28- | less
+ 1172  2026-02-20 09:55:58 cat hstl-en-202* | cut -b 28- | sort | uniq -c
+ 1173  2026-02-20 09:56:41 cat hstl-en-202* | cut -b 28- | sort | uniq -c | cut -b 10-
+ 1174  2026-02-20 09:56:48 cat hstl-en-202* | cut -b 28- | sort | uniq -c | cut -b 9-
+ 1175  2026-02-20 09:57:11 cat hstl-en-202* | cut -b 28- | sort | uniq -c | cut -b 9- >> __COMMANDS-20260220.txt
+ 1176  2026-02-20 09:57:15 vim __COMMANDS-20260220.txt
+ 1177  2026-02-20 10:23:03 ll
+ 1178  2026-02-20 10:23:04 l
+ 1179  2026-02-20 10:23:07 lsth
+ 1180  2026-02-20 10:23:11 l
+ 1181  2026-02-20 10:23:48 cp __COMMANDS-20260220.txt commands-history-list-en-by-20260220.txt
+ 1182  2026-02-20 10:23:56 rm hstl-en-202*
+ 1183  2026-02-20 10:23:59 ll
+ 1184  2026-02-20 10:24:04 rm __COMMANDS-20260220.txt 
+ 1185  2026-02-20 10:24:05 ll
+ 1186  2026-02-20 10:24:26 cpi commands-history-list-en-by-20260220.txt $EGSZNM 
+ 1187  2026-02-20 10:24:29 cd $EGSZNM
+ 1188  2026-02-20 10:24:30 l
+ 1189  2026-02-20 10:24:36 gst
+ 1190  2026-02-20 10:24:39 gyes-add-commit-push 
+ 1191  2026-02-20 10:24:47 cd
+ 1192  2026-02-20 10:24:50 ll
+ 1193  2026-02-20 10:24:59 cd majstaf/majrcs/
+ 1194  2026-02-20 10:25:07 l
+ 1195  2026-02-20 10:25:13 vim bashrc-gredelonghi-en 
+ 1196  2026-02-20 10:26:10 vim bashrc-prompt-*
+ 1197  2026-02-20 10:29:13 sbr
+ 1198  2026-02-20 10:29:18 prompt-switch 
+ 1199  2026-02-20 10:29:46 vim bashrc-prompt-color-gredelonghi-en 
+ 1200  2026-02-20 10:32:37 sbr
+ 1201  2026-02-20 10:32:41 prompt-switch 
+ 1202  2026-02-20 10:32:46 ll
+ 1203  2026-02-20 10:33:05 vim bashrc-prompt-color-gredelonghi-en 
+ 1204  2026-02-20 10:33:55 sbr
+ 1205  2026-02-20 10:33:58 prompt-switch 
+ 1206  2026-02-20 10:34:05 ll
+ 1207  2026-02-20 10:34:40 cd $EGPRNS
+ 1208  2026-02-20 10:34:47 ll
+ 1209  2026-02-20 10:35:08 vim bashrc-prompt-color-gredelonghi-en 
+ 1210  2026-02-20 10:35:14 cd -
+ 1211  2026-02-20 10:35:18 ll
+ 1212  2026-02-20 10:35:28 cd $EGPRNS
+ 1213  2026-02-20 10:35:35 cd -
+ 1214  2026-02-20 10:35:42 vim bashrc-prompt-color-gredelonghi-en 
+ 1215  2026-02-20 10:36:50 sbr
+ 1216  2026-02-20 10:37:00 prompt-switch 
+ 1217  2026-02-20 10:37:05 ll
+ 1218  2026-02-20 10:37:25 vim bashrc-prompt-color-gredelonghi-en 
+ 1219  2026-02-20 10:37:56 vim bashrc-prompt-nerd-gredelonghi-en 
+ 1220  2026-02-20 10:40:46 sbr
+ 1221  2026-02-20 10:40:52 prompt-switch 
+ 1222  2026-02-20 10:40:56 ll
+ 1223  2026-02-20 10:41:09 vim bashrc-prompt-nerd-gredelonghi-en 
+ 1224  2026-02-20 10:41:30 vim bashrc-prompt-*
+ 1225  2026-02-20 10:43:55 sbr
+ 1226  2026-02-20 10:43:57 ll
+ 1227  2026-02-20 10:44:00 l
+ 1228  2026-02-20 10:44:08 prompt-switch 
+ 1229  2026-02-20 10:44:16 ll
+ 1230  2026-02-20 10:44:43 vim bashrc-prompt-base-gredelonghi-en 
+ 1231  2026-02-20 10:46:17 sbr
+ 1232  2026-02-20 10:46:23 prompt-switch 
+ 1233  2026-02-20 10:46:38 ll
+ 1234  2026-02-20 10:46:45 vim bashrc-prompt-base-gredelonghi-en 
+ 1235  2026-02-20 10:49:01 sbr
+ 1236  2026-02-20 10:49:04 prompt-switch 
+ 1237  2026-02-20 10:49:14 vim bashrc-prompt-base-gredelonghi-en 
+ 1238  2026-02-20 10:50:38 sbr
+ 1239  2026-02-20 10:50:41 prompt-switch 
+ 1240  2026-02-20 10:50:46 ll
+ 1241  2026-02-20 10:51:11 vim -O bashrc-prompt-ba*
+ 1242  2026-02-20 10:52:34 sbr
+ 1243  2026-02-20 10:52:37 ll
+ 1244  2026-02-20 10:52:44 prompt-switch 
+ 1245  2026-02-20 10:52:50 ll
+ 1246  2026-02-20 10:52:57 vim -O bashrc-prompt-ba*
+ 1247  2026-02-20 10:53:44 sbr
+ 1248  2026-02-20 10:53:52 prompt-switch 
+ 1249  2026-02-20 10:53:55 ll
+ 1250  2026-02-20 10:53:59 vim -O bashrc-prompt-ba*
+ 1251  2026-02-20 10:57:46 sbr
+ 1252  2026-02-20 10:57:51 prompt-switch 
+ 1253  2026-02-20 10:57:59 cd $EGMRCS
+ 1254  2026-02-20 10:58:02 ll
+ 1255  2026-02-20 10:58:20 vim -O bashrc-prompt-ba*
+ 1256  2026-02-20 11:00:59 sbr
+ 1257  2026-02-20 11:01:09 prompt-switch 
+ 1258  2026-02-20 11:01:15 ll
+ 1259  2026-02-20 11:01:43 cpi bashrc-prompt-base-gredelonghi-en $MRCS 
+ 1260  2026-02-20 11:01:46 sbr
+ 1261  2026-02-20 11:01:49 prompt-switch 
+ 1262  2026-02-20 11:01:53 ll
+ 1263  2026-02-20 11:01:54 cd
+ 1264  2026-02-20 11:01:55 ll
+ 1265  2026-02-20 11:02:00 cd $MRCS
+ 1266  2026-02-20 11:02:07 vim bashrc-prompt-base-gredelonghi-en 
+ 1267  2026-02-20 11:03:13 sbr
+ 1268  2026-02-20 11:03:23 prompt-switch 
+ 1269  2026-02-20 11:03:27 ll
+ 1270  2026-02-20 11:03:32 prompt-switch 
+ 1271  2026-02-20 11:03:43 vim bashrc-prompt-base-gredelonghi-en 
+ 1272  2026-02-20 11:04:51 ll
+ 1273  2026-02-20 11:04:53 sbr
+ 1274  2026-02-20 11:05:12 vim -O bashrc-prompt-ba*
+ 1275  2026-02-20 11:06:06 sbr
+ 1276  2026-02-20 11:06:10 prompt-switch 
+ 1277  2026-02-20 11:06:23 ll
+ 1278  2026-02-20 11:06:32 sbr
+ 1279  2026-02-20 11:06:41 vim bashrc-prompt-base-gredelonghi-en 
+ 1280  2026-02-20 11:07:42 sbr
+ 1281  2026-02-20 11:07:47 prompt-switch 
+ 1282  2026-02-20 11:07:51 ll
+ 1283  2026-02-20 11:07:56 cd
+ 1284  2026-02-20 11:55:04 prs
+ 1285  2026-02-20 11:55:21 prsn
+ 1286  2026-02-20 11:55:24 prcb
+ 1287  2026-02-20 11:55:27 prsb
+ 1288  2026-02-20 11:55:28 ll
+ 1289  2026-02-20 11:57:51 majapps-launch-en 
+ 1290  2026-02-20 12:08:56 engt-diffs-check-all 
+ 1291  2026-02-20 12:09:25 cd $EGMTSYS
+ 1292  2026-02-20 12:09:27 gst
+ 1293  2026-02-20 12:09:31 gyes-add-commit-push 
+ 1294  2026-02-20 12:09:39 cd
+ 1295  2026-02-20 12:09:47 cd majstaf/majbin/get-fb-mails-en/
+ 1296  2026-02-20 12:09:50 cd messages/
+ 1297  2026-02-20 12:09:50 l
+ 1298  2026-02-20 12:09:54 rm get-fb-mails-en 
+ 1299  2026-02-20 12:09:56 cd
+ 1300  2026-02-20 12:10:08 cd $EGMJBN/get-fb-mails-en/messages/
+ 1301  2026-02-20 12:10:18 cd
+ 1302  2026-02-20 12:10:21 get-d
+ 1303  2026-02-20 12:10:26 engt-diffs-check-all 
+ 1304  2026-02-20 12:12:24 cd $MJBN/git-commands/
+ 1305  2026-02-20 12:12:25 ll
+ 1306  2026-02-20 12:13:25 mv testing-gtgh-run-all-en testing-all-en
+ 1307  2026-02-20 12:13:31 softlink1-fname-to-ulb testing-all-en
+ 1308  2026-02-20 12:13:39 cd ~/.local/bin/
+ 1309  2026-02-20 12:13:43 broken-symlinks-list 
+ 1310  2026-02-20 12:14:10 ll
+ 1311  2026-02-20 12:14:20 rm testing-gtgh-run-all-en 
+ 1312  2026-02-20 12:14:23 l1
+ 1313  2026-02-20 12:14:28 ll
+ 1314  2026-02-20 12:14:31 ll |less
+ 1315  2026-02-20 12:14:45 rm prejsnje-verzije 
+ 1316  2026-02-20 12:14:51 broken-symlinks-list 
+ 1317  2026-02-20 12:14:59 vim ./broken-symlinks-list 
+ 1318  2026-02-20 12:15:47 find * | xargs -ro file
+ 1319  2026-02-20 12:15:58 find * | xargs -I{} file {}
+ 1320  2026-02-20 12:16:13 find -type f | xargs -I{} file {}
+ 1321  2026-02-20 12:16:16 find -type f
+ 1322  2026-02-20 12:16:28 find * -type f
+ 1323  2026-02-20 12:16:29 ll
+ 1324  2026-02-20 12:16:37 find * -type l
+ 1325  2026-02-20 12:16:48 find * -type l | xargs -ro file
+ 1326  2026-02-20 12:17:07 find * -type l | xargs -ro stat
+ 1327  2026-02-20 12:17:10 find * -type l | xargs -r stat
+ 1328  2026-02-20 12:17:23 find * -type l | xargs -I{} stat {}
+ 1329  2026-02-20 12:17:30 find * -type l | xargs -I{} ls -l {}
+ 1330  2026-02-20 12:17:34 find * -type l
+ 1331  2026-02-20 12:17:38 find * -type l |wc -l
+ 1332  2026-02-20 12:18:05 find * -type l -print0 | xargs -0 ls -l
+ 1333  2026-02-20 12:18:18 cd $MJBN
+ 1334  2026-02-20 12:18:23 find -executable
+ 1335  2026-02-20 12:18:33 find -executable |xargs ls -l
+ 1336  2026-02-20 12:18:44 xargs help
+ 1337  2026-02-20 12:18:47 man xargs
+ 1338  2026-02-20 12:19:02 find -executable |xargs ls -l
+ 1339  2026-02-20 12:19:39 xargs --show-limits
+ 1340  2026-02-20 12:19:46 xargs 
+ 1341  2026-02-20 12:19:59 exit
+ 1342  2026-02-20 08:49:21 engt-all 
+ 1343  2026-02-20 12:10:55 testing-gtgh-run-all-en 
+ 1344  2026-02-20 12:11:56 engt-all 
+ 1345  2026-02-20 16:08:35 rbekap-DAILY-mega-gren 
+ 1346  2026-02-20 16:13:02 tmxks
+ 1347  2026-02-20 08:48:49 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+ 1348  2026-02-20 08:49:56 pddr
+ 1349  2026-02-20 08:48:44 tmxns
+ 1350  2026-02-20 16:13:05 exit
+ 1351  2026-02-20 12:20:08 xargs --show-limits
+ 1352  2026-02-20 12:20:16 cd .local/bin/
+ 1353  2026-02-20 12:20:20 broken-symlinks-list 
+ 1354  2026-02-20 12:20:28 cd
+ 1355  2026-02-20 12:20:36 cd $MJBN/git-commands/
+ 1356  2026-02-20 12:20:41 engt-diffs-check-all 
+ 1357  2026-02-20 12:21:04 cd $EGMJBN/git-commands/
+ 1358  2026-02-20 12:21:05 l
+ 1359  2026-02-20 12:21:06 ll
+ 1360  2026-02-20 12:21:13 rm testing-gtgh-run-all-en 
+ 1361  2026-02-20 12:21:14 ll
+ 1362  2026-02-20 12:21:28 cd ..
+ 1363  2026-02-20 12:21:30 gst
+ 1364  2026-02-20 12:21:33 gyes-add-commit-push 
+ 1365  2026-02-20 12:21:40 cd
+ 1366  2026-02-20 12:21:49 cd $EGPRNS/update_en/
+ 1367  2026-02-20 12:21:50 ll
+ 1368  2026-02-20 12:21:53 cd ..
+ 1369  2026-02-20 12:21:57 tree update_*
+ 1370  2026-02-20 12:22:09 cd
+ 1371  2026-02-20 13:27:07 cd $KNOWLEDGEDB
+ 1372  2026-02-20 13:27:20 find -* -newermt "20260215"
+ 1373  2026-02-20 13:27:24 find * -newermt "20260215"
+ 1374  2026-02-20 13:27:38 find $PWD -newermt "20260215"
+ 1375  2026-02-20 13:27:49 find $PWD/* -newermt "20260215"
+ 1376  2026-02-20 13:28:01 find $PWD/* -newermt "20260215" -type f
+ 1377  2026-02-20 13:28:10 find $PWD/* -newermt "20260210" -type f 
+ 1378  2026-02-20 13:28:16 find $PWD/* -newermt "20260210" -type f | vim -p
+ 1379  2026-02-20 13:28:24 find $PWD/* -newermt "20260210" -type f | vim -p -
+ 1380  2026-02-20 13:28:44 find $PWD/* -newermt "20260210" -type f | xargs -ro vim -p
+ 1381  2026-02-20 13:39:21 cd
+ 1382  2026-02-20 13:39:28 cd $MTSYS/vim_metsys/
+ 1383  2026-02-20 13:39:36 cp vim-
+ 1384  2026-02-20 13:39:38 lsth
+ 1385  2026-02-20 13:40:07 cpi vim-sort-kesy-of-assoc-array-before-itrating-over-20260220.txt $EGMTSYS/vim_metsys/
+ 1386  2026-02-20 13:40:11 cpi vim-sort-kesy-of-assoc-array-before-itrating-over-20260220.txt $EGPRNS 
+ 1387  2026-02-20 13:40:14 cd $EGPRNS
+ 1388  2026-02-20 13:40:15 ll
+ 1389  2026-02-20 13:40:38 cp vim-convert-leading-spaces-to-tabs-20260219.txt vim-sort-kesy-of-assoc-array-before-itrating-over-20260220.txt update_jbe/
+ 1390  2026-02-20 13:40:42 cp vim-convert-leading-spaces-to-tabs-20260219.txt vim-sort-kesy-of-assoc-array-before-itrating-over-20260220.txt update_mdb/
+ 1391  2026-02-20 13:40:56 rm vim-sort-kesy-of-assoc-array-before-itrating-over-20260220.txt vim-convert-leading-spaces-to-tabs-20260219.txt 
+ 1392  2026-02-20 13:40:59 gst
+ 1393  2026-02-20 13:41:04 gyes-add-commit-push 
+ 1394  2026-02-20 13:41:13 cd ../metsys_en/
+ 1395  2026-02-20 13:41:15 gst
+ 1396  2026-02-20 13:41:17 gyes-add-commit-push 
+ 1397  2026-02-20 13:41:24 cd
+ 1398  2026-02-20 13:41:29 ll
+ 1399  2026-02-20 13:41:31 cd
+ 1400  2026-02-20 13:41:38 engt-diffs-check-all 
+ 1401  2026-02-20 13:42:01 get-endiffs 
+ 1402  2026-02-20 13:44:06 cpi $MRCS/bashrc-gredelonghi-en $EGMRCS 
+ 1403  2026-02-20 13:44:10 cd $EGMRCS
+ 1404  2026-02-20 13:44:12 gyes-add-commit-push 
+ 1405  2026-02-20 13:44:21 cd -
+ 1406  2026-02-20 13:44:25 get-endiffs 
+ 1407  2026-02-20 13:44:55 bps
+ 1408  2026-02-20 13:44:57 psb
+ 1409  2026-02-20 13:45:00 psn
+ 1410  2026-02-20 13:45:17 ll ~/.local/bin/p*
+ 1411  2026-02-20 13:45:49 which prompt-switch 
+ 1412  2026-02-20 13:45:54 type prompt-switch 
+ 1413  2026-02-20 13:51:03 psb
+ 1414  2026-02-20 13:51:05 psn
+ 1415  2026-02-20 13:51:09 psb
+ 1416  2026-02-20 13:51:15 psr
+ 1417  2026-02-20 13:51:37 psc
+ 1418  2026-02-20 13:51:44 pss
+ 1419  2026-02-20 13:52:08 grep prompt $MRCS/funclist-en 
+ 1420  2026-02-20 13:52:22 type psb
+ 1421  2026-02-20 13:53:11 grep ps $MRCS/funclist-en 
+ 1422  2026-02-20 13:53:18 psw
+ 1423  2026-02-20 13:53:21 psv
+ 1424  2026-02-20 13:53:39 vim $MRCS/funclist-en
+ 1425  2026-02-20 13:54:03 prs
+ 1426  2026-02-20 13:54:08 prsb
+ 1427  2026-02-20 13:54:11 pesn
+ 1428  2026-02-20 13:54:14 prsn
+ 1429  2026-02-20 13:54:17 psb
+ 1430  2026-02-20 13:54:20 ll
+ 1431  2026-02-20 13:54:45 cd $EGPRNS
+ 1432  2026-02-20 13:55:21 vim update-bashrc-prompts-20260220.txt
+ 1433  2026-02-20 13:56:39 cp update-bashrc-prompts-20260220.txt update_jbe/
+ 1434  2026-02-20 13:56:44 cp update-bashrc-prompts-20260220.txt update_mdb
+ 1435  2026-02-20 13:56:51 rm update-bashrc-prompts-20260220.txt 
+ 1436  2026-02-20 13:56:54 ll update_*
+ 1437  2026-02-20 13:56:59 ll -d update_*
+ 1438  2026-02-20 13:57:05 ll
+ 1439  2026-02-20 13:57:15 gst
+ 1440  2026-02-20 13:57:17 gyes-add-commit-push 
+ 1441  2026-02-20 13:57:26 cd $MJBN
+ 1442  2026-02-20 13:57:46 find -type f -executable -newermt "20260201"
+ 1443  2026-02-20 13:58:09 find -type f -newermt "20260201" | grep -v "\.txt"
+ 1444  2026-02-20 13:58:21 vim add-file-to-prenos-en 
+ 1445  2026-02-20 13:58:58 ll
+ 1446  2026-02-20 13:59:01 cd -
+ 1447  2026-02-20 13:59:04 lsth
+ 1448  2026-02-20 13:59:28 cd
+ 1449  2026-02-20 13:59:31 engt-diffs-check-all 
+ 1450  2026-02-20 13:59:38 get-endiffs 
+ 1451  2026-02-20 14:00:18 cd
+ 1452  2026-02-20 14:00:22 psn
+ 1453  2026-02-20 14:00:24 ll
+ 1454  2026-02-20 14:00:52 psn
+ 1455  2026-02-20 14:00:55 psb
+ 1456  2026-02-20 14:00:56 ll
+ 1457  2026-02-20 14:01:16 engt-diffs-check-all 
+ 1458  2026-02-20 14:01:23 ll
+ 1459  2026-02-20 14:02:06 get-fb-mails-en 
+ 1460  2026-02-20 14:09:17 cd majstaf/majbin/get-fb-mails-en/
+ 1461  2026-02-20 14:09:18 ll
+ 1462  2026-02-20 14:09:31 cp get-fb-mails-en{,-backup-20260220}
+ 1463  2026-02-20 14:09:37 vim get-fb-mails-en
+ 1464  2026-02-20 14:13:21 get-fb-mails-en 
+ 1465  2026-02-20 14:13:34 vim get-fb-mails-en
+ 1466  2026-02-20 14:14:42 get-fb-mails-en 
+ 1467  2026-02-20 14:15:11 vim get-fb-mails-en
+ 1468  2026-02-20 14:15:21 get-fb-mails-en 
+ 1469  2026-02-20 14:15:30 :q
+ 1470  2026-02-20 14:15:32 vim get-fb-mails-en
+ 1471  2026-02-20 14:15:53 get-fb-mails-en 
+ 1472  2026-02-20 14:16:03 vim get-fb-mails-en
+ 1473  2026-02-20 14:16:59 get-fb-mails-en 
+ 1474  2026-02-20 14:17:07 vim get-fb-mails-en
+ 1475  2026-02-20 14:18:10 get-fb-mails-en 
+ 1476  2026-02-20 14:18:20 vim get-fb-mails-en
+ 1477  2026-02-20 14:18:52 get-fb-mails-en 
+ 1478  2026-02-20 14:19:18 vim get-fb-mails-en
+ 1479  2026-02-20 14:19:53 get-fb-mails-en 
+ 1480  2026-02-20 14:20:10 vim get-fb-mails-en
+ 1481  2026-02-20 14:20:31 get-fb-mails-en 
+ 1482  2026-02-20 14:21:00 ll
+ 1483  2026-02-20 14:21:09 dif get-fb-mails-en get-fb-mails-en-backup-20260220 
+ 1484  2026-02-20 14:21:14 diff get-fb-mails-en get-fb-mails-en-backup-20260220 
+ 1485  2026-02-20 14:21:17 ll
+ 1486  2026-02-20 14:21:20 rm get-fb-mails-en
+ 1487  2026-02-20 14:21:29 mv get-fb-mails-en{-backup-20260220,} 
+ 1488  2026-02-20 14:21:30 ll
+ 1489  2026-02-20 14:21:32 cd
+ 1490  2026-02-20 14:21:34 get-endiffs 
+ 1491  2026-02-20 14:22:31 engt-diffs-check-all 
+ 1492  2026-02-20 14:24:09 rbekap-DAILY-mega-gren 
+ 1493  2026-02-20 14:27:06 go doc csv
+ 1494  2026-02-20 14:27:12 go doc csv | less
+ 1495  2026-02-20 14:27:26 go doc csv.NewReader
+ 1496  2026-02-20 14:28:21 go doc csv.Reader
+ 1497  2026-02-20 14:39:40 cd $MJBN
+ 1498  2026-02-20 14:39:49 vim add-file-to-prenos-en 
+ 1499  2026-02-20 14:41:13 add-file-to-prenos-en -h
+ 1500  2026-02-20 14:41:17 add-file-to-prenos-en
+ 1501  2026-02-20 14:41:51 cd
+ 1502  2026-02-20 14:41:57 ll
+ 1503  2026-02-20 14:42:04 touch BRISIME.txt
+ 1504  2026-02-20 14:42:12 add-file-to-prenos-en -fB BRISIME.txt 
+ 1505  2026-02-20 14:42:19 add-file-to-prenos-en -f BRISIME.txt 
+ 1506  2026-02-20 14:42:23 add-file-to-prenos-en -fBRISIME.txt 
+ 1507  2026-02-20 14:42:29 add-file-to-prenos-en -h
+ 1508  2026-02-20 14:42:42 cd
+ 1509  2026-02-20 14:44:15 cd $MJBN
+ 1510  2026-02-20 14:44:19 cd get-fb-mails-en/
+ 1511  2026-02-20 14:44:21 vim get-fb-mails-en 
+ 1512  2026-02-20 16:13:07 exit
+ 1513  2026-02-23 08:38:37 engt-all 
+ 1514  2026-02-23 09:17:51 ure
+ 1515  2026-02-23 11:34:46 exit
+ 1516  2026-02-23 08:38:26 testing-r
+ 1517  2026-02-23 08:38:29 testing-all-en 
+ 1518  2026-02-23 08:42:28 engt-reports-empty 
+ 1519  2026-02-23 11:34:51 rbekap-DAILY-mega-gren 
+ 1520  2026-02-23 14:27:55 tmxks
+ 1521  2026-02-23 08:31:39 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+ 1522  2026-02-23 08:38:40 pddr
+ 1523  2026-02-23 08:41:43 cd $EGPRNS
+ 1524  2026-02-23 08:41:46 git pull
+ 1525  2026-02-23 08:42:08 tree update_*
+ 1526  2026-02-23 08:42:11 cd -
+ 1527  2026-02-23 09:23:24 rbekap-DAILY-mega-gren 
+ 1528  2026-02-23 11:34:43 pddr
+ 1529  2026-02-23 08:31:34 tmxns
+ 1530  2026-02-23 14:27:57 exit
+ 1531  2026-02-20 14:44:19 cd get-fb-mails-en/
+ 1532  2026-02-20 14:44:21 vim get-fb-mails-en 
+ 1533  2026-02-20 16:13:07 exit
+ 1534  2026-02-23 11:06:33 cd $DANES
+ 1535  2026-02-23 11:07:23 lynx-multi-dump-fromlist-en $BRISI/nasa-rules-list.txt nasa-power-of-10-coding-rules
+ 1536  2026-02-23 11:07:31 vim nasa-power-of-10-coding-rules-multif-20260223.txt 
+ 1537  2026-02-23 11:18:12 prepare-fjl-for-knowledgebase nasa-power-of-10-coding-rules-multif-20260223.txt 
+ 1538  2026-02-23 11:25:07 ll
+ 1539  2026-02-23 11:25:36 knowledgedb-move-file-to-category nasa-power-of-10-coding-rules-multif-20260223.txt 
+ 1540  2026-02-23 11:25:44 ll
+ 1541  2026-02-23 11:25:47 cd $KNOWLEDGEDB
+ 1542  2026-02-23 11:25:51 gst
+ 1543  2026-02-23 11:25:54 gyes-add-commit-push 
+ 1544  2026-02-23 11:26:09 cd
+ 1545  2026-02-23 11:26:15 psn
+ 1546  2026-02-23 11:26:16 ll
+ 1547  2026-02-23 11:26:18 psb
+ 1548  2026-02-23 11:27:48 opnu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI"
+ 1549  2026-02-23 11:27:59 find -type f -iname "*rekapit*"
+ 1550  2026-02-23 11:31:26 ll
+ 1551  2026-02-23 11:31:29 cd
+ 1552  2026-02-23 12:52:10 cd $DANES
+ 1553  2026-02-23 12:52:38 lynxd "https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime" ptn-hours-minutes-to-time
+ 1554  2026-02-23 12:52:44 prepare-fjl-for-knowledgebase ptn-hours-minutes-to-time-20260223.txt 
+ 1555  2026-02-23 12:55:08 knowledgedb-move-file-to-category 
+ 1556  2026-02-23 12:55:13 knowledgedb-move-file-to-category ptn-hours-minutes-to-time-20260223.txt 
+ 1557  2026-02-23 12:55:18 ll
+ 1558  2026-02-23 12:55:20 cd
+ 1559  2026-02-23 13:00:37 s2 
+ 1560  2026-02-23 13:07:35 "Check out 20260223 - 1305" """
+ 1561  2026-03-03 10:49:56 tiny Linux tools I depend on every day:
+ 1562  2026-03-03 10:49:56 https://www.youtube.com/watch?v=mRT31iYaWOw
+ 1563  2026-03-03 10:49:56 Desc:
+ 1564  2026-03-03 10:49:56 links to literally everything below. common q&a in pinned comment!
+ 1565  2026-03-03 10:49:56 the song I had playing is worth a listen:    • CELL - Security
+ 1566  2026-03-03 10:49:56 playerctl: https://github.com/altdesktop/playerctl
+ 1567  2026-03-03 10:49:56 manual page for it: https://man.archlinux.org/man/playerc...
+ 1568  2026-03-03 10:49:56 MPRIS spec: https://wiki.archlinux.org/title/MPRIS
+ 1569  2026-03-03 10:49:56 mpd-mpris: https://github.com/natsukagami/mpd-mpris
+ 1570  2026-03-03 10:49:56 rmpc: https://github.com/mierak/rmpc
+ 1571  2026-03-03 10:49:56 my vid on rmpc:    • the dream music player, finally.
+ 1572  2026-03-03 10:49:56 my vid on mpd:    • playing music on Linux (the simple way)
+ 1573  2026-03-03 10:49:56 original vid breaking down my music block script:    • writing shell scripts for my statusbar
+ 1574  2026-03-03 10:49:56 rewrite of said script:    • YOU make my shell scripts better :^)
+ 1575  2026-03-03 10:49:56 script: https://github.com/BreadOnPenguins/sc...
+ 1576  2026-03-03 10:49:56 ---
+ 1577  2026-03-03 10:49:56 bat: https://github.com/sharkdp/bat
+ 1578  2026-03-03 10:49:56 my shell aliases: https://github.com/BreadOnPenguins/do...
+ 1579  2026-03-03 10:49:56 stats script: https://github.com/BreadOnPenguins/sc...
+ 1580  2026-03-03 10:49:56 my vid on bat: https://www.youtube.com/watch?v=90sZYRoe-fo
+ 1581  2026-03-03 10:49:56 lm_sensors: https://github.com/lm-sensors/lm-sensors
+ 1582  2026-03-03 10:49:56 	how to set them up:
+ 1583  2026-03-03 10:49:56 		https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblBmc19Tb09IZFpPaE82VTl0cHp1VWxYM1RpQXxBQ3Jtc0tsTUhOYmR1NlIyT3NtM1R1X2xya2FQUGZHS0RKU1dGUU1QeXZZdUl3SHloeXpidEdWNC1WWHJsc2IydnotZGVVVjlsMGhqY1E2M1daYXpmX2Q1YmpjaHpkemxpMm93WUV2YThYczBCdkRXd1pFMzFUdw&q=https%3A%2F%2Fwiki.archlinux.org%2Ftitle%2FLm_sensors&v=mRT31iYaWOw
+ 1584  2026-03-03 10:49:56 xclip: https://github.com/astrand/xclip
+ 1585  2026-03-03 10:49:56 xsel: https://github.com/kfish/xsel
+ 1586  2026-03-03 10:49:56 wl-clipboard: https://github.com/bugaevc/wl-clipboard
+ 1587  2026-03-03 10:49:56 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01QajNtQ0R1Ri1sTUFsejFVWDBGUnlyeDBaUXxBQ3Jtc0trR3JQMVl4SW96eHhkQVZHVVdXbzN2SGwxdmlSWmFZdlRVVGh4X2tLR2dqTWJqMm8wUFJwd1o5ckZfVDdYc2RUVlp4aC1NOVh3WnlNc2sxNTNvTzJNMUQ3Z3FURHJNNl83aWd1VjFCX19XemN5bnhrdw&q=https%3A%2F%2Fgithub.com%2FBreadOnPenguins%2Fscripts&v=mRT31iYaWOw
+ 1588  2026-03-03 10:49:56 image clipboard history: https://www.youtube.com/watch?v=PFuo1B7E3qw
+ 1589  2026-03-03 10:49:56 chafa: https://github.com/hpjansson/chafa/
+ 1590  2026-03-03 10:49:56 ueberzugpp: https://github.com/jstkdng/ueberzugpp
+ 1591  2026-03-03 10:49:56 fzfub: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDNYbTJ0VmVNZlYtZ05wZjRaaUxjc3h5a3pLUXxBQ3Jtc0trOW44eVNtX2tQVWx5MElHaDc3YlBhQURORmkwVGpzWmNkYU5XbmcwNFRTRXByY2p4cHE4aVZsa2tkV01MU2hUeXQ3cGl0OXI3TF9GU3NJSFNZblZidG9WZzhVOVJmRjhZV29vMFZKbFc1Y0tKTWF6Yw&q=https%3A%2F%2Fgithub.com%2Fjstkdng%2Fueberzugpp%2Fblob%2Fmaster%2Fscripts%2Ffzfub&v=mRT31iYaWOw
+ 1592  2026-03-03 10:49:56 my vid on image menus (same as above): https://www.youtube.com/watch?v=PFuo1B7E3qw
+ 1593  2026-03-03 10:49:56 ---
+ 1594  2026-03-03 10:49:56 """
+ 1595  2026-02-23 13:08:14 s2 
+ 1596  2026-02-23 13:14:21 s2 "Check out 20260223 - 1305" """
+ 1597  2026-03-03 10:49:56 tiny Linux tools I depend on every day:
+ 1598  2026-03-03 10:49:56 https://www.youtube.com/watch?v=mRT31iYaWOw
+ 1599  2026-03-03 10:49:56 Desc:
+ 1600  2026-03-03 10:49:56 links to literally everything below. common q&a in pinned comment!
+ 1601  2026-03-03 10:49:56 the song I had playing is worth a listen:    • CELL - Security
+ 1602  2026-03-03 10:49:56 playerctl: https://github.com/altdesktop/playerctl
+ 1603  2026-03-03 10:49:56 manual page for it:
+ 1604  2026-03-03 10:49:56 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVdpVnRsRTlESk52bi16ajZtZ2lPUTB1QXJyUXxBQ3Jtc0ttWGRaX01Qby1JQVliNVVKQ2I0cFB3eU0zdmgwMDFfU3M4LTVISm5fQVlLZVdDc2lPZHQ0WTB3Q1BTQTJ0RE9FUEdvdHJDNnRXaXplbmlnWTdhcEVDWUVvcmJIZzdHelAzeDJRMHY2WVhhWU9kWjZwMA&q=https%3A%2F%2Fman.archlinux.org%2Fman%2Fplayerctl.1.en&v=mRT31iYaWOw
+ 1605  2026-03-03 10:49:56 MPRIS spec: https://wiki.archlinux.org/title/MPRIS
+ 1606  2026-03-03 10:49:56 mpd-mpris: https://github.com/natsukagami/mpd-mpris
+ 1607  2026-03-03 10:49:56 rmpc: https://github.com/mierak/rmpc
+ 1608  2026-03-03 10:49:56 my vid on rmpc: https://www.youtube.com/watch?v=oTOu7VfXnl8
+ 1609  2026-03-03 10:49:56 my vid on mpd: https://www.youtube.com/watch?v=6EAID9yopIE
+ 1610  2026-03-03 10:49:56 original vid breaking down my music block script: https://www.youtube.com/watch?v=VBzAY4bSTVo
+ 1611  2026-03-03 10:49:56 rewrite of said script: https://www.youtube.com/watch?v=TRRFrRt46VI&pp=0gcJCR0AztywvtLA
+ 1612  2026-03-03 10:49:56 script: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa010bDh5bFVXaHl2UlZYM2NfcGFiYng1OW9pd3xBQ3Jtc0tsaV8xZW9hWGJodzRkX18yRDF5bDNOVWhUYVRQLUhTUUQtVzBGLS1IRWxDUkd0cVRDUjByOGdfVXI5TnJkUXdWYV9aZTdxZU8wY3FfYmFOUDFPc1Ywa2lNQnNwUlprNFJuWGVTaWI3QmNnVTlRaEdacw&q=https%3A%2F%2Fgithub.com%2FBreadOnPenguins%2Fscripts%2Fblob%2Fmaster%2Fstatusbar%2Fmusicplaying&v=mRT31iYaWOw
+ 1613  2026-03-03 10:49:56 bat: https://github.com/sharkdp/bat
+ 1614  2026-03-03 10:49:56 my shell aliases: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVc4OHVLbS1sSlV0ajhub3NmaEt5Q1hxMVhMd3xBQ3Jtc0tsWm9DelhUZ2xMZ0gtZElwYWRHN0FVaGJDYVR2dVhETXZrMFNRLVZ0WFBVVktKZ1NXMFRVd1B0MU5fYUhSVlZ6RkZxY0ZIYVQ5S2dPLWRpR1E2cGlMNjBWVzMxRmJhMlpDb1F5M1V0eHE4dlFCdDAwTQ&q=https%3A%2F%2Fgithub.com%2FBreadOnPenguins%2Fdots%2Fblob%2Fmaster%2F.config%2Fshell%2Falias&v=mRT31iYaWOw
+ 1615  2026-03-03 10:49:56 stats script: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay04NDRQMWVzMmR3cUdsUzVWa1Z3UnVNekVQZ3xBQ3Jtc0tsczlMY1pBZ2EwZURTMnBERXZabFloMjQ1LWNULXVld0JkMklpWDUwN2w0a2poRXBVUkw1ZEpuYWRGTDVRNnNObmJVcDhsa3VNQU9nZmVkclc5dDZzYVJfOUc5SmUzYlBsRkRFVF9ON25iQkFhV3ZEbw&q=https%3A%2F%2Fgithub.com%2FBreadOnPenguins%2Fscripts%2Fblob%2Fmaster%2Fshell%2Fstats&v=mRT31iYaWOw
+ 1616  2026-03-03 10:49:56 my vid on bat: https://www.youtube.com/watch?v=90sZYRoe-fo
+ 1617  2026-03-03 10:49:56 lm_sensors: https://github.com/lm-sensors/lm-sensors
+ 1618  2026-03-03 10:49:56 how to set them up: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblBmc19Tb09IZFpPaE82VTl0cHp1VWxYM1RpQXxBQ3Jtc0tsTUhOYmR1NlIyT3NtM1R1X2xya2FQUGZHS0RKU1dGUU1QeXZZdUl3SHloeXpidEdWNC1WWHJsc2IydnotZGVVVjlsMGhqY1E2M1daYXpmX2Q1YmpjaHpkemxpMm93WUV2YThYczBCdkRXd1pFMzFUdw&q=https%3A%2F%2Fwiki.archlinux.org%2Ftitle%2FLm_sensors&v=mRT31iYaWOw
+ 1619  2026-03-03 10:49:56 xclip: https://github.com/astrand/xclip
+ 1620  2026-03-03 10:49:56 xsel: https://github.com/kfish/xsel
+ 1621  2026-03-03 10:49:56 wl-clipboard: https://github.com/bugaevc/wl-clipboard
+ 1622  2026-03-03 10:49:56 scripts mentioned: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01QajNtQ0R1Ri1sTUFsejFVWDBGUnlyeDBaUXxBQ3Jtc0trR3JQMVl4SW96eHhkQVZHVVdXbzN2SGwxdmlSWmFZdlRVVGh4X2tLR2dqTWJqMm8wUFJwd1o5ckZfVDdYc2RUVlp4aC1NOVh3WnlNc2sxNTNvTzJNMUQ3Z3FURHJNNl83aWd1VjFCX19XemN5bnhrdw&q=https%3A%2F%2Fgithub.com%2FBreadOnPenguins%2Fscripts&v=mRT31iYaWOw
+ 1623  2026-03-03 10:49:56 image clipboard history: https://www.youtube.com/watch?v=PFuo1B7E3qw
+ 1624  2026-03-03 10:49:56 chafa: https://github.com/hpjansson/chafa/
+ 1625  2026-03-03 10:49:56 ueberzugpp: https://github.com/jstkdng/ueberzugpp
+ 1626  2026-03-03 10:49:56 fzfub:
+ 1627  2026-03-03 10:49:56 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDNYbTJ0VmVNZlYtZ05wZjRaaUxjc3h5a3pLUXxBQ3Jtc0trOW44eVNtX2tQVWx5MElHaDc3YlBhQURORmkwVGpzWmNkYU5XbmcwNFRTRXByY2p4cHE4aVZsa2tkV01MU2hUeXQ3cGl0OXI3TF9GU3NJSFNZblZidG9WZzhVOVJmRjhZV29vMFZKbFc1Y0tKTWF6Yw&q=https%3A%2F%2Fgithub.com%2Fjstkdng%2Fueberzugpp%2Fblob%2Fmaster%2Fscripts%2Ffzfub&v=mRT31iYaWOw
+ 1628  2026-03-03 10:49:56 vid on image menus (same as above): https://www.youtube.com/watch?v=PFuo1B7E3qwu^Cv=mRT31iYaWOwZblZidG9WZzhVOVJmRjhZV29vMFZKbFc1Y0tKTWF6Yw
+ 1629  2026-03-03 10:49:56 ---
+ 1630  2026-03-03 10:49:56 """
+ 1631  2026-02-23 13:17:41 r
+ 1632  2026-02-23 13:18:18 ll
+ 1633  2026-02-23 13:19:10 majapps-launch-en 
+ 1634  2026-02-23 14:27:59 exit
+ 1635  2026-02-24 08:19:07 testing-all-en 
+ 1636  2026-02-24 08:29:37 cd $EGPRNS
+ 1637  2026-02-24 08:29:44 git pull
+ 1638  2026-02-24 08:30:10 exit
+ 1639  2026-02-24 14:35:47 find * -type f -not -regex "\....$"
+ 1640  2026-02-24 14:35:50 find * -type f -not -regex "\....$" | less
+ 1641  2026-02-24 14:36:07 find * -type f -not -regex "\.\{3\}$" | less
+ 1642  2026-02-24 14:36:26 find * -type f -not -regex "\..\{3\}$" | less
+ 1643  2026-02-24 14:36:38 find * -type f -not -iregex "\..{3}$" | less
+ 1644  2026-02-24 14:37:00 find * -type f -not -name "\...." | less
+ 1645  2026-02-24 14:37:25 find * -type f \( -not -name "\...." \) | less
+ 1646  2026-02-24 14:37:36 find * -type f \( -not -name "*\...." \) | less
+ 1647  2026-02-24 14:38:00 find * -type f \( -not -regex "\...." \) | less
+ 1648  2026-02-24 14:38:13 find * -type f \( -not -regex "\....$" \) | less
+ 1649  2026-02-24 14:41:43 find * -type f ! -regex "\..*$" \) | less
+ 1650  2026-02-24 14:41:50 find * -type f ! -regex "\..*$" | less
+ 1651  2026-02-24 14:42:13 find * -type f ! -regex "\..\+$" | less
+ 1652  2026-02-24 14:42:24 find * -type f -regex "\..\+$" | less
+ 1653  2026-02-24 14:42:29 find * -type f -regex "\..\+$"
+ 1654  2026-02-24 14:42:34 find * -type f -regex "\..*$"
+ 1655  2026-02-24 14:42:48 find * -type f -regex '\..*$'
+ 1656  2026-02-24 14:43:36 find * -type f -name '\....$'
+ 1657  2026-02-24 14:43:38 find * -type f -name '\....'
+ 1658  2026-02-24 14:43:47 find * -type f -name "*\...."
+ 1659  2026-02-24 14:43:50 find * -type f -name "*...."
+ 1660  2026-02-24 14:43:58 find * -type f -name "*."
+ 1661  2026-02-24 14:44:02 find * -type f -name "*.*"
+ 1662  2026-02-24 14:44:15 find * -type f -name "*.???"
+ 1663  2026-02-24 14:44:23 find * -type f ! -name "*.???"
+ 1664  2026-02-24 14:44:39 find * -type f -name "*.???" | less
+ 1665  2026-02-24 14:45:21 exit
+ 1666  2026-02-24 08:19:07 testing-all-en 
+ 1667  2026-02-24 08:29:37 cd $EGPRNS
+ 1668  2026-02-24 08:29:44 git pull
+ 1669  2026-02-24 08:30:10 exit
+ 1670  2026-02-24 08:48:27 s2 "
+ 1671  2026-02-24 08:48:38 s2 "Anyone but you (2023)" "Anyone but you (2023)"
+ 1672  2026-02-24 09:33:33 cd $EGPRNS
+ 1673  2026-02-24 09:33:36 git pull
+ 1674  2026-02-24 09:33:44 cd update_en/
+ 1675  2026-02-24 09:33:47 ll
+ 1676  2026-02-24 09:34:12 vim -e get-fb-mails-en ~/majstaf/majbin/get-fb-mails-en/get-fb-mails-en 
+ 1677  2026-02-24 09:34:27 vim -O get-fb-mails-en ~/majstaf/majbin/get-fb-mails-en/get-fb-mails-en 
+ 1678  2026-02-24 09:36:30 ./get-fb-mails-en 
+ 1679  2026-02-24 09:36:34 ll
+ 1680  2026-02-24 09:36:42 cd
+ 1681  2026-02-24 09:36:50 get-fb-mails-en 
+ 1682  2026-02-24 09:39:43 cd
+ 1683  2026-02-24 09:39:49 cd $MJBN/get-fb-mails-en/
+ 1684  2026-02-24 09:39:53 vim get-fb-mails-en 
+ 1685  2026-02-24 09:40:10 cd $EGPRNS/update_en/
+ 1686  2026-02-24 09:40:11 ll
+ 1687  2026-02-24 09:41:27 vim sort-command-20260220.txt 
+ 1688  2026-02-24 09:41:45 cpi sort-command-20260220.txt $MJBN/get-fb-mails-en/
+ 1689  2026-02-24 09:41:50 cd $MJBN/get-fb-mails-en/
+ 1690  2026-02-24 09:41:54 ll
+ 1691  2026-02-24 09:42:09 cpi get-fb-mails-en sort-command-20260220.txt $EGMJBN/get-fb-mails-en/
+ 1692  2026-02-24 09:42:12 cd $EGMJBN/get-fb-mails-en/
+ 1693  2026-02-24 09:42:13 cd ..
+ 1694  2026-02-24 09:42:18 psn
+ 1695  2026-02-24 09:42:25 gst
+ 1696  2026-02-24 09:42:28 gyes-add-commit-push 
+ 1697  2026-02-24 09:42:35 psb
+ 1698  2026-02-24 09:42:38 ll
+ 1699  2026-02-24 09:42:39 cd
+ 1700  2026-02-24 09:42:50 rbekap-DAILY-mega-gren 
+ 1701  2026-02-24 10:46:06 ll
+ 1702  2026-02-24 10:46:10 cat BRISIME.txt 
+ 1703  2026-02-24 10:46:14 rm BRISIME.txt 
+ 1704  2026-02-24 10:46:15 ll
+ 1705  2026-02-24 10:46:21 find -empty
+ 1706  2026-02-24 10:47:02 find * -empty | grep -v '\.'
+ 1707  2026-02-24 10:47:14 find * -empty | grep -vE '\..*'
+ 1708  2026-02-24 10:47:29 find * -empty | grep -vE '/\..*'
+ 1709  2026-02-24 10:47:47 find * -type f -empty | grep -vE '/\..*'
+ 1710  2026-02-24 10:48:07 find * -type f -empty | grep -vE '/\..*' | less
+ 1711  2026-02-24 10:48:53 find * -type d -empty | grep -vE '/\..*' | less
+ 1712  2026-02-24 10:49:30 find * -type d -empty | grep -vE '/\..*' | grep -v "bin|build" | less
+ 1713  2026-02-24 10:49:40 find * -type d -empty | grep -vE '/\..*' | grep -v "bin\|build" | less
+ 1714  2026-02-24 10:50:03 cd
+ 1715  2026-02-24 11:38:14 cd $MJBN/get-fb-mails-en/
+ 1716  2026-02-24 11:38:32 grep "echo\|printf" get-fb-mails-en 
+ 1717  2026-02-24 11:39:19 ./get-fb-mails-en 
+ 1718  2026-02-24 12:05:06 s2 "
+ 1719  2026-02-24 12:06:13 s2 "BEST UPCOMING ACTION MOVIES 2026" """
+ 1720  2026-03-03 10:49:56 BEST UPCOMING ACTION MOVIES 2026:
+ 1721  2026-03-03 10:49:56 01 - Top Upcoming Action Movies 2026 (New Trailers)
+ 1722  2026-03-03 10:49:56 02 - The Mandalorian And Grogu
+ 1723  2026-03-03 10:49:56 03 - He Man Masters of the Universe
+ 1724  2026-03-03 10:49:56 04 - Daredevil Born Again Season 2
+ 1725  2026-03-03 10:49:56 05 - Mortal Kombat 2
+ 1726  2026-03-03 10:49:56 06 - eady Or Not 2 Here I Come
+ 1727  2026-03-03 10:49:56 07 - War Machine
+ 1728  2026-03-03 10:49:56 08 - Fuze
+ 1729  2026-03-03 10:49:56 09 - Spider Noir
+ 1730  2026-03-03 10:49:56 10 - Street Fighter
+ 1731  2026-03-03 10:49:56 11 - Hellfire
+ 1732  2026-03-03 10:49:56 12 - Supergirl
+ 1733  2026-03-03 10:49:56 13 - Avengers 5 Doomsday
+ 1734  2026-03-03 10:49:56 14 - The Bluff
+ 1735  2026-03-03 10:49:56 15 - The Odyssey
+ 1736  2026-03-03 10:49:56 """
+ 1737  2026-02-24 12:54:38 cd ..
+ 1738  2026-02-24 12:54:41 lsth
+ 1739  2026-02-24 12:55:01 find * -type f -newermt "20260101"
+ 1740  2026-02-24 12:55:23 find * -type f -newermt "20260101" | grep -v "\.txt"
+ 1741  2026-02-24 12:55:37 find * -type f -newermt "20260101" | grep -v "\.txt\|\-exe"
+ 1742  2026-02-24 12:55:48 find * -type f -newermt "20260101" | grep -v "\.txt\|\.exe"
+ 1743  2026-02-24 12:56:15 find * -type f -newermt "20260101" | grep -v "\.txt\|\.exe" | xarsg -ro vim
+ 1744  2026-02-24 12:56:22 find * -type f -newermt "20260101" | grep -v "\.txt\|\.exe" | xargs -ro vim
+ 1745  2026-02-24 12:59:03 sort-shell-scripts-by-numlines 
+ 1746  2026-02-24 14:16:30 vim sort-shell-scripts-by-numlines 
+ 1747  2026-02-24 14:17:07 vim
+ 1748  2026-02-24 14:19:57 for FFF in $(find * -type f); do 	 echo $(file -ib $FFF) | grep 'shellscript'; done | sort -nr | column -t
+ 1749  2026-02-24 14:20:33 for FFF in $(find -type f); do echo $FFF: done
+ 1750  2026-02-24 14:20:41 for FFF in $(find -type f); do echo $FFF; done
+ 1751  2026-02-24 14:21:02 for FFF in $(find -type f -iname "*zp*"); do echo $FFF; done
+ 1752  2026-02-24 14:21:35 for FFF in $(find -type f -iname "*zp*"); do file -ib $FFF; done
+ 1753  2026-02-24 14:21:44 for FFF in $(find -type f -iname "*zp*"); do file -ib "$FFF"; done
+ 1754  2026-02-24 14:21:57 for FFF in $(find * -type f -iname "*zp*"); do file -ib "$FFF"; done
+ 1755  2026-02-24 14:22:13 for FFF in $(find * -type f -iname "*zp*"); do echo "$FFF"; done
+ 1756  2026-02-24 14:22:39 for FFF in $(find * -type f -name "Zp*"); do echo "$FFF"; done
+ 1757  2026-02-24 14:22:47 for FFF in $(find * -type f -name "Zp*"); do file "$FFF"; done
+ 1758  2026-02-24 14:22:54 for FFF in $(find * -type f -name "Zp*"); do file -ib "$FFF"; done
+ 1759  2026-02-24 14:23:14 man file
+ 1760  2026-02-24 14:23:49 for FFF in $(find * -type f -name "Zp*"); do file -i "$FFF"; done
+ 1761  2026-02-24 14:24:16 for FFF in $(find * -type f); do file -i "$FFF"; done
+ 1762  2026-02-24 14:24:50 vim sort-shell-scripts-by-numlines 
+ 1763  2026-02-24 14:25:14 lsth
+ 1764  2026-02-24 14:25:27 lsth --color=never
+ 1765  2026-02-24 14:25:42 \ls -t | head
+ 1766  2026-02-24 14:26:06 mkdir -p $BRISI/danes-20260224
+ 1767  2026-02-24 14:26:34 for DDD in $(\ls -t | head); doe echo $DDD; done
+ 1768  2026-02-24 14:26:38 for DDD in $(\ls -t | head); do echo $DDD; done
+ 1769  2026-02-24 14:27:10 for DDD in $(\ls -t | head); do cp -rv $DDD $BRISI/danes-20260224/
+ 1770  2026-02-24 14:27:16 for DDD in $(\ls -t | head); do cp -rv $DDD $BRISI/danes-20260224/; done
+ 1771  2026-02-24 14:27:25 cd done
+ 1772  2026-02-24 14:27:28 cd $BRISI/danes-20260224/
+ 1773  2026-02-24 14:27:29 ll
+ 1774  2026-02-24 14:27:36 sort-shell-scripts-by-numlines 
+ 1775  2026-02-24 14:27:59 rm -r ./get-fb-mails-en/
+ 1776  2026-02-24 14:28:17 cp ~/majstaf/majbin/sort-shell-scripts-by-numlines .
+ 1777  2026-02-24 14:28:21 vim sort-shell-scripts-by-numlines 
+ 1778  2026-02-24 14:28:34 ./sort-shell-scripts-by-numlines 
+ 1779  2026-02-24 14:28:38 vim sort-shell-scripts-by-numlines 
+ 1780  2026-02-24 14:28:45 ./sort-shell-scripts-by-numlines 
+ 1781  2026-02-24 14:29:05 ./sort-shell-scripts-by-numlines | head -n 25
+ 1782  2026-02-24 14:29:44 wc -l kndb-files-from-tmst/kndb-files-from-yr-tmst-till-today-en 
+ 1783  2026-02-24 14:29:53 vim sort-shell-scripts-by-numlines 
+ 1784  2026-02-24 14:31:02 vim ~/majstaf/majbin/sort-shell-scripts-by-numlines 
+ 1785  2026-02-24 14:31:16 sort-shell-scripts-by-numlines 
+ 1786  2026-02-24 14:31:26 sort-shell-scripts-by-numlines | head
+ 1787  2026-02-24 14:31:37 cd
+ 1788  2026-02-24 14:31:40 cd majstaf/majbin/
+ 1789  2026-02-24 14:31:51 sort-shell-scripts-by-numlines | head
+ 1790  2026-02-24 14:32:33 find -type f | less
+ 1791  2026-02-24 14:33:09 vim ~/majstaf/majbin/sort-shell-scripts-by-numlines 
+ 1792  2026-02-24 14:45:33 sort-shell-scripts-by-numlines
+ 1793  2026-02-24 14:46:17 sort-shell-scripts-by-numlines | head
+ 1794  2026-02-24 14:47:55 vim sort-shell-scripts-by-numlines 
+ 1795  2026-02-24 14:50:20 cpi sort-shell-scripts-by-numlines $EGMJBN 
+ 1796  2026-02-24 14:50:23 cd $EGMJBN
+ 1797  2026-02-24 14:50:27 gst
+ 1798  2026-02-24 14:50:29 gyes-add-commit-push 
+ 1799  2026-02-24 14:50:36 cd -
+ 1800  2026-02-24 14:51:44 add-file-to-prenos-en -jb -f sort-shell-scripts-by-numlines 
+ 1801  2026-02-24 14:51:56 add-file-to-prenos-en -jm -f sort-shell-scripts-by-numlines 
+ 1802  2026-02-24 14:52:08 cd $EGPRNS
+ 1803  2026-02-24 14:52:10 gst
+ 1804  2026-02-24 14:52:13 gyes-add-commit-push 
+ 1805  2026-02-24 14:52:20 cd
+ 1806  2026-02-24 15:02:26 cd $DANES
+ 1807  2026-02-24 15:02:27 ll
+ 1808  2026-02-24 15:02:48 lynxd "https://www.howtogeek.com/this-bash-script-replaced-apps-i-use-everyday/" bash-script-replaces-apps
+ 1809  2026-02-24 15:02:56 prepare-fjl-for-knowledgebase bash-script-replaces-apps-20260224.txt 
+ 1810  2026-02-24 15:09:21 knowledgedb-move-file-to-category bash-script-replaces-apps-20260224.txt 
+ 1811  2026-02-24 15:09:32 cd $KNOWLEDGEDB
+ 1812  2026-02-24 15:09:35 gyes-add-commit-push 
+ 1813  2026-02-24 15:09:41 cd -
+ 1814  2026-02-24 15:09:46 cd
+ 1815  2026-02-24 15:09:47 cd 
+ 1816  2026-02-24 15:09:50 danes-check
+ 1817  2026-02-24 15:56:34 pddr
+ 1818  2026-02-24 15:59:18 get-endiffs 
+ 1819  2026-02-24 16:01:45 engt-diffs-check-all 
+ 1820  2026-02-24 16:01:54 engt-status 
+ 1821  2026-02-24 16:01:59 testing-st
+ 1822  2026-02-24 16:02:09 testing-gtgh-status-en 
+ 1823  2026-02-24 16:04:55 exit
+ 1824  2026-02-24 08:18:52 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+ 1825  2026-02-24 08:29:30 pddr
+ 1826  2026-02-24 08:48:22 rbekap-DAILY-mega-gren 
+ 1827  2026-02-24 16:05:06 tmxks
+ 1828  2026-02-24 08:19:13 engt-all 
+ 1829  2026-02-24 08:30:03 engt-reports-empty 
+ 1830  2026-02-24 08:30:16 majapps-launch-en 
+ 1831  2026-02-24 08:18:47 tmxns
+ 1832  2026-02-24 16:05:08 exit
+ 1833  2026-02-26 08:31:52 engt-all 
+ 1834  2026-02-26 08:36:50 exit
+ 1835  2026-02-26 09:17:59 show-vim-mappings | grep pyt
+ 1836  2026-02-26 09:18:06 exit
+ 1837  2026-02-26 09:34:27 vim -M ~/.vimrc
+ 1838  2026-02-26 09:34:41 exit
+ 1839  2026-02-26 09:30:20 opnu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\N-27070_22564_PO-Bohoriceva-DNZO\nacrt\za-mnenja\teksti\pdf"
+ 1840  2026-02-26 09:30:22 ll
+ 1841  2026-02-26 09:30:27 teksti-join-en 
+ 1842  2026-02-26 09:35:35 ll
+ 1843  2026-02-26 09:35:46 mv _TEKSTI{,-backup}.pdf 
+ 1844  2026-02-26 09:36:05 cp _TEKSTI-backup.pdf _TEKSTI.pdf 
+ 1845  2026-02-26 09:36:11 rm _TEKSTI-backup.pdf 
+ 1846  2026-02-26 09:36:13 cd ..
+ 1847  2026-02-26 09:36:14 cd..
+ 1848  2026-02-26 09:36:17 cd ..
+ 1849  2026-02-26 09:36:21 cd grafika/pdf/
+ 1850  2026-02-26 09:36:22 ll
+ 1851  2026-02-26 09:36:32 mv _RISBE{,-backup}.pdf 
+ 1852  2026-02-26 09:36:37 risbe-join-en 
+ 1853  2026-02-26 09:37:44 cd ..
+ 1854  2026-02-26 09:37:46 ll
+ 1855  2026-02-26 09:38:43 nacrt-pdfjoin-into-CN 
+ 1856  2026-02-26 09:39:30 pdfjoin teksti/pdf/_TEKSTI.pdf grafika/pdf/_RISBE.pdf cat output _CN_PO-Bohoriceva-DNZO.pdf 
+ 1857  2026-02-26 09:40:58 cd
+ 1858  2026-02-26 09:41:00 exit
+ 1859  2026-02-26 11:27:21 echo $RANDOM
+ 1860  2026-02-26 11:27:28 exit
+ 1861  2026-02-26 11:30:14 N=5; while N>1; do echo N; ((n-1)); done
+ 1862  2026-02-26 11:30:27 N=5; while N>1; do echo $N; ((N-1)); done
+ 1863  2026-02-26 11:30:53 N=5; while N>1; do echo $N; N-=1; done
+ 1864  2026-02-26 11:31:04 N=5; while $N>1; do echo $N; N-=1; done
+ 1865  2026-02-26 11:31:19 xit
+ 1866  2026-02-26 11:31:24 fxit
+ 1867  2026-02-26 11:31:26 forexit
+ 1868  2026-02-26 11:31:28 exit
+ 1869  2026-02-26 11:33:29 N=5; while [ $N>1 ]; do echo "N=$N"; ((N-=1)); done
+ 1870  2026-02-26 11:33:40 N=5; while [ $N>1 ]; do echo "N=$N"; ((N=N-1)); done
+ 1871  2026-02-26 11:33:55 N=5; while [ $N>1 ]; do echo "N=$N"; let N=N-1; done
+ 1872  2026-02-26 11:34:12 N=5; while [ $N > 1 ]; do echo "N=$N"; let N=N-1; done
+ 1873  2026-02-26 11:34:25 N=5; while [ $N > 1 ]; do echo "N=$N"; let N=$N-1; done
+ 1874  2026-02-26 11:34:49 N=5; while [ $N -lt 1 ]; do echo "N=$N"; let N=$N-1; done
+ 1875  2026-02-26 11:34:56 N=5; while [ $N -lt 1 ]; do echo "N=$N"; let N=N-1; done
+ 1876  2026-02-26 11:35:04 N=5; while [ $N -gt 1 ]; do echo "N=$N"; let N=N-1; done
+ 1877  2026-02-26 11:35:10 N=5; while [ $N -ge 1 ]; do echo "N=$N"; let N=N-1; done
+ 1878  2026-02-26 11:35:20 N=5; while [ $N -ge 1 ]; do echo "N=$N"; ((N=-1)); done
+ 1879  2026-02-26 11:35:29 N=5; while [ $N -ge 1 ]; do echo "N=$N"; N=-1; done
+ 1880  2026-02-26 11:35:41 N=5; while [ $N -ge 1 ]; do echo "N=$N"; ((N=N-1)); done
+ 1881  2026-02-26 11:36:17 N=5; while [ $N -ge 1 ]; do echo "filename-$RANDOM.txt"; ((N=N-1)); done
+ 1882  2026-02-26 11:42:48 exit
+ 1883  2026-02-26 08:37:16 cd $EGPRNS
+ 1884  2026-02-26 08:37:19 cd update_en/
+ 1885  2026-02-26 08:37:20 ll
+ 1886  2026-02-26 08:37:45 vim -O get-fb-mails-en  ~/majstaf/majbin/get-fb-mails-en/get-fb-mails-en 
+ 1887  2026-02-26 08:38:33 diff get-fb-mails-en  ~/majstaf/majbin/get-fb-mails-en/get-fb-mails-en 
+ 1888  2026-02-26 08:38:43 vim -O get-fb-mails-en  ~/majstaf/majbin/get-fb-mails-en/get-fb-mails-en 
+ 1889  2026-02-26 08:39:34 diff get-fb-mails-en  ~/majstaf/majbin/get-fb-mails-en/get-fb-mails-en 
+ 1890  2026-02-26 08:39:38 rm get-fb-mails-en 
+ 1891  2026-02-26 08:39:39 ll
+ 1892  2026-02-26 08:39:51 vim -O sort-shell-scripts-by-numlines ~/majstaf/majbin/sort-shell-scripts-by-numlines 
+ 1893  2026-02-26 08:40:33 rm sort-shell-scripts-by-numlines 
+ 1894  2026-02-26 08:40:35 ll
+ 1895  2026-02-26 08:40:37 cd ..
+ 1896  2026-02-26 08:40:39 gst
+ 1897  2026-02-26 08:40:41 gyes-add-commit-push 
+ 1898  2026-02-26 08:40:51 tree update_*
+ 1899  2026-02-26 08:40:55 cd
+ 1900  2026-02-26 08:41:08 get-endiffs 
+ 1901  2026-02-26 08:52:40 vim ~/majstaf/majbin/sort-shell-scripts-by-numlines 
+ 1902  2026-02-26 08:53:15 cpi $MJBN/sort-shell-scripts-by-numlines $EGMJBN/sort-shell-scripts-by-numlines 
+ 1903  2026-02-26 08:53:20 cd $EGMJBN/sort-shell-scripts-by-numlines
+ 1904  2026-02-26 08:53:27 cd $EGMJBN
+ 1905  2026-02-26 08:53:30 gst
+ 1906  2026-02-26 08:53:32 gyes-add-commit-push 
+ 1907  2026-02-26 08:53:38 cd
+ 1908  2026-02-26 08:53:43 get-endiffs 
+ 1909  2026-02-26 09:02:40 engt-diffs-check-all 
+ 1910  2026-02-26 09:02:48 rbekap-DAILY-mega-gren 
+ 1911  2026-02-26 09:16:59 cd $DANES
+ 1912  2026-02-26 09:17:13 lynxd "https://www.philipzucker.com/ac_hashcons/" ptn-ac-hashcons
+ 1913  2026-02-26 09:17:19 prepare-fjl-for-knowledgebase ptn-ac-hashcons-20260226.txt 
+ 1914  2026-02-26 09:49:41 add-file-to-prenos-en 
+ 1915  2026-02-26 09:49:55 knowledgedb-move-file-to-category ptn-ac-hashcons-20260226.txt 
+ 1916  2026-02-26 09:50:06 cd $KNOWLEDGEDB
+ 1917  2026-02-26 09:50:09 gst
+ 1918  2026-02-26 09:50:11 gyes-add-commit-push 
+ 1919  2026-02-26 09:50:19 cd
+ 1920  2026-02-26 09:50:25 danes-check
+ 1921  2026-02-26 09:54:38 cd /c/Users/
+ 1922  2026-02-26 09:54:41 cd /c/Users/gregor.redelonghi/
+ 1923  2026-02-26 09:55:16 find -type f -iname "*Effective*C*"
+ 1924  2026-02-26 10:10:28 cd
+ 1925  2026-02-26 10:10:31 cd $DANES
+ 1926  2026-02-26 10:10:34 ll
+ 1927  2026-02-26 10:10:46 lynxd "https://maskray.me/blog/2026-02-22-bit-field-layout" c--bit-field-layout
+ 1928  2026-02-26 10:10:52 prepare-fjl-for-knowledgebase c--bit-field-layout-20260226.txt 
+ 1929  2026-02-26 10:11:07 mv c--bit-field-layout-20260226.txt c-bit-field-layout-20260226.txt 
+ 1930  2026-02-26 10:11:11 prepare-fjl-for-knowledgebase c-bit-field-layout-20260226.txt 
+ 1931  2026-02-26 10:26:59 ll
+ 1932  2026-02-26 10:27:07 knowledgedb-move-file-to-category c-bit-field-layout-20260226.txt 
+ 1933  2026-02-26 10:27:20 ll
+ 1934  2026-02-26 10:27:22 cd
+ 1935  2026-02-26 10:39:21 cd $DANES
+ 1936  2026-02-26 10:39:52 lynxd "https://pawelgrzybek.com/no-temp-variables-needed-for-pointers-in-go-1-26/" go-no-temp-variables-needed-for-pointers-in-go-1-26
+ 1937  2026-02-26 10:39:58 prepare-fjl-for-knowledgebase go-no-temp-variables-needed-for-pointers-in-go-1-26-20260226.txt 
+ 1938  2026-02-26 10:41:52 knowledgedb-move-file-to-category go-no-temp-variables-needed-for-pointers-in-go-1-26-20260226.txt 
+ 1939  2026-02-26 10:41:59 ll
+ 1940  2026-02-26 10:42:00 xs
+ 1941  2026-02-26 10:42:01 cd
+ 1942  2026-02-26 10:45:02 cd $DANES
+ 1943  2026-02-26 10:45:19 w3md "https://idroot.us/install-clonezilla-debian-13/" debian-13-install-clonezilla
+ 1944  2026-02-26 10:45:25 prepare-fjl-for-knowledgebase debian-13-install-clonezilla-20260226.txt 
+ 1945  2026-02-26 11:00:07 knowledgedb-move-file-to-category debian-13-install-clonezilla-20260226.txt 
+ 1946  2026-02-26 11:00:14 cd
+ 1947  2026-02-26 11:01:07 cd $DANES
+ 1948  2026-02-26 11:01:20 lynxd "https://linuxize.com/post/patch-command-in-linux/" patch-command
+ 1949  2026-02-26 11:01:24 prepare-fjl-for-knowledgebase patch-command-20260226.txt 
+ 1950  2026-02-26 11:02:00 rewrapp patch-command-20260226.txt 
+ 1951  2026-02-26 11:02:05 prepare-fjl-for-knowledgebase patch-command-20260226.txt 
+ 1952  2026-02-26 11:16:26 ll
+ 1953  2026-02-26 11:16:51 knowledgedb-copy-file-to-category patch-command-20260226.txt 
+ 1954  2026-02-26 11:17:03 ll
+ 1955  2026-02-26 11:17:17 knowledgedb-move-file-to-category patch-command-20260226.txt 
+ 1956  2026-02-26 11:17:25 ll
+ 1957  2026-02-26 11:17:27 rm patch-command-20260226.txt 
+ 1958  2026-02-26 11:17:30 cd
+ 1959  2026-02-26 11:17:40 cd $KNOWLEDGEDB
+ 1960  2026-02-26 11:17:42 gst
+ 1961  2026-02-26 11:17:45 gyes-add-commit-push 
+ 1962  2026-02-26 11:18:06 cd
+ 1963  2026-02-26 11:21:51 cd $DANES
+ 1964  2026-02-26 11:22:29 lynxd "https://www.howtogeek.com/the-test-patterns-that-real-world-bash-scripts-actually-use/" bash-test-patterns-in-scripts
+ 1965  2026-02-26 11:22:36 prepare-fjl-for-knowledgebase bash-test-patterns-in-scripts-20260226.txt 
+ 1966  2026-02-26 11:38:12 ll
+ 1967  2026-02-26 11:38:37 for FFF in *; do knowledgedb-copy-file-to-category $FFF; done
+ 1968  2026-02-26 11:39:04 knowledgedb-move-file-to-category bash-test-patterns-in-scripts-20260226.txt 
+ 1969  2026-02-26 11:39:10 ll
+ 1970  2026-02-26 11:39:25 cp bash-RANDOM-special-shell-variable-20260226.txt $MTSYS 
+ 1971  2026-02-26 11:39:29 cp bash-RANDOM-special-shell-variable-20260226.txt $EGMTSYS 
+ 1972  2026-02-26 11:39:32 cd $EGMTSYS
+ 1973  2026-02-26 11:39:35 gyes-add-commit-push 
+ 1974  2026-02-26 11:39:41 cd 
+ 1975  2026-02-26 11:39:44 cd $KNOWLEDGEDB
+ 1976  2026-02-26 11:39:46 gst
+ 1977  2026-02-26 11:39:49 gyes-add-commit-push 
+ 1978  2026-02-26 11:39:56 ll
+ 1979  2026-02-26 11:39:57 l
+ 1980  2026-02-26 11:39:58 cd
+ 1981  2026-02-26 11:40:01 cd $DANES
+ 1982  2026-02-26 11:40:02 ll
+ 1983  2026-02-26 11:40:05 vim bash-RANDOM-special-shell-variable-20260226.txt 
+ 1984  2026-02-26 11:42:18 ll
+ 1985  2026-02-26 11:42:21 rm bash-RANDOM-special-shell-variable-20260226.txt 
+ 1986  2026-02-26 11:42:22 cd
+ 1987  2026-02-26 11:42:32 get-endiffs 
+ 1988  2026-02-26 11:43:04 engt-diffs-check-all 
+ 1989  2026-02-26 11:43:09 exit
+ 1990  2026-02-26 11:42:18 ll
+ 1991  2026-02-26 11:42:21 rm bash-RANDOM-special-shell-variable-20260226.txt 
+ 1992  2026-02-26 11:42:22 cd
+ 1993  2026-02-26 11:42:32 get-endiffs 
+ 1994  2026-02-26 11:43:04 engt-diffs-check-all 
+ 1995  2026-02-26 11:43:09 exit
+ 1996  2026-02-26 12:11:27 N=5; while [ N -ge 1 ]; do echo "filename-${RANDOM}.txt"; ((N--)); done
+ 1997  2026-02-26 12:11:38 N=5; while [ $N -ge 1 ]; do echo "filename-${RANDOM}.txt"; ((N--)); done
+ 1998  2026-02-26 12:11:45 cd
+ 1999  2026-02-26 12:12:06 cp $MTSYS/bash-RANDOM-special-shell-variable-20260226.txt .
+ 2000  2026-02-26 12:12:22 ll
+ 2001  2026-02-26 12:12:27 rm "1"
+ 2002  2026-02-26 12:12:28 ll
+ 2003  2026-02-26 12:12:34 mv bash-RANDOM-special-shell-variable-20260226.txt $DANES 
+ 2004  2026-02-26 12:12:35 ll
+ 2005  2026-02-26 12:12:37 cd ll
+ 2006  2026-02-26 12:12:41 cd $DANES
+ 2007  2026-02-26 12:12:44 ll
+ 2008  2026-02-26 12:13:00 cp bash-RANDOM-special-shell-variable-20260226.txt change
+ 2009  2026-02-26 12:13:03 vim change 
+ 2010  2026-02-26 12:14:11 diff -u bash-RANDOM-special-shell-variable-20260226.txt change > _patch-202602226
+ 2011  2026-02-26 12:14:14 cat _patch-202602226 
+ 2012  2026-02-26 12:14:36 cp bash-RANDOM-special-shell-variable-20260226.txt TEST.txt
+ 2013  2026-02-26 12:14:39 cat TEST.txt 
+ 2014  2026-02-26 12:15:08 man patch
+ 2015  2026-02-26 12:15:40 ll
+ 2016  2026-02-26 12:15:49 patch --help
+ 2017  2026-02-26 12:15:53 patch --help |less
+ 2018  2026-02-26 12:16:18 patch -p1 TEST.txt
+ 2019  2026-02-26 12:16:36 ll
+ 2020  2026-02-26 12:16:41 rm "1"
+ 2021  2026-02-26 12:17:05 patch TEST.txt _patch*
+ 2022  2026-02-26 12:17:14 vim TEST.txt 
+ 2023  2026-02-26 12:17:32 diff TEST.txt change 
+ 2024  2026-02-26 12:17:36 diff TEST.txt bash-RANDOM-special-shell-variable-20260226.txt 
+ 2025  2026-02-26 12:17:40 ll
+ 2026  2026-02-26 12:17:55 rm TEST.txt 
+ 2027  2026-02-26 12:17:58 ll
+ 2028  2026-02-26 12:18:07 cp bash-RANDOM-special-shell-variable-20260226.txt TEST.txt
+ 2029  2026-02-26 12:20:23 mv _patch-202602226 patchf-1
+ 2030  2026-02-26 12:20:46 patch -p1 TEST.txt 
+ 2031  2026-02-26 12:20:50 ll
+ 2032  2026-02-26 12:21:19 patch -p1 TEST.txt < patchf-1 
+ 2033  2026-02-26 12:21:34 rm TEST.txt
+ 2034  2026-02-26 12:21:40 cp bash-RANDOM-special-shell-variable-20260226.txt TEST.txt
+ 2035  2026-02-26 12:21:56 ll
+ 2036  2026-02-26 12:22:22 patch TEST.txt < patchf-1 
+ 2037  2026-02-26 12:22:29 diff TEST.txt change 
+ 2038  2026-02-26 12:22:34 diff TEST.txt bash-RANDOM-special-shell-variable-20260226.txt 
+ 2039  2026-02-26 12:22:37 ll
+ 2040  2026-02-26 12:22:56 vim -O TEST.txt bash-RANDOM-special-shell-variable-20260226.txt 
+ 2041  2026-02-26 12:23:34 cd $MTSYS
+ 2042  2026-02-26 12:23:50 patch bash-RANDOM-special-shell-variable-20260226.txt < $DANES/patchf-1 
+ 2043  2026-02-26 12:24:02 vim bash-RANDOM-special-shell-variable-20260226.txt 
+ 2044  2026-02-26 12:24:26 cpi bash-RANDOM-special-shell-variable-20260226.txt $EGMTSYS 
+ 2045  2026-02-26 12:24:39 cpi bash-RANDOM-special-shell-variable-20260226.txt $KNOWLEDGEDB/_BASH/
+ 2046  2026-02-26 12:25:02 cd
+ 2047  2026-02-26 12:25:07 engt-status 
+ 2048  2026-02-26 12:25:13 cd $KNOWLEDGEDB
+ 2049  2026-02-26 12:25:16 gyes-add-commit-push 
+ 2050  2026-02-26 12:25:26 cd $EGMTSYS
+ 2051  2026-02-26 12:25:29 gyes-add-commit-push 
+ 2052  2026-02-26 12:25:44 cd
+ 2053  2026-02-26 12:25:46 cd $DANES
+ 2054  2026-02-26 12:25:48 ll
+ 2055  2026-02-26 12:25:51 rm ./*
+ 2056  2026-02-26 12:25:54 l
+ 2057  2026-02-26 12:25:56 cd
+ 2058  2026-02-26 13:23:57 NM="Normal (2025)"
+ 2059  2026-02-26 13:24:02 s2 "$NM" "$NM"
+ 2060  2026-02-26 13:25:02 NM="Disclosure Day (2026)"
+ 2061  2026-02-26 13:25:05 s2 "$NM" "$NM"
+ 2062  2026-02-26 13:25:43 nm="The Rip (2026)"
+ 2063  2026-02-26 13:25:47 NM="The Rip (2026)"
+ 2064  2026-02-26 13:25:50 s2 "$NM" "$NM"
+ 2065  2026-02-26 13:54:21 NM="Crime 101 (2026)"
+ 2066  2026-02-26 13:54:23 s2 "$NM" "$NM"
+ 2067  2026-02-26 13:55:20 NM="They Will Kill You (2026)"
+ 2068  2026-02-26 13:55:23 s2 "$NM" "$NM"
+ 2069  2026-02-26 13:55:59 NM="Mortal Kombat II (2026)"
+ 2070  2026-02-26 13:56:01 s2 "$NM" "$NM"
+ 2071  2026-02-26 13:57:35 NM="The Wrecking Crew (2026)"
+ 2072  2026-02-26 13:57:38 s2 "$NM" "$NM"
+ 2073  2026-02-26 13:58:56 NM="Apex (2026)"
+ 2074  2026-02-26 13:58:59 s2 "$NM" "$NM"
+ 2075  2026-02-26 13:59:44 NM="Thieves Highway (2025)"
+ 2076  2026-02-26 13:59:48 s2 "$NM" "$NM"
+ 2077  2026-02-26 14:02:45 NM="Avengers: Doomsday (2026)"
+ 2078  2026-02-26 14:02:48 s2 "$NM" "$NM"
+ 2079  2026-02-26 14:03:53 NM="Street Fighter (2026)"
+ 2080  2026-02-26 14:03:56 s2 "$NM" "$NM"
+ 2081  2026-02-26 14:04:33 NM="Cold Storage (2026)"
+ 2082  2026-02-26 14:04:35 s2 "$NM" "$NM"
+ 2083  2026-02-26 14:06:08 NM="War Machine (2026)"
+ 2084  2026-02-26 14:06:13 echo "$NM"
+ 2085  2026-02-26 14:06:57 NM="Peaky Blinders: The Immortal Man (2026)"
+ 2086  2026-02-26 14:06:58 echo "$NM"
+ 2087  2026-02-26 14:08:29 NM="In the Blink of an Eye (2026)"
+ 2088  2026-02-26 14:08:31 echo "$NM"
+ 2089  2026-02-26 14:08:55 NM="The Drama (2026)"
+ 2090  2026-02-26 14:08:57 echo "$NM"
+ 2091  2026-02-26 14:09:39 NM="Project Hail Mary (2026)"
+ 2092  2026-02-26 14:09:42 echo "$NM"
+ 2093  2026-02-26 14:10:15 NM="Hellfire (2026)"
+ 2094  2026-02-26 14:10:16 echo "$NM"
+ 2095  2026-02-26 14:10:48 NM="The Odyssey (2026)"
+ 2096  2026-02-26 14:10:49 echo "$NM"
+ 2097  2026-02-26 14:11:22 NM="How to Make a Killing (2026)"
+ 2098  2026-02-26 14:11:24 echo "$NM"
+ 2099  2026-02-26 14:11:54 NM="Redux Redux (2025)"
+ 2100  2026-02-26 14:11:55 echo "$NM"
+ 2101  2026-02-26 14:12:29 NM="Good Luck, Have Fun, Don't Die (2025)"
+ 2102  2026-02-26 14:12:30 echo "$NM"
+ 2103  2026-02-26 14:12:58 NM="Protector (2025)"
+ 2104  2026-02-26 14:13:00 echo "$NM"
+ 2105  2026-02-26 14:13:31 history |grep 'NM='
+ 2106  2026-02-26 14:14:20 history |grep 'NM=' >> $DANES/movies-in-2026-to-watch-for-20260226.txt
+ 2107  2026-02-26 14:14:24 vim $DANES/movies-in-2026-to-watch-for-20260226.txt
+ 2108  2026-02-26 14:16:23 s2 
+ 2109  2026-02-26 14:16:56 s2 "Movies to watch for in 2026 (20260226)" """
+ 2110  2026-03-03 10:49:56 Movies to watch for in 2026 (20260226):
+ 2111  2026-03-03 10:49:56 01 - Long Distance (2024)
+ 2112  2026-03-03 10:49:56 02 - Normal (2025)
+ 2113  2026-03-03 10:49:56 03 - Disclosure Day (2026)
+ 2114  2026-03-03 10:49:56 04 - The Rip (2026)
+ 2115  2026-03-03 10:49:56 05 - Crime 101 (2026)
+ 2116  2026-03-03 10:49:56 06 - They Will Kill You (2026)
+ 2117  2026-03-03 10:49:56 07 - Mortal Kombat II (2026)
+ 2118  2026-03-03 10:49:56 08 - The Wrecking Crew (2026)
+ 2119  2026-03-03 10:49:56 09 - Apex (2026)
+ 2120  2026-03-03 10:49:56 10 - Thieves Highway (2025)
+ 2121  2026-03-03 10:49:56 11 - Avengers: Doomsday (2026)
+ 2122  2026-03-03 10:49:56 12 - Street Fighter (2026)
+ 2123  2026-03-03 10:49:56 13 - Cold Storage (2026)
+ 2124  2026-03-03 10:49:56 14 - War Machine (2026)
+ 2125  2026-03-03 10:49:56 15 - Peaky Blinders: The Immortal Man (2026)
+ 2126  2026-03-03 10:49:56 16 - In the Blink of an Eye (2026)
+ 2127  2026-03-03 10:49:56 17 - The Drama (2026)
+ 2128  2026-03-03 10:49:56 18 - Project Hail Mary (2026)
+ 2129  2026-03-03 10:49:56 19 - Hellfire (2026)
+ 2130  2026-03-03 10:49:56 20 - The Odyssey (2026)
+ 2131  2026-03-03 10:49:56 21 - How to Make a Killing (2026)
+ 2132  2026-03-03 10:49:56 22 - Redux Redux (2025)
+ 2133  2026-03-03 10:49:56 23 - Good Luck, Have Fun, Don't Die (2025)
+ 2134  2026-03-03 10:49:56 24 - Protector (2025)
+ 2135  2026-03-03 10:49:56 """
+ 2136  2026-02-26 14:18:08 cd $DANES
+ 2137  2026-02-26 14:18:09 ll
+ 2138  2026-02-26 14:18:17 mv movies-in-2026-to-watch-for-20260226.txt $EGPRNS 
+ 2139  2026-02-26 14:18:20 cd $EGPRNS
+ 2140  2026-02-26 14:18:22 gyes-add-commit-push 
+ 2141  2026-02-26 14:18:59 ll
+ 2142  2026-02-26 14:20:17 mv pdtk_20260220.txt ~/majstaf/seznami/
+ 2143  2026-02-26 14:20:20 gst
+ 2144  2026-02-26 14:20:22 gyes-add-commit-push 
+ 2145  2026-02-26 14:20:56 add-file-to-prenos-en -jm -f ~/majstaf/seznami/pdtk_20260220.txt 
+ 2146  2026-02-26 14:21:01 gst
+ 2147  2026-02-26 14:21:04 gyes-add-commit-push 
+ 2148  2026-02-26 14:21:12 cd
+ 2149  2026-02-26 14:21:16 get-endiffs 
+ 2150  2026-02-26 14:24:52 engt-diffs-check-all 
+ 2151  2026-02-26 14:24:58 engt-status 
+ 2152  2026-02-26 14:25:03 testing-st
+ 2153  2026-02-26 14:25:26 cd majstaf/majbin/git-commands/
+ 2154  2026-02-26 14:25:28 ll
+ 2155  2026-02-26 14:26:23 mv testing-{gtgh-,}status-en 
+ 2156  2026-02-26 14:26:48 mv testing-{gtgh-,}testpush-en 
+ 2157  2026-02-26 14:27:03 softlink1-fname-to-ulb testing-status-en 
+ 2158  2026-02-26 14:27:15 softlink1-fname-to-ulb testing-testpush-en 
+ 2159  2026-02-26 14:27:27 history | grep ' mv '
+ 2160  2026-02-26 14:27:30 history | grep 'mv '
+ 2161  2026-02-26 14:27:47 cd ~/.local/bin
+ 2162  2026-02-26 14:27:49 broken-symlinks-list 
+ 2163  2026-02-26 14:28:00 rm testing-gtgh-*
+ 2164  2026-02-26 14:28:05 broken-symlinks-list 
+ 2165  2026-02-26 14:28:07 cd
+ 2166  2026-02-26 14:28:13 cd majstaf/majbin/git-commands/
+ 2167  2026-02-26 14:28:15 ll
+ 2168  2026-02-26 14:28:16 lsth
+ 2169  2026-02-26 14:28:46 cpi testing-* $EGMJBN/git-commands/
+ 2170  2026-02-26 14:28:52 cd $EGMJBN/git-commands/
+ 2171  2026-02-26 14:28:53 lsth
+ 2172  2026-02-26 14:29:03 rm testing-gtgh-*
+ 2173  2026-02-26 14:29:05 ll
+ 2174  2026-02-26 14:29:23 cd ..
+ 2175  2026-02-26 14:29:27 gst 
+ 2176  2026-02-26 14:29:29 gyes-add-commit-push 
+ 2177  2026-02-26 14:29:37 cd
+ 2178  2026-02-26 14:29:43 testing-status-en 
+ 2179  2026-02-26 14:29:49 engt-status 
+ 2180  2026-02-26 14:29:56 engt-reports-check 
+ 2181  2026-02-26 14:29:59 cd
+ 2182  2026-02-26 14:32:19 cd majstaf/majbin/ff-launch-en/
+ 2183  2026-02-26 14:32:20 ll
+ 2184  2026-02-26 14:32:30 vim -O sites.txt add-to-sites 
+ 2185  2026-02-26 14:32:50 vim -o sites.txt add-to-sites 
+ 2186  2026-02-26 14:35:13 ff-launch-en 
+ 2187  2026-02-26 14:35:46 ll
+ 2188  2026-02-26 14:36:46 for FFF in sites.txt add-to-sites; do add-file-to-prenos-en -jm -f "$FFF"; done
+ 2189  2026-02-26 14:37:25 cd $EGPRNS
+ 2190  2026-02-26 14:37:28 gst
+ 2191  2026-02-26 14:39:31 gyes-add-commit-push 
+ 2192  2026-02-26 14:39:38 cd
+ 2193  2026-02-26 14:45:00 cd $MJBN
+ 2194  2026-02-26 14:45:11 find -newermt "20260224"
+ 2195  2026-02-26 14:45:20 find -type f -newermt "20260224"
+ 2196  2026-02-26 14:45:31 find -type f -newermt "20260224" |xargs -ro vim
+ 2197  2026-02-26 14:47:33 cd
+ 2198  2026-02-26 14:47:39 get-endiffs 
+ 2199  2026-02-26 14:48:54 cd $MJBN
+ 2200  2026-02-26 14:50:16 cpi $MJBN/ff-launch-en/add-to-sites /home/gregor.redelonghi/majstaf/majbin/ff-launch-en/add-to-sites
+ 2201  2026-02-26 14:50:16 cpi $MJBN/ff-launch-en/sites.txt /home/gregor.redelonghi/majstaf/majbin/ff-launch-en/sites.txt
+ 2202  2026-02-26 14:50:16 cpi $MJBN/get-fb-mails-en/get-fb-mails-en /home/gregor.redelonghi/majstaf/majbin/get-fb-mails-en/get-fb-mails-en
+ 2203  2026-02-26 14:52:03 cpi $MJBN/ff-launch-en/add-to-sites            $EGMJBN/ff-launch-en/add-to-sites differ
+ 2204  2026-02-26 14:52:03 cpi $MJBN/ff-launch-en/sites.txt               $EGMJBN/ff-launch-en/sites.txt differ
+ 2205  2026-02-26 14:52:03 cpi $MJBN/get-fb-mails-en/get-fb-mails-en      $EGMJBN/get-fb-mails-en/get-fb-mails-en differ
+ 2206  2026-02-26 14:53:17 $MJBN/ff-launch-en/add-to-sites        $EGMJBN/ff-launch-en/add-to-sites
+ 2207  2026-02-26 14:53:17 $MJBN/ff-launch-en/sites.txt           $EGMJBN/ff-launch-en/sites.txt
+ 2208  2026-02-26 14:53:17 $MJBN/get-fb-mails-en/get-fb-mails-en  $EGMJBN/get-fb-mails-en/get-fb-mails-en
+ 2209  2026-02-26 14:54:35 cpi $MJBN/ff-launch-en/add-to-sites          $EGMJBN/ff-launch-en/add-to-sites
+ 2210  2026-02-26 14:54:37 cpi $MJBN/ff-launch-en/sites.txt             $EGMJBN/ff-launch-en/sites.txt
+ 2211  2026-02-26 14:54:38 cpi $MJBN/get-fb-mails-en/get-fb-mails-en    $EGMJBN/get-fb-mails-en/get-fb-mails-en
+ 2212  2026-02-26 14:54:55 cd $EGMJBN
+ 2213  2026-02-26 14:54:58 gst
+ 2214  2026-02-26 14:55:01 gyes-add-commit-push 
+ 2215  2026-02-26 14:55:09 cd
+ 2216  2026-02-26 14:55:17 engt-status 
+ 2217  2026-02-26 14:55:22 testing-status-en 
+ 2218  2026-02-26 14:55:27 get-endiffs 
+ 2219  2026-02-26 14:56:16 engt-diffs-check-all 
+ 2220  2026-02-26 14:56:21 cd
+ 2221  2026-02-26 15:57:18 exit
+ 2222  2026-02-26 08:31:44 testing-all-en 
+ 2223  2026-02-26 09:40:46 rbekap-DAILY-mega-gren 
+ 2224  2026-02-26 16:36:15 tmxks
+ 2225  2026-02-26 08:31:30 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+ 2226  2026-02-26 08:31:56 pddr
+ 2227  2026-02-26 08:36:09 cd $EGPRNS
+ 2228  2026-02-26 08:36:18 git pull
+ 2229  2026-02-26 08:36:45 engt-reports-empty 
+ 2230  2026-02-26 09:40:41 pddr
+ 2231  2026-02-26 08:31:25 tmxns
+ 2232  2026-02-26 16:36:17 exit
+ 2233  2026-02-27 08:26:09 testing-all-en 
+ 2234  2026-02-27 08:28:30 engt-reports-check 
+ 2235  2026-02-27 08:28:37 cd $EGPRNS
+ 2236  2026-02-27 08:28:40 git pull
+ 2237  2026-02-27 08:28:57 exit
+ 2238  2026-02-27 08:26:29 cd $MJBN/git-commands/
+ 2239  2026-02-27 08:26:35 vim testing-all-en 
+ 2240  2026-02-27 08:29:51 diff testing-all-en $EGMJBN/git-commands/testing-all-en 
+ 2241  2026-02-27 08:30:00 cpi testing-all-en $EGMJBN/git-commands/testing-all-en 
+ 2242  2026-02-27 08:30:03 cd $EGMJBN/git-commands/testing-all-en
+ 2243  2026-02-27 08:30:04 cd ..
+ 2244  2026-02-27 08:30:13 cd $EGMJBN
+ 2245  2026-02-27 08:30:14 gst
+ 2246  2026-02-27 08:30:18 gyes-add-commit-push 
+ 2247  2026-02-27 08:47:52 cd
+ 2248  2026-02-27 08:47:58 vim ~/.vimrc
+ 2249  2026-02-27 08:48:46 sbr
+ 2250  2026-02-27 08:48:56 vim $EGPRNS
+ 2251  2026-02-27 08:49:11 cd majstaf/majrcs/
+ 2252  2026-02-27 08:49:17 grep EGPRNS
+ 2253  2026-02-27 08:49:22 grep EGPRNS *
+ 2254  2026-02-27 08:49:37 grep "EGPRNS\|EGT" *
+ 2255  2026-02-27 08:49:51 grep "EGPRNS\|EGT\|MJST" *
+ 2256  2026-02-27 08:50:01 ll
+ 2257  2026-02-27 08:50:14 ecgi $EGPRNS 
+ 2258  2026-02-27 08:58:58 vim
+ 2259  2026-02-27 09:00:18 cd
+ 2260  2026-02-27 09:00:19 cd $DANES
+ 2261  2026-02-27 09:00:38 lynxd "https://paulrougieux.github.io/vim.html" vim-commands
+ 2262  2026-02-27 09:00:47 prepare-fjl-for-knowledgebase vim-commands-20260227.txt 
+ 2263  2026-02-27 09:27:28 ll
+ 2264  2026-02-27 09:27:39 mv vim-commands-{,5pp-}20260227.txt 
+ 2265  2026-02-27 09:27:43 vim vim-commands-5pp-20260227.txt 
+ 2266  2026-02-27 09:28:41 cpi vim-commands-5pp-20260227.txt $MTSYS/vim_metsys/
+ 2267  2026-02-27 09:29:04 knowledgedb-move-file-to-category vim-commands-5pp-20260227.txt 
+ 2268  2026-02-27 09:29:10 ll
+ 2269  2026-02-27 09:29:11 cd
+ 2270  2026-02-27 09:30:14 $EGPRNS/
+ 2271  2026-02-27 09:31:36 ls $EGPRNS 
+ 2272  2026-02-27 09:32:04 shopt -s direxpand
+ 2273  2026-02-27 09:32:25 ls /home/gregor.redelonghi/majstaf/engit/prenos/
+ 2274  2026-02-27 09:32:43 exit
+ 2275  2026-02-27 09:33:19 shopt -s direxpand
+ 2276  2026-02-27 09:34:06 exit
+ 2277  2026-02-27 09:34:29 vim .bashrc
+ 2278  2026-02-27 09:36:09 sbr
+ 2279  2026-02-27 09:36:36 vim /home/gregor.redelonghi/majstaf/engit/prenos/firefox-keyboard-only-commands-chtsht.txt 
+ 2280  2026-02-27 09:37:01 cd /home/gregor.redelonghi/majstaf/engit/prenos/update_en/
+ 2281  2026-02-27 09:37:04 cd
+ 2282  2026-02-27 09:37:15 cpi .bashrc $EGDTFJLS 
+ 2283  2026-02-27 09:37:32 cpi .bashrc $EGPRNS 
+ 2284  2026-02-27 09:37:36 cd $EGPRNS
+ 2285  2026-02-27 09:37:55 mv .bashrc update-dot-bashrc
+ 2286  2026-02-27 09:38:00 vim update-dot-bashrc 
+ 2287  2026-02-27 09:39:07 add-file-to-prenos-en -jm -f update-dot-bashrc 
+ 2288  2026-02-27 09:39:14 rm update-dot-bashrc 
+ 2289  2026-02-27 09:39:17 gst
+ 2290  2026-02-27 09:39:19 cd ..
+ 2291  2026-02-27 09:39:27 engt-status 
+ 2292  2026-02-27 09:39:46 cd dotfiles_en/
+ 2293  2026-02-27 09:39:50 gyes-add-commit-push 
+ 2294  2026-02-27 09:39:59 engt-status 
+ 2295  2026-02-27 09:40:07 cd $KNOWLEDGEDB
+ 2296  2026-02-27 09:40:10 gyes-add-commit-push 
+ 2297  2026-02-27 09:40:18 engt-status 
+ 2298  2026-02-27 09:40:27 cd ../prenos/
+ 2299  2026-02-27 09:40:29 gyes-add-commit-push 
+ 2300  2026-02-27 09:44:21 ll
+ 2301  2026-02-27 09:44:23 cd
+ 2302  2026-02-27 10:09:34 ff-personal-launch-en 
+ 2303  2026-02-27 10:54:36 fzf -e --reverse |vim -M
+ 2304  2026-02-27 10:54:53 exit
+ 2305  2026-02-27 14:28:02 opnu "C:\Users\gregor.redelonghi\2026\Tehnicne-zahteve_2026\Tehnicne-zahteve_2026-02\RISBE_2026-02\_pdf_2026-02"
+ 2306  2026-02-27 14:28:07 bash command 
+ 2307  2026-02-27 14:28:10 exit
+ 2308  2026-02-27 08:25:51 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+ 2309  2026-02-27 08:27:33 pddr
+ 2310  2026-02-27 08:26:13 engt-all 
+ 2311  2026-02-27 08:29:01 cd
+ 2312  2026-02-27 08:29:07 engt-reports-check 
+ 2313  2026-02-27 08:29:11 engt-reports-empty 
+ 2314  2026-02-27 08:29:12 engt-reports-check 
+ 2315  2026-02-27 08:30:32 rbekap-DAILY-mega-gren 
+ 2316  2026-02-27 13:08:39 LL
+ 2317  2026-02-27 13:08:42 ll
+ 2318  2026-02-27 13:08:56 rbekap-DAILY-mega-gren 
+ 2319  2026-02-27 13:50:17 rbekap-PROJEKTI-sync-mega-gren y
+ 2320  2026-02-27 13:50:22 rbekap-PROJEKTI-sync-mega-gren -y
+ 2321  2026-02-27 15:25:32 testing-status-en 
+ 2322  2026-02-27 15:25:41 engt-status 
+ 2323  2026-02-27 15:25:47 get-endiffs 
+ 2324  2026-02-27 15:27:48 rbekap-DAILY-mega-gren 
+ 2325  2026-02-27 15:29:08 rmxks
+ 2326  2026-02-27 15:29:11 tmxks
+ 2327  2026-02-27 08:25:46 tmxns
+ 2328  2026-02-27 15:29:13 exit
+ 2329  2026-02-27 10:09:34 ff-personal-launch-en 
+ 2330  2026-02-27 10:54:36 fzf -e --reverse |vim -M
+ 2331  2026-02-27 10:54:53 exit
+ 2332  2026-02-27 10:55:03 fzf -e --reverse |vim -M -
+ 2333  2026-02-27 10:55:55 fzf -e --reverse | xargs -ro vim -M
+ 2334  2026-02-27 10:56:28 vedit-sfjl-efzf 
+ 2335  2026-02-27 10:57:06 vim /home/gregor.redelonghi/majstaf/engit/knowledgedb/_VIM/*20260227* -p
+ 2336  2026-02-27 10:57:25 vim /home/gregor.redelonghi/majstaf/engit/knowledgedb/_VIM/*20260224* -p
+ 2337  2026-02-27 10:57:31 vim /home/gregor.redelonghi/majstaf/engit/knowledgedb/_VIM/*20260225* -p
+ 2338  2026-02-27 10:57:39 vim /home/gregor.redelonghi/majstaf/engit/knowledgedb/_VIM/*2026022* -p
+ 2339  2026-02-27 10:57:51 vim /home/gregor.redelonghi/majstaf/engit/knowledgedb/_VIM/*202602* -p
+ 2340  2026-02-27 10:58:01 cd
+ 2341  2026-02-27 13:17:12 N=20; while [ $N -gt 0 ]; then echo "N: $N"; ((N--)); done
+ 2342  2026-02-27 13:17:26 N=20; while [ $N -gt 0 ]; do echo "N: $N"; ((N--)); done
+ 2343  2026-02-27 13:18:02 N=20; while [ $N -gt 0 ]; do printf "N: %0d\n" "$N"; ((N--)); done
+ 2344  2026-02-27 13:18:13 N=20; while [ $N -gt 0 ]; do printf "N: %0.d\n" "$N"; ((N--)); done
+ 2345  2026-02-27 13:18:26 N=20; while [ $N -gt 0 ]; do printf "N: %0d\n" "$N"; ((N--)); done
+ 2346  2026-02-27 13:18:43 N=20; while [ $N -gt 0 ]; do printf "N: %0.00d\n" "$N"; ((N--)); done
+ 2347  2026-02-27 13:18:53 man bash
+ 2348  2026-02-27 13:19:58 N=20; while [ $N -gt 0 ]; do printf "N: %02d\n" "$N"; ((N--)); done
+ 2349  2026-02-27 13:20:04 N=20; while [ $N -gt 0 ]; do printf "N: %03d\n" "$N"; ((N--)); done
+ 2350  2026-02-27 13:20:58 for N in {20..1}; do printf "N: %02d\n" "$N"; done
+ 2351  2026-02-27 13:21:02 for N in {20..1}; do printf "N: %03d\n" "$N"; done
+ 2352  2026-02-27 13:21:07 N=20; while [ $N -gt 0 ]; do printf "N: %03d\n" "$N"; ((N--)); done
+ 2353  2026-02-27 13:21:10 for N in {20..1}; do printf "N: %03d\n" "$N"; done
+ 2354  2026-02-27 13:21:20 for N in {20..1..2}; do printf "N: %03d\n" "$N"; done
+ 2355  2026-02-27 13:21:43 N=20; while [ $N -gt 0 ]; do printf "N: %03d\n" "$N"; ((N-=2)); done
+ 2356  2026-02-27 13:26:21 echo man{nan,ggg,eja}
+ 2357  2026-02-27 13:34:24 cd $BRISI
+ 2358  2026-02-27 13:34:26 ll
+ 2359  2026-02-27 13:34:41 git clone https://github.com/bahamas10/ysap.git
+ 2360  2026-02-27 13:34:50 du -sh ysap/
+ 2361  2026-02-27 13:34:57 cd ysap/
+ 2362  2026-02-27 13:35:00 ll
+ 2363  2026-02-27 13:35:04 cd ..
+ 2364  2026-02-27 13:35:07 cd -
+ 2365  2026-02-27 13:35:08 la
+ 2366  2026-02-27 13:35:24 rm -r .git .github/
+ 2367  2026-02-27 13:35:30 yes | rm -r .git .github/
+ 2368  2026-02-27 13:35:33 ll
+ 2369  2026-02-27 13:35:39 vim README.md 
+ 2370  2026-02-27 13:35:50 ll
+ 2371  2026-02-27 13:35:56 cd tools/
+ 2372  2026-02-27 13:35:57 ll
+ 2373  2026-02-27 13:36:05 ll layout/
+ 2374  2026-02-27 13:36:08 xs..
+ 2375  2026-02-27 13:36:09 cd
+ 2376  2026-02-27 13:36:10 cd -
+ 2377  2026-02-27 13:36:12 cd ..
+ 2378  2026-02-27 13:36:13 ll
+ 2379  2026-02-27 13:36:16 cd patreon/
+ 2380  2026-02-27 13:36:17 ll
+ 2381  2026-02-27 13:36:21 cd ..
+ 2382  2026-02-27 13:36:22 ll
+ 2383  2026-02-27 13:36:32 rm -r tools/ patreon/
+ 2384  2026-02-27 13:36:37 cd website/
+ 2385  2026-02-27 13:36:37 ll
+ 2386  2026-02-27 13:36:52 vim Makefile 
+ 2387  2026-02-27 13:37:13 cd ..
+ 2388  2026-02-27 13:37:14 ll
+ 2389  2026-02-27 13:37:19 rm -r website/
+ 2390  2026-02-27 13:37:22 ll
+ 2391  2026-02-27 13:37:26 tree
+ 2392  2026-02-27 13:37:30 tree -L 2
+ 2393  2026-02-27 13:37:35 tree -L 2 | less
+ 2394  2026-02-27 13:37:47 cd
+ 2395  2026-02-27 14:04:09 s2 
+ 2396  2026-02-27 14:50:35 s2 " """
+ 2397  2026-02-27 14:50:36 The Box Office Awakens: 25 Movies That Will Conquer 2026
+ 2398  2026-02-27 14:50:36 (from: https://www.youtube.com/watch?v=AfPn3ZHU2Jg)
+ 2399  2026-02-27 14:50:36 Deep Water (2026) 5+
+ 2400  2026-02-27 14:51:23 vim
+ 2401  2026-02-27 14:51:58 s2 "" """
+ 2402  2026-02-27 15:05:13 s2 "The Box Office Awakens: 25 Movies That Will Conquer 2026" """
+ 2403  2026-03-03 10:49:56 The Box Office Awakens: 25 Movies That Will Conquer 2026
+ 2404  2026-03-03 10:49:56 from: https://www.youtube.com/watch?v=AfPn3ZHU2Jg
+ 2405  2026-03-03 10:49:56 Deep Water (2026) 5+
+ 2406  2026-03-03 10:49:56 The Magic Faraway Tree (20026)
+ 2407  2026-03-03 10:49:56 Newborn (2026) 5+
+ 2408  2026-03-03 10:49:56 Mortal Kombat 2 (2026) 5+
+ 2409  2026-03-03 10:49:56 Pressure (2026) -- (D day) 5+
+ 2410  2026-03-03 10:49:56 The Adventures of Cliff Booth (2026) -- (Hollywodd: Brad Pit) 5+
+ 2411  2026-03-03 10:49:56 The Mandalorian & Grogu (2026) 5+
+ 2412  2026-03-03 10:49:56 Lee Cronin's The Mummy (2026) -- (horror ??)
+ 2413  2026-03-03 10:49:56 Beast (2026) -- (octagon fight) 5+
+ 2414  2026-03-03 10:49:56 The Yeti (2026) -- (horror ??)
+ 2415  2026-03-03 10:49:56 Fuze (2026) -- (unexpled bomb) 5+
+ 2416  2026-03-03 10:49:56 Ready Or Not 2: Here I Come (2026)
+ 2417  2026-03-03 10:49:56 Peaky Blinders: The Immortal Man (2026) 5+
+ 2418  2026-03-03 10:49:56 Panda Plan 2: The Magical Trible (2026) -- (Jackie Chan)
+ 2419  2026-03-03 10:49:56 Bone Keeper (2026) -- (horror ??)
+ 2420  2026-03-03 10:49:56 Over Your dead Body (2026) 5+
+ 2421  2026-03-03 10:49:56 Kraken (2026) 5+
+ 2422  2026-03-03 10:49:56 The Gates (2026) -- (triller ??)
+ 2423  2026-03-03 10:49:56 Shrek 5 (2026)
+ 2424  2026-03-03 10:49:56 Normal (2026) -- (Bob Odenkirk) 5+
+ 2425  2026-03-03 10:49:56 Reckless (2026) -- (Scott Atkins)
+ 2426  2026-03-03 10:49:56 Agent Zero (2026) -- (Fra) 5+
+ 2427  2026-03-03 10:49:56 The Sheep Detectives (2026) -- (Hugh Jackman - animation)
+ 2428  2026-03-03 10:49:56 War Machine (2026) 5+
+ 2429  2026-03-03 10:49:56 Avengers: Doomsday (2026) 5+
+ 2430  2026-03-03 10:49:56 """
+ 2431  2026-02-27 15:05:17 cd
+ 2432  2026-02-27 15:07:52 s2 "" """
+ 2433  2026-02-27 15:11:22 cd
+ 2434  2026-02-27 15:29:16 exit
+ 2435  2026-03-02 08:49:05 engt-all 
+ 2436  2026-03-02 09:06:41 exit
+ 2437  2026-03-02 09:33:21 cd /home/gregor.redelonghi/majstaf/engit/prenos/update_en/
+ 2438  2026-03-02 09:33:22 ll
+ 2439  2026-03-02 09:33:41 cpi networking-cli-commands-20260301.txt $MTSYS 
+ 2440  2026-03-02 09:33:48 cpi networking-cli-commands-20260301.txt $EGMTSYS 
+ 2441  2026-03-02 09:33:54 rm networking-cli-commands-20260301.txt 
+ 2442  2026-03-02 09:33:55 l
+ 2443  2026-03-02 09:34:05 ll
+ 2444  2026-03-02 09:34:41 vim -O update-ff-personal-launch /home/gregor.redelonghi/majstaf/majbin/ff-personal-launch-en/ff-personal-launch-en 
+ 2445  2026-03-02 09:36:49 cd
+ 2446  2026-03-02 09:36:55 ff-personal-launch-en 
+ 2447  2026-03-02 09:37:28 ll
+ 2448  2026-03-02 09:37:44 cd $MJBN
+ 2449  2026-03-02 09:37:52 cd ff-personal-launch-en/
+ 2450  2026-03-02 09:38:04 cpi ff-personal-launch-en /home/gregor.redelonghi/majstaf/engit/majbin_en/ff-personal-launch-en/
+ 2451  2026-03-02 09:38:07 cd /home/gregor.redelonghi/majstaf/engit/majbin_en/ff-personal-launch-en/
+ 2452  2026-03-02 09:38:09 cd ..
+ 2453  2026-03-02 09:38:13 gyes-add-commit-push 
+ 2454  2026-03-02 09:38:20 cd ..
+ 2455  2026-03-02 09:38:22 cd
+ 2456  2026-03-02 09:38:26 get-endiffs 
+ 2457  2026-03-02 09:49:55 engt-diffs-check-all 
+ 2458  2026-03-02 09:50:16 engt-all 
+ 2459  2026-03-02 09:50:54 cd $EGMTSYS
+ 2460  2026-03-02 09:50:57 gyes-add-commit-push 
+ 2461  2026-03-02 09:51:07 cd ../prenos/
+ 2462  2026-03-02 09:51:09 gst
+ 2463  2026-03-02 09:51:12 gyes-add-commit-push 
+ 2464  2026-03-02 09:51:23 cd update_en/
+ 2465  2026-03-02 09:51:24 ll
+ 2466  2026-03-02 09:51:28 rm update-ff-personal-launch 
+ 2467  2026-03-02 09:51:29 ll
+ 2468  2026-03-02 09:51:33 cd ..
+ 2469  2026-03-02 09:51:33 ll
+ 2470  2026-03-02 09:51:36 gst
+ 2471  2026-03-02 09:51:39 gyes-add-commit-push 
+ 2472  2026-03-02 09:59:30 engt-status 
+ 2473  2026-03-02 09:59:38 rbekap-DAILY-mega-gren 
+ 2474  2026-03-02 10:01:45 exit
+ 2475  2026-03-02 08:49:00 testing-all-en 
+ 2476  2026-03-02 09:06:50 engt-reports-check 
+ 2477  2026-03-02 09:06:55 cd $EGPRNS
+ 2478  2026-03-02 09:06:59 git pull
+ 2479  2026-03-02 09:07:18 rbekap-DAILY-mega-gren 
+ 2480  2026-03-02 15:51:36 cd
+ 2481  2026-03-02 15:51:39 cd $DANES
+ 2482  2026-03-02 15:51:40 ll
+ 2483  2026-03-02 15:51:41 xs
+ 2484  2026-03-02 15:51:43 cd
+ 2485  2026-03-02 15:51:46 get-endiffs 
+ 2486  2026-03-02 15:53:36 engt-diffs-check-all 
+ 2487  2026-03-02 15:53:44 testing-status-en 
+ 2488  2026-03-02 15:53:53 engt-status 
+ 2489  2026-03-02 15:54:03 cd $KNOWLEDGEDB
+ 2490  2026-03-02 15:54:07 gyes-add-commit-push 
+ 2491  2026-03-02 15:54:16 cd
+ 2492  2026-03-02 15:54:18 gyes-add-commit-push 
+ 2493  2026-03-02 15:54:24 engt-status 
+ 2494  2026-03-02 15:54:35 rbekap-DAILY-mega-gren 
+ 2495  2026-03-02 16:26:59 tmxks
+ 2496  2026-03-02 08:48:49 /home/gregor.redelonghi/majstaf/majbin/BrthReminder-c/BrthReminder-c-colors.exe
+ 2497  2026-03-02 08:49:10 pddr
+ 2498  2026-03-02 08:48:44 TMXNS
+ 2499  2026-03-02 16:27:01 exit
+ 2500  2026-03-02 09:59:38 rbekap-DAILY-mega-gren 
+ 2501  2026-03-02 10:01:45 exit
+ 2502  2026-03-02 10:02:50 cd $DANES
+ 2503  2026-03-02 10:02:52 ll
+ 2504  2026-03-02 10:03:15 lynxd "https://maurycyz.com/misc/c_files/" c-files-best-api
+ 2505  2026-03-02 10:03:19 prepare-fjl-for-knowledgebase c-files-best-api-20260302.txt 
+ 2506  2026-03-02 11:33:02 ll
+ 2507  2026-03-02 11:33:06 vim c-files-best-api-20260302.txt 
+ 2508  2026-03-02 11:53:01 lynxd "https://idroot.us/install-jupyter-notebook-debian-13/" debian-13-install-jupyter-notebook
+ 2509  2026-03-02 11:53:07 prepare-fjl-for-knowledgebase 
+ 2510  2026-03-02 11:53:16 prepare-fjl-for-knowledgebase debian-13-install-jupyter-notebook-20260302.txt 
+ 2511  2026-03-02 12:04:50 ll
+ 2512  2026-03-02 12:05:39 knowledgedb-move-file-to-category c-files-best-api-20260302.txt 
+ 2513  2026-03-02 12:05:56 knowledgedb-move-file-to-category 
+ 2514  2026-03-02 12:06:03 knowledgedb-move-file-to-category debian-13-install-jupyter-notebook-20260302.txt
+ 2515  2026-03-02 12:06:12 cd
+ 2516  2026-03-02 12:06:14 0
+ 2517  2026-03-02 12:06:15 ll
+ 2518  2026-03-02 15:23:23 cd
+ 2519  2026-03-02 15:23:27 s2 "
+ 2520  2026-03-02 15:25:04 s2 " 11 Incredible Movies Absolutely Worth Rediscovering" """
+ 2521  2026-03-03 10:49:56 11 Incredible Movies Absolutely Worth Rediscovering
+ 2522  2026-03-03 10:49:56 (https://www.youtube.com/watch?v=NQ5kiVNsp98)
+ 2523  2026-03-03 10:49:56 A carefully curated list of incredible films, some overlooked, some quietly celebrated, all worth revisiting.
+ 2524  2026-03-03 10:49:56 These are movies that reward time, attention, and a second viewing, and stay with you long after they end:
+ 2525  2026-03-03 10:49:56 01 - The Great Beauty
+ 2526  2026-03-03 10:49:56 02 - Walkabout
+ 2527  2026-03-03 10:49:56 03 - Spring, Summer, Fall, Winter… and Spring
+ 2528  2026-03-03 10:49:56 04 - Never Cry Wolf
+ 2529  2026-03-03 10:49:56 05 - The Snow Walker
+ 2530  2026-03-03 10:49:56 06 - Castaway on the Moon
+ 2531  2026-03-03 10:49:56 07 - The Straight Story
+ 2532  2026-03-03 10:49:56 08 - The Station Agent
+ 2533  2026-03-03 10:49:56 09 - The Umbrellas of Cherbourg
+ 2534  2026-03-03 10:49:56 10 - Capernaum
+ 2535  2026-03-03 10:49:56 11 - Being There
+ 2536  2026-03-03 10:49:56 """
+ 2537  2026-03-02 16:15:01 s2 "" """
+ 2538  2026-03-02 16:21:30 s2 "5 Best HISTORICAL MOVIES" """
+ 2539  2026-03-03 10:49:56 5 Best HISTORICAL MOVIES You Should Watch Right Now 2026:
+ 2540  2026-03-03 10:49:56 (https://www.youtube.com/watch?v=csYBiTe-kow)
+ 2541  2026-03-03 10:49:56 01 - Arn: The Knight Templar (2007)
+ 2542  2026-03-03 10:49:56 02 - Medieval (2022)
+ 2543  2026-03-03 10:49:56 03 - The Rising Hawk (2019) -- Fall of a kingdom
+ 2544  2026-03-03 10:49:56 04 - The Great Battle (2018)
+ 2545  2026-03-03 10:49:56 05 - The First King (2019)
+ 2546  2026-03-03 10:49:56 """
+ 2547  2026-03-02 16:42:20 exit
+ 2548  2026-03-03 08:09:09 engt-all 
+ 2549  2026-03-03 08:14:40 exit
+ 2550  2026-03-03 09:16:22 OPNU "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\M4_42579_zascita-PL-M4_DKP-D2-Brezice-Krsko_PZI\nacrt"
+ 2551  2026-03-03 09:16:23 LL
+ 2552  2026-03-03 09:16:25 ll
+ 2553  2026-03-03 09:16:30 opnu "C:\Users\gregor.redelonghi\2026\_2026_1_PROJEKTI\M4_42579_zascita-PL-M4_DKP-D2-Brezice-Krsko_PZI\nacrt"
+ 2554  2026-03-03 09:16:31 ll
+ 2555  2026-03-03 09:17:21 pdfjoin P=zascita-PL-M4_DKP-D2-Brezice-Krsko_PZI_prve-strani-PODPISANO.pdf T=_CN_zascita-PL-M4_DKP-D2-Brezice-Krsko_PZI.pdf cat P T3-end output _CN_zascita-PL-M4_DKP-D2-Brezice-Krsko_PZI_podpisano.pdf 
+ 2556  2026-03-03 09:18:03 pdfjoin P=zascita-PL-M4_DKP-D2-Brezice-Krsko_PZI_prve-strani-PODPISANO.pdf T=ENLJ_zascita-PL-M4_DKP-D2-Brezice-Krsko_PZI.pdf cat P T3-end output ENLJ_zascita-PL-M4_DKP-D2-Brezice-Krsko_PZI_podpisano.pdf 
+ 2557  2026-03-03 09:19:46 ure
+ 2558  2026-03-03 09:20:04 cd
+ 2559  2026-03-03 09:20:07 pddr
+ 2560  2026-03-03 09:22:32 exit
+ 2561  2026-03-03 10:49:56 history >> ${gPth}
